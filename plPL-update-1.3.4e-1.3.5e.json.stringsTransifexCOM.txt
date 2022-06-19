@@ -1,0 +1,1021 @@
+<4>Wszyscy barbarzyńcy, krwiopijcy, skaldowie z archetypem Battle Scion i druidzi z archetypem Primal Druid w twojej grupie zyskują dodatkowe +3 punkty trafień za każdym razem, gdy zyskują poziom.
+<5>Wszystkie ataki dystansowe wykonywane przez członków twojej grupy przy użyciu łuku otrzymują premię +1 do ataku i obrażeń. Premia ta wzrasta o 1 za każdego innego członka grupy posiadającego łuk, atakującego ten sam cel, maksymalnie do +3.
+<6>Za każdym razem, gdy oddziałujesz na członka grupy zaklęciem boskim, dajesz mu także profaniczną premię do ataku, równą poziomowi zaklęcia, na 2 rundy.
+<7>Za każdym razem, gdy boski mag z twojej grupy rzuca boskie zaklęcie na członka grupy, obdarza go dodatkowym błogosławieństwem. Wyznawca dobrego bóstwa daje swoim członkom premię sakralną do AC.<br>Wyznawca neutralnego bóstwa daje swoim członkom premię do szczęścia przy rzutach ratunkowych.<br>Wyznawca złego bóstwa daje swoim członkom premię profanum do ataków.
+<8>Za każdym razem, kiedy oddziałujesz na członka grupy zaklęciem boskim, dajesz mu również sakralną premię do AC, równą poziomowi zaklęcia, na 2 rundy.
+<9>Za każdym razem, gdy oddziałujesz na członka grupy boskim zaklęciem, dajesz mu również premię do szczęścia w rzutach ratunkowych, równą poziomowi zaklęcia, na 2 rundy.
+<10>Wszystkie obrażenia od kwasu zadawane przez członków twojej grupy zwiększają się o 25%.
+<11>Wszystkie obrażenia zadawane przez członków twojej grupy od zimna są zwiększone o 25%.
+<12>Wszystkie obrażenia od elektryczności zadawane przez członków twojej grupy są zwiększone o 25%.
+<13>Wszystkie obrażenia od ognia zadawane przez członków twojej grupy zostają zwiększone o 25%.
+<14>Wszystkie obrażenia dźwiękowe zadawane przez członków twojej grupy zwiększają się o 25%.
+<15>Wszystkie elfy w twojej grupie otrzymują premię do inicjatywy równą ich poziomowi postaci.
+<16>Wiatr Ogonowy Elfiej Zwinności
+<17>Wszystkie egzotyczne bronie, którymi posługują się członkowie twojej drużyny, zadają obrażenia, używając matrycy o wyższej kategorii (np. d6 staje się d8).
+<18>Niektórzy czarodzieje w twojej grupie są chronieni przed zadawaniem obrażeń swoim sojusznikom. Klerycy z archetypem ecclesitheurge, druidzi z archetypem elemental rampager, magowie z archetypem eldritch scion, czarodzieje z archetypem overwhelming mage, czarownicy z archetypem elemental witch oraz czarodzieje z archetypem elemental specialist mogą rzucać zaklęcia obszarowe bez zadawania obrażeń członkom swojej drużyny. Dodatkowo, za każdym razem, gdy członek twojej drużyny zostanie trafiony takim zaklęciem, zyskuje odporność na zaklęcia 10 + poziom magiczny przeciwko zaklęciom tej samej szkoły na 1 rundę.
+<19>Wiatr Ognia Spalonej Ziemi
+<20>Wszystkie gnomy w twojej drużynie zaczynają z 5 000 sztuk złota. Dodatkowo, ceny u sprzedawców są obniżane o 10% za każdego gnoma w twojej grupie.
+<21>Wicher gnomiej fortuny
+<22>Postacie z niektórych archetypów, które mają specjalne połączenie z naturą, zyskują możliwość leczenia swoich sojuszników. Wiatr ten działa dla następujących klas: druid z archetypem pierwotnego druida, inkwizytor z archetypem świętego łowcy, łotrzyk z archetypem sylwańskiego trickstera, skald z archetypem przywoływacza polowań, czarodziej z archetypem sylwańskiego czarodzieja, kapłan z archetypem zdziczałego mistrza. Za każdym razem, gdy twoja grupa zabije wroga, wszyscy członkowie grupy zostają uzdrowieni o wartość zależną od tego, ile różnych archetypów z powyższej listy jest reprezentowanych w grupie: 1d4 na poziom postaci, jeśli jeden, 1d6 na poziom postaci, jeśli dwa, 1d8 na poziom postaci, jeśli trzy, 1d10 na poziom postaci, jeśli cztery, 1d12 na poziom postaci, jeśli pięć, 2d8 na poziom postaci, jeśli wszystkich sześć.
+<23>Wiatr ogonowy dobrych łowów
+<24>Wybuchy wszystkich kinetyków w twojej grupie odbijają się od wrogów, trafiając dodatkowe cele. Na każde dwa poziomy kinetyków, każdy wybuch trafia jeden dodatkowy cel.
+<25>Wszystkie kitsune w twojej drużynie otrzymują stałą premię do wyniku Zręczności równą połowie ich poziomu postaci (zaokrągloną w dół).
+<26>Wiatr Ogonowy Lisiej Zręczności
+<27>Za każdym razem, gdy kleryk, inkwizytor, wyrocznia lub kapłan z twojej drużyny rzuca boskie zaklęcie, staje się ono wzmocnione, tak jakby użyto czaru <bs_n1>Wzmocnienie zaklęcia<bs_n1>.
+<28>Za każdym razem, gdy członek twojej grupy rzuca zaklęcie na cel, który jest już pod wpływem zaklęcia z przeciwnej szkoły, powoduje to eksplozję, która zadaje celowi obrażenia o sile 3d6 na poziom zaklęcia rzuconego zaklęcia.
+<29>Wszystkie dystansowe ataki dotykowe członków twojej grupy mają zasięg zagrożenia 18-20.
+<30> 
+<31> 
+<32> 
+<33> 
+<34> 
+<35> 
+<36> 
+<37> 
+<38> 
+<39> 
+<40> 
+<41> 
+<42> 
+<43> 
+<44> 
+<45> 
+<46> 
+<47> 
+<48> 
+<49> 
+<50> 
+<51> 
+<52> 
+<53> 
+<54> 
+<55> 
+<56> 
+<57> 
+<58> 
+<59> 
+<60> 
+<61> 
+<62> 
+<63> 
+<64> 
+<65> 
+<66>Wszyscy łotrzykowie, strażnicy, alchemicy z archetypem wiwisekcjonisty, magowie z archetypem opancerzonego magika oraz pogromcy z archetypem egzekutora arkanów otrzymują DR N/- równe ich poziomowi w tej klasie.
+<67>Nieprzenikniony Wiatr Ogonowy
+<68>Wszyscy członkowie grupy otrzymują umiejętność Uderzenie Tarczą jako bonusowe osiągnięcie na 1. poziomie, nawet jeśli nie spełniają warunków wstępnych. Każda postać, która używa tarczy, zyskuje premię +1 do AC. Podczas wykonywania Uderzenia Tarczą, postać zyskuje premię +6 do ataku i obrażeń równą swojemu poziomowi postaci.
+<69>Wszyscy członkowie grupy otrzymują premię +1 za każde 5 poziomów postaci (minimum +1) do obrażeń zadawanych bronią obezwładniającą.
+<70>Wszyscy członkowie grupy otrzymują premię +1 na każde 5 poziomów postaci (minimum +1) do obrażeń zadawanych bronią tnącą.
+<71>Za każdym razem, gdy jeden z członków twojej drużyny rzuci zaklęcie, zyskuje premię równą poziomowi zaklęcia do ataku i obrażeń przy następnym ataku bronią. Wielokrotne zastosowanie tego efektu kumuluje się, ale jego czas trwania nie może przekroczyć 1 minuty.
+<72>Za każdym razem, gdy spontaniczny czarodziej w twojej grupie rzuca zaklęcie, ma 50% szans na uniknięcie zużycia slotu na zaklęcie.
+<73>Wiatr Ogonów Krwi
+<74>Za każdym razem, gdy jeden z członków twojej grupy przywoła dokładnie jednego stwora, zamiast niego przywoływane są dwa takie stwory.
+<75>Uderzenia bez broni zadawane przez członków twojej grupy zyskują premię +1 do rolki ataku i zadają dodatkowe obrażenia tego samego typu, co obrażenia główne (1d4 staje się 2d4, 1d6 staje się 2d6).
+<76>Za każdym razem, gdy ta istota trafi cel atakiem w walce wręcz, cel musi wykonać test woli (DC testu jest zależne od współczynnika wyzwania wyspy). W przypadku nieudanego ataku, stwór wpływa na cel efektem, który obniża poziom magii wszystkich zaklęć rzucanych przez cel. Wielokrotne zastosowanie tego efektu kumuluje się. Efekt ten może zostać usunięty przez zaklęcie przywracające.
+<77>Poziom wszystkich zaklęć rzucanych przez tę istotę jest obniżany o 1 za każdy stos tego efektu. Efekt ten może zostać usunięty przez zaklęcie przywracające.
+<78>Powietrze jest przesiąknięte surową, nieokiełznaną magią. Poziom magii wszystkich zaklęć z deskryptorem kwasu, zimna, elektryczności, ognia lub dźwięku zwiększa się o 2. Za każdym razem, gdy stworzenie rzuca zaklęcie magiczne, obok niego pojawia się malutki pseudosmok pożeracz magii i atakuje go. Za każdym razem, gdy magiczny pożeracz trafia cel atakiem w walce wręcz, musi on wykonać test woli (DC testu zależy od współczynnika wyzwania wyspy). W przypadku nieudanego ataku Pożeracz Magii działa na cel efektem, który obniża poziom wszystkich rzucanych przez niego zaklęć. Wielokrotne zastosowanie tego efektu kumuluje się. Efekt ten może zostać usunięty zaklęciem przywracającym.
+<79>Ta istota zyskuje premię +1 do wglądu do ataku i obrażeń za każdych 5 swoich besmarańskich piratów, których zabiłeś (na tej lub innej wyspie). Premia ta kumuluje się do maksymalnej wartości +25.
+<80>Otrzymujesz premię +2 do ataków, jeśli jesteś neutralnym chaotycznie usposobieniem. Jeśli twoje usposobienie odpowiada neutralnemu chaosowi tylko w jednej osi, otrzymujesz premię +1 do ataku.
+<81>Jeśli twoje usposobienie jest zgodne z neutralnym chaotycznym tylko wzdłuż jednej osi, otrzymujesz premię +1 do ataku.
+<82>Wszyscy besmarańscy piraci otrzymują premię +1 do ataku i obrażeń za każdych 5 swoich towarzyszy, których zabiłeś (na tej lub innej wyspie). Premia ta kumuluje się do maksymalnej wartości +25.
+<83>Każda istota na tej wyspie otrzymuje premię +2 do ataku, jeśli jest neutralna chaotycznie. Jeśli jest chaotycznie neutralne tylko w jednej osi, otrzymuje premię +1 do ataku.
+<84>Podczas walki wszystkie istoty na tej wyspie wpadają w szał podobny do szału barbarzyńcy. Dodatkowo, wszystkie stworzenia na tej wyspie otrzymują premię +1 do ataku i obrażeń.
+<85>Ty zyskujesz premię +1 do ataku i obrażeń.
+<86>Stworzenia znajdujące się w obszarze działania są chronione przed atakami dystansowymi, otrzymując premię okolicznościową +4 do AC przeciwko nim. Istnieje jednak ryzyko, że zostaną trafione piorunem (efekt zaklęcia przywołania pioruna z refleksem DC 25).
+<87>Wszystkie stworzenia niebędące żywiołakami, które znajdą się w obszarze działania, zostają spowolnione, jak w przypadku zaklęcia spowolnienia, ale zyskują DR 5/dobry. Dodatkowo, za każdym razem, gdy taka istota atakuje lub rzuca zaklęcie, musi wykonać test na refleks (DC 30) lub upaść na ziemię.
+<88>Stworzenie pod wpływem tego efektu zyskuje odporność na zimno zależną od liczby posiadanego HD (odporność 10 dla 6 HD, odporność 20 dla 10 HD, odporność 30 dla 20 HD). Za każdym razem, gdy stworzenie otrzyma obrażenia z dowolnego źródła, otrzymuje dodatkowo 1d6 obrażeń od ognia.
+<89>Żywioły, skażone energią Otchłani, szaleją na tej wyspie.<br>Wichura: wszystkie ataki dystansowe na cele oddalone o więcej niż 30 stóp otrzymują karę -4 do zwojów ataku.<br>Pioruny: co jakiś czas w losową istotę na wyspie uderza piorun, który zadaje 10d8 obrażeń od elektryczności. Udany test na refleks (DC 20) zmniejsza obrażenia o połowę.<br>Każda istota na tej wyspie rzucająca zaklęcie z deskryptorem elektryczności, zwiększa poziom magiczny tego zaklęcia o 2.
+<90>Wszystkie istoty na tej wyspie zyskują odporność na ogień 5. Okresowo w losowych miejscach na wyspie pojawiają się wiry o promieniu 10 stóp, zadające 1d6 obrażeń od obrażeń szarpiących i 1d6 obrażeń od zimna wszystkim złapanym w nie stworzeniom.
+<91>Wszystkie stworzenia na tej wyspie są pod stałym wpływem zaklęcia Powiększenie osoby. Wyniki Siły i Konstytucji wszystkich stworzeń na wyspie zostają zwiększone do 21, jeśli ich pierwotne wartości były niższe.
+<92>Wszystkie stworzenia na tej wyspie znajdują się pod stałym działaniem zaklęcia <bs_n1>Powiększ osobę<bs_n1>. Wyniki Siły i Konstytucji wszystkich stworzeń na wyspie zostają zwiększone do 21, jeśli ich pierwotne wartości były niższe.
+<93>Zyskujesz premię +1 do Inteligencji, Mądrości i Charyzmy i otrzymujesz karę -1 do Siły, Zręczności i Konstytucji.
+<94>Zyskujesz premię +2 do Inteligencji, Mądrości i Charyzmy, a otrzymujesz karę -2 do Siły, Zręczności i Konstytucji.
+<95>Zyskujesz premię +3 do Inteligencji, Mądrości i Charyzmy oraz ponosisz karę -3 do Siły, Zręczności i Konstytucji.
+<96>Na tej wyspie czas płynie znacznie szybciej. Na początku każdej walki na wszystkie stworzenia działa odpowiednik zaklęcia Haste. Dodatkowo, wszystkie stworzenia zaczynają się szybko starzeć, zyskując premię do Inteligencji, Mądrości i Charyzmy oraz ponosząc karę do Siły, Zręczności i Konstytucji. Efekty przyspieszonego starzenia się ustępują, gdy grupa opuści wyspę.
+<97>Na wyspie czas płynie znacznie szybciej. Na początku każdej walki na wszystkie stworzenia działa odpowiednik zaklęcia Haste. Dodatkowo, wszystkie stworzenia zaczynają się szybko starzeć, zyskując premię do Inteligencji, Mądrości i Charyzmy oraz ponosząc karę do Siły, Zręczności i Konstytucji. Efekty przyspieszonego starzenia się zostają zniesione, gdy grupa opuści wyspę.
+<98>DC wszystkich zaklęć szkoły Iluzji rzucanych na tej wyspie jest zwiększone o 1.
+<99>Za każdym razem, gdy istota na tej wyspie nie zda rzutu na test woli, otrzymuje kumulującą się karę -1 do wszystkich kolejnych rzutów na test woli. Efekt ten można usunąć za pomocą zaklęcia dispel magic (DC 21).
+<100>Ta istota zdominowała umysły niektórych stworzeń na tej wyspie. Po jej zabiciu zostaną one uwolnione i pomogą ci w walce.
+<101>Umysł tej istoty został zdominowany. Efekt ten może zostać usunięty tylko przez zabicie dominatora.
+<102>Niektóre stworzenia na tej wyspie znajdują się pod hipnotyczną kontrolą dominatora umysłu. Jeśli dominator umysłu zostanie zabity, stworzenia te zostaną uwolnione i pomogą ci w walce.
+<103>Mesmeryzujące Poduszczenie
+<104>Wszystkie uzdrowienia wykonane za pomocą pozytywnej energii w obszarze działania zmniejszają się o 50%.
+<105>Stworzenie to otrzymuje premię +1 do ataku i obrażeń, a jego maksymalna liczba punktów trafień zwiększa się o 2 na HD. Dodatkowo, za każdym razem, gdy stwór zadaje obrażenia, przywraca utracone punkty życia w ilości równej 20% zadanych obrażeń.
+<106>Negatywna energia przenika tę wyspę.<br>W miejscach, gdzie jest ona najsilniejsza, wszelkie leczenie za pomocą pozytywnej energii zmniejsza się o 50%. DC wszystkich zaklęć szkoły Nekromancji zwiększa się o 1.<br>Wszyscy nieumarli i dhampiry otrzymują premię +1 do ataku i obrażeń, a ich maksymalna liczba punktów życia zwiększa się o 2 na HD. Dodatkowo, za każdym razem, gdy taka istota zada obrażenia, przywraca utracone punkty trafień w wysokości 20% zadanych obrażeń.
+<107>Za każdym razem, gdy stworzenie rzuca zaklęcie, musi wykonać test woli (DC testu jest zależne od współczynnika wyzwania wyspy). W przypadku nieudanego ataku, stworzenie staje się zdezorientowane i wpada w szał podobny do szału barbarzyńcy. Po zakończeniu efektu, stwór zyskuje premię +1 do testów woli na 1 minutę.
+<108>Ta istota zyskuje premię +1 do obrony przed atakami z wolą.
+<109>Ta wyspa jest pustoszona przez kanibali i choroby. Za każdym razem, gdy kanibal pożera zwłoki, wpada w szał podobny do szału barbarzyńcy i zyskuje DR 5/dobry. Dodatkowo, za każdym razem, gdy zarażona istota trafi atakiem w walce wręcz, cel musi wykonać test na wytrzymałość (DC testu jest zależne od współczynnika wyzwania wyspy) albo zostanie zarażony chorobą.
+<110>Kanibalistyczny uścisk (Cannibalistic Undertow)
+<111>Za każdym razem, gdy kanibal pożera zwłoki, wpada w szał podobny do szału barbarzyńcy i zyskuje DR 5/dobro.
+<112>Gdy otrzymujesz jakiekolwiek obrażenia od umiejętności, wszystkie otrzymane przez ciebie uzdrowienia są zmniejszone o połowę.
+<113>Za każdym razem, gdy ta istota trafi atakiem w walce wręcz, cel musi wykonać Fortitude save (DC save'u jest zależne od współczynnika wyzwania wyspy) albo zostanie zarażony anemią.
+<114>DC wszystkich zaklęć z deskryptorem ognia zwiększa się o 2.<br>Wszystkie ataki dystansowe zadają dodatkowo 2d6 obrażeń od ognia przy trafieniu.
+<115>Za każdym razem, gdy stwór rzuca zaklęcie, jeśli nie posiada odporności na ogień (wliczając w to tymczasową odporność przyznawaną przez efekty takie jak zaklęcie ochrony przed energią), otrzymuje obrażenia od ognia (wielkość obrażeń zależy od współczynnika wyzwania wyspy).
+<116>Twoja zbroja jest rozgrzana do czerwoności od gorąca. W każdej rundzie walki musisz wykonać test na Fortitude (DC testu wynosi 20 w pierwszej rundzie i wzrasta z każdą rundą) lub otrzymać 3d6 obrażeń od ognia. Stworzenia bez zbroi oraz te z odpornością na ogień (wliczając w to tymczasową odporność przyznawaną przez efekty takie jak zaklęcie ochrony przed energią) nie są dotknięte.
+<117>Rozgrzana Ciężka Zbroja
+<118>Twoja zbroja jest rozgrzana do czerwoności od gorąca. W każdej rundzie walki musisz wykonać test na Fortitude (DC testu wynosi 15 w pierwszej rundzie i wzrasta z każdą rundą) lub otrzymać 2d6 obrażeń od ognia. Stworzenia bez zbroi i te z odpornością na ogień (wliczając w to tymczasową odporność przyznawaną przez efekty takie jak zaklęcie ochrony przed energią) są niewrażliwe.
+<119>Rozgrzany średni pancerz
+<120>Tę wyspę nęka intensywny upał. DC wszystkich zaklęć z deskryptorem ognia jest zwiększone o 2, a wszystkie ataki dystansowe zadają dodatkowo 2d6 obrażeń od ognia przy trafieniu. Ponadto istoty bez odporności na ogień (wliczając w to tymczasową odporność przyznawaną przez efekty takie jak zaklęcie ochrony przed energią) otrzymują obrażenia za każdym razem, gdy rzucają zaklęcie, a wszystkie średnie i ciężkie zbroje, które noszą, są rozgrzane do czerwoności, zadając im obrażenia co rundę. Na wyspie można też znaleźć kałuże lawy - istota, która do nich wejdzie, otrzymuje 20d6 obrażeń od ognia (udany test na Fortitude DC 40 zmniejsza obrażenia o połowę).
+<121>Wulkaniczne Podmuchy
+<122>Na tej wyspie obowiązują osobliwe prawa magii. Za każdym razem, gdy istota rzuca zaklęcie, używa zdolności czaropodobnej lub aktywuje magiczny przedmiot, musi wykonać test koncentracji (DC tego testu zależy od poziomu wyzwania na wyspie). W przypadku niepowodzenia, zaklęcie zostaje zmarnowane, a zamiast niego na ten sam cel zostaje rzucone inne, losowe zaklęcie. Jeśli w momencie nieudanego testu rzucający znajduje się pod działaniem zaklęcia ochrony przed chaosem, zaklęcie jest rzucane normalnie, ale ochrona przed chaosem zostaje usunięta.
+<123>Łowca
+<124>Postać Miedziany Smok
+<125>Na 11. poziomie sztandar posiadacza sztandaru staje się jeszcze potężniejszym symbolem ochrony i inspiracji dla otaczających go ludzi. Raz dziennie, gdy jego sztandar jest wystawiony, może nim machać w powietrzu jako {g|Encyclopedia:Full_Round_Action}pełnorundową akcję{/g}, dając wszystkim sojusznikom w promieniu 60 stóp tymczasowe {g|Encyclopedia:HP}punkty obrażeń{/g} równe 1/2 poziomu kawalerzysty oraz +2 morale {g|Encyclopedia:Bonus}bonus{/g} do obrażeń, dopóki tymczasowe punkty obrażeń trwają. Na 15. poziomie, a następnie co cztery kolejne poziomy, premia ta wzrasta o +1 (maksymalnie do +4 na 19. poziomie). Tymczasowe punkty trafienia utrzymują się przez 10 minut lub do wyczerpania, w zależności od tego, co nastąpi wcześniej.
+<126>Zaklęcie Łowcy (1. poziom)
+<127>Zaklęcie Łowcy (2. poziom)
+<128>Zaklęcie łowcy (3. poziom)
+<129>Zaklęcie łowcy (4. poziom)
+<130>Zaklęcie łowcy (5. poziom)
+<131>Zaklęcie łowcy (6. poziom)
+<132>Na 2. poziomie, gdy nie jest opancerzony, nie używa tarczy i jest przytomny, zmiennokształtny dodaje premię do mądrości (jeśli ją posiada) do AC i CMD. Ponadto na 4. poziomie zmieniacz zyskuje premię +1 do AC i CMD. Premia ta wzrasta o 1 na każde kolejne 4 poziomy zmiennokształtnego (maksymalnie do +5 na 20 poziomie). Jeśli ma na sobie niemetalową zbroję lub używa niemetalowej tarczy, dodaje połowę premii do mądrości do AC (minimum 0).<br>Te premie do AC działają nawet przy atakach dotykowych i kiedy zmiennokształtny jest na płaskostopiu. Traci te premie, gdy jest unieruchomiony lub bezradny. Bonusy te nie łączą się z cechą klasową Mnicha, która daje premię do AC.
+<133>Instynkt obronny
+<134>Instynkt obronny
+<135>Dzięki druidycznej dyscyplinie dzikiego kształtu, stają się oni żywymi aspektami dzikiej natury. Na początku są w stanie przybrać tylko niewielki aspekt, ale z czasem i praktyką mogą w pełni przekształcić się w coraz potężniejsze formy.
+<136>Klasa zmiennokształtnego oferuje graczom możliwość doświadczenia zmiennokształtnej postaci, która jest bardziej skłonna do walki niż druid rzucający zaklęcia. Z każdym nowym poziomem moce zmiennokształtnego rosną w nowy i zaskakujący sposób, tworząc postać, która sprawdza się w walce, eksploracji i skradaniu.
+<137>Czy to lecąc z wiatrem jako sokół, czy też ukrywając się w jakimś fetorowym bagnie, czekając na atak, zmiennokształtny jest prawdziwym mistrzem dzikiej natury. Zarówno oddany obrońca kręgów druidycznych, jak i zaciekły drapieżnik, zmiennokształtny potrafi przybierać formy natury, a nawet łączyć je ze sobą z niszczycielskim skutkiem i nieokiełznaną dzikością. Zmiennokształtni są obrońcami kręgów druidycznych i mścicielami natury, jednak magia Zmiennokształtnych różni się od magii ich druidycznych krewnych. Zamiast przywoływać zaklęcia ze świata przyrody lub zawierać sojusze ze zwierzętami, zmiennokształtni skupiają swoje nadprzyrodzone moce do wewnątrz, aby zyskać kontrolę nad własnymi formami. Ich zdolność do zmiany postaci jest tak różnorodna, jak cuda dzikiej przyrody, ale zawsze pozostaje przynajmniej częściowo zakorzeniona w świecie naturalnym. Istnieje wiele dróg prowadzących do zostania zmiennokształtnym; większość z nich jest szkolona w tej roli przez kręgi druidyczne, a ich moce odblokowywane są podczas rytuałów inicjacyjnych. Niektórzy jednak odkrywają ten dar w sposób naturalny, jakby ich krew kryła w sobie tajemnice przemiany zmiennokształtnego.
+<138>Zmienny
+<139>Zmiennokształtny w swojej naturalnej postaci może wysuwać pazury jako szybką akcję i używać ich jako broni. Pazury na każdej z rąk mogą zostać użyte jako podstawowy atak naturalny, zadając 14 punktów obrażeń od przebicia i cięcia (1d3, jeśli jest mały).<br>W miarę zdobywania kolejnych poziomów przez zmiennokształtnego, siła jego pazurów wzrasta. Na 3. poziomie jej pazury ignorują DR/zimne żelazo, DR/magię i DR/srebro. Na 7. poziomie obrażenia od pazurów wzrastają do 1d6 (1d4, jeśli jest mały). Na 11. poziomie obrażenia od pazurów zwiększają się do 1d8 (1d6, jeśli jest mały). Na 13. poziomie obrażenia od pazurów zwiększają się do 1d10 (1d8, jeśli jest mały). Na 17. poziomie kość obrażeń nie zwiększa się, ale mnożnik obrażeń krytycznych wynosi ×3. Na 19. poziomie pazury ignorują DR/adamantynę i DR/-.<br>Podczas gdy zmiennokształtna używa Dzikiej Postaci, aby przybrać główną formę swojego aspektu, jej naturalne ataki zyskują te same korzyści, które daje jej umiejętność Zmiennokształtne Pazury. Jeśli forma, którą przybiera, ma ataki pazurami, może użyć albo podstawowych obrażeń pazurów zmiennokształtnego, albo obrażeń pazurów formy, w zależności od tego, które są większe. Jeśli forma nie ma ataków pazurami, może użyć alternatywnych ataków naturalnych, które zadają takie same obrażenia jak zmiennokształtnym pazurom.
+<140>Szpony Zmiennokształtnego
+<141>Zmiennokształtny w swojej naturalnej postaci może wysuwać pazury jako szybką akcję, by użyć ich jako broni. Pazury na każdej ręce mogą być użyte jako podstawowy atak naturalny.<br>W miarę zdobywania kolejnych poziomów przez zmiennokształtnego, siła jego pazurów wzrasta.
+<142>Na 2. poziomie zmiennokształtny dodaje premię do połowy swojego poziomu do sprawdzania wiedzy o naturze.
+<143>Śledzenie
+<144>Na 3. poziomie Zmiennokształtny może poruszać się przez dowolny rodzaj zarośli (np. krzaki, naturalne ciernie, zarośla i podobne tereny), ignoruje kary za poruszanie się w trudnym terenie, jest odporny na stan Zaplątania i zyskuje +2 AC przeciwko atakom z okazji.
+<145>Wdzięk Lasu
+<146>Aspekt niedźwiedzia przywołuje niezmordowaną wytrzymałość i wściekłą siłę. Ci, którzy przybrali ten aspekt, znani są z tego, że potrafią przetrwać ciężkie rany i w zamian zadawać druzgocące ciosy.<br>Mała Postać: Otrzymujesz premię +2 do wyniku Konstytucji. Na 8. poziomie premia ta wzrasta do +4, a na 15. poziomie do +6.<br>Poważna Postać (Bestia II): Twoja postać zmienia się w postać strasznego niedźwiedzia (Bestiariusz 31). Podczas przebywania w tej postaci zyskujesz prędkość podstawową 40 stóp, węch (30 stóp), atak gryzieniem (1d8 obrażeń) i dwa ataki pazurami (1d6 obrażeń) z umiejętnością chwytania. Na 8. poziomie zyskujesz ulepszony atak naturalny (Bestiariusz 315) pazurami. Na 15. poziomie mnożnik krytyczny ataku pazurami wzrasta o 1 (×2 staje się ×3), maksymalnie do ×4, i zyskujesz wyczyn Niesamowity Cios (Bestiariusz 314).<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<147>Niedźwiedź
+<148>Osoby z aspektem dzika są słynne z uporu.<br>Minimalna Postać: Otrzymujesz premię +2 do rzutów na szczęście. Na 8. poziomie premia wzrasta do +4, a na 15. poziomie do +6.<br>Poważna Postać (Bestia II): Twoja postać zmienia się w postać straszliwego dzika. Podczas przebywania w tej postaci zyskujesz umiejętność zapachu, atak gore (1d8) i podstawową szybkość 40 stóp. Na 8. poziomie otrzymujesz ulepszony atak naturalny za pomocą ataku gore oraz potężną szarżę (+1d8 do ataku gore). Na 15. poziomie zyskujesz 1 dodatkowy punkt trafienia za każdą posiadaną matrycę Hit Die i zyskujesz niesamowity cios (Bestiariusz 314) jako dodatkowy feat.<br>Alternatywne ataki naturalne: Gore (P).
+<149>Dzik
+<150>Dinozaur potrafi wybiegać z zasadzki, by zadawać poważne rany szponami. Ten aspekt daje zmiennokształtnemu większą zdolność do zaskakiwania wrogów i zadawania pierwszych ciosów w walce.<br>Minimalna Postać: Otrzymujesz premię +2 do kontroli Inicjatywy. Premia ta wzrasta do +4 na 8. poziomie i +6 na 15. poziomie.<br>Poważna Postać (Bestia II): Twoja postać zmienia się w dinozaura. W tej postaci zyskujesz podstawową szybkość 60 stóp, węch (30 stóp), atak gryzieniem (1d8 obrażeń) i dwa ataki szponami (1d8 obrażeń; ataki szponami mogą wykorzystywać obrażenia od pazurów zmiennokształtnego) oraz atak. Na 8. poziomie otrzymujesz dwa ataki przednimi pazurami (1d4 obrażeń; ataki te nie mogą zadawać obrażeń od zmiennokształtnych pazurów) oraz premię rasową +2 do rzutów na refleks. Na 15. poziomie otrzymujesz premię +2 do uniku i Atak Wiosenny jako cechę dodatkową.<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S), Szpon (S)
+<151>Dinozaur
+<152>Słoń jest symbolem zarówno władzy, jak i mądrości w Garund i Vudra. Zmiennokształtni, którzy przyjmą ten aspekt, poznają wartość precyzyjnego wykorzystania swojej siły. Alternatywne ataki słonia to gore (P) i slam (B).<br>Minimalna forma: Otrzymujesz premię +2 do wyniku Siły. Na 8. poziomie premia ta wzrasta do +4, a na 15. poziomie do +6.<br>Poważna Postać (Bestia II): Twoja postać zmienia się w Dużego młodocianego słonia (jak słoń, ale z odstępem 10 stóp). Podczas przebywania w tej postaci zyskujesz węch (30 stóp), atak gore (1d6 obrażeń) i atak slam (1d8 obrażeń) o zasięgu 5 stóp. Zyskujesz także premię rasową +2 do siły i naturalnego pancerza. Na 8. poziomie otrzymujesz umiejętność deptania, jako uniwersalną zasadę potworów, zadającą obrażenia od pazurów zmiennokształtnego. Na 15. poziomie otrzymujesz Ulepszony Pęd Byka jako dodatkowe wyczyn, a twoja premia rasowa do Siły i pancerza naturalnego wzrasta do +4.<br>Alternatywne ataki naturalne: Rana (P), Złamanie (B).
+<153>Słoń
+<154>Aspekt konia daje szybkość i zwrotność. Alternatywny atak konia to Kopyto (B).<br>Minimalna postać: Zdobywasz umiejętność Wytrzymałość oraz wrodzoną premię +5 stóp do prędkości podstawowej. Na 8. poziomie premia do podstawowej szybkości wzrasta do +10. Na 15. poziomie premia do podstawowej szybkości wzrasta do +15.<br>Wielka Postać (Bestia II): Twoja postać zmienia się w postać konia. Podczas przebywania w tej postaci zyskujesz prędkość podstawową 50 stóp, węch (30 stóp), a twoje ataki zadają podwójne obrażenia, jeśli są używane z manewrami szarży, najazdu lub stratowania. Na 8. poziomie możesz poruszać się przez zagrożone kwadraty, nie prowokując ataków z okazji, a także zyskujesz możliwość deptania, jako uniwersalną zasadę potworów, zadając obrażenia od pazurów zmiennokształtnego. Na 15. poziomie otrzymujesz ulepszony Overrun jako dodatkowe wyczyn, nawet jeśli nie spełniasz warunków wstępnych.<br>Alternatywne ataki naturalne: Kopyto (B)
+<155>Koń
+<156>Aspekt jaszczurki charakteryzuje się szybkim, pełnym gracji ruchem, dając umiejętność skakania i skradania się z zadziwiającą zwinnością i równowagą.<br>Minimalna forma: Zyskujesz premię +2 do rzutów na refleks. Na 8. poziomie premia ta wzrasta do +4, a na 15. poziomie do +6.<br>Poważna Postać (Bestia II): Twoja postać zmienia się w zwinną i jaskrawo ubarwioną gigantyczną jaszczurkę (jak u gigantycznej jaszczurki z Bestiariusza 194, ale z następującymi zmianami). Podczas przebywania w tej postaci zyskujesz prędkość podstawową 40 stóp, węch (30 stóp), podstawowy atak gryzący (1d8 obrażeń) i umiejętność chwytania. Na 8. poziomie twoja prędkość podstawowa wzrasta do 60 stóp. Na 15. poziomie zyskujesz ulepszony atak naturalny z ugryzieniem.<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<157>Jaszczur
+<158>Na 1. poziomie zmiennokształtny zyskuje swój pierwszy aspekt - kategorię zwierząt, do których jego ciało i dusza zostały w nadprzyrodzony sposób przystosowane. Może zmienić się w pomniejszą formę swojego aspektu na liczbę minut dziennie równą 3 + poziom zmiennokształtnego. Czas trwania nie musi następować po sobie, ale musi być spędzony w jednominutowych odstępach. Zmiana w pomniejszą postać jest szybką akcją, podczas gdy zakończenie efektu jest darmową akcją, którą można wykonać tylko w turze Zmieniacza. Dopóki zmiennokształtny nie osiągnie 9. poziomu i nie otrzyma cechy klasowej aspekt chimeryczny, może przybrać tylko jedną pomniejszą postać na raz. Przejście do nowego aspektu (lub aspektów, w przypadku aspektów chimerycznych lub większych aspektów chimerycznych) kończy wszystkie aktualnie zamanifestowane pomniejsze formy. Pomniejsze formy aspektów są efektami polimorficznymi, ale nie łączą się z innymi efektami polimorficznymi, a zmiennokształtny nie traci korzyści płynących z pomniejszej formy pod wpływem efektów polimorficznych.<br>W miarę jak zmiennokształtny zdobywa kolejne poziomy, zyskuje więcej aspektów; drugi aspekt uzyskuje na 5. poziomie, trzeci na 10. poziomie, a czwarty na 15. poziomie.
+<159>Aspekt zmiennokształtnego
+<160>Pająk jest cierpliwym łowcą, wyczuwającym wrogów, którzy walczą w jego sieci.<br>Minimalna Postać: Zyskujesz premię +2 do wyniku АС za unik. Premia ta wzrasta do +4 na 8. poziomie i +6 na 15. poziomie.<br>Poważna postać: Twoja postać zmienia się w gigantycznego pająka. Podczas przebywania w tej postaci zyskujesz: zmysł drżenia o zasięgu 10 stóp, atak specjalny Sieć ( Sieć (ex): Akcja standardowa, dystansowy atak dotykowy, cel zostaje trafiony przez kolczaste pajęczyny i zyskuje stan unieruchomienia i uwięzienia. Co rundę cel może próbować się uwolnić na koniec rundy za pomocą sprawdzenia Akrobatyki lub rozerwać pajęczynę za pomocą sprawdzenia Atletyki (aoutomatycznie wybierając, która z nich jest większa). Obie akcje mają DC równe 10 + 1/2 lvl zmiennokształtnego + modyfikator Con zmiennokształtnego) oraz atak ugryzieniem (1d6). Na 8. poziomie otrzymujesz premię rasową +4 do testów percepcji, a zasięg twojego zmysłu drżenia wzrasta do 20 stóp. Na 15. poziomie otrzymujesz ulepszony atak naturalny (ugryzienie), a zasięg twojego zmysłu drżenia wzrasta do 30 stóp.<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<161>Pająk
+<162>Tygrys jest potężnym, lecz pełnym gracji łowcą, który po cichu tropi ofiarę, a następnie likwiduje ją z bezwzględną skutecznością.<br>Minimalna postać: Zyskujesz premię wewnętrzną +2 do wyniku Zręczności. Premia ta wzrasta do +4 na 8. poziomie i +6 na 15. poziomie.<br>Poważna Postać (Bestia II): Twoja postać zmienia się w postać straszliwego tygrysa (Bestiariusz 265). W tej postaci zyskujesz prędkość podstawową 40 stóp, węch (30 stóp), atak kąsaniem (2d6 obrażeń), dwa ataki pazurami (2d4 obrażeń), umiejętność chwytania z atakiem kąsania i pazurami oraz atak. Na 8. poziomie otrzymujesz premię rasową +4 do testów na skrytość. Na 15. poziomie zyskujesz atak grabieniem przy ataku tylnymi pazurami (zadaje dodatkowe obrażenia równe obrażeniom od ataku pazurami).<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<163>Tygrys
+<164>Aspekt wilka zapewnia zmysły i ataki potężnego wilka, którego instynkty są wyostrzone do tropienia i chwytania ofiar.<br>Minimalna postać: Zyskujesz umiejętność zapachu o zasięgu 10 stóp, lub, jeśli posiadasz umiejętność zapachu, zasięg zwiększa się o 10 stóp i +2 obrażenia od ataków naturalnych. Zasięg tego zapachu lub zwiększenie do niego zwiększa się do 20 stóp, a premia wzrasta do +4 na 8. poziomie i do 30 stóp, a premia wzrasta do +6 na 15. poziomie.<br>Poważna postać (bestia II): Twoja postać zmienia się w postać strasznego wilka (Bestiariusz 278). Podczas przebywania w tej postaci zyskujesz prędkość bazową 50 stóp, węch (30 stóp), atak ugryzieniem (1d8 obrażeń) i możesz podjąć próbę podróży z atakiem ugryzieniem. Na 8. poziomie zasięg twojej umiejętności zapachu zwiększa się do 40 stóp i zyskujesz premię rasową +4 do sprawdzania wiedzy o naturze. Na 15. poziomie zyskujesz ulepszony atak naturalny (ugryzienie) (Bestiariusz 315).<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<165>Wilk
+<166>Ten aspekt uwalnia brutalną dzikość i nieustępliwą wściekłość rosomaka. Żądza walki rosomaka ożywia jego wolę życia, dzięki czemu może on walczyć dłużej, niż spodziewają się tego jego wrogowie.<br>Minimalna postać: Zyskujesz 2 dodatkowe punkty trafienia za każdą posiadaną liczbę punktów trafienia i traktujesz swój wynik Konstytucji jako wyższy o 4 punkty do celów określenia, kiedy umierasz z ujemnymi punktami trafienia. Na 8. poziomie otrzymujesz umiejętność Umieranie jako premię do umiejętności, a premia do punktów trafienia wzrasta do +4 za każdą posiadaną liczbę punktów trafienia. Na 15. poziomie traktujesz swoją Konstytucję jako wyższą o 16 punktów, aby określić, kiedy giniesz z ujemnymi punktami trafienia, a premia do punktów trafienia wzrasta do +6 za każdą posiadaną Śmierć Bojową.<br>Wielka Postać (Bestia II): Twoja postać zmienia się w postać straszliwego rosomaka (Bestiariusz 279). Podczas przebywania w tej postaci zyskujesz prędkość podstawową 30 stóp, węch (30 stóp), atak gryzieniem (1d6 obrażeń) i dwa ataki pazurami (1d8 obrażeń). W postaci rosomaka zyskujesz moc wściekłości barbarzyńcy, ale możesz ją aktywować dopiero w rundzie po otrzymaniu obrażeń. Każdego dnia możesz szaleć przez liczbę rund równą swojemu poziomowi zmiennokształtnego. Umiejętność ta działa tak samo, jak umiejętność furia barbarzyńcy i łączy się z furią barbarzyńcy oraz mocami furii uzyskanymi z innych źródeł. Na 8. poziomie możesz wybrać dwie barbarzyńskie moce szału, traktując swój poziom zmiennokształtnego jako efektywny poziom barbarzyńcy dla spełnienia warunków wstępnych. Na 15. poziomie nie odczuwasz już zmęczenia po zakończeniu szału.<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<167>Wolverine
+<168>Wszystkie aspekty zmiennokształtnych mają mniejszą i większą formę. Mniejsza forma nadaje zmiennokształtnemu kilka cech fizycznych zwierzęcia, podczas gdy główny aspekt jest formą, którą przybiera, gdy używa dzikiej postaci, by w pełni przemienić się w zwierzę. Lista umiejętności zdobytych w aspekcie głównym zawiera umiejętności uzyskane dzięki cechom klasowym dzikiej postaci, ale korzyści wynikające ze zmiany rozmiaru nie są tu wymienione.
+<169>Główna Postać
+<170>Akcja standardowa, dystansowy atak dotykowy, cel zostaje trafiony kolczastymi pajęczynami i zostaje unieruchomiony oraz uwięziony. Na koniec każdej rundy cel może spróbować się uwolnić, wykonując test Akrobatyki lub rozerwać pajęczynę, wykonując test Atletyki (aoutomatycznie wybierając, która z nich jest większa). Obie akcje mają DC równe 10 + 1/2 lvl zmiennika + modyfikator Con zmiennika).
+<171>Twój kształt zmienia się na postać straszliwego dzika. W tej postaci zyskujesz umiejętność zapachu, atak gore (1d8) i podstawową szybkość 40 stóp. Na 8. poziomie otrzymujesz ulepszony atak naturalny za pomocą ataku gore oraz potężną szarżę (+1d8 do ataku gore). Na 15. poziomie zyskujesz 1 dodatkowy punkt trafienia za każdą posiadaną liczbę punktów trafienia i zyskujesz niesamowity cios jako dodatkowy feat.<br>Alternatywne ataki naturalne: Gore (P).
+<172>Większa Postać (Dzik)
+<173>Twoja postać zmienia się w dinozaura. W tej postaci zyskujesz podstawową szybkość 60 stóp, węch (30 stóp), atak gryzieniem (1d8 obrażeń) i dwa ataki szponami (1d8 obrażeń; ataki szponami mogą wykorzystywać obrażenia zadawane przez Zmiennokształtnego) oraz atak. Na 8. poziomie otrzymujesz dwa ataki przednimi pazurami (1d4 obrażeń; ataki te nie mogą zadawać obrażeń od zmiennokształtnych pazurów) oraz premię rasową +2 do rzutów na refleks. Na 15. poziomie otrzymujesz premię +2 do uniku i Atak Wiosenny jako cechę dodatkową.<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S), Szpony (S).
+<174>Duża Postać (Dinozaur)
+<175>Twoja postać zmienia się w dużą młodocianą postać słonia (jak słoń, ale z odstępem 10 stóp). Podczas przebywania w tej postaci zyskujesz węch (30 stóp), atak gore (1d6 obrażeń) i atak slam (1d8 obrażeń) o zasięgu 5 stóp. Zyskujesz także premię rasową +2 do siły i naturalnego pancerza. Na 8. poziomie otrzymujesz umiejętność deptania, jako uniwersalną zasadę potworów, zadającą obrażenia od pazurów zmiennokształtnego. Na 15. poziomie otrzymujesz Ulepszony Pęd Byka jako dodatkowe wyczyn, a twoja premia rasowa do Siły i pancerza naturalnego wzrasta do +4.<br>Alternatywne ataki naturalne: Rana (P), Złamanie (B).
+<176>Większa Postać (Słoń)
+<177>Twoja postać zmienia się w postać konia. Podczas przebywania w tej postaci zyskujesz prędkość podstawową 50 stóp, węch (30 stóp), a twoje ataki zadają podwójne obrażenia, jeśli są używane z manewrami szarży, najazdu lub stratowania. Na 8. poziomie możesz poruszać się przez zagrożone kwadraty, nie prowokując ataków z okazji, a także zyskujesz możliwość deptania, zgodnie z uniwersalną zasadą potworów, zadając obrażenia pazurami zmiennokształtnego. Na 15. poziomie otrzymujesz ulepszony Overrun jako dodatkowe wyczyn, nawet jeśli nie spełniasz warunków wstępnych.<br>Alternatywne ataki naturalne: Kopyto (B)
+<178>Główna Postać (Koń)
+<179>Twoja postać zmienia się w straszliwego niedźwiedzia. W tej postaci zyskujesz prędkość podstawową 40 stóp, węch (30 stóp), atak gryzieniem (1d8 obrażeń) i dwa ataki pazurami (1d6 obrażeń) z umiejętnością chwytania. Na 8. poziomie otrzymujesz ulepszony naturalny atak pazurami. Na 15. poziomie mnożnik krytycznego ataku pazurami wzrasta o 1 (×2 staje się ×3), maksymalnie do ×4, i zyskujesz wyczyn Fantastyczny Cios.
+<180>Główna postać (niedźwiedź)
+<181>Twoja postać zmienia się w zwinną i jaskrawo ubarwioną gigantyczną jaszczurkę (jak u gigantycznej jaszczurki z Bestiariusza 194, ale z następującymi zmianami). Podczas przebywania w tej postaci zyskujesz prędkość podstawową 40 stóp, węch (30 stóp), podstawowy atak gryzienia (1d8 obrażeń) oraz umiejętność chwytania. Na 8. poziomie twoja prędkość podstawowa wzrasta do 60 stóp. Na 15. poziomie zyskujesz ulepszony atak naturalny z ugryzieniem.<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<182>Główna Postać (Jaszczurka)
+<183>Twoja postać zmienia się w gigantycznego pająka. Będąc w tej postaci, zyskujesz: zmysł drżenia o zasięgu 10 stóp, atak specjalny Sieć ( Sieć (ex): Akcja standardowa, dystansowy atak dotykowy, cel zostaje trafiony pajęczynami stiky i zyskuje kondycję unieruchomionego i zaklętego. Co rundę cel może próbować się uwolnić na koniec rundy za pomocą sprawdzenia Akrobatyki lub rozerwać pajęczynę za pomocą sprawdzenia Atletyki (aoutomatycznie wybierając, która z nich jest większa). Obie akcje mają DC równe 10 + 1/2 lvl zmiennokształtnego + modyfikator Con zmiennokształtnego) oraz atak ugryzieniem (1d6). Na 8. poziomie otrzymujesz premię rasową +4 do testów percepcji, a zasięg twojego zmysłu drżenia wzrasta do 20 stóp. Na 15. poziomie otrzymujesz ulepszony atak naturalny (ugryzienie), a zasięg twojego zmysłu drżenia wzrasta do 30 stóp.<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<184>Główna Postać (Pająk)
+<185>Twoja postać zmienia się w straszliwego tygrysa (Bestiariusz 265). W tej postaci zyskujesz prędkość podstawową 40 stóp, węch (30 stóp), atak gryzieniem (2d6 obrażeń), dwa ataki pazurami (2d4 obrażeń), umiejętność chwytania z atakiem gryzienia i pazurami oraz atak. Na 8. poziomie otrzymujesz premię rasową +4 do testów na skrytość. Na 15. poziomie zyskujesz atak grabieniem przy ataku tylnymi pazurami (zadaje dodatkowe obrażenia równe obrażeniom od ataku pazurami).<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<186>Postać Główna (Tygrys)
+<187>Twoja postać zmienia się w straszliwego wilka. Podczas przebywania w tej postaci zyskujesz prędkość podstawową 50 stóp, węch (30 stóp), atak ugryzieniem (1d8 obrażeń) i możesz podjąć próbę podróży atakiem ugryzienia. Na 8. poziomie zasięg twojej umiejętności zapachu zwiększa się do 40 stóp i zyskujesz premię rasową +4 do sprawdzania wiedzy o naturze. Na 15. poziomie otrzymujesz ulepszony atak naturalny (ugryzienie).<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<188>Główna Postać (Wilk)
+<189>Twoja postać zmienia się w straszliwego rosomaka (Bestiariusz 279). W tej postaci zyskujesz prędkość podstawową 30 stóp, węch (30 stóp), atak gryzieniem (1d6 obrażeń) i dwa ataki pazurami (1d8 obrażeń). W postaci rosomaka zyskujesz moc wściekłości barbarzyńcy, ale możesz ją aktywować dopiero w rundzie po otrzymaniu obrażeń. Każdego dnia możesz szaleć przez liczbę rund równą swojemu poziomowi zmiennokształtnego. Umiejętność ta działa tak samo, jak umiejętność furia barbarzyńcy i łączy się z furią barbarzyńcy oraz mocami furii uzyskanymi z innych źródeł. Na 8. poziomie możesz wybrać dwie barbarzyńskie moce szału, traktując swój poziom zmiennokształtnego jako efektywny poziom barbarzyńcy dla spełnienia warunków wstępnych. Na 15. poziomie nie odczuwasz już zmęczenia po zakończeniu szału.<br>Alternatywne ataki naturalne: Ugryzienie (B, P, S)
+<190>Główna Postać (Wolverine)
+<191>Potknięcie (Atak Gore)
+<192>Stajesz się ślepy, twoja prędkość zmniejsza się o 20 stóp, otrzymujesz karę -4 do zwojów ataku i -10 do zwojów obrażeń.<br>Efekt Zniekształcenia Anomalii może zostać usunięty przez Zwój Synchronizacji lub przez czary Rozproszenia, Usunięcia Klątwy lub podobne zdolności, w tym przypadku DC wynosi 10 + połowa liczby trafionych kości + modyfikator Charyzmy.
+<193>Za pierwszym razem, gdy stwór z Anomalią zada obrażenia w tej turze, cel musi zdać rzut na obronę z Woli (DC=10 + połowa liczby trafionych kości + modyfikator Charyzmy) lub doznać efektu Zniekształcenia Anomalii. Efekt ten jest trwały na poziomie trudności Rdzeń lub wyższym. Efekt Zniekształcenia Anomalii może zostać usunięty przez Zwój Synchronizacji lub zaklęcia dispel magic, remove curse lub podobne zdolności (w tym przypadku DC jest takie samo).<br>Zniekształcenie Anomalii: Losowo otrzymujesz jeden z następujących efektów:<br>Przekładanie rzeczywistości: Otrzymujesz 2d10 obrażeń profanum na rundę przez 1 minutę.<br>Desynchronizacja ciała: Stajesz się ślepy, twoja prędkość zmniejsza się o 20 stóp, otrzymujesz karę -4 do zwojów ataku i -10 do zwojów obrażeń.<br>Desynchronizacja Umysłu: Otrzymujesz karę -5 do testów koncentracji, karę -10 do odporności na zaklęcia, a wszystkie Twoje zaklęcia mają 15% szans na niepowodzenie, przez 1 minutę.<br>Zakłócenie świadomości: Nie odróżniasz przyjaciela od wroga i zaczynasz atakować najbliższą istotę przez 1 minutę.<br>Usterka magiczna: Za każdym razem, gdy rzucasz zaklęcie, otrzymujesz 4d8 obrażeń profanum przez 1d4 minuty.
+<194>Za każdym razem, gdy rzucasz zaklęcie, otrzymujesz 4d8 niecnych obrażeń.<br>Efekt Zniekształcenia Anomalii może zostać usunięty przez Zwój Synchronizacji lub Zaklęcia Rozproszenia Magii, Usunięcia Klątwy lub podobne zdolności, w takim przypadku DC wynosi 10 + połowa liczby trafionych kości + modyfikator Charyzmy.
+<195>Nie możesz odróżnić przyjaciela od wroga i zaczynasz atakować najbliższą istotę.<br>Efekt Zniekształcenia Anomalii może zostać usunięty przez Zwój Synchronizacji lub magię dyssypacyjną, usuwanie zaklęć lub podobne zdolności, w takim przypadku DC wynosi 10 + połowa liczby trafionych kostek + modyfikator Charyzmy.
+<196>Otrzymujesz karę -5 do sprawdzania koncentracji, -10 do odporności na czary, a wszystkie twoje zaklęcia mają 15% szans na niepowodzenie.<br>Efekt Zniekształcenia Anomalii może zostać usunięty przez Zwój Synchronizacji lub przez rzucenie czaru, usunięcie zaklęć lub podobnych zdolności, w takim przypadku DC wynosi 10 + połowa liczby trafionych kostek + modyfikator Charyzmy.
+<197>Otrzymujesz 2d10 obrażeń profanum na rundę.<br>Efekt Zniekształcenia Anomalii może zostać usunięty przez Zwój Synchronizacji lub przez magię dyspel, usuwanie zaklęć lub podobne umiejętności, w tym przypadku DC wynosi 10 + połowa liczby trafionych kostek + modyfikator Charyzmy.
+<198>Użytkownik tego amuletu otrzymuje premię kompetencyjną +3 do kontroli inicjatywy i rzutów na refleks.
+<199>Amulet świadomości bojowej
+<200>Ta skórzana zbroja +4 zwiększa prędkość bazową użytkownika o 20 stóp i daje premię +4 do wyniku Zręczności oraz odporność na obrażenia od kwasu.
+<201>Ta szata daje użytkownikowi premię +6 do Inteligencji i premię +6 do kompetencji w testach woli. Kiedy ta szata jest używana w parze z Okularami Niezaprzeczalnej Prawdy, zapewnia użytkownikowi aurę strachu o sile 10 stóp, która sprawia, że każda istota, która rozpocznie rundę wewnątrz aury, staje się obiektem zaklęcia wywołującego strach.
+<202>Szata Niewypowiedzianej Prawdy
+<203>Ta pełna płyta adamantynowa +2 daje użytkownikowi odporność na ataki potknięć i gonitwy byków.
+<204>Osoba nosząca te buty może ignorować trudny teren. Kiedy trudny teren zostanie zignorowany w ten sposób, jego użytkownik zyskuje premię 10 stóp do prędkości ruchu na 1 rundę. Buty dają także użytkownikowi premię +4 do zręczności.
+<205>Chirurgiczna precyzja tej rany zadaje 1d6 krwawiących obrażeń, dopóki cel nie wykona udanego rzutu obronnego przeciwko Fortitude (DC rzutu obronnego wynosi 10 + poziom atakującego + premia do Mądrości). Obrażenia te można kumulować.
+<206>Kiedy użytkownik tej rękawicy potwierdzi trafienie krytyczne, cel musi wykonać test na szczęście lub otrzyma 1d6 obrażeń od krwawienia, które się kumulują (test na szczęście kończy efekt). DC rzutu na ocalenie wynosi 10 + poziom użytkownika + premia do mądrości.
+<207>Osoba nosząca te okulary jest zawsze pod działaniem prawdziwego seksu i ma premię +5 profanum do inicjatywy. Użyte w parze z szatą Niewypowiedzianej Prawdy dają użytkownikowi premię +6 do Mądrości.
+<208>Okulary Niezaprzeczalnej Prawdy
+<209>Osoba nosząca okulary niezaprzeczalnej prawdy i szatę niewypowiedzianej prawdy zyskuje premię +6 do mądrości i Aurę strachu, która sprawia, że każdy wróg, który rozpocznie rundę wewnątrz aury, staje się obiektem zaklęcia wywołującego strach.
+<210>Niewypowiedziana mądrość
+<211>Za każdym razem, gdy użytkownik tego hełmu zabije wroga, otrzymuje premię +2 do ataku przez 3 rundy.
+<212>Osoba nosząca tę maskę zyskuje DR20/-, jeśli otrzyma jakiekolwiek obrażenia fizyczne na jedną rundę.<br>Daje ona także odporność energetyczną 20 na każdy rodzaj energii, która uderzyła jej użytkownika na jedną rundę.<br>Maska zapewnia jej użytkownikowi odporność na trucizny oraz +6 do Mądrości i Charyzmy.<br>Nie można też zidentyfikować jego przynależności.
+<213>Ta tarcza +3 daje użytkownikowi odporność na stan obolałości. Daje też jeden dodatkowy atak szansy na rundę. Jeśli jest używana z toporem bojowym Strażnika, nadaje toporowi bojowemu zaklęcie prędkości.
+<214>Ulepszony Krytyczny (Kopyto)
+<215>Otrzymujesz premię +2 do testów na pokonanie przeciwnika. Otrzymujesz także premię +2 do obrony przed manewrami bojowymi, gdy przeciwnik próbuje cię wyprzedzić.
+<216>Ulepszone wyprzedzanie
+<217>Zyskujesz +1 {g|Encyclopedia:Bonus}bonus{/g} do wszystkich {g|Encyclopedia:Attack}zwojów ataku{/g}, które wykonujesz używając kopyt.
+<218>Skupienie na broni (Kopyto)
+<219>Zyskujesz +1 {g|Encyclopedia:Bonus}bonus{/g} do wszystkich {g|Encyclopedia:Attack}zwojów ataku{/g}, które wykonujesz używając ataków kopytami.
+<220>Większe skupienie na broni (Kopyto)
+<221>Zyskujesz +2 {g|Encyclopedia:Bonus}bonus{/g} do wszystkich {g|Encyclopedia:Damage}zadań obrażeń{/g}, które wykonujesz używając kopyt.
+<222>Specjalizacja Broni (Kopyta)
+<223>Otrzymujesz +2 {g|Encyclopedia:Bonus}bonus{/g} do wszystkich {g|Encyclopedia:Damage}zaklęć na obrażenia{/g}, które wykonujesz używając kopyt.
+<224>Większa Specjalizacja Broni (Kopyta)
+<225>Płonące Szaleństwo
+<226>Śmiercionośne uderzenia
+<227>Diamentowa Skóra
+<228>Większa Fortuna
+<229>Niezwyciężoność
+<230>Pocałunek życia
+<231>Bomba umysłu
+<232>Perfekcja
+<233>Mikstura Diamentowej Skóry
+<234>Mikstura Wigoru
+<235>Odrodzenie
+<236>Ostra Brzytwa
+<237>Stalowy Umysł
+<238>Szybka śmierć
+<239>Trzecie oko
+<240>Wigor
+<241>Mikstura płonącego szaleństwa
+<242>Mikstura śmiertelnych uderzeń
+<243>Mikstura Większej Szczęśliwości
+<244>Mikstura Niezwyciężoności
+<245>Mikstura Pocałunku Życia
+<246>Mikstura Mind Bomb
+<247>Mikstura Doskonałości
+<248>Mikstura odrodzenia
+<249>Mikstura Ostrej Brzytwy
+<250>Mikstura Stalowego Umysłu
+<251>Mikstura szybkiej śmierci
+<252>Mikstura Trzeciego Oka
+<253>Ogłuszenie
+<254>Ta większa laska metamagiczna może być użyta do przyznania następujących efektów metamagicznych: Empower, Highten, Bolster, Maximize<br>Różdżka ma 15 ładunków.<br>Umocnienie zaklęcia: Wszystkie zmienne, numeryczne efekty wzmocnionego zaklęcia są zwiększone o połowę, włączając {g|Encyclopedia:Bonus}bonusy{/g} do tych {g|Encyclopedia:Dice}zwojów{/g}.<br>{g|Encyclopedia:Saving_Throw}Rzuty ratunkowe{/g} i przeciwne zwoje nie są dotknięte, podobnie jak zaklęcia bez zmiennych losowych.<br>Zwiększone zaklęcie: Zaklęcie o podwyższonym poziomie ma wyższy poziom zaklęcia niż normalnie (maksymalnie do 9. poziomu). W przeciwieństwie do innych metamagicznych {g|Encyclopedia:Feat}featów{/g}, Wzmocnienie zaklęcia faktycznie zwiększa efektywny poziom zaklęcia, które modyfikuje. Wszystkie efekty zależne od poziomu zaklęcia (takie jak punkty DC rzutów ratunkowych i możliwość przeniknięcia przez mniejszą kulę nietykalności) są obliczane zgodnie z podwyższonym poziomem.<br>Podwyższone zaklęcie: Zaklęcie zadaje teraz 2 dodatkowe {g|Encyclopedia:Damage}obrażenia{/g} za każdą {g|Encyclopedia:Dice}rolowaną{/g} kość wszystkim swoim celom. Dodatkowo wszyscy wrogowie znajdujący się w odległości 5 stóp od {g|Encyclopedia:Spell_Target}celów zaklęcia{/g} otrzymują 2 obrażenia za każdą kość {g|Encyclopedia:Dice}zrolowaną{/g}z oryginalnego zaklęcia. Zaklęcie nie stosuje już obrażeń precyzyjnych.<br>Maksymalizacja zaklęcia: Wszystkie zmienne, liczbowe efekty zaklęcia zmodyfikowanego tym wyczynem zostają zmaksymalizowane. <Nie ma to wpływu na rzuty ratunkowe i przeciwstawne zwoje, ani na zaklęcia bez zmiennych losowych.
+<255>7 rund
+<256>Ten sztandar może być użyty 5 razy dziennie w ramach szybkiej akcji, aby dać premię +2 do morale do wszystkich ataków i obrażeń sojusznikom nosiciela w promieniu 60 stóp przez 7 rund. Ponadto, gdy efekt jest aktywny, sztandar ten zapewnia odporność na strach i daje użytkownikowi premię +5 do morale przeciwko efektom wpływającym na umysł.
+<257>Osoba nosząca Święty symbol Nahyndrian może zdominować nawet bezmyślnego wroga cieniem nahyndryjskiego Arcykapłana.
+<258>Kontrola przez cienie
+<259> 
+<260>Ten święty symbol daje użytkownikowi możliwość przywołania raz dziennie cienia kultysty z Nahyndrii, który będzie kontrolował przeciwnika przez 3 rundy.
+<261>Święty symbol Nahyndrian
+<262>Dusza Arcykapłana jest uwięziona wewnątrz tego bezużytecznego symbolu jego zmarłego mistrza. Dusza może opuścić pułapkę i kontrolować nawet bezmyślne konstrukty, ale tylko przez krótki czas i tylko jeśli pozwoli na to osoba nosząca ten symbol.
+<263>Raz dziennie właściciel tego srebrnego lustra może spojrzeć na nie w ramach akcji standardowej i zyskać premię +4 do Charyzmy na 1 godzinę. Ponadto w czasie działania lusterko daje premię do ataku kompetencyjnego i AC równą premii do mądrości jego właściciela. Jeśli właściciel ma na sobie Płaszcz Słodkiej Mowy, lustro leczy użytkownika o 4d8+15hp.
+<264>Ten adamantynowy miecz +5 daje dodatkowe obrażenia przeciwko złym stworzeniom. Za każdym razem, gdy trafia wroga, rozbija jego pancerz o -1 AC .<br>Nosiciel otrzymuje karę -6 do Charyzmy, a każde uderzenie tym szkliwem zadaje duszkowi d6 obrażeń.
+<265>.
+<266>Za każdym razem, gdy ten +4 Kluczowy Młot Wojenny Furyborna grozi trafieniem krytycznym przeciwko średniej wielkości stworzeniu, jest ono automatycznie potwierdzane. Za każdym razem, gdy Defacer trafi, jego cel musi obronić się przed Fortitude (DC 35) albo zostanie oszołomiony na 1 rundę.
+<267>Defacer
+<268>Za każdym razem, gdy ten miecz o sile +2 klinga zimnego żelaza zostanie użyty do uderzenia demona, zyskuje premię +2 do ataku i zadaje dodatkowe 2d6 obrażeń od cięcia.
+<269>Miecz Demonbane
+<270>Ta +3 Ciężka Kusza wystrzeliwuje dwa bełty naraz i jeśli oba trafią, cel musi wykonać rzut na Fortitude (DC 25) lub otrzyma dodatkowe 2d6 obrażeń od zimna i będzie oszołomiony przez 1 rundę.
+<271>Ten adamantynowy topór bojowy ma premię +3 do umiejętności przy atakach z zaskoczenia. Jeśli jest używany z tarczą strażnika, daje premię +3 do ataku i zadaje dodatkowe 2d6 obrażeń od trafienia.
+<272>Jeśli ten sztylet z efektem +3 Ghosttouch Punching zostanie użyty do ataku skradania, zadaje dodatkowe 2d6 obrażeń od przebicia, które mogą być krytyczne.
+<273>Jeśli Mnich użyje tego +4 Heartseeker Nunchaku, to daje ono premię +5 do CMD i CMB.
+<274>Za każdym razem, gdy ten +5 vorpalowy, święty miecz uderzy w tageta, musi on wykonać Fortitude Save (DC 15 + poziom posiadacza) lub zostanie uwięziony w ogromnym krysztale na 1 rundę.
+<275>Nahyndryjskie vorpalowe ostrze
+<276>Fortitude
+<277>Posiadacz tego adamantynu o mocy +5 może użyć akcji standardowej, aby wykonać atak w walce wręcz o zasięgu 30 stóp. Jeśli ten atak trafi, cel musi wykonać save vs Fortitude (DC 30) albo padnie na ziemię.
+<278>Za każdym razem, gdy użytkownik tego laski o długości +4 użyje zaklęcia Przywołanie Potwora, daje on premię +6 do Siły, Zręczności i Konstytucji wszystkim przywołanym stworzeniom.
+<279>Bramy Twierdzy
+<280>Ulice
+<281>Zasada Niepewności - Teleport
+<282>Zasada Niepewności
+<283>Zyskujesz premię do naturalnego pancerza równą 1 + 1 na 3 poziomy mistrza. Zyskujesz także odporność na ciosy, cięcia, dźgnięcia i {g|Encyclopedia:Damage_Type}podcięcia{/g}. Rządzący zyskuje {g|Encyclopedia:Damage_Reduction}DR{/g} 10/zimne żelazo i dobro. Ignoruje pierwsze 10 punktów {g|Encyclopedia:Damage}obrażeń{/g} za każdym razem, gdy otrzymuje obrażenia od broni. Gdy {g|Encyclopedia:Spell}zaklęcie{/g} zapobiegnie w sumie 10 punktom obrażeń na {g|Encyclopedia:Caster_Level}poziom mistrza{/g}, zostaje rozładowane.
+<284>Utrata siły cielesnej jest wysoką ceną, jaką płacisz za zostanie lichem.
+<285>Cierpisz na -2 kary do swoich wyników umiejętności Siła, Zręczność i Konstytucja. Twoja prędkość poruszania się {g|Encyclopedia:Speed}zmniejsza się o 10 stóp. Twoje ataki mają 20% szans na chybienie.
+<286>Otwórz stronę [Draft]
+<287>pomiń zdanie
+<288> 
+<289> 
+<290> 
+<291>{source}jest odporny na {text} w obecnej walce ze względu na ustawienia trudności.
+<292>Przybierasz aspekt sokoła. Twoje oczy stają się szerokie i podobne do raptorskich, a po bokach głowy wyrastają ci pióra. Zyskujesz premię +3 do {g|Encyclopedia:Bonus}kompetencji{/g} do {g|Encyclopedia:Perception}sprawdzania percepcji{/g}, premię +1 do {g|Encyclopedia:RangedAttack}ataków z dystansu{/g}, a mnożnik {g|Encyclopedia:Critical}krytyczny{/g} dla twoich łuków i kusz staje się 19-20/×3.<br>Efekt ten nie nakłada się z żadnym innym efektem rozszerzającym zasięg zagrożenia broni, takim jak Ulepszony krytyczny {g|Encyclopedia:Feat}forteca{/g} lub broń z ostrym narzędziem.
+<293>To {g|Encyclopedia:Spell}zaklęcie{/g} daje +8 odporności {g|Encyclopedia:Bonus}bonus{/g} na {g|Encyclopedia:Saving_Throw}rzuty ratunkowe{/g} przeciwko wszystkim zaklęciom i efektom wpływającym na umysł. Podmiot jest również chroniony przed wszystkimi przedmiotami, zaklęciami i innymi efektami, które zbierają informacje o celu za pomocą magii wróżbiarskiej (takimi jak wyczucie myśli, prawdziwe widzenie i niewidzialność).
+<294>To {g|Encyclopedia:Spell}zaklęcie{/g} działa podobnie jak Mind Blank, z tą różnicą, że dotyczy wszystkich członków grupy i trwa przez 4 godziny.<br>Mind Blank: To zaklęcie daje +8 odporności {g|Encyclopedia:Bonus}bonus{/g} na {g|Encyclopedia:Saving_Throw}rzuty ratunkowe{/g} przeciwko wszystkim zaklęciom i efektom wpływającym na umysł. Podmiot jest również chroniony przed wszystkimi przedmiotami, zaklęciami i innymi efektami, które zbierają informacje o celu za pomocą magii wróżbiarskiej (takimi jak wyczucie myśli, prawdziwe widzenie i niewidzialność).
+<295>Dhampir jest odporny na efekty wyczerpania energii.
+<296>Czasami interakcja z obiektem wymaga sprawdzenia {g|Encyclopedia:Skills}umiejętności{/g}.<br> Udane sprawdzenie umiejętności {g|Encyclopedia:Check}umiejętności{/g} może być konieczne do wykonania różnych zadań, takich jak pokonanie przeszkody, wyważenie zamka w drzwiach lub skrzyni, rozbrojenie pułapki, przeniesienie czegoś ciężkiego, odczytanie napisu w starożytnym języku i wiele innych. Czynność zostanie wykonana przez postać z najwyższą umiejętnością {g|Encyclopedia:Bonus}bonus{/g}.
+<297>Czasami interakcja z przedmiotem wymaga sprawdzenia {g|Encyclopedia:Skills}umiejętności{/g}.<br>Pomyślne sprawdzenie {g|Encyclopedia:Check}umiejętności{/g} może być konieczne do wykonania różnych zadań: pokonania przeszkody, wyważenia zamka w drzwiach lub skrzyni, rozbrojenia pułapki, przeniesienia czegoś ciężkiego, odczytania napisu w starożytnym języku i wielu innych.<br>Różne zadania wymagają różnych umiejętności. Jeśli masz wybranych kilka postaci jednocześnie, {g|Encyclopedia:CA_Types}akcja{/g} zostanie wykonana przez postać z najwyższą umiejętnością {g|Encyclopedia:Bonus}bonus{/g}, więc powinieneś wybrać całą drużynę przed próbą sprawdzenia.
+<298> 
+<299>W ramach szybkiej akcji Deskari ciska w cel śmiercionośnymi insektami, zadając 10d8 obrażeń. Udany rzut chroniący przed obrażeniami (DC 34) zmniejsza je o połowę. DC jest zależne od konstytucji.
+<300>Szkodliwe larwy
+<301>Save: Fortitude (DC 34)<br>Częstotliwość: 1/runda<br>Efekt: 6d8 niecnych obrażeń<br>Usuwa się po 1 udanym rzucie<br>Centrum zapisu zależy od Konstytucji.
+<302>Apokaliptyczna Plaga
+<303>Save: Fortitude (DC 34)<br>Częstotliwość: 1/runda przez 6 rund<br>Efekt: 1d3 obrażeń od Konstytucji i stan oszołomienia<br>Uleczenie: 3 kolejne save'y<br>Comp save'u zależy od Konstytucji.
+<304>Za każdym razem, gdy Deskari trafi przeciwnika, cel musi zdać {g|Encyclopedia:Saving_Throw}Rzut Wytrzymałościowy{/g} DC 47 albo zostanie zatruty jadem Deskari i zarażony Apokaliptyczną Plagą.<br>Jad Deskari: Save: Fortitude (DC 34); Częstotliwość: 1/okrąg; Efekt: 6d8 nieświętych obrażeń; Usuwany po 1 udanym save'ie. DC zapisu zależy od Konstytucji.<br>Apokaliptyczna plaga: Save: Fortitude (DC 34); Częstotliwość: 1/runda przez 6 rund; Efekt: 1d3 obrażeń od Konstytucji i stan oszołomienia; Leczenie: 3 kolejne save'y. DC ratunku zależy od Konstytucji.
+<305>Apokaliptyczne Użądlenie
+<306> 
+<307> 
+<308>Атака дальнего боя
+<309>Атака дальнего боя
+<310> 
+<311> 
+<312>Arcykapłan może korzystać z zalet objawienia wyroczni Combat Healer, używając zaklęć zadających obrażenia zamiast zaklęć leczących.
+<313>Przeklęty Uzdrowiciel
+<314>Obrażenia od zimna zadawane przez Arcykapłana nie mogą być powstrzymane lub zmniejszone przez odporności energetyczne lub immunitety energetyczne.
+<315>Śmiertelny Chłód
+<316>Arcykapłan zyskuje korzyści i zaklęcia z dwóch tajemnic wyroczni.
+<317>Podwójna Tajemnica
+<318>Kiedy Arcykapłan jest w swojej prawdziwej postaci, jego ataki liczą się jako wytworzona lekka broń finezyjna +5 ze zdolnościami specjalnymi Zwinność, Mróz i Poszukiwacz Serc oraz zasięgiem zagrożenia krytycznego 18-20.
+<319>Rapier Cienia
+<320>Jako szybka akcja Broken Trickster może zmienić kształt terenu w promieniu 20 stóp wokół siebie za pomocą siły iluzji.
+<321>Zmiana kształtu rzeczywistości
+<322>Każda istota, która wejdzie do tego gąszczu, musi wykonać rzut na przetrwanie przeciwko woli (DC 26) lub uznać ten teren za prawdziwy. Jest to trudny teren i za każdym razem, gdy dotknięta nim istota zaczyna swoją turę w tym obszarze, musi wykonać rzut na refleks (DC 26) lub zostanie uwięziona na 1 rundę.
+<323>Iluzoryczny Gąszcz
+<324>Każda istota, która wejdzie na to lodowe pole, musi wykonać rzut ratujący przeciwko woli (DC 26) albo uzna ten obszar za prawdziwy. Jest to trudny teren i za każdym razem, gdy dotknięta nim istota rozpocznie swoją turę w tym obszarze, musi wykonać rzut na refleks (DC 26) lub zostanie powalona na ziemię.
+<325>Iluzoryczne Pole Lodowe
+<326>Każda istota, która wejdzie na ten wulkaniczny teren, musi wykonać rzut ratujący przeciwko woli (DC 26) lub uznać ten obszar za prawdziwy. Jest to trudny teren i za każdym razem, gdy dotknięte nim stworzenie rozpoczyna swoją turę na tym obszarze, otrzymuje 3d6 obrażeń od ognia.
+<327>Iluzoryczny Teren Wulkaniczny
+<328>Każda istota, która wejdzie do tej kałuży błota, musi wykonać rzut ratunkowy przeciwko woli (DC 26) lub uznać ten obszar za prawdziwy. Jest to trudny teren i za każdym razem, gdy dotknięta nim istota rozpocznie swoją turę w tym obszarze, musi wykonać rzut na Fortitude (DC 26) lub zostanie zatruta trucizną Bagiennego Ludożercy.
+<329>Błoto iluzji
+<330>Крик ломающий шмотки
+<331>Złoty golem po zniszczeniu topi się w bezwartościowy żużel, uwalniając chmurę oparów, która zadaje {g|Encyclopedia:Dice}1d4{/g}punktów {g|Encyclopedia:Constitution}Konstytucji{/g} {g|Encyclopedia:Damage}obrażeń{/g} wszystkim stworzeniom w promieniu 10 stóp. Udany punkt {g|Encyclopedia:DC}DC{/g} 23 {g|Encyclopedia:Saving_Throw}obrony kondycyjnej{/g} neguje ten efekt. Jest to efekt trucizny. DC obrony zależy od Konstytucji.
+<332>Przepaść śmierci
+<333>Złoty golem po zniszczeniu topi się w bezwartościowy żużel, uwalniając chmurę oparów, która zadaje {g|Encyclopedia:Dice}1d4{/g}punktów {g|Encyclopedia:Constitution}Konstytucji{/g} {g|Encyclopedia:Damage}obrażeń{/g} wszystkim stworzeniom w promieniu 10 stóp. Udany {g|Encyclopedia:DC}DC{/g} 30 {g|Encyclopedia:Saving_Throw}obron{/g} odporności{/g} neguje ten efekt. Jest to efekt trucizny. DC obrony zależy od Konstytucji.
+<334>Złoty golem po zniszczeniu topi się w bezwartościowy żużel, wypuszczając chmurę oparów, która zadaje {g|Encyclopedia:Dice}1d4{/g}punktów {g|Encyclopedia:Constitution}Konstytucji{/g} {g|Encyclopedia:Damage}obrażeń{/g} wszystkim stworzeniom w promieniu 10 stóp. Udany punkt {g|Encyclopedia:DC}DC{/g} 29 {g|Encyclopedia:Saving_Throw}Ocalenie kondycji{/g} neguje ten efekt. Jest to efekt trucizny. DC obrony zależy od Konstytucji.
+<335> 
+<336>Nahindri
+<337> 
+<338>Древнее гнилостное быстродрево Минибосс
+<339>Минибосс Гамадриада лучник
+<340>Bythos Минибосс
+<341>Nahyndryjski rapsodysta
+<342>Nahyndryjski brukarz
+<343>Nahyndryjski ślepy traf
+<344>Nahyndryjski przywoływacz cieni
+<345>Nahyndryjski Władca Cieni
+<346>Martwe ciało Arcykapłana wydziela straszliwy smród. Co turę zadaje 4d6 obrażeń od negatywnej energii wszystkim w promieniu 20 stóp od niego.
+<347>Smród Śmierci
+<348>Nilkoth, Arcykapłan z Nahyndri
+<349>Podstępny piracki łucznik
+<350>Pastor Besmara
+<351>Podstępny Pirat Gardło
+<352>Podstępny Piracki Unik
+<353>Kapitan Mordimar Złoty Ząb
+<354>Podstępny piracki łucznik
+<355>Podstępny Pirat Brutal
+<356>Podstępny fanatyk Besmary
+<357>Podstępny Piracki Zaklinacz
+<358>Podstępny piracki łucznik
+<359>Podstępny Pirat Brutal
+<360>Fanatyk złośliwej Besmary
+<361>Podstępny Piracki Zaklinacz
+<362>Żądny krwi piracki łucznik
+<363>Krwiożerczy Pirat Brutal
+<364>Krwiożerczy Fanatyk Besmary
+<365>Zaklinacz krwiożerczych piratów
+<366>Минибосс сингмаг гнева (эвокатор)
+<367>Piracki Szaleniec
+<368>Wtajemniczony Besmara
+<369>Wtajemniczony Besmara
+<370>Piracki czarodziej
+<371>Piracki zaklinacz
+<372>Kapitan Mordimar Złoty Ząb
+<373>Piracki zabójca
+<374>Piracki Zaklinacz
+<375>Piracki zaklinacz
+<376>Piracki piwowar
+<377>Wtajemniczony Besmara
+<378>Piracki łucznik
+<379>Piracki łucznik
+<380>Piracki zabójca
+<381>Piracki Nekromanta
+<382>Chciwy Piracki Łucznik
+<383>Akolita Besmary
+<384>Chciwy Pirat Gardło
+<385>Chciwy Piracki Łucznik
+<386>Chciwy Pirat Brutal
+<387>Chciwy Piracki Łucznik
+<388>Pastor Besmary
+<389>Chciwy Pirat Gardło
+<390>Wędrowny piwowar
+<391>Poszukiwacz skarbów Minstrel
+<392>Poszukiwacz skarbów Gardło
+<393>Poszukiwacz skarbów Nekromanta
+<394>Poszukiwacz skarbów Unik
+<395> 
+<396> 
+<397> 
+<398> 
+<399> 
+<400> 
+<401>Wiedźmin, który nie jest w stanie się ukryć.
+<402> 
+<403>Минибосс Сиабрае
+<404> 
+<405> 
+<406>Wędrowny szaleniec
+<407>Wędrowny Minstrel
+<408>Wędrowny czarodziej
+<409>Wędrowny iluzjonista
+<410>Wędrowny Nekromanta
+<411>Wędrowny uczeń
+<412>Wędrowny strzelec wyborowy
+<413>Wędrowny zabójca
+<414>Wędrowny Łucznik
+<415>Brutal poszukujący skarbów
+<416>Wędrowny zaklinacz
+<417>Wędrowny rzezimieszek
+<418>Wędrowna zabójczyni
+<419>Wędrowny strzelec wyborowy
+<420>Wędrowny Iluzjonista
+<421>Wędrowny Nekromanta
+<422>Inicjator Dagona
+<423>Wędrowny strzelec wyborowy
+<424>Wędrowny Unik
+<425>Wędrowny Marksista
+<426>Wędrowny przemieniacz
+<427>Wędrowny piwowar
+<428>Wędrowny brutal
+<429>Wędrowny rzezimieszek
+<430>Wędrowny zabójca
+<431>Wędrowny strzelec wyborowy
+<432>Wędrowny piwowar
+<433>Chciwy wędrowny piwowar
+<434>Chciwy wędrowny brutal
+<435>Poszukiwacz skarbów Piwowar
+<436>Poszukiwacz skarbów Brutal
+<437>Poszukiwacz skarbów Minstrel
+<438>Poszukiwacz skarbów
+<439>Poszukiwacz skarbów
+<440>Poszukiwacz skarbów Łucznik
+<441>Poszukujący skarbów Iluzjonista
+<442>Nekromanta szukający skarbów
+<443>Akolita Dagona
+<444>Łowca skarbów Unik
+<445>Łowca skarbów Strzelec wyborowy
+<446>Poszukiwacz skarbów Zaklinacz
+<447>Poszukiwacz skarbów Piwowar
+<448> 
+<449>Poszukiwacz skarbów Piwowar
+<450>Poszukiwacz skarbów Minstrel
+<451> 
+<452>Poszukiwacz skarbów - rzezimieszek
+<453>Poszukiwacz skarbów Nekromanta
+<454>Poszukiwacz skarbów Unik
+<455> 
+<456> 
+<457>Woundwyrm
+<458>Минотавр кастер минибосс
+<459> 
+<460>Smok Rozpruwacz
+<461>Минибосс инкуб ассассин
+<462>Мифик деракни енерватор минибосс
+<463>Animowana zbroja sir Baltona
+<464>Nieskalany szkieletowy bohater
+<465> 
+<466> 
+<467> 
+<468>Босс 3
+<469>Arndor Gurnisson
+<470>Siemhilda
+<471>Veshka Sowie oczy
+<472>Phau Minh
+<473>Ladarhon
+<474>Urghzan Korzeniopalca
+<475>Ten potwór jest otoczony przez straszliwy smród. Każda istota znajdująca się w promieniu 10 stóp od niego musi wykonać udany rzut na Fortitude (DC 19), albo dostanie mdłości na 1d4 rundy. Udany rzut sprawia, że stworzenie jest odporne na smród tego potwora przez 24 godziny.
+<476>Czarnoksiężnik
+<477>Phau Minh
+<478>Kapłan wojny
+<479>Urghzan Korzenny
+<480>Melee
+<481>Ilekroć ten +2 falchion z zimnego żelaza trafia istotę, która jest pod wpływem efektu Hex, zadaje dodatkowe {g|Encyclopedia:Damage}obrażenia{/g} równe obrażeniom bazowym broni.
+<482>Za każdym razem, gdy ten estoc +3 keen potwierdzi {g|Encyclopedia:Critical}krytyczne trafienie{/g} przeciwnika, cel otrzymuje -2 {g|Encyclopedia:Penalty}karę{/g} na {g|Encyclopedia:Attack}rolle ataku{/g}, {g|Encyclopedia:Saving_Throw}rzuty ratunkowe{/g} i {g|Encyclopedia:Skills}kontrole umiejętności{/g} do końca walki. Efekty wielokrotnego użycia tej umiejętności nie nakładają się na siebie.
+<483> 
+<484> 
+<485> 
+<486>Przychód punktów energii zwiększa się o 3, dodaje 6 000 punktów doświadczenia Logistyki.
+<487>Jednostka jest odporna na umiejętności [Sieć] i [Atak sieciowy].
+<488>Teraz potrzebujesz własnej infrastruktury, aby zatrudniać jednostki, które można szkolić. Aby rekrutować jednostki piechoty, zbuduj Główne Koszary; aby rekrutować jednostki dystansowe, zbuduj Główną Strzelnicę; aby rekrutować jednostki kawalerii, zbuduj Główne Stajnie.<br>Masz jeszcze dostęp do jednostek najemników. Przybywają one do Drezen co tydzień. Statystyki podstawowe jednostek najemników są lepsze niż jednostek szkolonych, ale najemnicy wymagają więcej zasobów i mogą być rekrutowani tylko jako grupa w całości.<br>Jeśli nie jesteś zadowolony z najemników, którzy przybyli w danym tygodniu, możesz poszukać nowych jednostek. Liczba darmowych poszukiwań w ciągu tygodnia jest ograniczona, ale z czasem można ją zwiększyć.<br>W zależności od wybranej ścieżki mitycznej uzyskasz dostęp do dekretów, które rekrutują specjalne mityczne jednostki do Twojej sprawy.
+<489>{n}Onieśmielająca twarz Lanna staje się jeszcze bardziej przerażająca.{/n}<bs_n1>Nie bój się, Ember. Jeśli komuś stanie się krzywda, to tylko tym złym.<bs_n1>
+<490>Laska jest ozdobiona skomplikowanymi symbolami sławiącymi Sarenrae. Straciła swoją moc, ale została obdarzona duchem męczennicy Cessily Mantiel i stała się relikwią upamiętniającą jej wielkie poświęcenie. Niestety, jest bezużyteczna w walce.
+<491>Laska tlącego się płomienia
+<492><bs_n1>Rozmawiałem w twoim imieniu z Nocticulą. Obiecała, że się nad tym zastanowi<bs_n1>.
+<493><bs_n1>Sternik statku z kości w porcie Alushinyrry jest manifestacją Nahyndri. Poszukuje on największego skarbu Nahyndri, czymkolwiek on jest.<bs_n1>.
+<494><bs_n1>Hepzamirah od czasu do czasu odwiedza Alushinyrrę, ale jej prawdziwe legowisko znajduje się daleko stąd. Ukrywa się na wyspie Colyphyr, na północnym zachodzie mojego archipelagu. Tam znajduje się jej <bs_n1>tajna<bs_n1> forteca. W głębokich kopalniach jej niewolnicy wydobywają kryształy Nahyndrian dla armii najeźdźców, którą planuje sprowadzić na Golarion. Dam ci wspaniały sterowiec i doświadczoną załogę, która cię tam zabierze. To będzie długa i niebezpieczna podróż. Poświęćcie trochę czasu na przygotowania<bs_n1>.
+<495><bs_n1>Mam ten statek na oku już od jakiegoś czasu. A ty przyłączyłeś się do jego polowania nie z innego powodu, jak tylko po to, by mi o tym opowiedzieć, jestem tego pewien.<bs_n1>{n}Nocticula chichocze.{/n}<bs_n1> Mimo wszystko, dokonałeś właściwego wyboru. Pracuj dalej nad tą parodią Nahyndri. Odnajdę cię, gdy twoje poszukiwania zbliżą się do końca.<bs_n1>.
+<496><bs_n1>A tak się składa, że mamy też dzielnicę portową. Jeśli chcesz ją znaleźć, podążaj za smrodem - jest tam jeszcze silniejszy niż w Dolnym Mieście. Słyszałem, że niedawno zadokował tam kościany statek. Ich sternik zbiera załogę na poszukiwanie skarbów. Rzuć okiem, jeśli lubisz takie rzeczy.<bs_n1>
+<497><bs_n1>Towarzysze i towarzyszki, stoję przed wami, nie próbując ukrywać tego, kim jestem - nie wybrańcem Iomedae, jak wielu sądziło, ale waszym Rycerzem Dowódcą. Jestem tym, który pokonał niezliczone ilości demonów i pokona jeszcze wiele. Zło nie zazna spokoju na tej ziemi! A ja nigdy nie przestanę go ścigać<bs_n1>.
+<498><bs_n1>Jesteśmy przeklętym zastępem Otchłani! Jesteśmy zgubą! Jesteśmy plagą na obliczu stworzenia!<bs_n1>.
+<499><bs_n1>Pozbawiliście mnie zemsty! I dałeś mi jeszcze więcej powodów, by cię nienawidzić!<bs_n1><bs_n1>.
+<500>[<bs_n1>Czy znasz ten przedmiot?<bs_n1><bs_n1>Poznajesz go?
+<501><bs_n1>Poznaję go. Moja laska, która niosła ciepłe światło bogini. Gdybym tylko miał ją w ręku w godzinie mojej ostatniej walki... Ale Kestoglyr mi ją odebrał. Magia Baphometa już zapanowała nad jego umysłem.<bs_n1>
+<502>{n} Duch sięga po laskę, ale natychmiast wycofuje rękę.{/n}<bs_n1>Ale ja nie mam już prawa jej dotknąć! Światło tej relikwii nie uleczy już niczyich ran, ona umarła tak samo jak ja. Teraz ta laska ma być tylko wspomnieniem mojego ponurego losu.<bs_n1>{n}Na ognistym wzorze na lasce pojawia się słaba poświata, przypominająca migotanie tlących się węgli.{/n}.
+<503><bs_n1>Więc tam na górze ludzie jeszcze żyją? A my myśleliśmy, że Światowid zabił wszystkich<bs_n1>.
+<504><bs_n1>Czy naprawdę musimy tam wracać? Wydaje się, że dobrze nam się tu wiedzie<bs_n1>.
+<505><bs_n1>Skoro jesteś stamtąd, powiedz mi, jak wyglądają gwiazdy? Czy są bardziej jak ogniki, czy jak świecące grzyby?<bs_n1>.
+<506><bs_n1>Masz takie wymyślne ubrania, nie to co nasze potargane łachmany.<bs_n1>.
+<507><bs_n1>Wierzyłam, że kiedyś je znajdę! Zawsze wierzyłem!<bs_n1>.
+<508>Na niższy poziom
+<509>Do górnego poziomu
+<510><bs_n1>Rozdanie.<bs_n1>
+<511><bs_n1>Nie ma umowy.<bs_n1>
+<512><Wampir rzuca na Ciebie rozpaczliwe spojrzenie, ale w jego oczach nie widać strachu. Jego ubrania są potargane i podarte od walki z twoimi wojownikami.{/n}
+<513>Ta laska daje posiadaczowi możliwość zmiany obrażeń od żywiołów do trzech zaklęć rzucanych dziennie na obrażenia od zimna. Jeśli wróg otrzyma obrażenia od zaklęcia zadającego natychmiastowe obrażenia rzuconego za pomocą tej różdżki, musi zdać rzut na refleks (DC równe DC zaklęcia) albo zostanie spowolniony na 1d4 rundy, jak w przypadku zaklęcia spowolnienia. Dotknięty wróg roztacza aurę mrozu na odległość 15 stóp przez ten sam czas. Każdy wróg, który wejdzie w tę aurę, musi zdać rzut na refleks (DC równe DC zaklęcia) albo zostanie spowolniony na 1d4 rundy.
+<514>Próbował pomóc kultystom w bitwie za pamięci Nahyndri.
+<515>Próbował uratować kultystów we wspomnieniu Nahyndri.
+<516>Zostawił kultystów na śmierć we wspomnieniu Nahyndriego.
+<517>Czuję pokusę, by pomóc moim kultystom. Dać im moc, stanąć po ich stronie i pomalować ściany krwią tych, którzy ośmielili się wtargnąć do mojego sanktuarium. W końcu, kim jest Abadar? Starym, zniedołężniałym księgowym, ciągle bredzącym o zbożu, cegłach i kursach wymiany monet. Niech moje świątynie i posągi staną zamiast jego w każdym mieście, niech moje imię zamiast jego będzie szeptane przez śmiertelników w ich modlitwach...<br>Co za kompletny idiotyzm. Nie ma we wszechświecie waluty, która byłaby warta mniej niż uwielbienie śmiertelników. Dziś te gnaty cię chwalą, jutro przeklinają, a pojutrze - oto one wszystkie zginęły, a twoje świątynie stoją puste, ku uciesze grabieżców. Ambicja jest zabawą głupców - mądrzy znają swoją wartość bez cudzych pochwał. Ja im nic nie dam. Nie po to przez tysiąclecia gromadziłem swoje moce, żeby je marnować na śmiertelne insekty!
+<518>Brzęk broni, ryk płomieni, zapach świeżej krwi. Mętne bełkotanie śmiertelnika u mych stóp. Co tu się stało? Stało się to, że moi bezmyślni słudzy zbierają to, co zasiali - złożyli wizytę w świątyni Abadara, a teraz Abadarianie przyszli się odwdzięczyć. Przyprowadzili golemy oblężnicze, z łatwością wyrwali bramy z zawiasów, a teraz rzezają moich kultystów jak bydło. A wtedy ten głupiec, którego krótkowzrocznie nazwałem swoim Arcykapłanem, wykorzystał ten niezasłużony przywilej i wezwał mnie jak chłopca na posyłki w nadziei, że uratuję ich bezużyteczne życie. Całuje moje stopy, patrząc na mnie z uwielbieniem. Widząc moją potężną postać, kultyści podnoszą broń i wykrzykują moje imię - a Abadarianie cofają się w popłochu.<br><bs_n1>Jesteśmy na zawsze twoi, mój panie,<bs_n1>szepcze mój Arcykapłan. Udziel nam pomocy, a będziemy wychwalać twoje imię w całym Golarionie.<br><bs_n1>Oburzenie, które czuję, jest niemal wystarczające, by zmiażdżyć go pod stopami tu i teraz - jak opętany śmie negocjować ze swoim właścicielem? Ale kiedy patrzę w oczy moich kultystów, waham się. Coś w nich płonie - coś nieznanego, coś większego niż strach niewolnika czy nudne posłuszeństwo. Przez chwilę mam wrażenie, że obiecują mi coś, czego nigdy wcześniej nie posiadałem - nowy skarb, którego nie można wziąć siłą ani podstępem, a jedynie otrzymać w darze. I wtedy właśnie podejmuję decyzję.
+<519>Słudzy Abadara wściekle ruszają do walki. Zanim zajdzie słońce, mój kult przestanie istnieć - i dobrze, że tak się stało. Zmarnowałem na nich tyle czasu i wysiłku, a jedyne, co zyskałem w zamian, to pogorszenie sytuacji.<br>Powracam do swojej domeny - ale nie sam. W moich szponach drży śmiertelny insekt, ten, który ośmielił się nazwać siebie moim Arcykapłanem. Jakbym pozwolił mu ponownie mnie wezwać. Chciał być moją własnością, a ja spełnię jego życzenie - na własnych warunkach. Wrzucam go do klatki mroku i cienia, do zamrożonego wspomnienia katastrofy, którą sprowadził na kult. Tam pozostanie na zawsze, pomiędzy życiem a śmiercią, powoli tracąc zdrowy rozsądek. To odpowiednia kara dla pasożyta, który przekroczył granice mojej hojności.<br>Jego ostatnie żałosne spojrzenie daje mi do myślenia. Śmiertelnicy są niczym innym jak kłopotami - dlaczego więc czuję się tak, jakbym właśnie stracił klejnot, którego już nigdy nie będzie można odzyskać? Czy mogłem popełnić błąd?
+<520>Czy w ogóle ich potrzebuję? Oczywiście powinienem chronić swoje mienie, ale ci śmiertelnicy nie przynoszą mi nic poza stratami i kłopotami. Powiedzmy, że uratuję ich teraz - będąc świadkami mojej hojności, jutro będą dwa razy bardziej chętni do błagania o datki. Dlaczego miałbym tego chcieć? Nie można trzymać pochwał i pełnych uwielbienia spojrzeń w skrzyni. Te pasożyty już wystarczająco długo cieszą się moją wielkodusznością.
+<521>Próbowałem zostawić Otchłań w pamięci Nahyndri.
+<522>Uwięził anioła ze snu Nahyndriego po wsze czasy w odległym zakątku swojego królestwa.
+<523><bs_n1>Wygnam cię do najdalszego zakątka mojego królestwa, gdzie spędzisz wieczność w samotności.<bs_n1>
+<524>Próbował uwolnić anioła w pamięci Nahyndri.
+<525>Musiał nastąpić moment, w którym opętanie nią przestało przynosić mi radość, ale nie potrafię powiedzieć, kiedy nastąpiła ta zmiana. Co wcześniej w niej widziałam? Co sprawiło, że śniłem o niej, ściskając w pięści jej pióro? Jej tryle, niegdyś tak słodkie dla mych uszu, teraz drażnią mnie swoją monotonią. Jej lekceważenie dla moich darów sprawia, że zgrzytam zębami ze złości. Ile cennych diademów, naszyjników i pierścionków zepsuła? Ile sukien podarła na kawałki? Moja dłoń bezwiednie zwija się w pięść.
+<526>Mój ptaszek siedzi na schodach prowadzących do mojego tronu. Ma władzę nad całym pałacem, a jednak z jakiegoś powodu zawsze woli pozostać u mojego boku. Głupiutki, głupiutki ptaszek.
+<527>Czy pozwolę ci odejść? Czy naprawdę? Już cię nie potrzebuję, nie przynosisz mi radości. Kiedy na Ciebie patrzę, czuję tylko smutek i rozczarowanie. Rozgoryczenie z powodu tego, że na próżno roztrwoniłem takie bogactwo na twoje piękno. Rozczarowanie... czym, sam nie wiem. Kiedy Cię uwięziłem, jakaś część mnie zdawała się mieć nadzieję na coś nieznanego, ale teraz widzę, że to nieznane nigdy się nie spełniło.<br>Nie chcę Cię widzieć. Ale nie chcę też pozwolić Ci odejść.
+<528>Tym razem słowa płyną swobodnie. Są to właściwe słowa, pasujące, takie, jakie powinny być. Skąd więc ta gorycz, która utrzymuje się na moim języku?
+<529>Anioł słucha w milczeniu, jak wygłaszam swój osąd. Całe jej ciało drży, usta są blade, ale oczy pozostają pełne nadziei.<br><bs_n1>Możesz się jeszcze zmienić, Nahyndri. Wierzę, że możesz. Będę na ciebie czekać przez całą wieczność.<bs_n1><br>Odwracam się. Nie, nie mogę się zmienić. Wieczność to za mało czasu.
+<530>Niewyobrażalne słowa grzęzną mi w gardle. Duszę się, kaszlę. Ona wyciąga do mnie rękę, chce mi pomóc, ale ja robię krok w tył. Chcesz, żebym opuścił moje królestwo, aby inni władcy demonów mogli je spustoszyć? Jest moje, całe moje! A może zwabiłaś mnie w pułapkę, aby schwytać mnie tak, jak ja schwytałem ciebie? Prawie uwierzyłem ci i twoim bezczelnym oczom! Prawie przehandlowałem mój status, moją władzę, moje bogactwa za... co? Co możesz mi dać w zamian? <br>Zaklęcie zostało złamane, a ja westchnąłem z ulgą.
+<531>Gwiezdna grzechotka w klatce w pamięci Nahyndri.
+<532><bs_n1>Będziesz moim trofeum. Dzień po dniu, ty, pomiocie chaosu, będziesz tkwił w swojej duszącej klatce. Twoje serce zgnije, umysł się wyłączy, a ty spędzisz resztę swoich dni jako zakuta w łańcuchy, krwiożercza bestia!
+<533>Próbował wypuścić Gwiezdną Grzechotkę w pamięci Nahyndri.
+<534><bs_n1>Nie, oczywiście, że nie.<bs_n1>
+<535>Mój mały złodziej, przebiegły protean, który nosi głupie imię Gwiezdna Grzechotka, nawet nie próbuje wyrwać się z mojego uścisku. Czy się poddał? Czy ja zwyciężyłem? Tak! <br><bs_n1>Nie będziesz mnie już okradał! Żaden z moich klejnotów nie da ci nawet iskry uniesienia!<bs_n1>Warknęłam, gdy mój triumf pożera mnie od środka.
+<536>Mój przeklęty mały złodziejaszek śmieje się - szyderczo, kwaśno, nieznośnie.<bs_n1> Właśnie okradłeś samego siebie! Odebrałeś sobie wspaniałą rozrywkę! Co za głupiec!<bs_n1> Nawet groźba uwięzienia i degeneracji do prymitywnej bestii, której jedynym pragnieniem jest zabijanie i torturowanie, nie powstrzyma tego węża od wyśmiewania się ze mnie.
+<537><bs_n1>Oczywiście, że nie. Nie.<bs_n1>
+<538>Ale mój złodziej tylko potrząsa swoją kryształową grzechotką i syczy beztrosko:<bs_n1> Na co mi twoje bombki? Nigdy ich nie szukałem. Same skarby nie są mi potrzebne, ale twój gniew i zraniona duma - to było rozkoszne. Podziwianie się leży w mojej naturze i czerpię radość z pokonania tak potężnego przeciwnika. A ty znajdowałeś radość w naszej rywalizacji. Cieszyłeś się z tego polowania, czyż nie? Tym razem złapałeś swoją ofiarę. A teraz uwolnij mnie, byśmy mogli kontynuować naszą grę.<bs_n1><br>Mój złodziej patrzy na mnie z bezwstydną naiwnością, jakby zupełnie się mnie nie bał.
+<539>Cóż to za szaleństwo? Jaką przyjemność można było znaleźć w byciu okradzionym przez tego wstrętnego węża? Polowanie nie przyniosło mi żadnego dreszczyku emocji, a jedynie... wstręt! Wściekłość! <br>Czy mój mały, przebiegły złodziejaszek wślizgnął się do mojego umysłu, czy manipuluje moimi myślami? Czy próbuje ukraść moje zwycięstwo? On nie chce tego zrobić!
+<540>Nagle wykręcam jego słabą rękę i wyrywam kryształową grzechotkę z jego rąk, rzucając ją na podłogę. Jej brzęk jest tak żałosny, tak kruchy.
+<541>Co ja sobie myślę? Nawet gdyby teraz przysiągł mi wierność, słowo urodzonego kłamcy byłoby mniej warte niż brzęk jego grzechotki. Byłby marnym sługą, po prostu wykorzystałby moją hojność, aby znów mnie okraść... Ale dlaczego tak bardzo pragnę dać mu szansę? Co za głupota. Ta myśl jest niegodna mojego sprytu. Precz z tym!
+<542><bs_n1>Wiem, że tam jesteś. Odpowiedz mi!<bs_n1>
+<543><bs_n1>Wrócę do ciebie później.<bs_n1>
+<544><bs_n1>Dlaczego nie chcesz rozmawiać?<bs_n1>.
+<545><bs_n1>Kim jesteś?
+<546><bs_n1>Sternik twierdzi, że jest prawdziwym Nahyndri.<bs_n1>
+<547><bs_n1>Kim ty naprawdę jesteś?
+<548><bs_n1>Czy nie chcesz wrócić do życia?<bs_n1>.
+<549><bs_n1>Jak dokładnie Sternik cię wykorzystuje?<bs_n1>.
+<550><bs_n1>Opowiedz mi o wspomnieniu, które cię obudziło<bs_n1>.
+<551><bs_n1>Pokaż mi jeszcze raz wspomnienie o Gwiezdnej Grzechotce.<bs_n1>
+<552><bs_n1>Co to za skarb, którego szukamy?<bs_n1>.
+<553><bs_n1>Nahyndri zmarła wiele lat temu.<bs_n1>
+<554><bs_n1>Pokaż mi jeszcze raz wspomnienie o ptaku śpiewającym.<bs_n1>
+<555><bs_n1>Więc możesz już opuścić swój łańcuch?<bs_n1>.
+<556><bs_n1>Opowiedz mi o wspomnieniu, które dało ci siłę.<bs_n1>
+<557><bs_n1>Pokaż mi jeszcze raz wspomnienie o Arcykapłanie.<bs_n1>
+<558><bs_n1>Chcę porozmawiać o twoich wspomnieniach.<bs_n1>
+<559><bs_n1>Poddałeś się. Pogodziłeś się z porażką, odmawiając zmiany czegokolwiek. Jesteś żałosny.<bs_n1>
+<560><bs_n1>Nie będę cię dalej dręczyć.<bs_n1>
+<561>[Atak]<bs_n1> Grozisz mi? To zobaczmy, na co cię stać!<bs_n1>
+<562><bs_n1>Widzę twoje wspomnienia. Dlaczego tak się dzieje?
+<563><bs_n1>Rozumiem, dlaczego nie chcesz o nich mówić<bs_n1>.
+<564>Zrobiło mi się żal ducha Nahyndri.
+<565><bs_n1>Twoje wspomnienia przynoszą ci ból. Współczuję ci twego losu i postaram się ci pomóc, jeśli tylko będę mogła.<bs_n1>.
+<566>Opowiedział duchowi Nahyndri o sądzie Pharasma.
+<567><bs_n1>Przez tysiące lat cierpiałeś za swoje zbrodnie. Ale każda kara może zostać zniesiona, gdy skazany wycierpi wystarczająco dużo. Być może wyrok Pharasmy będzie łagodny<bs_n1>.
+<568>Zganił ducha Nahyndri za bezczynność.
+<569><bs_n1>Nigdy nie jest za późno, by zmienić swój los w życiu lub śmierci! Wystarczy, że przestaniesz się nad sobą użalać, zbierzesz się do kupy i zrobisz coś!
+<570>Znieważony duch Nahyndri.
+<571><bs_n1>Jesteś żałosny, Nahyndri. Nigdy nie byłeś godzien nazywać się władcą demonów. A już na pewno nie jesteś tego godzien teraz.<bs_n1>.
+<572><bs_n1>Nie chcę ci nic mówić. Musisz sam odebrać swoją lekcję.<bs_n1>.
+<573><bs_n1>Opowiedz mi o wspomnieniu, które przywróciło ci moc przypominania sobie.<bs_n1>
+<574><bs_n1>Widziałem twoje trzy wspomnienia. Czy wiesz, co myślę?<bs_n1>.
+<575><bs_n1>To nie ma znaczenia. Zostawimy to tak jak jest.
+<576><bs_n1>Dlaczego wspomnienia sprawiają ci ból?<bs_n1>
+<577><bs_n1>Dlaczego wciąż nazywasz mnie swoim dręczycielem?<bs_n1>.
+<578><bs_n1>Atakowałeś mnie, ale byłeś zbyt słaby, by mnie skrzywdzić.<bs_n1>.
+<579><bs_n1>Słyszałem, że atakujesz najemników Sternika. Czy to prawda?<bs_n1>.
+<580><bs_n1>Teraz, gdy już wszystko sobie przypomniałeś, opowiedz mi o sobie.<bs_n1>
+<581><bs_n1>Jakiego skarbu poszukuje Sternik?<bs_n1>.
+<582>{n}Łańcuch milczy. Nie sposób stwierdzić, że czai się w nim esencja Nahyndri.{/n} {n}Cisza pozostaje.
+<583>{n}Cisza pozostaje, ale reaguje na Twoje słowa - czujesz teraz obecność innego.{/n}
+<584><bs_n1>Zginąłem z jej ręki, ale nie trafiłem do Szczeliny Spocznij, gdzie zwykle trafiają dusze zabitych władców demonów. Zamiast tego, królowa sukkubów postanowiła zamienić moje ciało w kamień, tworząc pierwszą z Wysp Północy.
+<585><bs_n1>Nie wiem, jak długo moja świadomość pozostawała w błogiej niepamięci, zanim obudziły mnie wspomnienia. Ten, który nazywa siebie Sternikiem, kieruje statek zbudowany z moich kości ku mojemu największemu skarbowi. A ja, wbrew własnej woli, prowadzę jego koło.<bs_n1>
+<586><bs_n1>Och, tak! Pewnego dnia będę miał to, czego potrzeba, by zabić zarówno jego, jak i wszystkich jego sługusów, w tym ciebie, dręczycielu!<bs_n1>.
+<587><bs_n1>Przyszedłeś szydzić z mojej słabości? Masz prawo, ale wiedz jedno - nadejdzie godzina, kiedy będę miał dość siły.<bs_n1>.
+<588>{n}Cisza staje się ciężka, uciążliwa. Metal łańcucha wydaje się ciemnieć. Minęła minuta, zanim usłyszałeś ochrypły głos:{/n}<bs_n1>Jestem Nahyndri.<bs_n1>.
+<589><bs_n1>...szarlatan...<bs_n1>.
+<590><bs_n1>Przypominanie sobie jest... trudne. Od chwili mojej śmierci minęła cała wieczność, ale wspomnienia... wspomnienia mnie budzą. Są moim bólem, a zapomnienie jest moim wybawieniem.<bs_n1>
+<591><bs_n1>Budzi wspomnienia, które śpią we mnie, a one pokazują mu kolejny krok na drodze. Jestem jego mapą skarbów. Jestem jego astrolabium. Jestem gwiazdą przewodnią, która doprowadzi go do najcenniejszego skarbu Nahyndri.<bs_n1>.
+<592>{n}Łańcuch staje się gorący, wzdłuż jego długości biegną ogniste smugi. Gdy tylko go dotykasz, wspomnienie Nahyndriego staje się niemal namacalne. Jego ból ogarnia cię {/n}.
+<593><bs_n1>Oczywiście, kapitan tego statku twierdzi inaczej. Uważa się za prawdziwego Nahyndriego, ale jest tylko jego kośćmi, jego szczątkami. Może i posiadają one pewną moc, ale jest ona ślepa i bezcelowa. Pragnie - ale nie może pojąć czego i dlaczego.<bs_n1>
+<594><bs_n1>Oszust o tym wie, dlatego wykorzystuje mnie, by zdobyć to, czego mu brakuje. Szansę. Celu. Przyszłości.<bs_n1>
+<595><bs_n1>Nie, nie chcę pamiętać! Nie mogę, nie chcę! Nie chcę znów przeżywać tego bólu!<bs_n1> {n}Statek drży pod twoimi stopami.{/n}<bs_n1>Nie! Nie!!!<bs_n1>.
+<596><bs_n1>Tego jeszcze nie wiem. Wiem tylko, że moja istota jest do niego przyciągana. Jest to kotwica przywiązana do końca mojego łańcucha. Tęsknię za nią, a jednocześnie boję się jej.<bs_n1>
+<597>{n}Po długiej pauzie nadchodzi kurtuazyjna odpowiedź:{/n}<bs_n1>Tak.<bs_n1>.
+<598><bs_n1>Mój dręczycielu, znowu tu jesteś? Czego ode mnie chcesz? Mów - albo zostaw mnie w spokoju!<bs_n1>.
+<599><bs_n1>Czego chcesz ode mnie, dręczycielu?<bs_n1>.
+<600><bs_n1>Nie na długo. Śmierć i czas osłabiły moje siły, ale nawet z ziarenka piasku można zbudować zamek.
+<601><bs_n1>Nie dało mi to siły. Zacisnęło się wokół mnie jak szczęki psa stróżującego, a ja biegłem, wyjąc z bólu, pragnąc się go pozbyć, wzywając zapomnienie, by mnie ocaliło!<bs_n1> {n}Głos Nahyndri jest przesiąknięty wściekłością.{/n}<bs_n1>Nie dało mi to siły! Zmusiło mnie do zebrania ostatnich resztek sił, które miałem, abym mógł przeciwstawić się temu, który zmusza mnie do pamiętania!
+<602><bs_n1>Zostaw mnie, dręczycielu. Czy moje cierpienie ci nie wystarcza?<bs_n1>.
+<603><bs_n1>Jeszcze jedno słowo... Jeszcze tylko jedno...<bs_n1>.
+<604>{n}Twoje słowa spotykają się z milczeniem.{/n}
+<605><bs_n1>Sam to na siebie sprowadziłeś! Gdy z tobą skończę, przestaniesz mnie dręczyć i zamilkniesz na zawsze!<bs_n1>.
+<606><bs_n1>Wyczuwam w tobie moc. Co oznacza, że wyczuwasz jej falowanie we mnie. Wiąże nas to razem, jak łańcuch.<bs_n1>.
+<607><bs_n1>Mityczna moc wiąże nas ze sobą. Moja moc! Oddaj mi ją! Oddaj mi ją i odejdź, odejdź i nie wracaj!<bs_n1>.
+<608><bs_n1>Będę... kontemplować twoje słowa<bs_n1>.
+<609><bs_n1>Życie, oczywiście. Jaki inny skarb martwy władca demonów mógłby nazwać największym?
+<610><bs_n1>To, czego pragnę, to przestać pamiętać. Zapomnieć o tym wszystkim - i o sobie. Sprawić, by moje wspomnienia opuściły mnie i nigdy nie wróciły. Jak powrót do życia ma mi w tym pomóc?<bs_n1>.
+<611><bs_n1>A jednak...<bs_n1>{n}Duch Nahyndri się waha.{/n}<bs_n1>A jednak słowa, które wypowiedziałeś po naszej bitwie sprawiły, że... mam nadzieję? Czy mogę w ogóle mieć nadzieję na zmianę czegokolwiek? Czy to, co przez tysiąclecia pozostawało strzaskane, może się na powrót poskładać? Nie wiem.<bs_n1>
+<612>{n}Duch łańcucha milczy przez jakiś czas.{/n}<bs_n1>To są moje żale. Punkty zwrotne w moim życiu, w których mogłem wszystko zmienić, ale nie zrobiłem nic. To moje rozczarowanie samym sobą.<bs_n1>
+<613><bs_n1>Wyczuwam to. Tam, tuż za horyzontem, bije moje czarne serce, które z jakiegoś niezgłębionego powodu zachowało iskrę mojego życia.<bs_n1>.
+<614><bs_n1>Istota zbudowana z moich kości prowadzi statek na wyspę, gdzie leży moje serce. A ja, więzień na tym łańcuchu, nie mogę mu w tym przeszkodzić.<bs_n1>.
+<615><bs_n1>Jako ekspert w dziedzinie kontrolowanego zapominania mogę zaproponować unikalną metodę, która pozwala przestać myśleć i zacząć nie myśleć o obiektach niepożądanych wspomnień. Bezpośrednim rezultatem tego jest -<bs_n1>.
+<616><bs_n1>Nie będę! Nie zmusisz mnie do przypomnienia sobie mojego ptaszka! Nie możesz obudzić bólu, który od wieków drąży moją duszę! Odejdź! Odejdź!<bs_n1> {n}Duch wydaje z siebie bestialski skowyt.{/n}<bs_n1>Odejdź! Proszę...<bs_n1>
+<617><bs_n1>Stój! Cicho! Dlaczego ją tu przyprowadziłeś, oprawco? Czy to twój nowy sposób na torturowanie mnie?<bs_n1>.
+<618>{n}Duch milczy. Cisza staje się coraz cięższa.{/n}
+<619>{n}Łańcuch milczy.{/n}
+<620><bs_n1>Nie chcę słuchać twoich wykładów! Bądź cicho!<bs_n1>
+<621>{n} Duch milczy przez jakiś czas.{/n}<bs_n1>Nie wiem.<bs_n1>.
+<622><bs_n1>Jak inaczej mam cię nazywać? Tym, który budzi we mnie zapomniane wspomnienia, wspomnienia, które powinny spoczywać w głębinach Ishiaru?<bs_n1>.
+<623>{n}Wściekłość Nahyndriego ustępuje. Jego duch chowa się w łańcuchu jak zbity pies w swojej budzie.{/n}<bs_n1>Nie mogę cię pokonać, dręczycielu. Nie mogę cię uciszyć. Wydaje się, że nie mam innego wyjścia, jak tylko cię wysłuchać. Powiedz, co chcesz powiedzieć i skończ z tym.<bs_n1>
+<624>{n}Łańcuch lekko drży, a po jego metalowej powierzchni przesuwają się czerwone błyski. Duch, który się w nim znajduje, nie poświęca Ci swojej uwagi. Twoje uszy wyłapują wściekłe szepty i wyraźnie słyszysz słowa<bs_n1>Pamiętam wszystko,<bs_n1><bs_n1>skarby,<bs_n1>i<bs_n1>nienawiść.<bs_n1>{/n}.
+<625><bs_n1>Jestem rozbitą duszą Nahyndriego, a ten statek i istota, która nazywa siebie Sternikiem, są jego szczątkami. Byłem władcą demonów, panem chciwości i opętania. Ale pewnego dnia ruszyłem w pogoń za zdobyczą, która okazała się silniejsza ode mnie. Próbowałem schwytać Noktikulę.<bs_n1>
+<626><bs_n1>Ta lekcja historii dobiegła końca. Czy zostawisz mnie teraz w spokoju?<bs_n1>.
+<627><bs_n1>Jestem Nahyndri! Prawdziwym Nahyndri, jego esencją, jego myślami, jego duszą!<bs_n1> {n}Duch łańcucha milknie, jakby się nad tym zastanawiając.{/n}<bs_n1>Przynajmniej jestem tym, co po nim zostało po śmierci.<bs_n1>.
+<628><bs_n1>Ale władca demonów Nahyndri zginął wiele wieków temu.<bs_n1>
+<629><bs_n1>Kto?<bs_n1>
+<630><bs_n1>Dobrze dla ciebie, ale mnie bardziej interesuje moja nagroda.<bs_n1>
+<631><bs_n1>Pamiętam... Teraz pamiętam!<bs_n1> {n} Sternik skulił się na pokładzie statku, ukrywając twarz przed wzrokiem. Pod szatą na jego plecach pojawiają się i znikają grudki, jakby pod spodem nie było ludzkie ciało, lecz metamorficzna kula szlamu.
+<632><bs_n1>Nahyndri!<bs_n1>
+<633><bs_n1>Ty? Jak śmiesz mi przeszkadzać? Jak śmiesz przerywać moje wieczne cierpienie?<bs_n1><bs_n1>.
+<634><bs_n1>Za to ty sam będziesz cierpiał!<bs_n1>.
+<635>{n}Fala gorąca uderza cię w twarz, ale samo ciepło nie wystarczy, by cię pokonać. Twoje mityczne moce, instynktownie obudzone przez zagrożenie, chronią cię przed atakiem demona.{/n}
+<636><bs_n1>Ojej, to wystarczy, by przyprawić starego człowieka o zawrót głowy! Podejdź tutaj, skarbie. Myślę, że mam ci coś do powiedzenia.<bs_n1>
+<637>{n}Fala gorąca uderza Cię w twarz, ale samo ciepło nie wystarczy, aby Cię pokonać. Twoje moce są więcej niż wystarczające, by wytrzymać ten atak. Wściekłość demona słabnie.{/n}
+<638><bs_n1>Pamiętam wszystko! Mój cel, moje przeznaczenie, moje imię!<bs_n1> {n}Suchy, zgrzytliwy kaszel wyrywa się z jego gardła.{/n}<bs_n1>Moje imię... Moje imię to...<bs_n1>.
+<639><bs_n1>I po co to wszystko?<bs_n1>.
+<640><bs_n1>Myślę, że mogłem was złapać w złym momencie.<bs_n1>
+<641><bs_n1>Chcę swoją nagrodę - możecie się później tłuc po głowach do woli.<bs_n1>
+<642><bs_n1>Uważajcie!<bs_n1>
+<643>[Nic nie mów]
+<644><bs_n1>Ty! To ty jesteś winny mojemu cierpieniu!<bs_n1>.
+<645><bs_n1>Hah. Nasz mały łobuziak dzisiaj się zachowuje. Nic się nie stało, nic się nie stało. Chodź tu, skarbie. Musimy pogadać.<bs_n1>
+<646><bs_n1>Ach, jesteś, skarbie. Podejdź bliżej, nie wstydź się. Już prawie skończyliśmy, widzisz?<bs_n1>.
+<647><bs_n1>Nie, nie, twoje wyczucie czasu jest w sam raz! Jak widzisz, nasz wspólny przyjaciel stracił panowanie nad sobą, ale to już przeszłość.
+<648><bs_n1>Wykonałeś kawał dobrej roboty. Przywracając naszemu przyjacielowi jedno z jego najważniejszych wspomnień, pomogłeś nam zrobić kolejny krok w kierunku największego skarbu ze wszystkich.
+<649><bs_n1>Nie pozwolę, żeby to się stało!<bs_n1>
+<650><bs_n1>Jeszcze tylko jeden krok, jedno ostatnie wspomnienie - i będziemy wiedzieli, gdzie jest nasz upragniony przedmiot. Wtedy obaj dostaniemy to, na co zasłużyliśmy. Ty dostaniesz swoje złoto, a ja... Ja dostanę...<bs_n1>.
+<651><bs_n1>Zatrzymam cię, rozerwę na strzępy, zniszczę i zmielę twoje kości w pył, fałszywy Nahyndri!<bs_n1>.
+<652><bs_n1>Ciebie też zabiję, dręczycielu!<bs_n1>.
+<653><bs_n1>To ty każesz mi pamiętać!<bs_n1>.
+<654><bs_n1>To dzięki tobie znów mogę czuć ból!<bs_n1>.
+<655><bs_n1>Wróć, ty bezwartościowy robaku!<bs_n1> {n} Sternik prostuje plecy. Jego postawa staje się królewska, a głos imperialny. {/n}<bs_n1>Jestem władcą demonów Nahyndri, jego potęgą i przyszłością. A ty... Ty jesteś jego przeszłością, bezużytecznym rozczarowaniem, które może służyć tylko jednemu celowi!<bs_n1>
+<656>{n}Wściekłość Nahyndriego zderza się z twoją potęgą i odbija się, gdyż w porównaniu z nią wypada blado.{/n}
+<657>{n}Wściekłość Nahyndriego ogarnia cię, a fala szalejącego gorąca próbuje zrzucić cię z pokładu statku - bezskutecznie. Doświadczyłeś gorszych ciosów losu i przeżyłeś.{/n}
+<658><bs_n1>Czy możesz już opuścić swój łańcuch?<bs_n1>.
+<659><bs_n1>Kim ona jest dla ciebie, ten anioł?<bs_n1>.
+<660><bs_n1>Zaatakowała mnie. Ja się tylko broniłem.
+<661><bs_n1>Mój ptaku śpiewający! Co ty zrobiłaś? Ona jest moja, ciałem i duszą! Miała żyć, a teraz umiera!<bs_n1> {n}Ryk rozpaczy wydostaje się z piersi ducha.{/n}
+<662><bs_n1>Cisza! Ona jest moja i tylko ja mogę zadecydować o jej losie!<bs_n1> {n}Podnosi broń.{/n}<bs_n1>Najpierw zakończę jej życie, a potem twoje!<bs_n1>.
+<663><bs_n1>Cisza! Ona jest moja i tylko ja mogę decydować o jej losie!<bs_n1>.
+<664>{n}Anioł patrzy na ducha, a jego oczy są pełne smutku. Jej usta poruszają się bezgłośnie, jakby wypowiadając przeprosiny. Następnie spogląda na Ciebie, uśmiecha się słabo i ostatkiem sił rzuca zaklęcie{/n}.
+<665>{n}Anioł patrzy na ducha, a jego oczy są pełne smutku. Jej usta poruszają się bezgłośnie i ostatkiem sił zbliża dłoń do serca, jakby przepraszając go.{/n}
+<666> 
+<667> 
+<668> 
+<669> 
+<670> 
+<671> 
+<672> 
+<673> 
+<674> 
+<675> 
+<676><bs_n1>Dlaczego nie przychodzisz tu we własnej osobie? A może się mnie boisz?<bs_n1>.
+<677>[Ukłon]<bs_n1>Moja pani, to wielki zaszczyt widzieć cię tutaj.<bs_n1>
+<678><bs_n1>Odejdź, demonie!<bs_n1>
+<679><bs_n1>Co ty tu robisz?
+<680><bs_n1>Dlaczego mi to mówisz?<bs_n1>.
+<681><bs_n1>Wygląda na to, że lepiej uciekać.<bs_n1>
+<682><bs_n1>Będę miał swoją nagrodę.<bs_n1>
+<683><bs_n1>Nahyndri będzie próbował mnie zjeść.<bs_n1>
+<684><bs_n1>Nie ma żadnych wskazówek.<bs_n1>
+<685><bs_n1>Co robi ta śruba?<bs_n1>.
+<686><bs_n1>Czy pomożesz mi w walce?<bs_n1>.
+<687><bs_n1>Dziękuję za bełt<bs_n1>.
+<688><bs_n1>Nie potrzebuję twojego bełtu.<bs_n1>
+<689><bs_n1>Czas, bym zmierzył się z Nahyndrim.<bs_n1>
+<690><bs_n1>Dlaczego tak bardzo nienawidzisz Nahyndri?<bs_n1>.
+<691><bs_n1>Jak długo obserwujesz mnie podczas moich podróży?<bs_n1>.
+<692><bs_n1>Może spróbować. Połamię mu wszystkie kości i wrzucę go w głębiny Ishiaru!
+<693><bs_n1>I tak oto podróż dobiegła końca.<bs_n1>{n}Wizerunek Nocticuli, pani Wysp Północy, pojawia się przed tobą w lekkim zamgleniu.{/n}
+<694><bs_n1>Widzisz, Nahyndri chce zmartwychwstać. Połączyć swoje suche kości ze zgniłym sercem... Ale nie może zakończyć tego procesu bez krwi - gorącej, żywej krwi, której nie miał od wielu tysiącleci. I tu właśnie wkraczasz Ty.<bs_n1>
+<695><bs_n1>Oto i on, duch zwycięstwa! Spełniłeś moje oczekiwania.<bs_n1>
+<696><bs_n1>To nie jest czas ani miejsce na uprzejmości.<bs_n1>
+<697><bs_n1>Wolałbym, żebyś zamiast tego odpowiedział na moje pytanie. Jak przypuszczasz, co się stanie, gdy dotrzesz do serca Nahyndri?<bs_n1>.
+<698><bs_n1>Taka bezczelność jest niemądra - mogę się obrazić, wiesz o tym.<bs_n1>
+<699><bs_n1>Nie zapominaj, że jesteś na moim terenie. To ja powinienem zapytać, co tu robisz... Ale ja już wiem.<bs_n1>
+<700><bs_n1>Tutaj. To jest moja broń przeciwko władcom demonów. Nie chcę widzieć tego nieszczęśnika przywróconego do życia.<bs_n1>{n}Na jej rozkaz, w twojej dłoni materializuje się czarny bełt z kuszy.{/n}<bs_n1>Wbij ten bełt prosto w jego czarne serce - jak tylko skończysz z tą morską kupą kości, która uważa się za jego następcę.<bs_n1>
+<701><bs_n1>Mamy długą historię, on i ja. Pewnie zauważyłeś, jak bardzo jest zaborczy z natury? Rozpaczliwie pragnął dodać mnie do swojej kolekcji skarbów. Ale ten klejnot miał dla niego zbyt wysoką cenę, a jego cuchnące zwłoki stały się pierwszym z Wysp Północy. Teraz postanowił wrócić - ale ja nie mam zamiaru dać mu drugiej szansy na zamknięcie mnie w klatce.<bs_n1>
+<702><bs_n1>Ha ha ha, taka rozkoszna naiwność!<bs_n1>.
+<703><bs_n1>Mądry {mf|boy|girl}. Dokładnie to się stanie.<bs_n1>
+<704><bs_n1>To było bardzo miłe z Twojej strony, że powiedziałaś mi o tym małym rejsie. Obiecałam, że cię znajdę, kiedy się zakończy, i tak się stało.
+<705><bs_n1>Myślałeś, że możesz ukryć przede mną ten mały rejs? Czy nie wiesz, że mam oczy w każdym zakątku mojego archipelagu? Ale nie gniewam się na ciebie, nie. Każdy z nas ma swoje tajemnice, prawda?
+<706><bs_n1>Pomogłeś mojemu staremu znajomemu Nahyndriemu odnaleźć jego skarb - dobrze wykonana robota, moje gratulacje. Jak myślisz, co będzie dalej?<bs_n1>.
+<707><bs_n1>Nie ma za co. Mam nadzieję, że Nahyndri też to doceni.<bs_n1>.
+<708><bs_n1>Ta broń powinna być ci już znana. Przypominam sobie, że użyłeś podobnego bełtu do wyrwania dziury w koziej skórze na Colyphyr.<bs_n1>.
+<709><bs_n1>Powodzenia! Będę ci kibicować.<bs_n1>{n}Po złożeniu pocałunku znika.{/n}
+<710><bs_n1>Jesteś silny i odważny - ten gnijący wrak władcy demonów nie może się z tobą równać. Jestem przekonany, że go zabijesz, choć z pewnym wysiłkiem. Ale ja mam własne plany wobec starego Nahyndri.<bs_n1>
+<711><bs_n1>Wygląda na to, że nasz wspólny przyjaciel Nahyndri znalazł sposób, by uciec przed karą śmierci i powstać z martwych. Ten bełt go powstrzyma. Znów zamienię go w wyspę dla mojego archipelagu. Może na tysiąclecia, a może na całą wieczność.<bs_n1>
+<712><bs_n1>Dałem ci już doskonałą broń. Myślę, że sobie poradzisz.<bs_n1>
+<713><bs_n1>Ach, śmiertelnicy... W takim razie pozwólcie, że was oświecę.<bs_n1>
+<714><bs_n1>Nie mylcie mojej rozsądnej ostrożności ze strachem. Poza tym, korzystne jest dla nas, byśmy na razie pozostali sojusznikami.<bs_n1>
+<715><bs_n1>Więcej zyskasz na sojuszu ze mną niż na własnym uporze. Zastanów się nad tym przez chwilę.<bs_n1>
+<716><bs_n1>Podglądać cię? Nie pochlebiaj sobie. Statek wpadł mi w oko na długo przed tym, jak postawiłeś stopę na pokładzie. Zupełnie przypadkowo mój szpieg przejął rolę nawigatora - pisał mi szczegółowe raporty z każdego rejsu.<bs_n1>.
+<717><bs_n1>Niestety, ucieczka nie wchodzi już w grę - nie masz też możliwości ucieczki, chyba że masz w kieszeni inny statek, który nie planuje uczty na tobie. Będziesz musiał z nim walczyć, czy tego chcesz, czy nie<bs_n1>.
+<718> 
+<719> 
+<720> 
+<721> 
+<722> 
+<723> 
+<724> 
+<725> 
+<726><bs_n1>Czym jest ten przerażający cień, który jest przywiązany do łańcucha statku? Czego chce?
+<727><bs_n1>Kim jesteś?
+<728><bs_n1>O jakich bogactwach mówisz?<bs_n1>.
+<729><bs_n1>Rozdanie.<bs_n1>
+<730><bs_n1>Plotki głoszą, że jakiś potwór mieszka w łańcuchu na pokładzie twojego statku.<bs_n1>.
+<731><bs_n1>Kim ty właściwie jesteś? Opowiedz mi o sobie.<bs_n1>
+<732>[<bs_n1>Nie jestem zainteresowany.<bs_n1>
+<733><bs_n1>Jakiego skarbu szukamy?<bs_n1>[Odejdź]
+<734><bs_n1>Cień w łańcuchu mówi, że to on jest prawdziwym Nahyndri, a ty jesteś oszustem.<bs_n1>.
+<735><bs_n1>Odkąd wyruszyliśmy na poszukiwanie skarbu, czułem w sobie szczególną moc.<bs_n1>.
+<736><bs_n1>Muszę już iść.<bs_n1>
+<737> 
+<738> 
+<739> 
+<740> 
+<741> 
+<742>[Atak]<bs_n1>Zgiń, potworze!<bs_n1>.
+<743><bs_n1>Co możesz mi powiedzieć o swoim nawigatorze?<bs_n1>.
+<744><bs_n1>Dokąd zmierza wasza ekspedycja?<bs_n1>.
+<745> 
+<746> 
+<747> 
+<748><bs_n1>Witaj, skarbie. Czy zebrałeś się na odwagę, by wyruszyć na poszukiwanie bogactw?<bs_n1><bs_n1>Witaj, skarbie.
+<749><bs_n1>Witaj, skarbie.<bs_n1>
+<750><bs_n1>A oto i statek. Witaj na pokładzie.<bs_n1>
+<751><bs_n1>Cień przeszłości... Mojej przeszłości. Znaleźliśmy nasz pierwszy skarb - moje wspomnienia. Wiedz, że jestem wszystkim, co pozostało po Nahyndri, niegdyś największym i najbogatszym z demonicznych lordów. Zostałem oszukany i zabity - ale władca demonów może pokonać nawet samą śmierć. Dlatego właśnie płyniemy. Poszukujesz skarbów, które kiedyś były moje. Nie krępuj się, napełnij kieszenie - Nahyndri jest hojny. Ale ja... Ja szukam czegoś ważniejszego. Czegoś niezmiernie cennego. Siebie samego.<bs_n1>
+<752><bs_n1>Nazywajcie mnie Sternikiem<bs_n1>.
+<753><bs_n1>Największy skarb na Wyspach Północy. Znam drogę. Mam statek. Ale jestem zbyt stary i słaby, by samemu sięgnąć po skarb.<bs_n1>
+<754><bs_n1>Rozdanie.<bs_n1>{n}Suche, szorstkie palce chwytają twoją dłoń. Czujesz ukłucie bólu - uścisk dłoni musiał zostawić w niej drzazgę.{/n}
+<755><bs_n1>Ubierz się. Mam na oku wielu śmiałych poszukiwaczy przygód. Jeśli nie chcesz tego skarbu, to trafi on do innego.<bs_n1>.
+<756><bs_n1>Na początku myślałem, że szukam zaginionych bogactw... Ale złoto, klejnoty, magiczne zabawki - to wszystko pył przed największym klejnotem ze wszystkich. Życie.<bs_n1>
+<757><bs_n1>Czy wiesz, z czego zbudowane są Wyspy Północy? Z trupów. Zbiór martwych władców demonów, zabitych przez królową sukkubów...<bs_n1> {n}Jałmużnik wpada w suchy kaszel.
+<758><bs_n1>Pierwszym i największym z nich był Nahyndri. Był bogaty ponad wyobrażenia. Jego skarby do dziś leżą rozrzucone po wyspach archipelagu... A każdy z nich wskazuje drogę do kolejnego o większej wartości. Jak ogniwa w łańcuchu, doprowadzą nas one do najcenniejszego klejnotu Nahyndriego. Jest mój... Mój, słyszysz? Mój!<bs_n1> {n}Nagły przypływ emocji sprawił, że Sternik znów zaczął kaszleć.{/n}
+<759><bs_n1>I dlaczego słuchasz bełkotu bezradnego cienia? Jego brednie nie są godne twoich uszu.<bs_n1>.
+<760><bs_n1>Reszta nie jest mi potrzebna. Złoto, klejnoty, zaklęte przedmioty - wszystko, co znajdziesz, będzie twoje. Po prostu zbieraj dla mnie kolejne ogniwa łańcucha. Pomóżcie mi odebrać skarb zmarłego władcy demonów<bs_n1>.
+<761><bs_n1>Wyruszamy na wyprawę, by odnaleźć najwspanialszą ze wszystkich nagród na Wyspach Północy. Potrzeba szczególnej siły, by dokonać takiego wyczynu. To jest mój dar dla ciebie, skarbie. Tak długo, jak będziesz podróżował tym statkiem, będziesz dysponował mocą, o jakiej zwykli śmiertelnicy mogą tylko marzyć. A moc ta będzie rosła i rosła - tylko szukaj dalej skarbu.<bs_n1>
+<762><bs_n1>Możesz wypełnić kieszenie wszystkimi bogactwami, które posiadałem za życia, bo już ich nie potrzebuję. Szukam najcenniejszego ze wszystkich skarbów - szansy na powrót do życia.<bs_n1>.
+<763><bs_n1>Jakże dziwne jest to, że z potężnej duszy Nahyndriego pozostała jedynie jej najsłabsza, najbardziej nieszczęśliwa część - splątany węzeł żalu i rozczarowań. Denerwuje go to, że wciąż na nowo przypominamy mu, jak wiele stracił i jak bardzo jest bezwartościowy. Niech sobie marudzi, ile chce - liczy się to, że oboje, on i ja, przypomnieliśmy sobie, gdzie szukać największego z moich klejnotów - i co to za klejnot. On poprowadzi cię do niewyobrażalnych bogactw, a co do mnie... będę miał nowe życie!<bs_n1>.
+<764><bs_n1>Teraz wiem, co to jest, co mnie wzywało przez cały ten czas. Gdzieś wśród tych wysp wciąż żyje moje serce. Jestem z nim połączony łańcuchem przewodnim wykutym z moich czynów i wspomnień - i czuję, że jest ono teraz w zasięgu ręki. Wkrótce je odnajdziemy. Ty staniesz się bogatszy, niż jakikolwiek śmiertelnik kiedykolwiek marzył, a ja... zostanę wreszcie przywrócony do życia - czyż może być większa nagroda?<bs_n1>.
+<765><bs_n1>Nie bój się go. Jest tylko słabym cieniem przeszłości, starym i słabym. Nie może cię skrzywdzić.<bs_n1>
+<766><bs_n1>Nazywam się Nahyndri. Byłem największym, najbogatszym i najmądrzejszym z demonicznych lordów, zanim zabiła mnie ta podstępna dziwka Nocticula. Moje skarby zostały roztrwonione, moje ciało stało się wyspą, a nawet moja krew została zamieniona w kryształy i skradziona przez jej sługusów, jedna kropla po drugiej. Ale potem powróciłem - moja wola była zbyt silna, by pozwolić mi zginąć po wsze czasy. Zbudowałem ten statek z własnych kości i ścięgien - i wyruszyłem na poszukiwanie tego, co utraciłem.<bs_n1>.
+<767><bs_n1>On jest wszystkim, co pozostało z duszy Nahyndri. Nędzna, bezsilna jego część, która może nam służyć jedynie poprzez wskazanie drogi do skarbu. Nie mów do niego - nic ci to nie da. Ja jestem prawdziwym Nahyndri.<bs_n1>
+<768><bs_n1>Och, jakże pragnę odzyskać to, co zostało utracone! Jesteście gotowi na nową podróż? A więc ruszamy!
+<769><bs_n1>Mój klejnot jest jeszcze daleko - ale jakże pragnę go odzyskać! Jesteście gotowi? Więc płyniemy dalej!<bs_n1>
+<770><bs_n1>Cel naszej podróży jest teraz w zasięgu ręki. Chodźcie, chodźcie!<bs_n1>.
+<771><bs_n1>Ale teraz nie czas na to. Muszę zebrać siły i ponownie zapoznać się ze wspomnieniami, które do mnie powróciły. Później wyruszymy w nową podróż. Ale na razie - żegnaj, mój skarbie.<bs_n1>
+<772><bs_n1>Tutaj jesteś. To był naprawdę natchniony pomysł, żeby zaprosić cię w tę podróż.<bs_n1>.
+<773><bs_n1>Znów tu jesteś. Jakże na czasie!<bs_n1>.
+<774><bs_n1>Śmierć? Ha ha ha ha ha... Gdyby to tylko było takie proste.<bs_n1>
+<775><bs_n1>Prosto w otchłań. Nie martw się, nie mam żadnego udziału w tej głupiej inwazji, tej farsowej wojnie. W tym miejscu zasłona między płaszczyznami jest cienka - dlatego przybyłem tu w poszukiwaniu odważnych dusz. Nasza podróż zaprowadzi nas na neutralne wody - na Wyspy Północy, które leżą na oceanie Ishiaru.<bs_n1>.
+<776><bs_n1>To dobra dziewczyna. Mądra, pracowita. Wie tak wiele o morzach, tych wszystkich wiatrach i prądach. Tak, okazała się prawdziwym klejnotem dla mojego statku.<bs_n1>.
+<777><bs_n1>Nie bój się cienia, który kryje się w łańcuchu. Nie słuchaj go, a jeszcze lepiej - zapomnij o jego istnieniu. W pewnym sensie ten cień to ja - żałosna, bezsilna część mnie. Nie tolerowałbym jego obecności na moim statku, gdyby nie miał swoich zastosowań. Przechowuje strzępy moich wspomnień - i wskazuje mi drogę do tego, co kiedyś było moje. Ten niedorzeczny łańcuch jest naszą nicią przewodnią. Podążając za nim, znajdziemy wszystkie moje skarby.<bs_n1>
+<778><bs_n1>Podejdź bliżej, skarbie.<bs_n1>{n}Przygarbiona istota owinięta w wytartą pelerynę przywołuje cię swoim długim, krzywym palcem. Jego cichy, ochrypły głos przypomina bardziej skrzypienie zardzewiałego metalu niż normalną mowę. {/n}<bs_n1>Młody, silny i odważny... Właśnie kogoś takiego potrzebuję. Powiedz mi - jak chciałbyś dostać w swoje ręce niesamowite bogactwa?<bs_n1>.
+<779><bs_n1>Witamy na pokładzie.<bs_n1>
+<780> 
+<781> 
+<782> 
+<783> 
+<784> 
+<785> 
+<786><bs_n1>Widzę, że miałem rację, stawiając na ciebie. Nie boisz się jakiegoś słabego cienia przeszłości.<bs_n1>
+<787> 
+<788> 
+<789> 
+<790> 
+<791><bs_n1>Do czego nadaje się to żałosne stworzenie? Do tego, żeby kogoś przestraszyć i niewiele więcej. Trudno uwierzyć, że ktoś taki jak on mógł być częścią wielkiego Nahyndri.<bs_n1>.
+<792><bs_n1>Cień stał się odważny, jak widzę. Wcześniej zbytnio bał się opuścić swój łańcuch - a spójrz na niego teraz, jak się wyrywa... Nieważne. Nie zwracamy na niego uwagi.<bs_n1>
+<793><bs_n1>Kiedyś, w dawno minionych czasach, nazywano mnie Nahyndri, ale to imię już dawno zostało zapomniane. Możecie mnie nazywać Sternikiem.<bs_n1>
+<794><bs_n1>Mówię o bogactwach, które kiedyś były moje. Niezliczone skarby władcy klejnotów, roztrwonione i rozrzucone po wielu wyspach.<bs_n1>
+<795><bs_n1>Nie chce pamiętać o życiu Nahyndri - a my go do tego zmuszamy. Żałosne! Wolałby zapomnieć o długim i wspaniałym życiu pełnym radości i triumfów tylko dlatego, że miało kilka niefortunnych niepowodzeń. Nie zwracajcie na niego uwagi. Czy tego chce, czy nie, nadal będzie nas prowadził po łańcuchu prowadzącym do naszego szczęścia.<bs_n1>
+<796><bs_n1>Ja jestem tym, który zna drogę do skarbu. Tym, który ma statek. Nie mam nic więcej do powiedzenia.<bs_n1>
+<797><bs_n1>Co się stanie, jeśli po prostu opuszczę to miejsce?<bs_n1>
+<798><bs_n1>Czy nie chcesz znowu żyć?<bs_n1>.
+<799><bs_n1>Nocticula dał mi Bełt Północy i kazał wystrzelić go w twoje serce. Ale ja już nie mam tego bełtu.<bs_n1>
+<800><bs_n1>Czy naprawdę masz wyrzuty sumienia z powodu swoich czynów?<bs_n1>.
+<801><bs_n1>Zdecydowałem, co z tobą zrobić.<bs_n1>
+<802>[Zniszcz serce Nahyndri]<bs_n1>Uwalniam cię. Idź do Rift of Repose.<bs_n1>
+<803>[Przebij serce Nahyndriego Piorunem Północy]<bs_n1>Nie zasługujesz na wolność.<bs_n1>.
+<804>[Zerwij łańcuch]<bs_n1>Zasłużyłeś na prawo do oczyszczenia.<bs_n1>.
+<805>[Odejdź]<bs_n1>Rozwiąż się sam ze swoimi problemami.<bs_n1>
+<806><bs_n1>Nocticula dała mi Midnight Bolt i kazała wystrzelić go w twoje serce.<bs_n1>
+<807><bs_n1>Oszust poległ. Dobrze.<bs_n1>
+<808><bs_n1>Zniszcz go. Zakończ moją mękę. Niech mój duch odejdzie do Szczeliny Spocznij. Moje ostatnie schronienie czekało na mnie wystarczająco długo.<bs_n1>.
+<809><bs_n1>Ale dlaczego miałbyś tak po prostu odejść? Zakończ moją egzystencję właśnie teraz - po co czekać, aż sama się skończy?<bs_n1>.
+<810><bs_n1>Twoje słowa skłoniły mnie do refleksji. Żyłam długo i w ciągu tego życia popełniłam wiele czynów, których mogłam nie popełniać. Tak... Miałem wybór, a gdybym wybrał inną drogę - kto wie... może i mój los byłby inny.<bs_n1>
+<811><bs_n1>Wiesz, mogłam pomóc oszustowi cię pokonać. Chociaż nie sądzę, żeby mógł to zrobić, nawet z moją pomocą. Ale nie pomogłem mu. Dziś Nahyndri musi zginąć na dobre.<bs_n1>
+<812><bs_n1>Moje życie było żałosne. Moje życie pozagrobowe nie miało sensu. Jestem zmęczony... byciem.<bs_n1>.
+<813><bs_n1>Nie wiem, co to znaczy <bs_n1>wyrzuty sumienia<bs_n1>. Jestem władcą demonów i nigdy nie czułem czegoś podobnego. Jak nazywasz uczucie, które sprawia, że boli cię dusza, a ten ból jest twój, chociaż to ty zadałeś ból innym? Nie wiem.<bs_n1>
+<814><bs_n1>Czy widzisz ten łańcuch, który nas tu przywiódł? Łańcuch moich niepowodzeń i występków, krótkotrwałych radości i długich żalów... Jest teraz tak cienki jak nitka pajęczego jedwabiu. Przerwij go. Uwolnij mnie od mojego serca, od odrażającej istoty władcy demonów. Niech zgnije wszystko, czym kiedyś było Nahyndri. Potem, jeśli zostanie ze mnie coś godnego wstąpienia do Rzeki Dusz, z radością stawię się wreszcie przed Pharasmą.<bs_n1>.
+<815><bs_n1>Zaakceptuję twoją decyzję, jakakolwiek by ona nie była.<bs_n1>
+<816><bs_n1>To był jedyny sposób.<bs_n1>
+<817><bs_n1>Jeśli tak zdecydowałeś, to jestem gotowa spędzić kolejną wieczność w samotności.<bs_n1>.
+<818><bs_n1>Dziękuję. Nareszcie jestem wolny... od samego siebie.<bs_n1>
+<819><bs_n1>Rozumiem. Nie zasługuję na nic lepszego.<bs_n1>
+<820><bs_n1>Dobra robota. Zrobiłeś dokładnie to, co ci kazano. Zasłużyłeś na nagrodę i mam nadzieję, że w przyszłości nadal będę mógł na tobie polegać.<bs_n1><bs_n1>Dobrze się spisałeś.
+<821><bs_n1>Wypełniłeś moje polecenie pomimo krwi, która została przelana między nami. Dziękuję ci, komandorze.<bs_n1>{n}Chichocze.{/n}<bs_n1>Moja wdzięczność jest jedyną nagrodą, jaką ode mnie otrzymasz.<bs_n1>.
+<822><bs_n1>Widzę, że nie udało ci się spełnić mojej prośby. Rozczarowałeś mnie.<bs_n1>{n}Jej głos jest zimny jak sama śmierć.{/n}.
+<823><bs_n1>Widzę, że nie spełniłeś mojej prośby. Zawiodłeś mnie.<bs_n1>{n}Jej głos jest zimny jak sama śmierć.{/n}<bs_n1>Zbyt wiele jest teraz do stracenia, abym mógł cię zabić za to wykroczenie. Żegnaj.<bs_n1>
+<824><bs_n1>Ja również się na tobie zawiodłam.<bs_n1>{n}Jej spojrzenie przenosi się na skraj wyspy, wprost do kryjówki Esilli.{/n}<bs_n1>Rozkazałam ci obserwować zarówno statek, jak i załogę. Dlaczego nie interweniowałaś?
+<825>{n}Esilla, blada ze strachu, szuka czegoś w swojej torbie i rzuca zaklęcie.{/n}
+<826><bs_n1>Gdzie ty się wybierasz? Zatrzymaj się!
+<827><bs_n1>A więc tak wygląda mój największy skarb. Powód mojego cierpienia. Moje czarne serce.<bs_n1>{n}Duch Nahyndri wydaje z siebie beztroski chichot.{/n}<bs_n1> Oszust obudził go obietnicą ofiary. Ale nie spełnił swojej obietnicy. Teraz umiera.<bs_n1>
+<828><bs_n1>Moje serce umiera. Jego agonia będzie trwała jeszcze przez godzinę. Może dzień. Potem w końcu umrze, a mój duch zostanie uwolniony, aby mógł znaleźć odpoczynek, na który zasłużył.<bs_n1><bs_n1>.
+<829><bs_n1>Jeśli przebijesz moje serce jej bełtem, pozostanę jej więźniem przez wiele następnych stuleci. Błagam cię - nie rób tego.<bs_n1>
+<830><bs_n1>Nocticula ma na uwadze bezpieczeństwo swojej wyspy, tej, która powstała z mojego ciała po mojej śmierci. Zniszczenie mojego serca zaleje tę wyspę, pomniejszając królestwo królowej sukkubów.<bs_n1>.
+<831><bs_n1>Gdybyś przebił moje serce jej bełtem, pozostałbym jej więźniem na wiele wieków do przodu. Dobrze, że do tego nie dojdzie.<bs_n1>
+<832><bs_n1>Kiedyś pragnąłem tylko jednego - zakończenia moich męczarni. Poprosiłbym cię o zniszczenie mojego serca, abym mógł wreszcie udać się do Szczeliny Pochylenia. Ale teraz...<bs_n1>.
+<833><bs_n1>W mojej wieczności w zaświatach obwiniałam się za swoje czyny. Uciekałem przed swoim bólem, zamiast stawić mu czoła. Ale teraz jestem gotowy.<bs_n1>
+<834><bs_n1>To więcej, niż na to zasługuję.<bs_n1>
+<835>Władca demonów Nahyndri uciekł z Noktikuli, ale nie udało mu się uniknąć śmierci. Uwolniony z magicznych więzów, które go krępowały, udał się do Szczeliny Pochylenia, gdzie wreszcie odnalazł błogie zapomnienie. Północna Wyspa, która została zbudowana na jego szczątkach, zatonęła w wodach Ishiaru. Co do poszukiwacza skarbów, {mf|he|she}, podobnie jak szpieg nawigator, uniknął gniewu królowej sukkubów z kieszeniami pełnymi bogactw.
+<836>Władca demonów Nahyndri nie mógł uciec przed śmiercią ani przed swoim porywaczem, Nocticulą. Jego czarne serce, przebite magicznym bełtem, zniknęło w głębinach Ishiaru, a jego ciało ponownie zamieniło się w Midnight Isle. Królowa sukkubów doceniła wyczyn poszukiwacza skarbów, mianując {mf|him|her} gubernatorem wyspy.
+<837>Zerwawszy łańcuch, który wiązał ducha Nahyndriego z jego zgniłym sercem, poszukiwacz skarbów pomógł mu oczyścić go z wielowiekowego dziedzictwa zła i udręki. Były władca demonów pojawił się na dworze Pharasmy, a ona, zważywszy zło, którego się dopuścił, oraz jego tysiącletnie cierpienia i wyrzuty sumienia, pozwoliła mu narodzić się na nowo na płaszczyźnie Elysium. Północna Wyspa, która stała na jego szczątkach, zatonęła w wodach Ishiaru. Nocticula była wściekła, ale poszukiwacz skarbów, podobnie jak szpieg nawigator, uniknął jej gniewu, mając kieszenie pełne bogactw.
+<838>Na obrzeżach Alushinyrry znajduje się nieopisane molo, przy którym nie cumuje żaden statek oprócz jednego. Tajemnicza, zamaskowana postać zaprasza wszystkich, którzy są silni i odważni, do wypłynięcia w pogoń za największym ze wszystkich skarbów zagubionych wśród wielu Wysp Północy.
+<839>Blisko
+<840>Czarne serce
+<841>Zasłużona nagroda
+<842>Nahyndri może i nie udało się zdobyć upragnionego skarbu, ale przynajmniej uwolnił się od Nocticuli, która tak długo trzymała go w niewoli. Uwolniwszy się od śmierci, udał się do Szczeliny Usypiającej, gdzie wreszcie znalazł błogie zapomnienie. Wyspa Północy, która została zbudowana na jego szczątkach, zatonęła w wodach Ishiaru. Imię niegdyś budzącego postrach władcy demonów zniknęło z pamięci zarówno śmiertelników, jak i mieszkańców Otchłani.
+<843>Zamiast upragnionych skarbów i wolności, Nahyndri znalazł nowy zestaw kajdan. Jego czarne serce, przebite magicznym bełtem, zniknęło w głębinach Ishiaru, a jego ciało ponownie zamieniło się w Midnight Isle. Plotki o jego wyprawie, bardzo zniekształcone i przesadzone, rozeszły się po całej Alushinyrrze. Niemal każdego dnia są tacy, którzy przysięgają, że widzieli w oddali kościany statek. Są też tacy, którzy sprzedają<bs_n1>Nahyndryjskie mapy skarbów<bs_n1>łatwowiernym poszukiwaczom szczęścia.
+<844>Zerwawszy łańcuch, który wiązał ducha Nahyndriego z jego zgniłym sercem, poszukiwacz skarbów pomógł mu oczyścić się z wielowiekowego dziedzictwa zła i udręki. Były władca demonów pojawił się na dworze Pharasmy, a ta, zważywszy zło, którego się dopuścił, i jego tysiącletnie cierpienia oraz wyrzuty sumienia, pozwoliła mu odrodzić się na płaszczyźnie Elysium. Resztki wyspy zbudowanej na jego kościach stopniowo rozpadły się i zniknęły w głębinach Ishiaru.
+<845>Noktikula, utraciwszy część swego królestwa, wpadła w szał. Wyznaczyła nagrodę za głowę poszukiwacza skarbów, który ośmielił się jej przeciwstawić - ale {mf|he|she}, podobnie jak szpieg nawigator, uniknął gniewu królowej sukkubów, z kieszeniami pełnymi bogactw.
+<846>Królowa sukkubów doceniła wyczyn poszukiwacza skarbów, mianując {mf|him|her} gubernatorem wyspy. Szczęśliwy poszukiwacz skarbów wiódł długie życie w szacunku i luksusie. Na wyspie krążyły plotki, że wiatr na rafach czasami zawodził żałośnie lub że szum fal zdawał się przeklinać imię gubernatora - ale takie opowieści są powszechne w Otchłani.
+<847>Na tyle mądry, by nie mieszać się w sprawy władców demonów, poszukiwacz skarbów wyszedł z kieszeniami pełnymi bogactw. Nocticula nie ścigała śmiertelnika, który jej się sprzeciwił - w końcu w walce między aspektami Nahyndri to ona była ostatecznym zwycięzcą.
+<848>Blisko
+<849>Gdy ją podnosisz, wyczuwasz echo pradawnego wspomnienia...<br><bs_n1>Taczam w dłoni perłę o rzadkim różowym odcieniu. Nie jest to największa perła w mojej kolekcji, ani najcenniejsza... a jednak sama w sobie jest wyjątkowa.<br>Różnymi sposobami zdobywałem bogactwa. Niektóre rzeczy zdobyłem siłą, inne podstępem, niektóre ukradłem, a jeszcze inne znalazłem w ukrytych zakamarkach wszechświata... Ale przed tą perłą żaden skarb z mojej kolekcji nie został mi podarowany dobrowolnie. <br>To była niespodzianka, ale teraz mam naśladowców. Jak? Skąd się wzięli? Może niektórzy śmiertelnicy byli pod wrażeniem pokazu mojej potęgi podczas najazdu na Płaszczyznę Materialną? A może jakiś książkowy demonolog odkrył mnie jak gwiazdę na niebie? Każdy może zgadywać - wiem tylko, że nie zadałem sobie trudu, by zapewnić sobie śmiertelnych wielbicieli. A jednak oni tu są. Składają modlitwy, odprawiają krwawe rytuały w moim imieniu - i, co najważniejsze, przysyłają ofiary. Dziwne uczucie, ale przyjemne. Cóż, jeśli pragną zostać moimi sługami, nie odmówię im. Najbardziej oddanym mogę nawet udzielić zaklęcia lub dwóch<bs_n1>.
+<850>Gdy ją podnosisz, wyczuwasz echo dawnego wspomnienia...<br><bs_n1>Moi słudzy wystawiają na próbę moją cierpliwość. Są sumienni w swoich ofiarach i to mnie cieszy - ale proszą mnie też o coraz więcej zaklęć. Jakbym nie miał nic lepszego do roboty, niż odpowiadać na ich głupie modlitwy. I to nie wszystko - jeden z nich, szczególnie szkodliwy, dokuczał mi tak długo, że zdecydowałem się złożyć mu osobistą wizytę. Początkowo miałem zamiar zgnieść go jak irytującą muchę, ale przygotował tak obfite ofiary i tak zręczne pochlebstwa, że w końcu go oszczędziłem - nawet mianowałem go moim Arcykapłanem.<br>Dziwne. Nikt nigdy nie patrzył na mnie tak, jak on. Przywykłem, że słudzy i więźniowie patrzą na mnie z nienawiścią, ze strachem, z tępą uległością zdruzgotanego ducha. Ale w oczach tego śmiertelnika widziałem fascynację. Uwielbienie. Zachwyt. Jest to z pewnością satysfakcjonujące, ale i niepokojące. Czy mądrze jest pozwolić słudze zachować wolną wolę, nawet jeśli jego jedynym pragnieniem jest służyć tobie? Dobra wola to cienka obroża. W kajdanach chodzi o to, że ten, kto je nosi, nie może decydować, kiedy je założyć lub zdjąć. Na co komu sługa, który może tak po prostu zmienić zdanie?<bs_n1>.
+<851>Gdy go podnosisz, wyczuwasz echo dawnego wspomnienia...<br><bs_n1>Wydaje się, że moi samozwańczy słudzy zupełnie zapomnieli, kto komu służy. Ciągle słyszę tylko: dawaj, dawaj, dawaj. Wyślij mi zaklęcie, daj mi moc przekazywania energii, wskrzesz tego z martwych, spal tamtego... I co dostaję w zamian? Mizerną strużkę ofiar? Sam potrafiłem zapełnić swój skarbiec. Służebne pochlebstwa? Pochlebstwa głupców - nie potrzebuję niczyjej pochwały, by dostrzec wielkość mej potęgi. Na co marnuję swoją moc? <br>Jego ostatni wybryk był ostatnią kroplą, która przelała czarę. Z własnej woli, nie pytając mnie o zdanie, napadli na świątynię Abadara. Prawda, ich łupy były chwalebne. Aż miło było patrzeć, jak mój Arcykapłan drżał, kładąc na moim ołtarzu wspaniałą bombkę - złoty pierścień przeora świątyni, ozdobiony zarówno błękitnymi diamentami, jak i świeżymi strużkami krwi i mózgów duchownych. O tak, byłem zachwycony tą ofiarą. Ale co potem? Wojna z bóstwem? To nie jest żaden władca demonów ani anioł, to jedna z najpotężniejszych istot w całym stworzeniu. Choć z przyjemnością zanurzyłbym ręce w Pierwszym Skarbcu, muszę być rozsądny - ta nagroda jest na razie poza moim zasięgiem. A co, jeśli z powodu głupoty śmiertelników zaatakują mnie legiony aksjomatów - a ja nie będę miał siły, by się bronić, bo zmarnowałem wszystkie swoje siły na te nienasycone pijawki?
+<852>Gdy ją podnosisz, wyczuwasz echo pradawnego wspomnienia...<br><bs_n1><bs_n1>Żyj honorowo, władco demonów! Dziś daję ci drugą szansę.<bs_n1><br>Śmiercionośne zaklęcie, które właśnie miało wylecieć z dłoni anioła, rozprasza się. Mimowolnie odetchnąłem z ulgą i przeklinam siebie za ten pokaz słabości. Pokonany. Upokorzony. <br>Stoi przede mną, świecąc oślepiającym światłem. Moje oczy wypełniają się łzami, ale nie mogę odwrócić wzroku. Jej śnieżnobiałe skrzydła, długa szyja, krągłości ramion i bioder. Jest piękna, piękniejsza niż wszystkie skarby w Otchłani! W jej twarzy nie ma gniewu, nienawiści, wyższości. Patrzy na mnie, jakby zaglądała w głąb mojej duszy. Czuję się przed nią nagi. <br><bs_n1>Żegnaj, Nahyndri.<bs_n1><br>Znika w błysku światła. Wyciągam rękę, próbując ją złapać, przytrzymać, powstrzymać przed odejściem. Ale ona wciąż odchodzi. Zostaję sam i tylko białe piórko, wyrwane z jej skrzydła przez moją zrozpaczoną rękę, jest dowodem jej istnienia.<br>Pokonany. Upokorzony. Ale niezłomny. Mocno ściskam piórko w pięści.<bs_n1>
+<853>Ozdobny klucz
+<854>Gdy go podnosisz, wyczuwasz echo pradawnego wspomnienia...<br><bs_n1>Mój! Teraz należysz tylko do mnie! Czekałem na tę chwilę wieki, tkałem czary nad twoim piórem, postrzegałem bezkresy przestrzeni, próbując cię odnaleźć. I w końcu zstąpiłaś ponownie do Otchłani, do mojego królestwa, tak jak poprzednio! Moja starannie przygotowana pułapka się zatrzasnęła. <br><bs_n1>Tęskniłaś za mną, moja droga?<bs_n1><br>Anioł odwraca się, unikając mojego spojrzenia. Niezwyciężona, czysta, wzniosła. Czas zniekształcił jej obraz w moim umyśle, a teraz chłonę go na nowo, rozkoszując się każdą jej cechą.<br><bs_n1>Teraz zostaniesz ze mną na wieczność<bs_n1>. Zapinam mały wisiorek w kształcie kłódki na jej nadgarstku, a kluczyk zawieszam na szyi. A oto mój pierwszy dar dla Ciebie. Nie możesz zdjąć tego wisiorka, opuścić Otchłani ani wysłać wiadomości do Górnych Planów. Teraz jesteś martwy dla wszystkich, ale nie martw się. Dam ci wszystko, czego zapragniesz. Będziesz się cieszył z bycia moim.<bs_n1><br><bs_n1>Nie musisz tego robić<bs_n1> - szepcze, nie podnosząc wzroku.<br>Zamarłem zdezorientowany. Oczywiście, że nie muszę tego robić. Ale dlaczego miałbym tego nie robić?<bs_n1>.
+<855>Gdy go podnosisz, wyczuwasz echo dawnego wspomnienia...<br><bs_n1>Anioł wzdryga się, gdy podchodzę. Wisiorek w kształcie kłódki na jej nadgarstku delikatnie pobrzękuje, gdy zderza się z pozostałymi trzema. Jedwabna suknia, jeden z moich prezentów, cicho szeleści. Biżuteryjna spinka błyszczy, na wpół ukryta pod jej wspaniałymi białymi puklami.<br><bs_n1>Napij się ze mną, moja droga. Przyniosłem ci wino aż z Elysium.<bs_n1><br>Proponuję jej puchar z winem, ale ona się odwraca. Nie czuję się urażony, napawam się jej widokiem. Podziwiam jej nieskazitelne piękno, które, niczym pracowity szlifierz, udoskonaliłem, ubierając ją w najlepsze suknie, ozdabiając najwspanialszą biżuterią.<br><bs_n1>Nie musisz taka być<bs_n1> - szepcze.<br>Bojąc się zepsuć wzniosłość jej wizerunku, delikatnie dotykam jej włosów. Nagle uświadamiam sobie, że wciąż nie znam jej imienia.<br><bs_n1>Będę cię nazywał moim ptakiem śpiewającym. Rozjaśniasz mój pałac, ale twoje pieśni są powtarzalne. Jak to zwykle bywa z trelami wszystkich ptaków. Taka jest twoja natura.<bs_n1><br>Podnosi podbródek do góry, a jej spojrzenie kieruje się na mnie. Jej oczy są tak piękne. Tak rzadko je podnosi, by spojrzeć na mnie tak bezpośrednio. <br><bs_n1>Nie potrzebuję twoich darów, Nahyndri!<bs_n1>. Zrywa diadem z głowy i rzuca nim. Drogocenny metal wygina się, diamenty rozsypują się po podłodze. Usłysz moje słowa, błagam cię! Wyczuwam dobro w twej duszy, wierzę, że możesz wznieść się ponad Otchłań. Możesz być lepszy.'<br>Jej głos jest taki słodki. Uśmiecham się. Jestem szczęśliwy.<bs_n1>
+<856>Gdy go podnosisz, wyczuwasz echo pradawnego wspomnienia...<br><bs_n1>Rozkosz.<br>Spaceruję po moim skarbcu, rozkoszując się brzękiem złotych monet pod stopami. Wszystko to jest moje! Drogocenne klejnoty i magiczne zabawki, lśniąca broń i ozdobne księgi, skandaliczne sekrety i zapomniane tajemnice - wszystko moje.<br>Kładę na stosie nowy skarb - płonące nasiono, które niegdyś dawało ciepło jednemu z marnych światów Płaszczyzny Materialnej. Kiedy je zdobyłem, dom gnatów uschnął na mrozie, a ja stałem się bogatszy.<br>Podziwiam swoje trofeum. To takie przyjemne uczucie! Wzdrygając się z sytości, zanurzam się w moich skarbach, jakby były wodami Ishiaru. Dotykam jednego drobiazgu za drugim, rozkoszując się słodyczą posiadania. Oczy przewracają mi się z rozkoszy, a do uszu dobiega melodyjny dźwięk dzwonka. Szczęka mi się otwiera, ciało wiotczeje. Dźwięk szepcze do mnie, szepcze sen o niekończących się kopcach skarbów...<br>Dźwięczenie? <br>Groźne warknięcie rozbija moją senność. Co to za hałas? Kto tam jest?<br>Złodziej! Widzę go, gdy w wirze złota i klejnotów wynurzam się z mojego skarbca. Jego wężowate ciało jest pokryte łuskami i odrażająco lśniące. Jego ohydny, arogancki grymas błyszczy setką ostrych zębów. Nad jego głową płonie upiorna szkarłatna korona, a jego szponiasta dłoń ściska piękną kryształową grzechotkę - to właśnie z niej dobiega ten podstępny dźwięk. A w drugiej ręce - moje płonące nasienie!<br>Podły złodzieju! Rzucam się na niego, ale on się śmieje - tak bolesny, ohydny, wstrząsający dźwięk szyderstwa! A potem po prostu znika wraz z moim bezcennym skarbem, ten brudny, wstrętny, podły... ZŁODZIEJ!
+<857>Czaszka Złodzieja Imion
+<858>Gdy ją podnosisz, wyczuwasz echo dawnych wspomnień...<br><bs_n1>Każdej nocy porażka. Ileż to już było porażek? Ile krwawiących ran zadał memu sercu ten wstrętny złodziej? Nie wiem. Kiedy okrutny wąż zaczął plądrować mój skarbiec, byłem zbyt młody i prymitywny, by mierzyć czas.<br>Byłem wobec niego bezsilny - żadne pułapki, strażnicy ani sztuczki nie mogły przewyższyć jego ostrożności i przebiegłości. Każdej nocy wyruszałem w beznadziejny pościg i każdej nocy wyłem z bólu, ograbiony i zhańbiony.<br>Wtedy nauczyłem się myśleć inaczej. Myśleć tak jak on, który żywi się zdradą i podstępem. Od tej pory nie chodziło już o serię starć, w których moja brutalna siła raz po raz ustępowała jego spostrzegawczości i szybkości - teraz było to wielkie polowanie. Polowanie, które wywołało w moim sercu złośliwy dreszcz. <br>Podążając tropem nieznanego mi przeciwnika, przechodzę obok stosu skarbów i podnoszę wysadzaną kamieniami czaszkę. Szepczę zaklęcie, a cenna zabawka ożywa. Czaszka szepcze do mnie, szczękając zębami: <bs_n1>On jest z Protean. Jego imię to Gwiezdna Grzechotka<bs_n1>. Potem czaszka śliskiego maga, który za życia był znany jako Złodziej Imion, zasypia, a na mojej twarzy pojawia się zadowolony uśmiech.<br>A więc Protean. Podstępny mag o głupim imieniu, który przedostał się przez cienką granicę między Maelstromem a Otchłanią.<br>Ciągle uśmiechnięty, wychodzę ze skarbca z nowym klejnotem w ręku - pierwszym ziarnem wiedzy o złodzieju. Mój mały złodziejaszek.<bs_n1>
+<859>Gdy go podnosisz, wyczuwasz echo pradawnego wspomnienia...<br><bs_n1>Jak nieruchomy posąg, stoję nieruchomo na szczycie wieży skarbów. Zamaskowany przez ciemność, czujnie obserwuję swoją włość, głodnym okiem szukając śladów mojego małego złodziejaszka. Czekam w ciszy.<br>Wyrzucona moneta spada na podłogę. Słyszę melodyjny brzęk jego kryształowej grzechotki. Łapię perłowy połysk jego łusek. Jest tutaj, ostrożnie toruje sobie drogę, przemykając wśród skarbów. Szuka oznak mojej obecności, ale mrok mnie ukrywa.<br>Mój podstępny wąż poluje na mój najnowszy klejnot - stare, sękate drzewo, które zdobyłem podczas najazdu na Elysium. Rubinowe owoce, które zdobią jego gałęzie, dają temu, kto ich skosztuje, trzy cenne fragmenty wiedzy. To wielki skarb, który mój mały złodziejaszek chce zagarnąć dla siebie. Jego pokryta łuskami ręka wybiera jeden z owoców i zbliża go do swoich uśmiechniętych ust. Uśmiecha się z zadowoleniem, po czym zaciska pazury, zgniatając soczysty, bezcenny miąższ. W aroganckim pokazie marnotrawstwa niszczy mój skarb, nie chcąc go skosztować! Skórka owocu rozrywa się, odsłaniając pod nią... zęby! Tysiące maleńkich, ostrych jak igły ząbków wbija się w dłoń mojego złodzieja.<br>Z zaskoczonym sykiem odrzuca owoc na bok, ale pozostałe, rozwierając szeroko swoje chciwe paszcze i złączone nogi, oblazły go jak wściekłe, głodne pchły. Krzyczę z triumfu i wychodzę z mroku. Po raz pierwszy udało mi się przechytrzyć mojego małego złodziejaszka, który jest bardzo sprytny, ale nie wszechwiedzący. Trzeba było wielkiej finezji, aby drzewo wypiło truciznę z Otchłani i zamieniło ją w tak misterną pułapkę. Owszem, cenna mądrość, którą posiadało, została zniszczona ponad wszelką wątpliwość, ale to zwycięstwo jest o wiele większym skarbem.<br>Mój złodziej syczy w agonii i maluje podłogę swoją krwią, ale nawet teraz na jego twarzy widnieje szatański grymas.<br><bs_n1>To był sprytny podstęp, który na mnie wymyśliłeś. Czuję się jak kompletny głupiec!<bs_n1>. Jego syk jest pełen złośliwej radości, a mój triumf ustępuje miejsca zdziwieniu. Bardzo mnie dziś rozbawiłeś - masz za to szacunek Gwiezdnej Grzechotki. Do następnego razu!<bs_n1>. Mój złodziej rozpłynął się w powietrzu, a ja wydałem z siebie urażony ryk na jego odejście. Chciałem zobaczyć jego cierpienie, jego strach, jego gorycz porażki! Ale zamiast tego, ten... ten protean o głupim imieniu - był zadowolony? Ukradł mi słodycz zwycięstwa - po raz kolejny!<bs_n1>.
+<860>Gwiezdna grzechotka
+<861>Gdy ją podnosisz, wyczuwasz echo pradawnego wspomnienia...<br><bs_n1>Nadeszła wielka noc. Czas, jaki zajęło mi uśpienie czujności mojego małego złodziejaszka. Zręczność, jakiej musiałem użyć, aby przekonać go, że mój skarbiec jest niestrzeżony. Czekam, nieruchomy i zimny.<br>Nadchodzi! Melodyjny brzęk zwiastuje, że Gwiezdna Grzechotka, mój podstępny, mały, proteański złodziejaszek, łaknie nowych łupów. Jak elegancko i ostrożnie omija moje pułapki, jak zwinnie i nonszalancko unika niebezpieczeństw. Jego zaklęcia omiatają cały skarbiec i mówią mu, że mnie tu nie ma. I właśnie wtedy mój złodziej ośmiela się położyć rękę na swojej nagrodzie.<br>Myśli, że zwyciężył. Jego palce zatapiają się w rozsypce purpurowych pereł lśniących hipnotycznie w ciemności. Zimne, błyszczące, wspaniałe. Mój złodziej myśli, że są one jego nagrodą. Perły przyklejają się do jego łusek i zmieniają kształt, przybierając swoją prawdziwą postać - demonicznego władcy Nahyndri, pana klejnotów! Mój złodziej syczy, zdawszy sobie sprawę, że przybrałem postać jego upragnionego skarbu. Chwytam go za nadgarstek, zaciskam dłoń na jego zapadniętej piersi, ściskam! Nie będziesz mnie więcej okradał! Żaden z moich klejnotów nie da ci nawet iskry uniesienia! Ale mój złodziej tylko potrząsa swoją kryształową grzechotką i syczy beztrosko: <bs_n1>Na cóż mi twoje bombki? Nigdy ich nie szukałem...<bs_n1>.
+<862><bs_n1>Powiedz mi więcej<bs_n1>.
+<863><bs_n1>Czy było wiele takich raportów?<bs_n1>
+<864><bs_n1>Nie jestem zainteresowany.<bs_n1>
+<865><bs_n1>Bardzo dobrze, sprawdzę to. Dziękuję za raport.<bs_n1>
+<866><bs_n1>Komandor.<bs_n1>{n}Anevia wita cię energicznym skinieniem głowy.{/n}<bs_n1>Moi ludzie donieśli o kilku podejrzanie wyglądających postaciach kręcących się nad brzegami rzeki Sellen. Zapraszają przechodniów na poszukiwanie skarbów, obiecują im niewyobrażalne bogactwa... Podobno byli ludzie, którzy kupili ich bajki i odpłynęli z nimi. Nikt nie wrócił. Brzmi jak miejsce warte zbadania, co o tym sądzisz?<bs_n1>.
+<867><bs_n1>Cokolwiek powiesz. Jestem tu tylko po to, by złożyć raport.
+<868><bs_n1>To jest to miejsce - Mroczne Rozlewisko.<bs_n1>{n}Anevia zaznacza miejsce na mapie.{/n}<bs_n1>Jest ich dwóch, grubas i chudzielec. Z łodzią wiosłową. To mogą być zwykli bandyci, a jeśli to kultyści? Tak czy inaczej, dla bezpieczeństwa sprawdziłbym to<bs_n1>.
+<869><bs_n1>Cała sterta. W tym naszym Worldwound pełno jest kultystów, szpiegów, oszustów i szaleńców. Zwykle nie zgłaszam wam tego typu spraw, tylko zajmuję się nimi sam. Ale ci <bs_n1>poszukiwacze skarbów<bs_n1>... Moje przeczucie mówi mi, że to szczególny przypadek. Coś, z czym tylko ty możesz sobie poradzić.<bs_n1>
+<870><bs_n1>Begone!<bs_n1>
+<871><Tak, jestem gotowa.
+<872><bs_n1>Nigdy więcej nigdzie z tobą nie popłynę.<bs_n1>
+<873><bs_n1>Tutaj jesteś, mój skarbie.<bs_n1>{n}Natychmiast przed tobą materializuje się widmowy obraz Sternika.{/n}<bs_n1>Wszędzie cię szukałem... No i co? Czy jesteś gotów wyruszyć w nową podróż?<bs_n1>.
+<874><bs_n1>Tak niegrzecznie... Czy nie chcesz zdobyć największego skarbu Wysp Północy? Jest on już tak blisko...<bs_n1>.
+<875><bs_n1>Pięknie.<bs_n1>
+<876><bs_n1>A więc nie jesteś jeszcze gotowa? Nic nie szkodzi, mój skarbie, jestem cierpliwy. Poczekam, aż się rozmyślisz.<bs_n1>
+<877><bs_n1>Będę na ciebie czekał w Mrocznym Rozlewisku, na brzegu tej twojej rzeki...<bs_n1>.
+<878><bs_n1>Czy pomożesz nam walczyć?<bs_n1>
+<879><bs_n1>Który wiatr sprzyja naszej dzisiejszej podróży?<bs_n1>
+<880><bs_n1>Powiedz mi o wiatrach i podwodnych prądach.<bs_n1>
+<881><bs_n1>Jakie jest twoje zadanie na statku?<bs_n1>.
+<882><bs_n1>Muszę iść.<bs_n1>
+<883><bs_n1>Jakich prądów możemy się spodziewać po drodze?<bs_n1><bs_n1>Jakie prądy możemy napotkać?
+<884><bs_n1>Czy jesteś gotowy na nowe przygody?
+<885> 
+<886><bs_n1>Oczywiście, że nie. Jestem nawigatorem, a nie rzezimieszkiem. Ale pomogę ci doprowadzić to wiadro do miejsca, gdzie czekają na ciebie walki i skarby. Podkreślam, że czekają na ciebie, nie na mnie!<bs_n1>.
+<887><bs_n1>Zwykle pobieram za swoją pracę odpowiednią sumę, ale wy macie szczęście. Ten statek wypływa w miejsca tak fascynujące, że za każdym razem wracam z nowymi notatkami. Więc ja i sternik mamy umowę - moje usługi w zamian za możliwość prowadzenia badań bez konieczności schodzenia na ląd.<bs_n1>.
+<888><bs_n1>Podwodne prądy to zupełnie inna historia. Są zdradliwe i zmienne, a ich wpływ odczujesz zarówno na pokładzie, jak i na brzegu. Za każdym razem, gdy wylądujesz na jakiejś wyspie, sprawdź, jaki prąd cię tam przywiódł, bo inaczej możesz już nigdy nie wrócić!
+<889> 
+<890><bs_n1>Każdej podróży sprzyja niewidzialny wiatr. Nie taki, który napełnia żagle i napędza statek, nie - mówię o wiatrach losu, które przynoszą szczęście, katastrofy lub zwykłe dziwactwa. Niezależnie od tego, czy to wiatr wybiera ciebie, czy ty wybierasz wiatr, wiele rzeczy, które zobaczysz w czasie podróży, jest zdeterminowanych jeszcze przed wejściem na pokład.
+<891><bs_n1>Nieznane wiatry wieją nad Ishiar, a pod powierzchnią czają się podwodne prądy. Nikt nie zna ich wszystkich, ale nie będę się przechwalać, jeśli powiem - no dobra, trochę się pochwalę - że ten oto notatnik zawiera nazwy i kierunki co najmniej jednej czwartej z nich.<bs_n1>{n}Esilla z dumą poklepuje okładkę swojego grubego notatnika.{/n}
+<892><bs_n1>Morze woła!<bs_n1>
+<893><bs_n1>Witaj! Jesteś z nową załogą, prawda?<bs_n1> {n} Elfka o zwietrzałych rysach twarzy uśmiecha się do Ciebie przyjaźnie. Trzyma w ręku gruby, zniszczony notatnik. {/n}<bs_n1>Jestem Esilla, nawigatorka. Gdziekolwiek będziemy płynąć, pomogę ci tam dotrzeć.<bs_n1>
+<894> 
+<895> 
+<896> 
+<897><bs_n1>Czy możesz mi coś powiedzieć o tym statku?<bs_n1>.
+<898> 
+<899><bs_n1>Zbieram załogę i potrzebuję wykwalifikowanych wojowników.<bs_n1>
+<900><bs_n1>Kim pan jest?
+<901><bs_n1>Muszę iść.<bs_n1>
+<902>[Zapłać {custom_companion_cost} złotych monet]<bs_n1>To jest umowa!<bs_n1>.
+<903><bs_n1>Obawiam się, że nie mam tak dużo.<bs_n1>
+<904><bs_n1>Może nie w tej chwili.<bs_n1>
+<905>[Zapłać {respec_cost} złotych monet]<bs_n1>Zgadza się!<bs_n1>.
+<906><bs_n1>Jak to się stało, że odniosłeś tak poważne obrażenia?<bs_n1>.
+<907><bs_n1>Potrzebuję pomocy kompetentnego instruktora.<bs_n1>
+<908>{n} Twarz mężczyzny wygląda, jakby była długo przeżuwana przed połknięciem i częściowym przetrawieniem. Jedno z jego oczu jest zakryte czarnym bandażem, drugie kręci się dziko w oczodole, tylko na chwilę zatrzymując wzrok na tobie. Jego okaleczone dłonie, w których brakuje kilku palców, trzymają fajkę wypełnioną mocnym, cuchnącym tytoniem.{/n}<bs_n1>Eh? Wypływacie w morze, co? Szukacie kolesi? Jestem twoim człowiekiem, tak. Wędkarz zna każdego oszusta, rzezimieszka i śmiałka w tym mieście. I ile są warci, a ile będą cię kosztować.<bs_n1>
+<909><bs_n1>Nic do tego. {custom_companion_cost}złoto - a ja załatwię wam, kogo tylko będziecie potrzebować.<bs_n1>
+<910> 
+<911><bs_n1>Złamałem grotmaszt moją twarzą.<bs_n1>{n}Angler chichocze i zaciąga się swoją fetorem.{/n}<bs_n1> Miejsca, w których byłem... Ale to nie są historie, które opowiadałbym na trzeźwo.<bs_n1>
+<912><bs_n1>Mówią na mnie Wędkarz, a co do mojego fachu - sam się domyśl, co? Siedzę w tym biznesie od jakiegoś czasu, znam wielu ludzi. Potrzebujesz kolesi do żeglowania - za niewielką opłatą połączę cię z kimkolwiek zechcesz.<bs_n1>
+<913><bs_n1>Do zobaczenia!<bs_n1>
+<914><bs_n1>Więc kogo dokładnie potrzebujecie?<bs_n1>.
+<915><bs_n1>Więc nie marnuj mojego czasu. Wypłyńcie w morze i wróćcie, gdy wasze kieszenie się zatrzasną.<bs_n1>
+<916><bs_n1>Gdy już się zdecydujesz, wiesz, gdzie mnie szukać.<bs_n1>
+<917><bs_n1>Tak, znam kogoś. Będzie cię to kosztowało {respec_cost} złotych monet.<bs_n1>
+<918><bs_n1>No dobrze, to kto potrzebuje szkolenia?<bs_n1>
+<919><bs_n1>Hej tam, drifter.<bs_n1>{n}Zrujnowana twarz Anglera przybiera drapieżne pozory uśmiechu.{/n}<bs_n1>Potrzebujesz nowych kolesi? Wystarczy krzyknąć!<bs_n1>.
+<920><bs_n1>A poza tym, że wygląda bardziej jak kupa zgniłych kości niż uczciwe naczynie? Niewiele. Mówią, że jej sternik poszukuje skarbów, ale nie widziałem, żeby ktoś zbił fortunę na tych wyprawach. Poza mną i tą rybą z robaczym okiem.<bs_n1> {n}Angler kiwa głową na kupca.{/n}<bs_n1>Nie złapiesz mnie na pokładzie tego statku, ale nie muszę - tacy jak ty przynoszą mi tyle pieniędzy, ile potrzebuję, ha ha!
+<921> 
+<922><bs_n1>Pokaż mi swoje eliksiry i zwoje.<bs_n1>
+<923><bs_n1>Kim ty jesteś?<bs_n1>
+<924><bs_n1>Co sprzedajesz?<bs_n1>.
+<925><bs_n1>Muszę iść.<bs_n1>
+<926><bs_n1>Pokaż mi, jaki masz sprzęt.<bs_n1>
+<927><bs_n1>Opowiedz mi o Ishiarze.<bs_n1>
+<928><bs_n1>Dziękuję za odpowiedzi.<bs_n1>
+<929><bs_n1>Potrzebuję pomocy kleryka.<bs_n1>
+<930><bs_n1>Opowiedz mi o sobie.<bs_n1>
+<931><bs_n1>Jesteś klerykiem? Jakiemu mocarstwu służysz?<bs_n1>.
+<932><bs_n1>Przyjdź tu, żeglarzu.<bs_n1>{n}Tłusta, goggle-oczna istota o niezdrowo bladej skórze obdarza cię powitalnym uśmiechem, a jej paszcza wypełniona jest małymi, ostrymi zębami.{/n}<bs_n1>Wybierasz się w podróż? Dobrze, dobrze... Nie zapomnij kupić wszystkiego, co potrzebne do podróży. Przecież chcesz wrócić, prawda?<bs_n1>.
+<933><bs_n1>Podejdź tutaj, wędrowcze lądowy.<bs_n1>{n}Tłuste, bladoskóre stworzenie mruży oczy z widocznym niezadowoleniem, osłaniając swoje wybałuszone oczy pajęczą ręką.{/n}<bs_n1>To miejsce jest obrzydliwie jasne... Dlaczego nie popłyniesz z nami w podróż? Mogę ci sprzedać wszystko, co będzie ci potrzebne do podróży. Przecież chcesz wrócić, prawda?<bs_n1>.
+<934><bs_n1>Więc morze pozwoliło ci znów chodzić po tej twojej ziemi, jak widzę... Niewielu ma tyle szczęścia. I właśnie trafiłem na kilka nowych wyrobów - chciałbyś rzucić okiem?<bs_n1>.
+<935><bs_n1>Och, to nie będzie żaden kłopot... Ale będzie cię to kosztować. Możesz kupić u mnie zwój z każdym zaklęciem, jakiego potrzebujesz - przeczytam ci je tutaj, na lądzie. Ale nie myśl o wypłynięciu bez kleryka. Morze łatwo połyka tych, którzy ośmielają się polegać tylko na własnej sile.<bs_n1>
+<936><bs_n1>Moje imię jest znane falom, ale możesz mnie nazywać kapelanem. Czuwam nad tym sternikiem i jego statkiem. I nad tymi odważnymi, którzy wyruszają, by podbić Ishiar... lub stać się jego pożywieniem.<bs_n1>.
+<937><bs_n1>Moje imię jest znane falom, ale możecie mnie nazywać kapelanem. Czuwam nad tym statkiem - i odważnymi, którzy wyruszyli, by podbić Ishiar... lub stać się jego pożywieniem.<bs_n1>
+<938><bs_n1>Wszystko, co może ci się przydać w podróży. Broń, zbroja, mikstury, zwoje... Jeśli wrócisz z podróży żywy, nie zapomnij do mnie wpaść - często mam nowe towary do sprzedania.<bs_n1>.
+<939><bs_n1>Żegnaj!<bs_n1>.
+<940><bs_n1>Służę mocy starszej niż śmiertelnicy i demony. Cień w głębinach, twórca wód słonych i słodkich. Tej, która czeka na ciebie, moje dziecko, na ciebie i na każdego, kto odważy się wypłynąć w morze. Może nie dziś, nie jutro... ale prędzej czy później twoje podróże zaprowadzą cię do niego, na samo dno Otchłani.<bs_n1>
+<941><bs_n1>Wszystko jest wokół ciebie, jak okiem sięgnąć!<bs_n1> {n}Z bulgoczącym śmiechem kapelan gestykuluje w stronę fal.{/n}<bs_n1>Ishiar jest tym, czego trzyma się Otchłań. Pierwotny ocean, który go zrodził i który kiedyś go pochłonie. Wyspy Północy są tylko drobinkami piany na jego powierzchni. Ty i ja jesteśmy tylko kroplami przelatującymi nad falami przez ulotną chwilę... I wkrótce, bardzo wkrótce, powrócimy na fale.<bs_n1>
+<942>{n}Cień w głębinach... Kapelan służy Dagonowi - władcy demonów, który rządzi oceanami i potworami morskimi.{/n}
+<943>{n}Słowa kapelana nie mają żadnego sensu. Nie masz pojęcia, komu on służy.{/n}
+<944><bs_n1>Nie trzeba dziękować.<bs_n1>
+<945><bs_n1>A oto i ty. Witaj z powrotem! Rozumiem, że tym razem morze cię oszczędziło. Wiesz, właśnie dostałem kilka nowych dodatków do mojego magazynu. Chciałbyś rzucić okiem?<bs_n1>.
+<946><bs_n1>Chodź, żeglarzu, chodź - kupuj moje towary, nie szczędź pieniędzy. Na dnie morza nie będziesz miał z niej wiele pożytku.<bs_n1>
+<947><bs_n1>Z dala od świata śmiertelników, u samych korzeni stworzenia, w miejscu, gdzie ciemność Otchłani graniczy z wielką nicością, leży Ishiar. Niekończący się pierwotny ocean, który zrodził wszystko i który pewnego dnia pochłonie wszystko. Dumni władcy demonów ze swymi królestwami są tylko drobinkami piany na jego powierzchni.<bs_n1>
+<948><bs_n1>Przyjdźcie zobaczyć mój towar. Dlaczego czegoś nie kupisz? Chyba nie chcesz, aby mroczne głębiny pochłonęły cię zbyt szybko? Chcesz nadal stąpać po swoim suchym lądzie, prawda?<bs_n1>.
+<949><bs_n1>Mnie? Czy w ogóle jest coś ciekawego do opowiedzenia? Co chcesz wiedzieć?<bs_n1>.
+<950> 
+<951> 
+<952> 
+<953> 
+<954> 
+<955> 
+<956> 
+<957> 
+<958> 
+<959> 
+<960> 
+<961> 
+<962> 
+<963> 
+<964> 
+<965> 
+<966> 
+<967>Duch władcy demonów Nahyndri pozostał związany z jego czarnym sercem.
+<968>Duch władcy demonów Nahyndri został uwolniony z kajdan magii Noktikuli i udał się do Szczeliny Pochylenia, gdzie wreszcie znalazł błogie zapomnienie.
+<969>Duch władcy demonów Nahyndri został oczyszczony z wielowiekowego dziedzictwa zła i udręki. To oczyszczenie pozwoliło mu uniknąć podróży do Szczeliny Pochylenia i zamiast tego pojawił się na dworze Pharasmy. Bogini zważyła zło, którego dopuścił się Nahyndri, i jego tysiącletnie cierpienia oraz wyrzuty sumienia i skazała duszę byłego władcy demonów na odrodzenie na płaszczyźnie Elysium.
+<970>Czasem słychać odległe zawodzenia na wietrze, który wieje nad zbudowaną na jego szczątkach Wyspą Północy. Demony jednak mało się tym przejmują lub nie przejmują się wcale.
+<971>Północna Wyspa, zbudowana na szczątkach Nahyndriego, zatonęła w wodach Ishiaru.
+<972>Po zwycięstwie pod Threshold Camellia odmówiła przyłączenia się do armii krzyżowców wycofujących się do Drezen. Zamiast tego samotnie wędrowała wśród ruin pustej fortecy. Często zatrzymywała się, by posłuchać wiatru, w nadziei, że usłyszy znajomy głos.
+<973><bs_n1>Witaj, dowódco. Drezen będzie nasze! Wszystkie oddziały pokładają w tobie wiarę<bs_n1>.
+<974>Raport Stargazera
+<975> 
+<976> 
+<977> 
+<978> 
+<979> 
+<980> 
+<981> 
+<982> 
+<983> 
+<984> 
+<985> 
+<986>Sternik musi mieć wytłumaczenie na to, co się wydarzyło.
+<987>Dziś nie ma już polowań.
+<988>Polowanie jest rozrywką dla wysoko urodzonych. Wielu monarchów utrzymuje przestronne budy i trenuje sokoły, aby cały dwór mógł uczestniczyć w radosnym puszczaniu przestraszonego zwierzęcia. Wszystko, czego wymaga się od {mf|him|her}, to przyjęcie zaproszenia, wejście na statek i wyruszenie w podróż, z której nikt jeszcze nie powrócił. W tym wszystkim nie może być żadnego haczyka.
+<989>Zbadaj Mroczną Strugę
+<990>Anevia doniosła o dziwnym statku, który często można zobaczyć na rzece Sellen u granic Mendevu, gdzie zatrzymuje się, aby zebrać załogę śmiałków i odpłynąć w nieznanym kierunku. Warto sprawdzić, czy statek ten nie skrywa jakiejś tajemnicy.
+<991>Zgodnie z niejasnym wyjaśnieniem Sternika, skarb znajduje się na jednej z bezludnych wysp.
+<992>Znajdź skarb
+<993>Porozmawiaj z Sternikiem
+<994>Kolejny etap polowania zakończony. Cel jest bliski, a oczekiwanie łowców sięga zenitu.
+<995>Polowanie trwa nadal i staje się coraz bardziej pasjonujące. Dowódca wie już bowiem o bestii, którą ściga {mf|he|she}. <br> Władca demonów Nahyndri, zabity przez Nocticulę wieki temu, stał się wyspą na jej archipelagu. Wygląda jednak na to, że niektóre części jego istoty nie chciały umrzeć tak, jak się tego spodziewano, i teraz szukają czegoś głęboko na Wyspach Północy. Czy to godna pochwały wytrwałość, czy głupota granicząca z głupotą?
+<996>Bhurgaz, który prowadzi gospodę Bad Luck, opowiedział historię o tym, że w miejscowym porcie kościany statek zbiera załogę na poszukiwanie skarbu. Być może komandor odnajdzie znajomą twarz w sterniku statku.
+<997>Znajdź kościany statek w porcie Alushinyrry
+<998>Sternik, który okazał się być fragmentem upadłego władcy demonów Nahyndri, wskazuje drogę do kolejnego skarbu.
+<999>Znajdź drugi skarb
+<1000>Czas wrócić do Sternika
+<1001>Polowanie dobiegło końca, a każdy z łowców dostał to, na co zasłużył. Los poległego władcy demonów został przesądzony i nadszedł czas, aby dowódca wrócił do swoich spraw.
+<1002>Ofiara jest w zasięgu wzroku, a łowcy z niepokojem sprawdzają swoją broń. Dreszczyk emocji wypełnia ich serca adrenaliną. Zbliża się krwawe zakończenie, a ich nagroda jest nieuchronna.
+<1003>Mroczny Szlam ponownie wzywa dowódcę. Sternik jest gotowy do rozpoczęcia ostatniego etapu polowania i wzywa swoich najlepszych łowców, aby przyłączyli się do pościgu.
+<1004>Odwiedź Mroczną Skałę
+<1005>Sternik wyczuł zapach trzeciego skarbu Nahyndri.
+<1006>Znajdź trzeci skarb
+<1007>Najcenniejszy skarb Nahyndriego, jego martwe serce, znajduje się gdzieś w pobliżu. Droga do jego skrytki jest otwarta. Pozostaje tylko do niego dotrzeć.
+<1008>Znajdź serce Nahyndriego
+<1009>Zdrada, niezależnie od tego, jak bardzo jest oczekiwana, musi zostać surowo ukarana. Sternik, który uważa się za prawdziwego spadkobiercę Nahyndriego, chce poświęcić dowódcę dla swojej budzącej się mocy.
+<1010>Pokonaj Nahyndriego
+<1011>Kościany statek wypłynął ostatni. Nie takiego wyniku spodziewał się Nahyndri, gdy wyruszał na poszukiwanie swojego serca. Teraz to imię znów odejdzie w zapomnienie na tysiące lat - a może na zawsze.
+<1012>Głęboko w Otchłani leży Ishiar - bezdenny i bezkresny pierwotny ocean. Niedaleko miejsca, gdzie rzeka Styks wpada do Ishiaru, znajdują się Wyspy Północy - rozległy archipelag pełen tajemnic i niebezpieczeństw. Statek z kości i kości wyrusza na poszukiwanie zaginionych skarbów. To niebezpieczna wyprawa - ale w Alushinyrrze nie brakuje śmiałków, którzy zaryzykują życie dla zysku.
+<1013>Podróż się zaczyna. Pokład czeka na odważne dusze gotowe wyruszyć w nieznane.
+<1014>Wejdź na pokład statku
+<1015>Sam Sternik nie jest pewien, czego dokładnie szuka - ale przysięga, że zna drogę i że nagroda będzie warta wysiłku i poświęconego czasu. Czy ktoś znajdzie w sobie odwagę, aby dowiedzieć się, co kryje się na końcu?
+<1016>Znajdź pierwszy skarb
+<1017>Sternikiem okazał się Nahyndri, martwy władca demonów poszukujący swoich zaginionych skarbów. Był bogaty, to prawda, ale prawdziwym celem jego poszukiwań nie może być zwykłe złoto czy klejnoty. Czego tak naprawdę szuka - i czy to znajdzie?
+<1018>Znajdź drugi skarb
+<1019>Nahyndri szuka sposobu, by wrócić do życia. A raczej kości Nahyndriego pragną zmartwychwstać, podczas gdy to, co pozostało z jego duszy, nie pragnie niczego poza spokojem - ale zamiast tego jest zmuszony poprowadzić statek do wyznaczonego celu. Co mogą osiągnąć śmiertelni poszukiwacze skarbów, jeśli znajdą się między tymi dwoma przeciwstawnymi bytami?
+<1020>Znajdź trzeci skarb
+<1021>W końcu Nahyndri znalazł drogę do swojego największego skarbu - czarnego, zgniłego serca, które kiedyś biło w jego piersi. Ostatnia podróż, a powróci do życia - lub straci ostatnią szansę na odrodzenie.
+<1022>Znajdź ostatni skarb
+<1023>Tak jak skorpion nie może się powstrzymać przed użądleniem, tak władca demonów nie może się powstrzymać przed zdradą. Nahyndri zwrócił się przeciwko swojemu wybawcy. Czy będzie się delektował żywą krwią śmiertelnika, czy też upadnie, gdy będzie o krok od triumfu?
+<1024>Pokonaj Nahyndriego

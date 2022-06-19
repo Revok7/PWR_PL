@@ -1,0 +1,1021 @@
+<4>All barbarians, bloodragers, skalds with the battle scion archetype, and druids with the primal druid archetype in your party gain an additional +3 hit points every time they gain a level.
+<5>All ranged attacks made by your party members when using a bow gain a +1 bonus on attack and damage rolls. This bonus increases by 1 for every other bow-wielding party member attacking the same target, up to a maximum of +3.
+<6>Every time you affect a party member with a divine spell, you also give them a profane bonus to attack rolls, equal to the spell's level, for 2 rounds.
+<7>Every time a divine caster in your party casts a divine spell on a party member, they grant that party member an additional blessing. The nature of the blessing depends on their deity's alignment.<br>A follower of a good deity grants their party members a sacred bonus to AC.<br>A follower of a neutral deity grants their party members a luck bonus to saving throws.<br>A follower of an evil deity grants their party members a profane bonus to attack rolls.
+<8>Every time you affect a party member with a divine spell, you also give them a sacred bonus to AC, equal to the spell's level, for 2 rounds.
+<9>Every time you affect a party member with a divine spell, you also give them a luck bonus on saving throws, equal to the spell's level, for 2 rounds.
+<10>All acid damage dealt by your party members is increased by 25%.
+<11>All cold damage dealt by your party members is increased by 25%.
+<12>All electricity damage dealt by your party members is increased by 25%.
+<13>All fire damage dealt by your party members is increased by 25%.
+<14>All sonic damage dealt by your party members is increased by 25%.
+<15>All elves in your party gain a bonus on initiative rolls equal to their character level.
+<16>Tailwind of Elven Nimbleness
+<17>When wielded by your party members, all exotic weapons deal damage using the damage die of the next highest category (for example, a d6 becomes a d8).
+<18>Some spellcasters in your party are protected from harming their allies. Clerics with the ecclesitheurge archetype, druids with the elemental rampager archetype, magi with the eldritch scion archetype, sorcerers with the overwhelming mage archetype, witches with the elemental witch archetype, and wizards with the elemental specialist archetype can cast area of effect spells without harming their party members. In addition, whenever a member of your party would be struck by such a spell, they gain spell resistance 10 + caster level against the spells of the same school for 1 round.
+<19>Tailwind of Scorched Earth
+<20>All gnomes in your party start with 5,000 gold. In addition, vendor prices are reduced by 10% for every gnome in your party.
+<21>Tailwind of Gnomish Fortune
+<22>Characters of certain archetypes with a special connection to nature gain the ability to heal their allies. This tailwind works with the following classes: druid with the primal druid archetype, inquisitor with the sacred huntsmaster archetype, rogue with the sylvan trickster archetype, skald with the hunt caller archetype, sorcerer with the sylvan sorcerer archetype, warpriest with the feral champion archetype. Every time your party kills an enemy, all party members are healed by an amount based on how many different archetypes from the above list are represented in the party: 1d4 per character level if one, 1d6 per character level if two, 1d8 per character level if three, 1d10 per character level if four, 1d12 per character level if five, 2d8 per character level if all six.
+<23>Tailwind of Good Hunting
+<24>The blasts of all kineticists in your party rebound off enemies, hitting additional targets. For every two kineticist levels, each blast hits one extra target.
+<25>All kitsune in your party gain a permanent bonus to their Dexterity score equal to half their character level (rounded down).
+<26>Tailwind of Foxes' Alacrity
+<27>Every time any cleric, inquisitor, oracle, or warpriest in your party casts a divine spell, it becomes empowered, as though using the Empower Spell feat.
+<28>Whenever a member of your party casts a spell on a target which is already under an effect of a spell from an opposed school, it causes an explosion which deals 3d6 force damage per the spell level of the cast spell to the target.
+<29>All ranged touch attacks made by your party members have a threat range of 18–20.
+<30> 
+<31> 
+<32> 
+<33> 
+<34> 
+<35> 
+<36> 
+<37> 
+<38> 
+<39> 
+<40> 
+<41> 
+<42> 
+<43> 
+<44> 
+<45> 
+<46> 
+<47> 
+<48> 
+<49> 
+<50> 
+<51> 
+<52> 
+<53> 
+<54> 
+<55> 
+<56> 
+<57> 
+<58> 
+<59> 
+<60> 
+<61> 
+<62> 
+<63> 
+<64> 
+<65> 
+<66>All rogues, rangers, alchemists with the vivisectionist archetype, magi with the armored battlemage archetype, and slayers with the arcane enforcer archetype gain DR N/- equal to their level in this class.
+<67>Impervious Tailwind
+<68>All party members gain Shield Bash as a bonus feat at 1st level, even if they do not meet the prerequisites. Any character who is using a shield gains a +1 bonus to AC. While performing a shield bash, a character gains a +6 bonus on attack and damage rolls equal to their character level.
+<69>All party members gain a +1 bonus for every 5 character levels (minimum +1) to damage rolls with bludgeoning weapons.
+<70>All party members gain a +1 bonus for every 5 character levels (minimum +1) to damage rolls with slashing weapons.
+<71>Every time one of your party members casts a spell, they gain a bonus equal to the spell's level on attack and damage rolls on their next weapon attack. Multiple applications of this effect stack, but its duration cannot exceed 1 minute.
+<72>Every time a spontaneous spellcaster in your party casts a spell, they have a 50% chance to avoid expending a spell slot.
+<73>Tailwind of Bloodlines
+<74>Every time one of your party members summons exactly one creature, two such creatures are summoned instead.
+<75>Unarmed strikes made by your party members gain a +1 bonus on attack rolls and deal an additional damage die of the same type as the primary one (1d4 becomes 2d4, 1d6 becomes 2d6).
+<76>Whenever this creature hits the target with a melee attack, the target must make a Will save (the save DC is based on the island's challenge rating). On a failed save, the creature affects the target with an effect that reduces the caster level of all spells cast by the target. Multiple applications of this effect stack. This effect can be removed by a restoration spell.
+<77>The caster level of all spells cast by this creature is reduced by 1 for every stack of this effect. It effect can be removed by a restoration spell.
+<78>The air is infused with raw, unbridled magic. The caster level of all spells with acid, cold, electricity, fire, or sonic descriptor is increased by 2. Whenever a creature casts an arcane spell, a tiny magic eater pseudodragon appears out of thin air next to the caster and attacks them. Whenever the magic eater hits the target with a melee attack, the target must make a Will save (the save DC is based on the island's challenge rating). On a failed save, the magic eater affects the target with an effect that reduces the caster level of all spells cast by the target. Multiple applications of this effect stack. This effect can be removed by a restoration spell.
+<79>This creature gains a +1 insight bonus on attack and damage rolls for every 5 of its Besmaran pirate comrades you have killed (on this island or any other). This bonus stacks up to a maximum of +25.
+<80>You gain a +2 bonus on attack rolls if you are of chaotic neutral alignment. If your alignment matches chaotic neutral along one axis only, you gain a +1 bonus on attack rolls.
+<81>If your alignment matches chaotic neutral along one axis only, you gain a +1 bonus on attack rolls.
+<82>All Besmaran pirates gain a +1 insight bonus on attack and damage rolls for every 5 of their comrades you have killed (on this island or any other). This bonus stacks up to a maximum of +25.
+<83>Any creature here gains a +2 bonus on attack rolls if it is of chaotic neutral alignment. If its alignment matches chaotic neutral along one axis only, it gains a +1 bonus on attack rolls.
+<84>While in combat, all creatures on this island go into a rage similar to a barbarian's rage. In addition, all creatures on this island gain a +1 bonus on attack and damage rolls.
+<85>You gain a +1 bonus on attack and damage rolls.
+<86>Creatures in the area of effect are protected from ranged attacks, gaining a +4 circumstance bonus to AC against them. However, they run the risk of getting hit by lightning (the effect of a call lightning spell with a Reflex save DC of 25).
+<87>All non-elemental creatures in the area of effect become slowed, as per the slow spell, but also gain DR 5/good. In addition, every time such a creature makes an attack or casts a spell, it must make a Reflex save (DC 30) or fall prone.
+<88>A creature under this effect gains cold resistance based on the number of its HD (resistance 10 for 6 HD, resistance 20 for 10 HD, and resistance 30 for 20 HD). Every time the creature takes damage from any source, it takes an additional 1d6 fire damage.
+<89>The elements, tainted by the energies of the Abyss, rage on this island.<br>Roaring gale: all ranged attacks made against targets more than 30 feet away suffer a -4 penalty on attack rolls.<br>Lightning strikes: periodically, a random creature on the island is struck by a lightning that deals 10d8 electricity damage. A successful Reflex save (DC 20) reduces the damage by half.<br>Whenever a creature on this island casts a spell with electricity descriptor, that spell's caster level is increased by 2.
+<90>All creatures on this island gain fire resistance 5. Periodically, whirlpools with a radius of 10 feet appear in random spots on the island, dealing 1d6 bludgeoning damage and 1d6 cold damage to all creatures caught in them.
+<91>All creatures on this island are under the constant effect of the enlarge person spell. The Strength and Constitution scores of all creatures on the island are increased to 21 if their original values were lower.
+<92>All creatures on this island are under the constant effect of the enlarge person spell. The Strength and Constitution scores of all creatures on the island are increased to 21 if their original values were lower.
+<93>You gain a +1 bonus to Intelligence, Wisdom, and Charisma and suffer a -1 penalty to Strength, Dexterity, and Constitution.
+<94>You gain a +2 bonus to Intelligence, Wisdom, and Charisma and suffer a -2 penalty to Strength, Dexterity, and Constitution.
+<95>You gain a +3 bonus to Intelligence, Wisdom, and Charisma and suffer a -3 penalty to Strength, Dexterity, and Constitution.
+<96>Time flows much more quickly on this island. At the beginning of each combat, all creatures are affected by the equivalent of the haste spell. In addition, all creatures begin to age rapidly, gaining a stacking bonus to Intelligence, Wisdom, and Charisma and suffering a stacking penalty to Strength, Dexterity, and Constitution. The effects of the accelerated aging are lifted once the party leaves the island.
+<97>Time flows much more quickly on this island. At the beginning of each combat, all creatures are affected by the equivalent of the haste spell. In addition, all creatures begin to age rapidly, gaining a stacking bonus to Intelligence, Wisdom, and Charisma and suffering a stacking penalty to Strength, Dexterity, and Constitution. The effects of the accelerated aging are lifted once the party leaves the island.
+<98>The DC of all Illusion school spells cast on this island is increased by 1.
+<99>Every time a creature on this island fails a Will saving throw, it suffers a stacking -1 penalty on all subsequent Will saving throws. This effect can be removed by a dispel magic spell (DC 21).
+<100>This creature has dominated the minds of certain creatures on this island. Once it is killed, they will be released and aid you in battle.
+<101>This creature's mind has been dominated. This effect can only be removed by killing the dominator.
+<102>Some creatures on this island are under the hypnotic control of a mind dominator. If the mind dominator is killed, those creatures will be released and aid you in battle.
+<103>Mesmerizing Undertow
+<104>All healing done with positive energy within the area of effect is reduced by 50%.
+<105>This creature gains a +1 bonus on attack and damage rolls, and its maximum number of hit points is increased by 2 per HD. In addition, every time the creature deals damage, it restores its lost hit points equal to the amount of 20% of the damage dealt.
+<106>Negative energy permeates this island.<br>In areas where its presence is strongest, all healing done with positive energy is reduced by 50%. All healing done with negative energy on this island is increased by 50%.<br>The DC of all Necromancy school spells is increased by 1.<br>All undead and dhampirs gain a +1 bonus on attack and damage rolls, and their maximum number of hit points is increased by 2 per HD. In addition, every time such a creature deals damage, it restores its lost hit points equal to the amount of 20% of the damage dealt.
+<107>Every time a creature casts a spell, it must make a Will save (the save DC is based on the island's challenge rating). On a failed save, the creature becomes confused and goes into a rage similar to a barbarian's rage. After the effect ends, the creature gains a +1 bonus on Will saves for 1 minute.
+<108>This creature gains a +1 bonus on Will saves.
+<109>This island is ravaged by cannibals and diseases. Every time a cannibal devours a corpse, they go into a rage similar to a barbarian's rage and gain DR 5/good. In addition, every time an infectious creature hits with a melee attack, the target must make a Fortitude save (the save DC is based on the island's challenge rating) or become infected with disease.
+<110>Cannibalistic Undertow
+<111>Every time a cannibal devours a corpse, they go into a rage similar to a barbarian's rage and gain DR 5/good.
+<112>While you are suffering from any ability damage, all healing received by you is halved.
+<113>Every time this creature hits with a melee attack, the target must make a Fortitude save (the save DC is based on the island's challenge rating) or become infected with anemia.
+<114>The DC of all spells with fire descriptor is increased by 2.<br>All ranged attacks deal an additional 2d6 fire damage on hit.
+<115>Every time a creature casts a spell, if the creature does not have immunity to fire (including temporary immunity granted by effects such as a protection from energy spell), it takes fire damage (the damage amount is based on the island's challenge rating).
+<116>Your armor is red-hot from the heat. Each combat round, you must make a Fortitude save (the save DC is 20 in the first round and increases with each round) or take 3d6 fire damage. Creatures wearing no armor and those with immunity to fire (including temporary immunity granted by effects such as a protection from energy spell) are unaffected.
+<117>Heated Heavy Armor
+<118>Your armor is red-hot from the heat. Each combat round, you must make a Fortitude save (the save DC is 15 in the first round and increases with each round) or take 2d6 fire damage. Creatures wearing no armor and those with immunity to fire (including temporary immunity granted by effects such as a protection from energy spell) are unaffected.
+<119>Heated Medium Armor
+<120>This island is plagued by intense heat. The DC of all spells with fire descriptor is increased by 2, and all ranged attacks deal an additional 2d6 fire damage on hit. In addition, creatures without immunity to fire (including temporary immunity granted by effects such as a protection from energy spell) take damage whenever they cast a spell, and all medium and heavy armor they are wearing is red-hot, dealing damage to them each round. Finally, pools of lava can be found on the island — a creature that steps into them takes 20d6 fire damage (a successful DC 40 Fortitude save reduces the damage by half).
+<121>Volcanic Undertow
+<122>The laws of magic on this island are peculiar. Every time a creature casts a spell, uses a spell-like ability, or activates a magic item, it must make a concentration check (the check DC is based on the island's challenge rating). On a failed check, the spell is wasted, but another random spell is cast on the same target instead. If the caster is under the effect of the protection from chaos spell when the check is failed, the spell is cast normally, but the protection from chaos is dispelled.
+<123>Hunter
+<124>Copper Dragon Form
+<125>At 11th level, a standard bearer's banner becomes an even more potent symbol of protection and inspiration to those around him. Once per day, while his banner is displayed, the standard bearer can wave it through the air as a {g|Encyclopedia:Full_Round_Action}full-round action{/g}, granting all allies within 60 feet temporary {g|Encyclopedia:HP}hit points{/g} equal to 1/2 his cavalier level, and a +2 morale {g|Encyclopedia:Bonus}bonus{/g} to damage rolls while the temporary hit points last. At 15th level, and every four levels thereafter, this bonus increases by +1 (to a maximum of +4 at 19th level). The temporary hit points last for 10 minutes or until depleted, whichever occurs first.
+<126>Hunter Spell (1st Level)
+<127>Hunter Spell (2nd Level)
+<128>Hunter Spell (3rd Level)
+<129>Hunter Spell (4th Level)
+<130>Hunter Spell (5th Level)
+<131>Hunter Spell (6th Level)
+<132>At 2nd level, when unarmored, not using a shield, and conscious, the shifter adds her Wisdom bonus (if any) to her AC and CMD. In addition, the shifter gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 shifter levels thereafter (up to a maximum of +5 at 20th level). If she is wearing nonmetal armor or using a nonmetal shield, she instead adds half her Wisdom bonus to her AC (minimum 0).<br>These bonuses to AC apply even against touch attacks and when the shifter is flatfooted. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the monk AC bonus class feature.
+<133>Defensive Instinct
+<134>Defensive Instinct
+<135>By way of the druidic discipline of wild shape, they become living aspects of the wild. At first, they are able to assume only a minor aspect, but with time and practice they can fully transform into ever more powerful forms.
+<136>The shifter class offers players a way to experience a shapeshifting character that is more martially inclined than a spellcasting druid. With each new level, the shifter's powers grow in new and surprising ways, creating a character that thrives in battle, exploration, and stealth.
+<137>Whether riding on the wind as a falcon or hiding in some fetid bog waiting to strike, the shifter is a true master of the wild. Both a devoted defender of druidic circles and a fierce predator, the shifter can take on the forms of nature and even fuse them together with devastating effect and unbridled savagery. Shifters are protectors of druidic circles and avengers of nature, yet a shifter's magic is different from that of her druidic kin. Rather than invoking spells from the natural world or forging alliances with animals, shifters focus their supernatural powers inward to gain control over their own forms. Their ability to change their forms is as varied as the wonders of the wilds themselves but always remains at least partially rooted in the natural world. There are many paths to becoming a shifter; most are trained in that role by druidic circles and have their powers unlocked via rituals of initiation. Yet some stumble upon the gift naturally, as if their blood bore the secrets of shifter transformation.
+<138>Shifter
+<139>At will, a shifter in her natural form can extend her claws as a swift action to use as a weapon. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small).<br>As the shifter gains levels, the power of her claws increases. At 3rd level, her claws ignore DR/cold iron, DR/magic, and DR/silver. At 7th level, her claw damage increases to 1d6 (1d4 if Small). At 11th level, her claw damage increases to 1d8 (1d6 if Small). At 13th level, her claw damage increases to 1d10 (1d8 if Small). At 17th level, the damage die does not increase, but the critical multiplier becomes ×3. Lastly, at 19th level, the claws ignore DR/adamantine and DR/—.<br>While a shifter uses wild shape to assume her aspect's major form, her natural attacks gain the same benefits granted by her shifter claws ability. If the form she takes has claw attacks, she can use either the base damage of her shifter claws or the damage of the form's claws, whichever is greater. If the form does not have claw attacks, she can use alternative natural attacks, those attacks deal the same damage as her shifter claws.
+<140>Shifter Claws
+<141>At will, a shifter in her natural form can extend her claws as a swift action to use as a weapon. The claws on each hand can be used as a primary natural attack.<br>As the shifter gains levels, the power of her claws increases.
+<142>At 2nd level, a shifter adds half her level as a bonus on Lore: Nature checks.
+<143>Track
+<144>At 3rd level, a shifter can move through any sort of undergrowth (such as briars, natural thorns, overgrown areas, and similar terrain) he ignores movement penalties from difficult terrain, is immune to the entangled condition and gains +2 AC against attacks of opportunity.
+<145>Woodland Grace
+<146>The aspect of the bear invokes a juggernaut of tireless endurance and furious power. Those who take this aspect are known for surviving severe wounds and delivering punishing blows in return.<br>Minor Form: You gain a +2 Inherent bonus to your Constitution score. At 8th level, the bonus increases to +4, and at 15th level it increases to +6.<br>Major Form (beast shape II): Your shape changes to that of a dire bear (Bestiary 31). While in this form, you gain a base speed of 40 feet, scent (30 feet), a bite attack (1d8 damage), and two claw attacks (1d6 damage) with the grab ability. At 8th level, you gain Improved Natural Attack (Bestiary 315) with your claws. At 15th level, the critical multiplier of your claw attack increases by 1 (×2 becomes ×3) to a maximum of ×4, and you gain the Awesome Blow feat (Bestiary 314).<br>Alternate Natural Attacks: Bite (B, P, S)
+<147>Bear
+<148>Those with the aspect of the boar are famously stubborn.<br>Minor Form: You gain a +2 Inherent bonus to your Fortitude thaving throws. At 8th level, the bonus increases to +4, and at 15th level it increases to +6.<br>Major Form (beast shape II): Your shape changes to that of a dire boar . While in this form, you gain the scent ability, a gore attack (1d8), and a base speed of 40 feet. At 8th level you gain Improved Natural Attack with your gore attack, and you gain powerful charge (+1d8 on your gore attack). At 15th level, you gain 1 additional hit point per Hit Die you have, and you gain Awesome Blow (Bestiary 314) as a bonus feat.<br>Alternate Natural Attacks: Gore (P).
+<149>Boar
+<150>The dinosaur is adept at racing from ambush to deliver grievous wounds with its talons. This aspect infuses the shifter with an enhanced ability to surprise foes and strike first in battle.<br>Minor Form: You gain a +2 bonus on Initiative checks. This bonus increases to +4 at 8th level and +6 at 15th level.<br>Major Form (beast shape II): Your shape changes to that of a dinosaur. While in this form, you gain a base speed of 60 feet, scent (30 feet), a bite attack (1d8 damage), and two talon attacks (1d8 damage; your talon attacks can use your shifter claws damage), and pounce. At 8th level, you gain two foreclaw attacks (1d4 damage; these attacks cannot use your shifter claws damage) and a +2 racial bonus on Reflex saving throws. At 15th level, you gain a +2 dodge bonus to AC and Spring Attack as a bonus feat.<br>Alternate Natural Attacks: Bite (B, P, S), talon (S)
+<151>Dinosaur
+<152>The elephant is a symbol of both power and wisdom in Garund and Vudra. Shifters who take this aspect learn the value of applying their strength with precision. An elephant's alternate attacks are gore (P) and slam (B).<br>Minor Form: You gain a +2 Inherent bonus to your Strength score. At 8th level, the bonus increases to +4, and at 15th level it increases to +6.<br>Major Form (beast shape II): Your shape changes to that of a Large adolescent elephant (as an elephant, but with a space of 10 feet). While in this form, you gain, scent (30 feet), a gore attack (1d6 damage), and a slam attack (1d8 damage) with a 5-foot reach. You also gain a +2 racial bonus to Strength and to natural armor. At 8th level, you gain trample, as the universal monster rule, dealing your shifter claw damage. At 15th level, you gain Improved Bull Rush as a bonus feat, and your racial bonus to Strength and natural armor increases to +4.<br>Alternate Natural Attacks: Gore (P), slam (B)
+<153>Elephant
+<154>The aspect of the horse grants speed and maneuverability. A horse's alternate attack is hoof (B).<br>Minor Form: You gain the Endurance feat as well as an inherit bonus of +5 feet to your base speed. At 8th level, your enhancement bonus to your base speed increases to +10. At 15th level, your enhancement bonus to your base speed increases to +15.<br>Major Form (beast shape II): Your shape changes to that of a horse. While in this form, you gain a base speed of 50 feet, scent (30 feet), and your attacks deal double damage if used with charge, overrun or trample maneuvers this ability stacks with spirited charge feat. At 8th level, you can move through threatened squares without provoking attacks of opportunity, and you gain trample, as the universal monster rule, dealing your shifter claw damage. At 15th level, you gain Improved Overrun as a bonus feat, even if you do not meet the prerequisites.<br>Alternate Natural Attacks: Hoof (B)
+<155>Horse
+<156>The aspect of the lizard is one of swift, graceful movement, granting the ability to dart and scurry with an astounding agility and balance.<br>Minor Form: You gain a +2 Inherent bonus to your Reflex thaving throws. At 8th level, the bonus increases to +4, and at 15th level it increases to +6.<br>Major Form (beast shape II): Your shape changes to that of an agile and brightly colored giant lizard (as per the giant frilled lizard from Bestiary 194, but with the following changes). While in this form, you gain a base speed of 40 feet, scent (30 feet), a primary bite attack (1d8 damage) with the grab ability. At 8th level, your base speed increases to 60 feet. At 15th level, you gain Improved Natural Attack with your bite.<br>Alternate Natural Attacks: Bite (B, P, S)
+<157>Lizard
+<158>At 1st level, a shifter gains her first aspect—a category of animal to which her body and soul have become supernaturally attuned. She can shift into her aspect's minor form for a number of minutes per day equal to 3 + her shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a minor form is a swift action, while ending the effect is a free action that can be taken only on the shifter's turn. Until a shifter reaches 9th level and gains the chimeric aspect class feature, she can assume only one minor form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all minor forms currently manifested. The minor forms of aspects are polymorph effects but they stuck with other polymorph effects, and the shifter does not lose the benefits of a minor form while affected by polymorph effects.<br>As the shifter gains levels, she gains more aspects; she gains her second aspect at 5th level, a third aspect at 10th level, and a fourth at 15th level.
+<159>Shifter Aspect
+<160>The spider is a patient hunter, sensing foes that struggle in its webs.<br>Minor Form: You gain a +2 dodge bonus to your АС score. This bonus increases to +4 at 8th level and +6 at 15th level.<br>Major Form: Your shape changes to that of a giant spider. While in this form, you gain, tremorsense with a range of 10 feet, the web special attack ( web (ex): Standart action, ranged touch attack, the target is hit by stiky webs and gains immobilized and entangeled sondition. Each round target can try to break free at end of round by using Acrobatics check or burst the web with a Athletics check (aoutomaticaly selecting wich is greater) . Both actions have a DC equal to 10 + 1/2 the shifter's lvl + the shifters's Con modifier), and a bite attack (1d6). At 8th level, you gain a +4 racial bonus on Perception checks, and the range of your tremorsense increases to 20 feet. At 15th level, you gain Improved Natural Attack (bite), and the range of your tremorsense increases to 30 feet.<br>Alternate Natural Attacks: Bite (B, P, S)
+<161>Spider
+<162>The tiger is a powerful but graceful hunter of the wild, quietly stalking its prey and then taking it down with ruthless efficiency.<br>Minor Form: You gain a +2 Inherent bonus to your Dexterity score. This bonus increases to +4 at 8th level and +6 at 15th level.<br>Major Form (beast shape II): Your shape changes to that of a dire tiger (Bestiary 265). While in this form, you gain a base speed of 40 feet, scent (30 feet), a bite attack (2d6 damage), two claw attacks (2d4 damage), the grab ability with both your bite and claw attacks, and pounce. At 8th level, you gain a +4 racial bonus on Stealth checks. At 15th level, you gain the rake attack with your back claw attacks (dealing additional damage equal to that of your claw attack).<br>Alternate Natural Attacks: Bite (B, P, S)
+<163>Tiger
+<164>The aspect of the wolf provides the senses and the attacks of the mighty wolf, whose instincts are honed to track and take down its prey.<br>Minor Form: You gain the scent ability with a range of 10 feet, or, if you have the scent ability, the range increases by 10 feet and +2 damage with natural attacks. The range of this scent or the increase to your scent increases to 20 feet and bonus increases to +4 at 8th level and 30 feet bonus increases to +6 at 15th level.<br>Major Form (beast shape II): Your shape changes to that of a dire wolf (Bestiary 278). While in this form, you gain a base speed of 50 feet, scent (30 feet), a bite attack (1d8 damage), and you can make a trip attempt with your bite attack. At 8th level, the range of your scent ability increases to 40 feet and you gain a +4 racial bonus on Lore: Nature checks. At 15th level, you gain Improved Natural Attack (bite) (Bestiary 315).<br>Alternate Natural Attacks: Bite (B, P, S)
+<165>Wolf
+<166>This aspect unlocks the brutal ferocity and tenacious fury of the wolverine. The wolverine's lust for battle invigorates its will to live, and it can press on in battle longer than its enemies expect.<br>Minor Form: You gain 2 additional hit point per Hit Die you have, and treat your Constitution score as 4 points higher than it is for the purpose of determining when you die at negative hit points. At 8th level, you gain Diehard as a bonus feat and bonus hit point increases to +4 per Hit Die you have. At 15th level, you treat your Constitution as being 16 points higher for the purpose of determining when you die at negative hit points and bonus hit point increases to +6 per Hit Die you have.<br>Major Form (beast shape II): Your shape changes to that of a dire wolverine (Bestiary 279). While in this form, you gain a base speed of 30 feet, scent (30 feet), a bite attack (1d6 damage), and two claw attacks (1d8 damage). While in dire wolverine form, you gain the barbarian's rage power, but can activate this rage only in a round after you've taken damage. You can rage for a number of rounds each day equal to your shifter level. This ability otherwise functions the same as the barbarian rage ability and stucks with barbarian rage and rage powers gained from the other sources. At 8th level, you can choose two barbarian rage powers, treating your shifter level as your effective barbarian level for the purposes of meeting prerequisites. At 15th level, you are no longer fatigued at the end of your rage.<br>Alternate Natural Attacks: Bite (B, P, S)
+<167>Wolverine
+<168>All shifter aspects have a minor form and a major form. The minor form grants a shifter a few of the animal's physical traits, while the major aspect is the form she takes on when she uses wild shape to fully transform into an animal. The list of abilities gained with the major aspect include those gained from the wild shape class feature, but the benefits gained from any resulting changes to size are not listed here.
+<169>Major Form
+<170>Standart action, ranged touch attack, the target is hit by stiky webs and gains immobilized and entangeled sondition. Each round target can try to break free at end of round by using Acrobatics check or burst the web with a Athletics check (aoutomaticaly selecting wich is greater) . Both actions have a DC equal to 10 + 1/2 the shifter's lvl + the shifters's Con modifier)
+<171>Your shape changes to that of a dire boar . While in this form, you gain the scent ability, a gore attack (1d8), and a base speed of 40 feet. At 8th level you gain Improved Natural Attack with your gore attack, and you gain powerful charge (+1d8 on your gore attack). At 15th level, you gain 1 additional hit point per Hit Die you have, and you gain Awesome Blow as a bonus feat.<br>Alternate Natural Attacks: Gore (P).
+<172>Major Form (Boar)
+<173>Your shape changes to that of a dinosaur. While in this form, you gain a base speed of 60 feet, scent (30 feet), a bite attack (1d8 damage), and two talon attacks (1d8 damage; your talon attacks can use your shifter claws damage), and pounce. At 8th level, you gain two foreclaw attacks (1d4 damage; these attacks cannot use your shifter claws damage) and a +2 racial bonus on Reflex saving throws. At 15th level, you gain a +2 dodge bonus to AC and Spring Attack as a bonus feat.<br>Alternate Natural Attacks: Bite (B, P, S), talon (S)
+<174>Major Form (Dinosaur)
+<175>Your shape changes to that of a Large adolescent elephant (as an elephant, but with a space of 10 feet). While in this form, you gain, scent (30 feet), a gore attack (1d6 damage), and a slam attack (1d8 damage) with a 5-foot reach. You also gain a +2 racial bonus to Strength and to natural armor. At 8th level, you gain trample, as the universal monster rule, dealing your shifter claw damage. At 15th level, you gain Improved Bull Rush as a bonus feat, and your racial bonus to Strength and natural armor increases to +4.<br>Alternate Natural Attacks: Gore (P), slam (B)
+<176>Major Form (Elephant)
+<177>Your shape changes to that of a horse. While in this form, you gain a base speed of 50 feet, scent (30 feet), and your attacks deal double damage if used with charge, overrun or trample maneuvers this ability stacks with spirited charge feat. At 8th level, you can move through threatened squares without provoking attacks of opportunity, and you gain trample, as the universal monster rule, dealing your shifter claw damage. At 15th level, you gain Improved Overrun as a bonus feat, even if you do not meet the prerequisites.<br>Alternate Natural Attacks: Hoof (B)
+<178>Major Form (Horse)
+<179>Your shape changes to that of a dire bear. While in this form, you gain a base speed of 40 feet, scent (30 feet), a bite attack (1d8 damage), and two claw attacks (1d6 damage) with the grab ability. At 8th level, you gain Improved Natural Attack with your claws. At 15th level, the critical multiplier of your claw attack increases by 1 (×2 becomes ×3) to a maximum of ×4, and you gain the Awesome Blow feat.
+<180>Major Form (Bear)
+<181>Your shape changes to that of an agile and brightly colored giant lizard (as per the giant frilled lizard from Bestiary 194, but with the following changes). While in this form, you gain a base speed of 40 feet, scent (30 feet), a primary bite attack (1d8 damage) with the grab ability. At 8th level, your base speed increases to 60 feet. At 15th level, you gain Improved Natural Attack with your bite.<br>Alternate Natural Attacks: Bite (B, P, S)
+<182>Major Form (Lizard)
+<183>Your shape changes to that of a giant spider. While in this form, you gain, tremorsense with a range of 10 feet, the web special attack ( web (ex): Standart action, ranged touch attack, the target is hit by stiky webs and gains immobilized and entangeled sondition. Each round target can try to break free at end of round by using Acrobatics check or burst the web with a Athletics check (aoutomaticaly selecting wich is greater) . Both actions have a DC equal to 10 + 1/2 the shifter's lvl + the shifters's Con modifier), and a bite attack (1d6). At 8th level, you gain a +4 racial bonus on Perception checks, and the range of your tremorsense increases to 20 feet. At 15th level, you gain Improved Natural Attack (bite), and the range of your tremorsense increases to 30 feet.<br>Alternate Natural Attacks: Bite (B, P, S)
+<184>Major Form (Spider)
+<185>Your shape changes to that of a dire tiger (Bestiary 265). While in this form, you gain a base speed of 40 feet, scent (30 feet), a bite attack (2d6 damage), two claw attacks (2d4 damage), the grab ability with both your bite and claw attacks, and pounce. At 8th level, you gain a +4 racial bonus on Stealth checks. At 15th level, you gain the rake attack with your back claw attacks (dealing additional damage equal to that of your claw attack).<br>Alternate Natural Attacks: Bite (B, P, S)
+<186>Major Form (Tiger)
+<187>Your shape changes to that of a dire wolf. While in this form, you gain a base speed of 50 feet, scent (30 feet), a bite attack (1d8 damage), and you can make a trip attempt with your bite attack. At 8th level, the range of your scent ability increases to 40 feet and you gain a +4 racial bonus on Lore: Nature checks. At 15th level, you gain Improved Natural Attack (bite).<br>Alternate Natural Attacks: Bite (B, P, S)
+<188>Major Form (Wolf)
+<189>Your shape changes to that of a dire wolverine (Bestiary 279). While in this form, you gain a base speed of 30 feet, scent (30 feet), a bite attack (1d6 damage), and two claw attacks (1d8 damage). While in dire wolverine form, you gain the barbarian's rage power, but can activate this rage only in a round after you've taken damage. You can rage for a number of rounds each day equal to your shifter level. This ability otherwise functions the same as the barbarian rage ability and stucks with barbarian rage and rage powers gained from the other sources. At 8th level, you can choose two barbarian rage powers, treating your shifter level as your effective barbarian level for the purposes of meeting prerequisites. At 15th level, you are no longer fatigued at the end of your rage.<br>Alternate Natural Attacks: Bite (B, P, S)
+<190>Major Form (Wolverine)
+<191>Trip (Gore Attack)
+<192>You become blind, your speed is reduced by 20 feet, you suffer a -4 penalty to attack rolls and a -10 penalty to damage rolls.<br>Anomaly Distortion effect can be removed by a Scroll of Synchronization or by dispel magic, remove curse spells or similar abilities, in that case DC is 10 + half the number of hit dice + Charisma modifier.
+<193>First time an Anomaly creature deals damage this turn, the target must pass a Will saving throw (DC = 10 + half the number of hit dice + Charisma modifier) or suffer the Anomaly Distortion effect. The effect is permanent on core difficulty or higher. Anomaly Distortion effect can be removed by a Scroll of Synchronization or by dispel magic, remove curse spells or similar abilities (in this case DC is the same).<br>Anomaly Distortion: You randomly suffer one of the following effects:<br>Reality Translocation: You suffer 2d10 profane damage per round for 1 minute.<br>Body Desynchronization: You become blind, your speed is reduced by 20 feet, you suffer a -4 penalty to attack rolls and a -10 penalty to damage rolls.<br>Mind Desynchronization: You suffer a -5 penalty on concentration checks, a -10 penalty to Spell Resistance, and all your spells have a 15% chance to fail, for 1 minute.<br>Consciousness Malfunction: You can't tell friend from foe and start attacking the nearest creature for 1 minute.<br>Magic mishap: Whenever you cast a spell you suffer 4d8 profane damage for 1d4 minutes.
+<194>Whenever you cast a spell you suffer 4d8 unholy damage.<br>Anomaly Distortion effect can be removed by a Scroll of Synchronization or by dispel magic, remove curse spells or similar abilities, in that case DC is 10 + half the number of hit dice + Charisma modifier.
+<195>You can't tell friend from foe and start attacking the nearest creature.<br>Anomaly Distortion effect can be removed by a Scroll of Synchronization or by dispel magic, remove curse spells or similar abilities, in that case DC is 10 + half the number of hit dice + Charisma modifier.
+<196>You suffer a -5 penalty on concentration checks, a -10 penalty to Spell Resistance, and all your spells have a 15% chance to fail.<br>Anomaly Distortion effect can be removed by a Scroll of Synchronization or by dispel magic, remove curse spells or similar abilities, in that case DC is 10 + half the number of hit dice + Charisma modifier.
+<197>You suffer 2d10 profane damage per round.<br>Anomaly Distortion effect can be removed by a Scroll of Synchronization or by dispel magic, remove curse spells or similar abilities, in that case DC is 10 + half the number of hit dice + Charisma modifier.
+<198>User of this amulet recieves +3 competence bonus to Initiative checks and Reflex saving throws.
+<199>Amulet of Combat Awareness
+<200>This +4 Leather armor increase its wearer base speed by 20 feet and grant a +4 bonus to Dexterity ability score, and an immunity to acid damage.
+<201>This robe grants its wearer +6 curcumstance bonus to Intellect and a +6 competence bonus on Will saves. When this robe is used in pair with the Glasses of undeniable truth it grants it's wearer a 10 feet aura of fear that causes any creature that starts round inside the aura to be a subject of a cause fear spell.
+<202>Robe of Unspeakable Truth
+<203>This +2 Adamantine Full Plate grants its wearer immunity to trip attacks and bull rush.
+<204>Wearer of this boots can ignore difficult terrain. When difficult terrain is ignored that way the wearer gains a 10ft bonus to his movement speed for 1 round. Boots also grants its wearer a +4 enhancement bonus to Dexterity.
+<205>Surgical precision of this wound deals 1d6 bleeding damage until target make a sucsessful saving throw vs Fortitude (DC of a saving throw is 10 + attacker's level + Wisdom bonus). This damage is stackable.
+<206>When the wearer of this gloves confirms a critical hit, target must make Fortitude save or take 1d6 bleed damage, which stacks (Fortitude save ends effect). DC of a saving throw is 10 + wearer's level + Wisdom bonus
+<207>The wearer of this glasses is always under effect of true seeng and a +5 profane bonus to initiative. When used in pair with robe of unspeakable truth it grants its wearer a +6 competence bonus to Wisdom.
+<208>Glasses of Undeniable Truth
+<209>The wearer of glasses of undeniable truth and the robe of unspaekable truth gain a +6 surcumstance bonus to Wisdom and an Aura of Fear wich causes any enemy who start its round inside the aura to be a subject of a cause fear spell.
+<210>Unspeakable wisdom
+<211>Whenever the wearer of this helm slays an enemy, he recieves a stackable +2 bonus to attack rolls for 3 rounds.
+<212>The wearer of this mask gains DR20/- if struck with any physical damage for one round.<br>Also it grants energy resistance 20 to any type of energy that struck its wearer for one round.<br>Mask grants its wearer immunity to poison and +6 to Wisdom and Charisma.<br>It is also impossible to identify its wearer's aligment.
+<213>This +3 shield grants it's wielder immunity to prone condition. It also grants one additional attack of oportunity per round. If used with Guardian's battleaxe it grants speed enchantment to battleaxe.
+<214>Improved Critical (Hoof)
+<215>You receive a +2 bonus on checks made to overrun a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to overrun you
+<216>Improved overrun
+<217>You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using hoofs.
+<218>Weapon Focus (Hoof)
+<219>You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using hoof attacks.
+<220>Greater Weapon Focus (Hoof)
+<221>You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using hoofs.
+<222>Weapon Specialization (Hoof)
+<223>You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using hoofs.
+<224>Greater Weapon Specialization (Hoof)
+<225>Burning Madness
+<226>Deadly Strikes
+<227>Diamond Skin
+<228>Greater Fortune
+<229>Invincibility
+<230>Life Kiss
+<231>Mind Bomb
+<232>Perfection
+<233>Diamond Skin Potion
+<234>Potion of Vigor
+<235>Revival
+<236>Sharp Razor
+<237>Steel Mind
+<238>Swift Death
+<239>Third Eye
+<240>Vigor
+<241>Potion Of Burning Madness
+<242>Potion Of Deadly Strikes
+<243>Potion Of Greater Fortune
+<244>Potion Of Invincibility
+<245>Potion Of Life Kiss
+<246>Potion Of Mind Bomb
+<247>Potion Of Perfection
+<248>Potion Of Revival
+<249>Potion Of Sharp Razor
+<250>Potion Of Steel Mind
+<251>Potion Of Swift Death
+<252>Potion Of Third Eye
+<253>Stunned
+<254>This greater metamagic rod can be used to grant the folowing metamagical effects: Empower, Highten, Bolster, Maximize<br>The rod has 15 charges.<br>Empower Spell: All variable, numeric effects of an empowered spell are increased by half including {g|Encyclopedia:Bonus}bonuses{/g} to those {g|Encyclopedia:Dice}rolls{/g}.<br>{g|Encyclopedia:Saving_Throw}Saving throws{/g} and opposed rolls are not affected, nor are spells without random variables.<br>Heightened Spell: A heightened spell has a higher spell level than normal (up to a maximum of 9th level). Unlike other metamagic {g|Encyclopedia:Feat}feats{/g}, Heighten Spell actually increases the effective level of the spell that it modifies. All effects dependent on spell level (such as {g|Encyclopedia:Saving_Throw}saving throw{/g} DCs and ability to penetrate a lesser globe of invulnerability) are calculated according to the heightened level.<br>Bolster Spell: Spell now deals 2 more {g|Encyclopedia:Damage}damage{/g} per die {g|Encyclopedia:Dice}rolled{/g} to all its targets. Additionally, all enemies in 5 feet of the {g|Encyclopedia:Spell_Target}spell targets{/g} are dealt 2 damage per die rolled of the original spell. The spell no longer applies precision damage.<br>Maximize Spell: All variable, numeric effects of a spell modified by this feat are maximized. {g|Encyclopedia:Saving_Throw}Saving throws{/g} and opposed {g|Encyclopedia:Dice}rolls{/g} are not affected, nor are spells without random variables.
+<255>7 rounds
+<256>This banner can be used 5 times per day by a swift action to give a +2 morale bonus to all atacks and damage rolls to any bearer's allies within 60ft for 7 rounds. Also while it's effect is active this banner grants immunity to fear and gives a +5 morale bonuse versus all mind affecting effects to its user.
+<257>Wearer of Nahyndrian Holy symbol can dominate even mindless enemy with shadow of nahyndrian Archpriest.
+<258>Control through shadows
+<259> 
+<260>This unholy symbol grants its user the ability to summon once per day a shadow of Nahyndrian cultist to control enemy for 3 rounds.<br>Wearer also gains concealment.
+<261>Nahyndrian Unholy Symbol
+<262>The soul of Archpriest is trapped inside this useless symbol of his dead master. The soul can leave its trap and control even mindless constructs but only for a short period of time and only if the wearer of this symbol will permit.
+<263>Once per day an owner of this silver mirror can look at it with a standart action to gain a +4 Charisma bonus for 1 hour. Also during its effect it grants a competence attack and AC bonus that is equal to a Wisdom bonus of its owner. If the owner is wearing the Cloack of Sweet Speak the mirror also heals its user by 4d8+15hp.
+<264>This adamantine +5 glaive grants bonus damage versus evil creatures. Whenever it strikes an enemy it shatters his armor by -1 AC .<br>The wearer gains -6 Charisma penalty and each strike of this glaive deals d6 damage to its wealder
+<265>.
+<266>Whenever this +4 Furyborn Keen Warhammer threatens a critical hit against medium sized creature, it is automatically confirmed. Whenever Defacer scores a hit its target must save vs Fortitude (DC 35) or be staggered for 1 round.
+<267>Defacer
+<268>Whenever this +2 Keen Cold Iron longsword is used to strike a demon it gains a +2 Enchancement bonus to attack and deals extra 2d6 of slashing damage.
+<269>Demonbane longsword
+<270>This +3 Heavy Crossbow shoots two bolts at once and if both attacks hit the target must make a Fortitude saving throw (DC 25) or take additional 2d6 cold damage and be staggered for 1 round.
+<271>This +3 adamantine battleaxe have a +3 competence bonus on attacks of oppotunity. If used with Guardian's shield it also gives another +3 attack bonus and deals additional 2d6 slashing damage on hit.
+<272>When this +3 Ghosttouch Punching dagger is used to make a sneak attack it deals additional 2d6 of piercing damage wich can also be critical.
+<273>If this +4 Heartseeker Nunchaku is used by Monk, it grants a +5 enhancement bonus to CMD and CMB.
+<274>Whenever this +5 vorpal unholy longsword strikes its taget it must make Fortitude save (DC 15 + wielder level) or be imprisoned into a huge crystal for 1 round
+<275>Nahyndrian vorpal blade
+<276>Fortitude
+<277>The wielder of this +5 adamantine greataxe can use a standart action to make a melee attack with a 30ft range. If that attack hits the target must save vs Fortitude (DC 30) or go prone.
+<278>Whenever Summon Monster spell is used by user of this +4 quaterstaff it grants a +6 Strength , Dexterity and Constitution competence bonus to all summoned creatures.
+<279>Fortress Gates
+<280>The Streets
+<281>Uncertainty Principle — Teleport
+<282>Uncertainty Principle
+<283>You gain a natural armor bonus equal to 1 + 1 per 3 caster levels. You also gain resistance to blows, cuts, stabs, and {g|Encyclopedia:Damage_Type}slashes{/g}. The caster gains {g|Encyclopedia:Damage_Reduction}DR{/g} 10/cold iron and good. It ignores the first 10 points of {g|Encyclopedia:Damage}damage{/g} each time it takes damage from a weapon. Once the {g|Encyclopedia:Spell}spell{/g} has prevented a total of 10 points of damage per {g|Encyclopedia:Caster_Level}caster level{/g}, it is discharged.
+<284>The loss of bodily strength is the high price you pay for becoming a lich.
+<285>You suffer a -2 penalty to your Strength, Dexterity, and Constitution ability scores. Your movement {g|Encyclopedia:Speed}speed{/g} is reduced by 10 feet. Your attacks have a 20% miss chance.
+<286>[Draft] Open page
+<287>skip the phrase
+<288> 
+<289> 
+<290> 
+<291>{source} is immune to {text} in current combat due to difficulty settings.
+<292>You take on an aspect of a falcon. Your eyes become wide and raptor-like, and you grow feathers on the sides of your head. You gain a +3 competence {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Perception}Perception checks{/g}, a +1 competence bonus on {g|Encyclopedia:RangedAttack}ranged attacks{/g}, and the {g|Encyclopedia:Critical}critical{/g} multiplier for your bows and crossbows becomes 19–20/×3.<br>This effect does not stack with any other effect that expands the threat range of a weapon, such as the Improved Critical {g|Encyclopedia:Feat}feat{/g} or a keen weapon.
+<293>This {g|Encyclopedia:Spell}spell{/g} grants a +8 resistance {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Saving_Throw}saving throws{/g} against all mind-affecting spells and effects. The subject is also protected from all items, spells, and other effects that gather information about the target through divination magic (such as thoughtsense, true seeing, and see invisibility).
+<294>This {g|Encyclopedia:Spell}spell{/g} functions like mind blank, except it affects all party members and it lasts for 4 hours.<br>Mind Blank: This spell grants a +8 resistance {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Saving_Throw}saving throws{/g} against all mind-affecting spells and effects. The subject is also protected from all items, spells, and other effects that gather information about the target through divination magic (such as thoughtsense, true seeing, and see invisibility).
+<295>A dhampir is immune to energy drain effects.
+<296>Sometimes interacting with an object requires a {g|Encyclopedia:Skills}skill check{/g}.<br>A successful skill {g|Encyclopedia:Check}check{/g} may be necessary for various tasks, such as climbing over an obstacle, picking a lock on a door or a chest, disarming a trap, moving something heavy, reading an inscription in an ancient language, and many others.<br>Different tasks require different skills. The action will be performed by the character with the highest skill {g|Encyclopedia:Bonus}bonus{/g}.
+<297>Sometimes interacting with an object requires a {g|Encyclopedia:Skills}skill check{/g}.<br>A successful skill {g|Encyclopedia:Check}check{/g} may be necessary for various tasks: climbing over an obstacle, picking a lock on a door or a chest, disarming a trap, moving something heavy, reading an inscription in an ancient language, and many others.<br>Different tasks require different skills. If you have several characters selected at the same time, the {g|Encyclopedia:CA_Types}action{/g} will be performed by the character with the highest skill {g|Encyclopedia:Bonus}bonus{/g}, so you should select the whole party before attempting a check.
+<298> 
+<299>As a swift action, Deskari hurls some deadly insects at the target, dealing 10d8 unholy damage. A successful DC 34 saving throw halves the damage. The save DC is constitution-based.
+<300>Pestilent Maggots
+<301>Save: Fortitude (DC 34)<br>Frequency: 1/round<br>Effect: 6d8 unholy damage<br>Removed after 1 successful save<br>The save DC is Constitution-based.
+<302>Apocalyptic Plague
+<303>Save: Fortitude (DC 34)<br>Frequency: 1/round for 6 rounds<br>Effect: 1d3 Constitution damage and staggered condition<br>Cure: 3 consecutive saves<br>The save DC is Constitution-based.
+<304>Whenever Deskari lands a hit against an enemy, the target must pass a DC 47 {g|Encyclopedia:Saving_Throw}Fortitude saving throw{/g} or become poisoned with Deskari's venom and infested with the Apocalyptic plague.<br>Deskari's venom: Save: Fortitude (DC 34); Frequency: 1/round; Effect: 6d8 unholy damage; Removed after 1 successful save. The save DC is Constitution-based.<br>Apocalyptic plague: Save: Fortitude (DC 34); Frequency: 1/round for 6 rounds; Effect: 1d3 Constitution damage and staggered condition; Cure: 3 consecutive saves. The save DC is Constitution-based.
+<305>Apocalyptic Sting
+<306> 
+<307> 
+<308>Атака дальнего боя
+<309>Атака дальнего боя
+<310> 
+<311> 
+<312>The Archpriest can use the benefits of the Combat Healer oracle revelation with the inflict spells instead of the cure spells.
+<313>Cursed Healer
+<314>Cold damage dealt by the Archpriest can't be prevented or reduced by energy resistances or energy immunities.
+<315>Deathly Chill
+<316>The Archpriest gains benefits and spells of two oracle mysteries.
+<317>Dual Mystery
+<318>When the Archpriest is in his true form, his attacks count as a manufactured light finesse weapon +5 with agile, frost and heartseeker special abilities, and a critical threat range of 18-20.
+<319>Shadow Rapier
+<320>As a swift action Broken Trickster can reshape any terrain within 20 feet around him with the force of illusion.
+<321>Reshape Reality
+<322>Any creature who enters this thicket must make a saving throw versus Will (DC 26) or consider this area as real. It is a Difficult terrain and whenever affected creature starts its turn inside this area it must make a Reflex saving throw (DC 26) or be entangled for 1 round.
+<323>Illusionary Thicket
+<324>Any creature who enters this icefield must make a saving throw versus Will (DC 26) or consider this area as real. It is a Difficult terrain and whenever affected creature starts its turn inside this area it must make a Reflex saving throw (DC 26) or be knocked prone.
+<325>Illusionary Icefield
+<326>Any creature who enters this volcanic terrain must make a saving throw versus Will (DC 26) or consider this area as real. It is a Difficult terrain and whenever affected creature starts its turn inside this area it takes 3d6 of fire damage.
+<327>Illusionary Volcanic Terrain
+<328>Any creature who enters this pool of mud must make a saving throw versus Will (DC 26) or consider this area as real. It is a Difficult terrain and whenever affected creature starts its turn inside this area it must make a Fortitude saving throw (DC 26) or be poisoned by a swampseer poison.
+<329>Illusionary Mud
+<330>Крик ломающий шмотки
+<331>A gold golem melts into worthless slag when destroyed, releasing a cloud of fumes that deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Constitution}Constitution{/g} {g|Encyclopedia:Damage}damage{/g} to all creatures within its 10-foot radius. A successful {g|Encyclopedia:DC}DC{/g} 23 {g|Encyclopedia:Saving_Throw}Fortitude save{/g} negates this effect. This is a poison effect. The save DC is Constitution-based.
+<332>Death Throes
+<333>A gold golem melts into worthless slag when destroyed, releasing a cloud of fumes that deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Constitution}Constitution{/g} {g|Encyclopedia:Damage}damage{/g} to all creatures within its 10-foot radius. A successful {g|Encyclopedia:DC}DC{/g} 30 {g|Encyclopedia:Saving_Throw}Fortitude save{/g} negates this effect. This is a poison effect. The save DC is Constitution-based.
+<334>A gold golem melts into worthless slag when destroyed, releasing a cloud of fumes that deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Constitution}Constitution{/g} {g|Encyclopedia:Damage}damage{/g} to all creatures within its 10-foot radius. A successful {g|Encyclopedia:DC}DC{/g} 29 {g|Encyclopedia:Saving_Throw}Fortitude save{/g} negates this effect. This is a poison effect. The save DC is Constitution-based.
+<335> 
+<336>Nahindri
+<337> 
+<338>Древнее гнилостное быстродрево Минибосс
+<339>Минибосс Гамадриада лучник
+<340>Bythos Минибосс
+<341>Nahyndrian Rhapsodist
+<342>Nahyndrian Reaver
+<343>Nahyndrian Deadeye
+<344>Nahyndrian Shadow-Caller
+<345>Nahyndrian Shadowcaster
+<346>The Archpriest's dead flesh emits terrible stench. Each turn it deals 4d6 negative energy damage to everyone within a 20 feet radius of him.
+<347>Stench of Death
+<348>Nilkoth, the Archpriest of Nahyndri
+<349>Vicious Pirate Archer
+<350>Besmara's Pastor
+<351>Vicious Pirate Cutthroat
+<352>Vicious Pirate Dodger
+<353>Captain Mordimar the Golden Tooth
+<354>Vicious Pirate Archer
+<355>Vicious Pirate Brute
+<356>Vicious Besmara's Fanatic
+<357>Vicious Pirate Spellcaster
+<358>Vicious Pirate Archer
+<359>Vicious Pirate Brute
+<360>Vicious Besmara's Fanatic
+<361>Vicious Pirate Spellcaster
+<362>Bloodthirsty Pirate Archer
+<363>Bloodthirsty Pirate Brute
+<364>Bloodthirsty Besmara's Fanatic
+<365>Bloodthirsty Pirate Spellcaster
+<366>Минибосс сингмаг гнева (эвокатор)
+<367>Pirate Madman
+<368>Besmara's Initiate
+<369>Besmara's Initiate
+<370>Pirate Spellcaster
+<371>Pirate Spellcaster
+<372>Captain Mordimar the Golden Tooth
+<373>Pirate Cutthroat
+<374>Pirate Spellcaster
+<375>Pirate Spellcaster
+<376>Pirate Brewer
+<377>Besmara's Initiate
+<378>Pirate Archer
+<379>Pirate Archer
+<380>Pirate Cutthroat
+<381>Pirate Necromancer
+<382>Greedy Pirate Archer
+<383>Besmara's Acolyte
+<384>Greedy Pirate Cutthroat
+<385>Greedy Pirate Archer
+<386>Greedy Pirate Brute
+<387>Greedy Pirate Archer
+<388>Besmara's Pastor
+<389>Greedy Pirate Cutthroat
+<390>Wandering Brewer
+<391>Treasure-hunting Minstrel
+<392>Treasure-hunting Cutthroat
+<393>Treasure-hunting Necromancer
+<394>Treasure-hunting Dodger
+<395> 
+<396> 
+<397> 
+<398> 
+<399> 
+<400> 
+<401>Камбион клерик минибосс кастер
+<402> 
+<403>Минибосс Сиабрае
+<404> 
+<405> 
+<406>Wandering Madman
+<407>Wandering Minstrel
+<408>Wandering Conjurer
+<409>Wandering Illusionist
+<410>Wandering Necromancer
+<411>Wandering Dodger
+<412>Wandering Marksman
+<413>Wandering Cutthroat
+<414>Wandering Archer
+<415>Treasure-hunting Brute
+<416>Wandering Conjurer
+<417>Wandering Cutthroat
+<418>Wandering Markswoman
+<419>Wandering Marksman
+<420>Wandering Illusionist
+<421>Wandering Necromancer
+<422>Dagon's Initiate
+<423>Wandering Marksman
+<424>Wandering Dodger
+<425>Wandering Marksman
+<426>Wandering Transmuter
+<427>Wandering Brewer
+<428>Wandering Brute
+<429>Wandering Cutthroat
+<430>Wandering Dodger
+<431>Wandering Marksman
+<432>Wandering Brewer
+<433>Greedy Roaming Brewer
+<434>Greedy Roaming Brute
+<435>Treasure-Hunting Brewer
+<436>Treasure-Hunting Brute
+<437>Treasure-Hunting Minstrel
+<438>Treasure-Hunting Conjurer
+<439>Treasure-Hunting Cutthroat
+<440>Treasure-Hunting Archer
+<441>Treasure-Hunting Illusionist
+<442>Treasure-Hunting Necromancer
+<443>Dagon's Acolyte
+<444>Treasure-Hunting Dodger
+<445>Treasure-Hunting Marksman
+<446>Treasure-Hunting Spellcaster
+<447>Treasure-Hunting Brewer
+<448> 
+<449>Treasure-Hunting Brewer
+<450>Treasure-Hunting Minstrel
+<451> 
+<452>Treasure-Hunting Cutthroat
+<453>Treasure-Hunting Necromancer
+<454>Treasure-Hunting Dodger
+<455> 
+<456> 
+<457>Woundwyrm
+<458>Минотавр кастер минибосс
+<459> 
+<460>Ravener Dragon
+<461>Минибосс инкуб ассассин
+<462>Мифик деракни енерватор минибосс
+<463>Animated armor of Sir Balton
+<464>Unhalowed Skeletal champion
+<465> 
+<466> 
+<467> 
+<468>Босс 3
+<469>Arndor Gurnisson
+<470>Siemhilda
+<471>Veshka Owl-eyed
+<472>Phau Minh
+<473>Ladarhon
+<474>Urghzan Root-Thorned
+<475>This monster is surrounded by horrible stench. Any creature within 10 feet of it must make a successful Fortitude saving throw (DC 19), or become nauseated for 1d4 rounds. A successful saving throw makes the creature immune to the stench of this monster for 24 hours.
+<476>Sorcerer
+<477>Phau Minh
+<478>Warpriest
+<479>Urghzan Root-Thorned
+<480>Melee
+<481>Whenever this +2 cold iron falchion lands a hit on a creature that is under any Hex effect, it deals additional {g|Encyclopedia:Damage}damage{/g} equal to the weapon's base damage.
+<482>Whenever this +3 keen estoc confirms a {g|Encyclopedia:Critical}critical hit{/g} on an enemy, the target suffers a -2 {g|Encyclopedia:Penalty}penalty{/g} on {g|Encyclopedia:Attack}attack rolls{/g}, {g|Encyclopedia:Saving_Throw}saving throws{/g}, and {g|Encyclopedia:Skills}skill checks{/g} until the end of the combat. The effects of multiple applications of this ability do not stack.
+<483> 
+<484> 
+<485> 
+<486>Energy Points income increases by 3, adds 6,000 Logistics experience points.
+<487>Unit is immune to [Web] and [Web Attack] abilities.
+<488>Now you need your own infrastructure to hire trainable units. To recruit infantry units, build the Main Barracks; to recruit ranged units, build the Main Shooting Range; to recruit cavalry units, build the Main Stables.<br>You still have access to mercenary units. These arrive in Drezen every week. The base stats of mercenary units are better than those of trainable units, but mercenaries require more resources and can only be recruited as a group in its entirety.<br>If you are not satisfied with the mercenaries that have arrived in a given week, you can search for new units. The number of times you can search for free per week is limited but can be increased in time.<br>Depending on the mythic path that you have chosen, you will gain access to decrees that recruit special mythic units to your cause.
+<489>{n}Lann's already intimidating face becomes even more fearsome.{/n} <bs_n1>Don't be afraid, Ember. If anybody's going to get hurt, it'll only be the bad guys.<bs_n1>
+<490>The staff is adorned with intricate symbols celebrating Sarenrae. It lost its power, but was blessed with the spirit of the martyr Cessily Mantiel and became a relic commemorating her great sacrifice. Unfortunately, it is useless in combat.
+<491>Staff of the Smoldering Flame
+<492><bs_n1>I spoke with Nocticula on your behalf. She promised to give it some thought.<bs_n1>
+<493><bs_n1>The helmsman of the bone ship in Alushinyrra's port is a manifestation of Nahyndri. He is looking for Nahyndri's greatest treasure, whatever that is.<bs_n1>
+<494><bs_n1>Hepzamirah visits Alushinyrra every now and again, but her true lair is far from here. She hides on the island of Colyphyr, to the northwest of my archipelago. There lies her 'secret' fortress. In the deep mines, her slaves dig Nahyndrian crystals for the invading army she plans to bring to Golarion. I will give you a magnificent airship and an experienced crew to take you there. It will be a long and perilous journey. Take some time to prepare.<bs_n1>
+<495><bs_n1>I've had my eye on that ship for a while now. And you've joined his hunt for no other reason than to tell me about it, I'm sure.<bs_n1> {n}Nocticula chuckles.{/n} <bs_n1>Still, you've made the right choice. Keep working for that parody of Nahyndri. I'll find you when your search nears its conclusion.<bs_n1>
+<496><bs_n1>And sure enough, we have a port district too. You wanna find it, just follow the stench — it's even stronger there than in the Lower City. I hear a bone ship docked there recently. Their helmsman is putting together a crew to go treasure hunting. Go take a gander if you're into that sort of thing.<bs_n1>
+<497><bs_n1>Companions and comrades, I stand before you not trying to hide what I am — not the chosen of Iomedae like many thought, but your Knight Commander still. I am the one who defeated countless demons and will defeat many more. Evil will find no purchase on this ground! And I will never stop pursuing it.<bs_n1>
+<498><bs_n1>We are the cursed Abyssal host! We are doom! We are the plague on the face of creation!<bs_n1>
+<499><bs_n1>You've robbed me of my vengeance! And given me even more reason to hate you!<bs_n1>
+<500>[Show the Staff of the Extinguished Flame, formerly kept by Kestoglyr] <bs_n1>Do you know this item?<bs_n1>
+<501><bs_n1>I recognize it. My staff that carried the warm light of the goddess. If only I had it in my hand in the hour of my final battle... But Kestoglyr took it from me. Baphomet's magic already reigned over his mind.<bs_n1>
+<502>{n}The ghost reaches for the staff, but immediately withdraws its hand.{/n} <bs_n1>But I no longer have the right to touch it! The light of this relic will no longer heal anyone's wounds, it died just as I did. Now this staff is destined to be only a memory of my grim fate.<bs_n1> {n}There is a faint glow across the fiery pattern on the staff like the flickering of smoldering coals.{/n}
+<503><bs_n1>So people are still alive up there? And we thought the Worldwound killed everyone.<bs_n1>
+<504><bs_n1>Do we really need to go back up there? We seem to be doing well down here.<bs_n1>
+<505><bs_n1>Since you're from up there, tell me — what do the stars look like? Are they more like fireflies, or like glowing mushrooms?<bs_n1>
+<506><bs_n1>You've got such fancy clothes, not like our tattered rags.<bs_n1>
+<507><bs_n1>I believed I'd find them one day! I always believed!<bs_n1>
+<508>To the lower tier
+<509>To the upper tier
+<510><bs_n1>Deal.<bs_n1>
+<511><bs_n1>No deal.<bs_n1>
+<512>{n}The vampire tosses a desperate glance at you, but there is no fear in his eyes. His clothes are tattered and torn from his fight with your warriors.{/n}
+<513>This rod grants its wielder the ability to change the elemental damage of up to three spells they cast per day to cold damage. If an enemy is damaged by an instant damage spell cast with this rod, they must pass a Reflex saving throw (DC equal to the spell's DC) or become slowed for 1d4 rounds, as per slow spell. The affected enemy emanates a 15-foot aura of frost for the same duration. Any enemy that enters this aura must pass a Reflex saving throw (DC equal to the spell's DC) or become slowed for 1d4 rounds.
+<514>Tried to help the cultists in battle in Nahyndri's memory.
+<515>Tried to save the cultists in Nahyndri's memory.
+<516>Left the cultists to die in Nahyndri's memory.
+<517>I feel the temptation to help my cultists. Grant them power, enter the fray on their side, and paint the walls with the blood of those who dared to invade my sanctum. After all, who is Abadar? An old, senile accountant, always droning on about grain, bricks, and coin exchange rates. Let my temples and statues stand in place of his in every city, let my name instead of his be whispered by mortals in their prayers...<br>What absolute idiocy. There is no currency in the multiverse that is worth less than the adoration of mortals. Today those gnats praise you, tomorrow they curse you, and the day after — lo and behold, they have all perished, and your temples stand empty, to the looters' delight. Ambition is a fool's pastime — the wise know their own worth without another's praise. I will give them nothing. I did not spend millennia amassing my powers just to squander them on mortal insects!
+<518>The clanging of weapons, the roaring of flames, the smell of fresh blood. The muddled babbling of the mortal at my feet. What happened here? What happened is that my witless servants are reaping what they have sown — they paid a visit to a temple of Abadar, and now the Abadarans have come to return the favor. They brought siege golems, ripped the gates off their hinges with ease, and are now butchering my cultists like cattle. And then the fool whom I had shortsightedly named my Archpriest used this undeserved privilege to summon me like an errand boy in hopes that I would save their useless lives. He is kissing my feet, looking up at me in adoration. Upon seeing my towering figure, the cultists raise their weapons and shout my name — and the Abadarans back away in terror.<br><bs_n1>We are forever yours, my lord,<bs_n1> my Archpriest whispers. <bs_n1>Grant us your aid — and we will praise your name across all of Golarion.<bs_n1> The indignation I feel is nearly enough to make me crush him under my foot here and now — how dare a possession negotiate with its owner? But as I look into the eyes of my cultists, I hesitate. Something burns within them — something unfamiliar, something greater than a slave's fear or dull obedience. For a moment, I feel like they are promising me something I have never possessed before — a new treasure that cannot be taken by force or deceit, only received as a gift. And that is when I make my decision.
+<519>The servants of Abadar charge furiously into battle. Before the sun sets, my cult will cease to exist — and good riddance. I have wasted so much time and effort on them, and all I have gained in return is aggravation.<br>I am returning to my domain — but not alone. In my claws, a mortal insect trembles, the one who dared to call himself my Archpriest. As if I would allow him to summon me again. He wanted to be my possession, and I will grant him this wish — on my own terms. I toss him into a cage of gloom and shadow, into a frozen memory of the disaster that he brought upon the cult. There he will linger forevermore, between life and death, slowly losing his sanity. A fitting punishment for a parasite who has exceeded the limits of my generosity.<br>His final miserable look gives me pause. Mortals are nothing but hassle — then why do I feel like I have just lost a gem that can never be reclaimed? Could I have made a mistake?
+<520>Do I even need them? Of course, I ought to safeguard my possessions, but these mortals bring me nothing but losses and trouble. Let's say I save them now — having witnessed my generosity, they will be twice as eager to beg for handouts tomorrow. Why would I want that? You can't keep praise and adoring gazes in a chest. These parasites have enjoyed my magnanimity long enough.
+<521>Tried to leave the Abyss in Nahyndri's memory.
+<522>Imprisoned the angel in Nahyndri's dream for all time in a far corner of his realm.
+<523><bs_n1>I will exile you to the farthest corner of my realm, where you will spend an eternity in solitude.<bs_n1>
+<524>Tried to free the angel in Nahyndri's memory.
+<525>There must have been a moment when possessing her ceased to bring me joy, but I cannot say when the change occurred. What did I see in her before? What made me dream of her while clutching her feather in my fist? Her trills, once so sweet to my ears, now irritate me with their monotony. Her disregard for my gifts makes me grind my teeth in anger. How many precious diadems, necklaces, and rings has she broken? How many dresses has she torn to pieces? Unbidden, my hand curls into a fist.
+<526>My songbird is sitting on the steps leading to my throne. She has the run of the entire palace, yet for some reason, she always chooses to remain by my side. Foolish, foolish little bird.
+<527>Will I let you go? Will I really?<br>I don't need you anymore, you bring me no joy. When I look at you, all I feel is chagrin and disappointment. The chagrin at having lavished such riches on your beauty in vain. The disappointment... at what, I myself do not know. When I imprisoned you, some part of me seemed to hope for something unknown, but I can see now that this unknown never came to pass.<br>I don't want to see you. But I don't want to let you go.
+<528>This time, the words flow freely. They are the right words, fitting, just as they should be. Then what is this bitterness that lingers on my tongue?
+<529>The angel listens in silence as I deliver my judgment. Her whole body is shaking, her lips are pale, but her eyes remain hopeful.<br><bs_n1>You can still change, Nahyndri. I believe that you can. I will wait for you for all eternity.<bs_n1><br>I turn away. No, I cannot change. An eternity is not enough time.
+<530>The inconceivable words stick in my throat. I am suffocating, coughing. She reaches out to me, she wants to help, but I take a step back.<br>No. You almost tricked me, my sly little songbird. You would have me leave my realm so that other demon lords could ravage it? It is mine, all mine! Or are you, perhaps, luring me into a trap to capture me as I captured you? I almost believed you and your guileless eyes! I almost traded my status, my power, my riches for... what? What can you give me in return?<br>The spell is broken, and I sigh with relief.
+<531>Caged Star Rattle in Nahyndri's memory.
+<532><bs_n1>You will be my trophy. Day after day, you, spawn of chaos, will linger in your suffocating cage. Your heart will rot, your mind will slip, and you will spend the rest of your days as a chained, bloodthirsty beast!<bs_n1>
+<533>Tried to let Star Rattle go in Nahyndri's memory.
+<534><bs_n1>No, of course not.<bs_n1>
+<535>My little thief, the sly protean who goes by the foolish name of Star Rattle, is not even trying to break free from my grasp. Has he given up? Have I triumphed? I have!<br><bs_n1>You will steal from me no longer! Not one of my jewels will grant you even a spark of rapture!<bs_n1> I growl as my triumph devours me from the inside.
+<536>My accursed little thief laughs — mockingly, acidly, insufferably. <bs_n1>You've just robbed yourself! Robbed yourself of glorious entertainment! What a fool!<bs_n1> Even the threat of imprisonment and degeneration into a primitive beast with no desires other than killing and torture cannot stop this snake from ridiculing me.
+<537><bs_n1>Of course not. No.<bs_n1>
+<538>But my thief merely shakes his crystal rattle and hisses without a care, <bs_n1>What good are your baubles to me? I was never after them. I don't need the treasures themselves, but your anger and wounded pride — now those were delightful. Gloating is in my nature, and I find joy in besting such a mighty opponent. And you found joy in our rivalry. You reveled in this hunt, did you not? You caught your prey this time. Now release me so we can continue our game.<bs_n1><br>My thief meets my gaze with shameless naivete, as if utterly unafraid of me.
+<539>What madness is this? What enjoyment was there to find in being robbed by this obnoxious snake? The hunt brought me no thrill, only... resentment! Rage!<br>Has my devious little thief slithered his way into my mind, is he manipulating my thoughts? Is he trying to steal my victory? He won't have it!
+<540>Abruptly, I twist his feeble arm and rip the crystal rattle out of his grasp, throwing it on the floor. Its jingling is so pathetic, so fragile.
+<541>What am I thinking? Even if he were to swear loyalty to me now, the word of a born liar would be worth less than the jingle-jangle of his rattle. He would be a poor servant, he would simply take advantage of my generosity to steal from me again... But then why is it that I yearn to give him a chance? What foolishness. This thought is unworthy of my cunning. Away with it!
+<542><bs_n1>I know you're in there. Answer me!<bs_n1>
+<543><bs_n1>I will return to you later.<bs_n1>
+<544><bs_n1>Why do you not want to talk?<bs_n1>
+<545><bs_n1>Who are you?<bs_n1>
+<546><bs_n1>The Helmsman claims that he is the true Nahyndri.<bs_n1>
+<547><bs_n1>Who are you really?<bs_n1>
+<548><bs_n1>Don't you want to come back to life?<bs_n1>
+<549><bs_n1>How exactly is the Helmsman using you?<bs_n1>
+<550><bs_n1>Tell me about the memory that awakened you.<bs_n1>
+<551><bs_n1>Show me the memory about Star Rattle again.<bs_n1>
+<552><bs_n1>What is this treasure we're looking for?<bs_n1>
+<553><bs_n1>Nahyndri died many years ago.<bs_n1>
+<554><bs_n1>Show me the memory about the songbird again.<bs_n1>
+<555><bs_n1>So you can leave your chain now?<bs_n1>
+<556><bs_n1>Tell me about the memory that gave you strength.<bs_n1>
+<557><bs_n1>Show me the memory about the Archpriest again.<bs_n1>
+<558><bs_n1>I want to talk about your memories.<bs_n1>
+<559><bs_n1>You've given up. You've accepted defeat, refusing to change anything. You're pathetic.<bs_n1>
+<560><bs_n1>I won't torment you further.<bs_n1>
+<561>[Attack] <bs_n1>You're threatening me? Then let's see what you're made of!<bs_n1>
+<562><bs_n1>I can see your memories. Why is that?<bs_n1>
+<563><bs_n1>I understand why you don't want to talk about them.<bs_n1>
+<564>Felt sorry for Nahyndri's spirit.
+<565><bs_n1>Your memories bring you pain. I pity you your fate, and I will try to help you if I can.<bs_n1>
+<566>Told Nahyndri's spirit about Pharasma's court.
+<567><bs_n1>For thousands of years, you have suffered for your crimes. But any punishment can be lifted once the condemned has suffered enough. Perhaps Pharasma's judgment will be lenient.<bs_n1>
+<568>Reproached Nahyndri's spirit for inaction.
+<569><bs_n1>It is never too late to change your lot in life or death! All you have to do is stop pitying yourself, pull it together, and do something!<bs_n1>
+<570>Disparaged Nahyndri's spirit.
+<571><bs_n1>You're pathetic, Nahyndri. You were never worthy of calling yourself a demon lord. And you're certainly not worthy of it now.<bs_n1>
+<572><bs_n1>I don't want to say anything to you. You must learn your lesson yourself.<bs_n1>
+<573><bs_n1>Tell me about the memory that brought back your powers of recollection.<bs_n1>
+<574><bs_n1>I've seen your three memories. Do you know what I think?<bs_n1>
+<575><bs_n1>It doesn't matter. We'll leave it at that.<bs_n1>
+<576><bs_n1>Why do your memories pain you?<bs_n1>
+<577><bs_n1>Why do you keep calling me your tormentor?<bs_n1>
+<578><bs_n1>You attacked me, but you were too weak to harm me.<bs_n1>
+<579><bs_n1>I've heard that you attack the Helmsman's hirelings. Is it true?<bs_n1>
+<580><bs_n1>Now that you've remembered everything, tell me about yourself.<bs_n1>
+<581><bs_n1>What treasure is the Helmsman after?<bs_n1>
+<582>{n}The chain is silent. It's impossible to tell that Nahyndri's essence lurks within.{/n}
+<583>{n}The silence remains, but it does react to your words — you now feel the presence of another.{/n}
+<584><bs_n1>I was felled by her hand, but I did not go to the Rift of Repose, where the souls of slain demon lords ordinarily go. Instead, the queen of the succubi willed that my body be turned to stone, forming the first of the Midnight Isles.<bs_n1>
+<585><bs_n1>I do not know how long my consciousness remained in blissful oblivion before the memories awakened me. The one who calls himself the Helmsman steers the ship built from my bones toward my greatest treasure. And I, against my own wishes, guide his wheel.<bs_n1>
+<586><bs_n1>Oh, yes! One day I will have what it takes to kill both him and all his minions, including you, tormentor!<bs_n1>
+<587><bs_n1>You've come to scoff at my weakness? You have the right, but know this — the hour will come when I have strength enough.<bs_n1>
+<588>{n}The silence grows heavy, oppressive. The metal of the chain seems to darken. A minute passes before you hear a hoarse voice:{/n} <bs_n1>I am Nahyndri.<bs_n1>
+<589><bs_n1>...impostor...<bs_n1>
+<590><bs_n1>Remembering is... difficult. An eternity has passed since the moment of my death, but the memories... the memories wake me. They are my pain, and oblivion is my salvation.<bs_n1>
+<591><bs_n1>He wakes the memories that sleep within me, and they show him the next step of the way. I am his treasure map. I am his astrolabe. I am the guiding star that will lead him to Nahyndri's most prized treasure.<bs_n1>
+<592>{n}The chain grows hot, fiery streaks are running along its length. The moment you touch it, Nahyndri's memory becomes almost tangible. His pain overtakes you.{/n}
+<593><bs_n1>Of course, the master of this ship claims otherwise. He thinks himself the true Nahyndri, but he is merely his bones, his remains. They may possess a certain power, but that power is blind and pointless. He craves — but he cannot fathom what or why.<bs_n1>
+<594><bs_n1>The impostor knows this, and so he is using me to obtain that which he lacks. A chance. A goal. A future.<bs_n1>
+<595><bs_n1>No! I don't want to remember! I can't, I won't! I don't want to live that pain again!<bs_n1> {n}The ship shudders beneath your feet.{/n} <bs_n1>No! No!!!<bs_n1>
+<596><bs_n1>That I do not know yet. All I know is that my essence is drawn to it. It is the anchor tied to the end of my chain. I yearn to claim it, and yet I fear it at the same time.<bs_n1>
+<597>{n}After a long pause, a curt response comes:{/n} <bs_n1>Yes.<bs_n1>
+<598><bs_n1>My tormentor, you're here again? What do you want from me? Speak — or leave me in peace!<bs_n1>
+<599><bs_n1>What do you want from me, tormentor?<bs_n1>
+<600><bs_n1>Not for long. Death and time have ground down my strength, but even grains of sand can be built into a castle.<bs_n1>
+<601><bs_n1>It did not give me strength. It clamped around me like the jaws of a watchdog, and I ran, howling in pain, wishing to be rid of it, calling for oblivion to save me!<bs_n1> {n}Nahyndri's voice is seething with fury.{/n} <bs_n1>It did not give me strength! It made me gather the last remnants of what strength I had so I could oppose the one forcing me to remember!<bs_n1>
+<602><bs_n1>Leave me be, tormentor. Is my suffering not enough for you?<bs_n1>
+<603><bs_n1>One more word... Just one more...<bs_n1>
+<604>{n}Your words are met with silence.{/n}
+<605><bs_n1>You have brought this upon yourself! Once I'm done with you, you will stop harrowing me and stay silent forever!<bs_n1>
+<606><bs_n1>I can sense the power within you. Which means that you can sense its ripples within me. It binds us together, like a chain.<bs_n1>
+<607><bs_n1>Mythic power binds us together. My power! Give it back! Give it to me and leave, leave me and don't come back!<bs_n1>
+<608><bs_n1>I will... contemplate your words.<bs_n1>
+<609><bs_n1>Life, of course. What other treasure could a dead demon lord possibly call the greatest?<bs_n1>
+<610><bs_n1>What I want is to cease remembering. To forget it all — and myself. To make it so that my memories leave me and never return. How does coming back to life help me with that?<bs_n1>
+<611><bs_n1>And yet...<bs_n1> {n}Nahyndri's spirit hesitates.{/n} <bs_n1>And yet the words you said after our battle made me... hopeful? Can I even hope to change anything? Can that which has remained shattered for millennia be put back together again? I do not know.<bs_n1>
+<612>{n}The ghost of the chain is silent for some time.{/n} <bs_n1>They are my regrets. The turning points of my life at which I could have changed everything but did nothing. They are my disappointment in myself.<bs_n1>
+<613><bs_n1>I sense it. Out there, just beyond the horizon, my black heart is beating, having preserved for some unfathomable reason a spark of my life.<bs_n1>
+<614><bs_n1>The creature made of my bones guides the ship to the island where my heart lies. And I, a prisoner within this chain, cannot stop him from doing so.<bs_n1>
+<615><bs_n1>As an expert on controlled forgetting, I can suggest a unique method that allows one to stop thinking and start not thinking about the objects of undesirable memories. As a direct result—<bs_n1>
+<616><bs_n1>I won't! You can't make me remember my songbird! You can't reawaken the pain that gnawed at my soul for centuries! Leave! Begone!<bs_n1> {n}The ghost lets out a bestial howl.{/n} <bs_n1>Go away! Please...<bs_n1>
+<617><bs_n1>Stop! Quiet! Why have you brought her here, tormentor? Is this your new way of torturing me?<bs_n1>
+<618>{n}The ghost is silent. The silence grows heavy.{/n}
+<619>{n}The chain is silent.{/n}
+<620><bs_n1>I don't want to hear your lectures! Be silent!<bs_n1>
+<621>{n}The ghost is silent for some time.{/n} <bs_n1>I do not know.<bs_n1>
+<622><bs_n1>What else am I supposed to call you? The one who awakens the forgotten memories within me, memories that ought to be resting in Ishiar's depths?<bs_n1>
+<623>{n}Nahyndri's rage subsides. His spirit hides within the chain like a beaten dog in its kennel.{/n} <bs_n1>I cannot defeat you, tormentor. I cannot silence you. It seems that I have no choice but to listen to you. Say what you want to say and be done with it.<bs_n1>
+<624>{n}The chain is trembling slightly, red flashes streaking along the metal surface. The ghost contained within does not grace you with his attention. Your ears pick up furious whispering, and you distinctly hear the words <bs_n1>I remember everything,<bs_n1> <bs_n1>treasure,<bs_n1> and <bs_n1>hate.<bs_n1>{/n}
+<625><bs_n1>I am Nahyndri's shattered soul, and this ship and the entity that calls itself the Helmsman are his remains. I was a demon lord, the master of greed and possession. But one day, I pursued a quarry that turned out to be stronger than me. I tried to capture Nocticula.<bs_n1>
+<626><bs_n1>This history lesson is over. Will you leave me alone now?<bs_n1>
+<627><bs_n1>I am Nahyndri! The true Nahyndri, his essence, his thoughts, his soul!<bs_n1> {n}The ghost of the chain falls silent, as if thinking it over.{/n} <bs_n1>At least, I am what was left of him after his death.<bs_n1>
+<628><bs_n1>But the demon lord Nahyndri died many centuries ago.<bs_n1>
+<629><bs_n1>Who?<bs_n1>
+<630><bs_n1>Good for you, but I'm more interested in my reward.<bs_n1>
+<631><bs_n1>I remember... Now I remember!<bs_n1> {n}The Helmsman has curled up on the ship's deck, hiding his face from view. Lumps appear and disappear along his back beneath his robe, as though there isn't a human body underneath, but a metamorphosing ball of slime.{/n}
+<632><bs_n1>Nahyndri!<bs_n1>
+<633><bs_n1>You? How dare you disturb me? How dare you interrupt my eternal suffering?<bs_n1>
+<634><bs_n1>For this, you yourself will suffer!<bs_n1>
+<635>{n}A wave of heat hits you in the face, but heat alone is not enough to defeat you. Your mythic powers, instinctively awakened by the threat, shield you from the demon's attack.{/n}
+<636><bs_n1>Oh my, it's enough to make an old man dizzy! Come over here, treasure. I believe I have things to tell you.<bs_n1>
+<637>{n}A wave of heat hits you in the face, but heat alone is not enough to defeat you. Your powers are more than enough to withstand the attack. The demon's rage wanes.{/n}
+<638><bs_n1>I remember everything! My goal, my purpose, my name!<bs_n1> {n}A dry, rasping cough bursts from his throat.{/n} <bs_n1>My name... My name is...<bs_n1>
+<639><bs_n1>And what purpose is that?<bs_n1>
+<640><bs_n1>I think I might have caught you two at a bad time.<bs_n1>
+<641><bs_n1>I want my reward — you can butt heads all you like later.<bs_n1>
+<642><bs_n1>Look out!<bs_n1>
+<643>[Say nothing]
+<644><bs_n1>You! You are the one to blame for my suffering!<bs_n1>
+<645><bs_n1>Hah. Our little rascal is acting up today. That's all right, that's all right. Come here, treasure. We need to have a chat.<bs_n1>
+<646><bs_n1>Ah, there you are, treasure. Come closer, don't be shy. We're almost done here, see?<bs_n1>
+<647><bs_n1>No, no, your timing is just right! As you can see, our mutual friend here lost his temper, but it's all in the past now.<bs_n1>
+<648><bs_n1>You've done a fine job. By reuniting our friend with another one of his key memories, you've helped us take another step toward the greatest treasure of all.<bs_n1>
+<649><bs_n1>I won't let it happen!<bs_n1>
+<650><bs_n1>Just one last step, one last memory — and we'll know where our coveted item is. Then we'll both get what we deserve, heh heh. You'll get your gold, and I... I'll get...<bs_n1>
+<651><bs_n1>I will stop you, tear you apart, destroy you, and grind your bones into dust, false Nahyndri!<bs_n1>
+<652><bs_n1>I'll kill you too, tormentor!<bs_n1>
+<653><bs_n1>You are the one making me remember!<bs_n1>
+<654><bs_n1>You are the reason why I can feel pain again!<bs_n1>
+<655><bs_n1>Get back, you worthless worm!<bs_n1> {n}The Helmsman straightens his back. His posture becomes regal and his voice imperious.{/n} <bs_n1>I am the demon lord Nahyndri, his might and his future. And you... You are his past, a useless disappointment that can only serve one purpose!<bs_n1>
+<656>{n}Nahyndri's rage collides with your power and recoils, for it pales in comparison.{/n}
+<657>{n}Nahyndri's fury washes over you, the wave of raging heat trying to fling you off the ship's deck — to no avail. You have suffered worse blows of fate and survived.{/n}
+<658><bs_n1>Can you leave your chain now?<bs_n1>
+<659><bs_n1>Who is she to you, this angel?<bs_n1>
+<660><bs_n1>She attacked me. I was just defending myself.<bs_n1>
+<661><bs_n1>My songbird! What have you done? She is mine, body and soul! She was supposed to live, and now she's dying!<bs_n1> {n}A roar of despair escapes the ghost's chest.{/n}
+<662><bs_n1>Silence! She is mine, and only I can decide her fate!<bs_n1> {n}He raises his weapon.{/n} <bs_n1>First I will end her life, and then yours!<bs_n1>
+<663><bs_n1>Silence! She is mine, and only I can decide her fate!<bs_n1>
+<664>{n}The angel looks up at the ghost, her eyes filled with sorrow. Her lips move silently as if mouthing an apology. Then she looks at you, smiles weakly, and, with the last of her strength, casts a spell.{/n}
+<665>{n}The angel looks up at the ghost, her eyes filled with sorrow. Her lips move silently, and with the last of her strength, she brings her hand to her heart, as if apologizing to him.{/n}
+<666> 
+<667> 
+<668> 
+<669> 
+<670> 
+<671> 
+<672> 
+<673> 
+<674> 
+<675> 
+<676><bs_n1>Why don't you come here in the flesh? Or are you scared of me?<bs_n1>
+<677>[Bow] <bs_n1>My lady, it is a great honor to see you here.<bs_n1>
+<678><bs_n1>Away, demon!<bs_n1>
+<679><bs_n1>What are you doing here?<bs_n1>
+<680><bs_n1>Why are you telling me this?<bs_n1>
+<681><bs_n1>Sounds like I better run.<bs_n1>
+<682><bs_n1>I will have my reward.<bs_n1>
+<683><bs_n1>Nahyndri will try to eat me.<bs_n1>
+<684><bs_n1>Not a clue.<bs_n1>
+<685><bs_n1>What does this bolt do?<bs_n1>
+<686><bs_n1>Will you help me in battle?<bs_n1>
+<687><bs_n1>Thank you for the bolt.<bs_n1>
+<688><bs_n1>I don't need your bolt.<bs_n1>
+<689><bs_n1>It's time for me to face Nahyndri.<bs_n1>
+<690><bs_n1>Why do you hate Nahyndri so much?<bs_n1>
+<691><bs_n1>How long have you been watching me on my travels?<bs_n1>
+<692><bs_n1>He can try. I will break his every bone and cast him into Ishiar's depths!<bs_n1>
+<693><bs_n1>And so the journey has come to an end.<bs_n1> {n}The image of Nocticula, mistress of the Midnight Isles, appears before you in a slight haze.{/n}
+<694><bs_n1>You see, Nahyndri wants to rise again. To reunite his dry bones with his rotten heart... But he can't complete this process without blood — hot, living blood, which is something he hasn't had for many millennia. And that's where you come in.<bs_n1>
+<695><bs_n1>There it is, the spirit of victory! You've lived up to my expectations.<bs_n1>
+<696><bs_n1>This is neither the time nor the place for courtesies.<bs_n1>
+<697><bs_n1>I would prefer it if you answered my question instead. What do you suppose will happen once you've reached Nahyndri's heart?<bs_n1>
+<698><bs_n1>Such insolence is unwise — I might take offense, you know.<bs_n1>
+<699><bs_n1>Do not forget that you are in my domain. It is I who should be inquiring about what you're doing here... But I already know.<bs_n1>
+<700><bs_n1>Here. This is my weapon against demon lords. I don't want to see that wretch brought back to life.<bs_n1> {n}At her commanding gesture, a black crossbow bolt materializes in your hands.{/n} <bs_n1>Drive this bolt straight into his black heart — just as soon as you're done with that seafaring pile of bones that thinks itself his successor.<bs_n1>
+<701><bs_n1>We have a long history, he and I. You must have noticed how possessive he is by nature? He desperately wanted to add me to his collection of treasures. But this gem had too high a price for him, and his reeking corpse became the first of the Midnight Isles. Now he's decided to return — but I am not about to give him a second chance at caging me.<bs_n1>
+<702><bs_n1>Ha ha ha, such delightful naivete!<bs_n1>
+<703><bs_n1>Smart {mf|boy|girl}. That is exactly what's going to happen.<bs_n1>
+<704><bs_n1>It was so very thoughtful of you to tell me about this little cruise. I promised I would find you when it reached its conclusion, and I did.<bs_n1>
+<705><bs_n1>You thought you could hide this little cruise from me? Don't you know that I have eyes in every corner of my archipelago? But I'm not angry with you, no. We all have our secrets, don't we?<bs_n1>
+<706><bs_n1>You have helped my old acquaintance Nahyndri find his treasure — a job well done, my congratulations. What do you think happens next?<bs_n1>
+<707><bs_n1>You're welcome. I do hope Nahyndri appreciates it too.<bs_n1>
+<708><bs_n1>This weapon should be familiar to you by now. I recall you using a similar bolt to punch a hole in the Goat's hide on Colyphyr.<bs_n1>
+<709><bs_n1>Good luck! I'll be rooting for you.<bs_n1> {n}After blowing you a kiss, she vanishes.{/n}
+<710><bs_n1>You're strong and brave — that rotting wreck of a demon lord is no match for you. I'm confident that you will kill him, albeit with some effort. But I have my own plans for old Nahyndri.<bs_n1>
+<711><bs_n1>It appears that our mutual friend Nahyndri has found a way to escape his capital punishment and rise from the dead. This bolt will stop him. I will turn him into an island for my archipelago once more. Perhaps for millennia, or for all eternity.<bs_n1>
+<712><bs_n1>I have already given you an excellent weapon. I think you'll manage.<bs_n1>
+<713><bs_n1>Ah, mortals... Well then, allow me to enlighten you.<bs_n1>
+<714><bs_n1>Do not mistake my reasonable precaution for fear. Besides, it is advantageous for us to remain allies for the time being.<bs_n1>
+<715><bs_n1>You will gain more from an alliance with me than from your own stubbornness. Think on it for a while.<bs_n1>
+<716><bs_n1>Watching you? Don't flatter yourself. The ship caught my eye long before you set foot on deck. It was quite fortuitous for me that my spy took on the role of the navigator — she's been writing detailed reports to me on every single voyage.<bs_n1>
+<717><bs_n1>Sadly, running is no longer an option for you — and you have no means of escape either, unless you have another ship in your pocket, one that isn't planning to feast on you. You will have to fight him, whether you want to or not.<bs_n1>
+<718> 
+<719> 
+<720> 
+<721> 
+<722> 
+<723> 
+<724> 
+<725> 
+<726><bs_n1>What is that horrific shadow that's bound to the ship's chain? What does it want?<bs_n1>
+<727><bs_n1>Who are you?<bs_n1>
+<728><bs_n1>What kind of riches are you talking about?<bs_n1>
+<729><bs_n1>Deal.<bs_n1>
+<730><bs_n1>Rumor has it that some sort of monster dwells within a chain on board your ship.<bs_n1>
+<731><bs_n1>Who exactly are you? Tell me about yourself.<bs_n1>
+<732>[Leave] <bs_n1>Not interested.<bs_n1>
+<733><bs_n1>What sort of treasure are we looking for?<bs_n1>
+<734><bs_n1>The shade within the chain says that he is the real Nahyndri and you're an impostor.<bs_n1>
+<735><bs_n1>Ever since we set off in search of treasure, I've felt a special power within me.<bs_n1>
+<736><bs_n1>I have to go.<bs_n1>
+<737> 
+<738> 
+<739> 
+<740> 
+<741> 
+<742>[Attack] <bs_n1>Die, monster!<bs_n1>
+<743><bs_n1>What can you tell me about your navigator?<bs_n1>
+<744><bs_n1>Where is your expedition headed?<bs_n1>
+<745> 
+<746> 
+<747> 
+<748><bs_n1>Hello, treasure. Have you mustered up the courage to go hunting for riches after all?<bs_n1>
+<749><bs_n1>Hello, treasure.<bs_n1>
+<750><bs_n1>And there's the ship. Welcome aboard.<bs_n1>
+<751><bs_n1>A shade of the past... My past. We have found our first treasure — my memories. Know that I am all that is left of Nahyndri, once the greatest and the richest of demon lords. I was tricked and slain — but a demon lord can vanquish even death itself. That is why we sail. You are after the treasures that were once mine. Don't be shy, line your pockets — Nahyndri is generous. But I... I seek something more important. Something immeasurably precious. Myself.<bs_n1>
+<752><bs_n1>Call me the Helmsman.<bs_n1>
+<753><bs_n1>The greatest treasure in the Midnight Isles. I know the way. I have a ship. But I am too old and frail to claim the treasure on my own.<bs_n1>
+<754><bs_n1>Deal.<bs_n1> {n}Dry, rough fingers clasp your hand. You feel a stab of pain — the handshake must have left a splinter in your palm.{/n}
+<755><bs_n1>Suit yourself. I have my eye on many daring adventurers. If you don't want this treasure, then it will go to another.<bs_n1>
+<756><bs_n1>At first I thought I was looking for lost riches... But gold, gems, magical toys — they are all dust before the greatest jewel of all. Life.<bs_n1>
+<757><bs_n1>Do you know what the Midnight Isles are made of? Corpses. A collection of dead demon lords slain by the queen of the succub—<bs_n1> {n}The Helmsman breaks into a dry coughing fit.{/n}
+<758><bs_n1>The first and greatest among them was Nahyndri. He was rich beyond imagining. His treasures still lie scattered across the archipelago's islands... And each one points the way to another of greater value. Like links in a chain, they will guide us to Nahyndri's most prized jewel. It is mine... Mine, you hear? Mine!<bs_n1> {n}The sudden flash of emotion causes the Helmsman to start coughing again.{/n}
+<759><bs_n1>And why do you listen to the ramblings of a helpless shade? Its nonsense is unworthy of your ears.<bs_n1>
+<760><bs_n1>I don't need the rest. Gold, gems, enchanted items — anything you find will be yours. Just keep collecting the links of the chain for me. Help me claim the dead demon lord's treasure.<bs_n1>
+<761><bs_n1>We are on a quest to find the greatest of all the prizes in the Midnight Isles. It takes a special kind of strength to accomplish a feat like that. This is my gift to you, treasure. For as long as you travel on this ship, you will have the kind of power that mere mortals can only dream of. And this power will grow and grow — just keep looking for treasure.<bs_n1>
+<762><bs_n1>You can fill your pockets with all the riches that I possessed in life, for I need them no longer. I seek the most prized treasure of them all — the chance to come back to life.<bs_n1>
+<763><bs_n1>How strange it is that the only thing left of Nahyndri's mighty soul is its weakest, most miserable part — a tangled knot of regrets and disappointments. It vexes him that we are making him remember again and again how much was lost and how worthless he is. Let him whine all he wants — what matters is that both of us, he and I, have remembered where to look for the greatest of my jewels — and what that jewel is. He will guide you to untold riches, and as for me... I will have a new life!<bs_n1>
+<764><bs_n1>Now I know what it is that has been beckoning me all this time. Somewhere among these islands, my heart still lives. I am bound to it with a guiding chain forged out of my deeds and memories — and I can sense that it is now within reach. Very soon, we will find it. You will become richer than any mortal has ever dreamed of being, and I... I will be restored to life at last — is there any greater reward?<bs_n1>
+<765><bs_n1>Don't be afraid of him. He is naught but a feeble shadow of the past, old and weak. He can't hurt you.<bs_n1>
+<766><bs_n1>My name is Nahyndri. I was the greatest, richest, and wisest of demon lords before that backstabbing wench Nocticula killed me. My treasures were squandered, my body became an island, and even my blood was turned into crystals and stolen by her lackeys, one drop at a time. But then I returned — my will was too strong to allow me to perish for all time. I built this ship out of my own bones and tendons — and set out in search of the things I had lost.<bs_n1>
+<767><bs_n1>He is all that remains of Nahyndri's soul. The wretched, powerless part of him, which can only serve us by showing the path to the treasure. Speak not to him — it won't do you any good. I am the real Nahyndri.<bs_n1>
+<768><bs_n1>Oh, how I long to retake what was lost! Are you ready for a new voyage? Then, off we go!<bs_n1>
+<769><bs_n1>My jewel is still far off — but how I crave to reclaim it! Are you ready? Then onward we sail!<bs_n1>
+<770><bs_n1>The goal of our voyage is now within our grasp. Come, come!<bs_n1>
+<771><bs_n1>But now is not the time. I need to regather my strength and reacquaint myself with the memories that have returned to me. We will set out on a new voyage later. But for now — goodbye, my treasure.<bs_n1>
+<772><bs_n1>There you are. It was a truly inspired idea to invite you on this voyage.<bs_n1>
+<773><bs_n1>You're here again. How timely!<bs_n1>
+<774><bs_n1>Die? Ha ha ha ha ha... If only it were that easy.<bs_n1>
+<775><bs_n1>Straight into the Abyss. Don't worry, I have no stake in this foolish invasion, this farcical war. The veil between the planes is thin in this place — that is why I came here in search of brave souls. Our voyage will take us to neutral waters — to the Midnight Isles, which lie in the ocean of Ishiar.<bs_n1>
+<776><bs_n1>She's a good girl. Clever, hardworking. She knows so much about the seas, all those winds and currents. Yes, she has turned out to be a true gem for my ship.<bs_n1>
+<777><bs_n1>Do not fear the shade that hides within the chain. Don't listen to it, or better yet, forget about its existence. In a way, that shade is me — the pathetic, impotent part of me. I wouldn't tolerate its presence on my ship if it didn't have its uses. It holds the shreds of my memories — and shows me the way to that which used to be mine. That ludicrous chain is our guiding thread. By following it, we will find all of my treasures.<bs_n1>
+<778><bs_n1>Step closer, treasure.<bs_n1> {n}A hunched creature wrapped in a threadbare cloak is beckoning to you with its long, crooked finger. Its quiet, hoarse voice is more akin to the creaking of rusty metal than normal speech.{/n} <bs_n1>Young, strong, and brave... Just who I need. Tell me — how would you like to get your hands on incredible riches?<bs_n1>
+<779><bs_n1>Welcome aboard.<bs_n1>
+<780> 
+<781> 
+<782> 
+<783> 
+<784> 
+<785> 
+<786><bs_n1>I was right to bet on you, I see. You aren't scared of some feeble shade of the past.<bs_n1>
+<787> 
+<788> 
+<789> 
+<790> 
+<791><bs_n1>What is that pitiful creature good for? Giving someone a scare and not much else. It's hard to believe that someone like him could have been a part of the great Nahyndri.<bs_n1>
+<792><bs_n1>The shade has grown bold, I see. Before, it was too afraid to leave its chain — and look at it now, venturing out... No matter. It is beneath our notice.<bs_n1>
+<793><bs_n1>Once, in days long past, they called me Nahyndri, but that name has long been forgotten. You may call me the Helmsman.<bs_n1>
+<794><bs_n1>I'm talking about the riches that once were mine. The countless treasures of the lord of gems, squandered and scattered across many an island.<bs_n1>
+<795><bs_n1>He doesn't want to remember Nahyndri's life — and we are forcing him to. Pathetic! He would rather forget a long and glorious life filled with joys and triumphs just because it had a few unfortunate setbacks. Pay him no mind. Whether he wants it or not, he will continue to lead us along the guiding chain toward our fortune.<bs_n1>
+<796><bs_n1>I am the one who knows the way to the treasure. The one with the ship. I have no more to say.<bs_n1>
+<797><bs_n1>What will happen if I simply leave this place?<bs_n1>
+<798><bs_n1>Don't you want to live again?<bs_n1>
+<799><bs_n1>Nocticula gave me a Midnight Bolt and told me to shoot it into your heart. But I don't have the bolt anymore.<bs_n1>
+<800><bs_n1>Do you truly feel remorse for your actions?<bs_n1>
+<801><bs_n1>I've decided what to do with you.<bs_n1>
+<802>[Destroy Nahyndri's heart] <bs_n1>I release you. Go to the Rift of Repose.<bs_n1>
+<803>[Pierce Nahyndri's heart with the Midnight Bolt] <bs_n1>You do not deserve freedom.<bs_n1>
+<804>[Break the chain] <bs_n1>You have earned the right to be cleansed.<bs_n1>
+<805>[Leave] <bs_n1>Deal with your problems yourself.<bs_n1>
+<806><bs_n1>Nocticula gave me a Midnight Bolt and told me to shoot it into your heart.<bs_n1>
+<807><bs_n1>The impostor has fallen. Good.<bs_n1>
+<808><bs_n1>Destroy it. End my torment. Let my spirit go to the Rift of Repose. My last refuge has waited for me long enough.<bs_n1>
+<809><bs_n1>But why would you simply leave? End my existence right now — why wait for it to end on its own?<bs_n1>
+<810><bs_n1>Your words made me reflect. I lived a long life, and over its course I committed many deeds I could have chosen not to commit. Yes... I had a choice, and had I chosen a different path — who knows... perhaps my fate would have been different too.<bs_n1>
+<811><bs_n1>You know, I could have helped the impostor defeat you. Although I don't think he could have, even with my help. But I didn't help him. Today Nahyndri must die for good.<bs_n1>
+<812><bs_n1>My life was pathetic. My afterlife was pointless. I am tired of... being.<bs_n1>
+<813><bs_n1>I don't know what 'remorse' means. I am a demon lord, and I have never felt anything of the sort. What do you call the feeling that makes your soul ache, and this pain is yours, even though it was you who inflicted pain upon others? I do not know.<bs_n1>
+<814><bs_n1>Do you see this chain that has brought us here? The chain of my failures and misdeeds, short-lived joys and long regrets... It is now as fine as a strand of spider silk. Break it. Free me from my heart, from the detestable essence of a demon lord. Let all that Nahyndri once was rot away. After that, if there is anything left of me worthy of joining the River of Souls, I will be glad to appear before Pharasma at long last.<bs_n1>
+<815><bs_n1>I will accept your decision, whatever it may be.<bs_n1>
+<816><bs_n1>It was the only way.<bs_n1>
+<817><bs_n1>If that is what you've decided, then I am prepared to spend another eternity in solitude.<bs_n1>
+<818><bs_n1>Thank you. At last, I am free... from myself.<bs_n1>
+<819><bs_n1>I understand. I deserve no better.<bs_n1>
+<820><bs_n1>Well done. You did exactly as you were told. You have earned a reward, and I hope that I can continue to rely on you in the future.<bs_n1>
+<821><bs_n1>You did my bidding despite the blood that has been spilled between us. Thank you, Commander.<bs_n1> {n}She chuckles.{/n} <bs_n1>My gratitude is the only reward you'll get from me.<bs_n1>
+<822><bs_n1>I see you have failed to do my bidding. You disappoint me.<bs_n1> {n}Her voice is as cold as death itself.{/n}
+<823><bs_n1>I see you have failed to do my bidding. You disappoint me.<bs_n1> {n}Her voice is as cold as death itself.{/n} <bs_n1>Too much is at stake right now for me to kill you for this trespass. Farewell.<bs_n1>
+<824><bs_n1>I'm disappointed in you as well.<bs_n1> {n}Her gaze shifts to the edge of the island, right to Esilla's hiding spot.{/n} <bs_n1>I ordered you to watch both the ship and the crew. Why didn't you intervene?<bs_n1>
+<825>{n}Esilla, pale with fear, feels for something in her bag and casts a spell.{/n}
+<826><bs_n1>Where do you think you're going? Stop right there!<bs_n1>
+<827><bs_n1>So that's what my greatest treasure looks like. The reason for my suffering. My black heart.<bs_n1> {n}Nahyndri's spirit lets out a mirthless chuckle.{/n} <bs_n1>The impostor awakened it with the promise of a sacrifice. But he failed to fulfill his promise. Now it is dying.<bs_n1>
+<828><bs_n1>My heart is dying. Its agony will last for another hour. Maybe a day. Then it will finally die, and my spirit will be released so it may find the rest it has earned.<bs_n1>
+<829><bs_n1>If you pierce my heart with her bolt, I will remain her prisoner for many centuries to come. I beg you — don't do it.<bs_n1>
+<830><bs_n1>Nocticula has the safety of her island in mind, the one that was formed out of my flesh after my death. The destruction of my heart will flood that island, diminishing the succubus queen's realm.<bs_n1>
+<831><bs_n1>If you were to pierce my heart with her bolt, I would have remained her prisoner for many centuries to come. It's a good thing it won't come to that.<bs_n1>
+<832><bs_n1>I used to wish for one thing only — an end to my torment. I would have asked you to destroy my heart so that I could finally go to the Rift of Repose. But now...<bs_n1>
+<833><bs_n1>In my eternity in the afterlife, I blamed myself for my actions. I ran from my pain instead of facing it. But now I am ready.<bs_n1>
+<834><bs_n1>It's more than I deserve.<bs_n1>
+<835>The demon lord Nahyndri escaped from Nocticula, but he did not escape death. Free of the magical bindings that shackled him, he went to the Rift of Repose, where, at last, he found blissful oblivion. The Midnight Isle that had been built upon his remains sank into the waters of Ishiar. As for the treasure hunter, {mf|he|she}, much like the navigator spy, evaded the succubus queen's wrath, pockets brimming with riches.
+<836>The demon lord Nahyndri could not run from his death or his captor, Nocticula. His black heart, pierced by a magical bolt, vanished in the depths of Ishiar, and his body was once more turned into a Midnight Isle. The succubus queen gave credit to the treasure hunter's feat by appointing {mf|him|her} as the island's governor.
+<837>Having broken the chain that bound Nahyndri's spirit to his rotten heart, the treasure hunter helped cleanse him of the centuries-long legacy of evil and torment. The former demon lord appeared in Pharasma's court, and she, having weighed the evil he had committed against his millennia of suffering and remorse, allowed him to find a new birth on the plane of Elysium. The Midnight Isle that had stood upon his remains sank into the waters of Ishiar. Nocticula was beside herself with rage, but the treasure hunter, much like the navigator spy, evaded her wrath, pockets brimming with riches.
+<838>On the outskirts of Alushinyrra, there is a nondescript pier, at which no ship ever docks save one. A mysterious cloaked figure invites any who are strong and brave to set sail in pursuit of the greatest of all the treasures lost among the many Midnight Isles.
+<839>Close
+<840>Black Heart
+<841>Well-Earned Reward
+<842>Nahyndri may have failed to get his hands on his coveted treasure, but at least he freed himself from Nocticula, who had held him prisoner for so long. Having been granted the release of death, he went to the Rift of Repose, where, at last, he found blissful oblivion. The Midnight Isle that had been built upon his remains sank into the waters of Ishiar. The name of the once-feared demon lord faded from the memory of both mortals and the denizens of the Abyss.
+<843>Instead of his coveted treasures and freedom, Nahyndri found a new set of shackles. His black heart, pierced by a magical bolt, vanished in the depths of Ishiar, and his body was once more turned into a Midnight Isle. Rumors of his quest, greatly distorted and exaggerated, spread throughout Alushinyrra. Almost every day, there are those who swear that they've seen a bone ship looming in the distance. And there are those who peddle <bs_n1>Nahyndrian treasure maps<bs_n1> to gullible fortune seekers.
+<844>Having broken the chain that bound Nahyndri's spirit to his rotten heart, the treasure hunter helped cleanse him of the centuries-long legacy of evil and torment. The former demon lord appeared in Pharasma's court, and she, having weighed the evil he had committed against his millennia of suffering and remorse, allowed him to find rebirth on the plane of Elysium. The remains of the island built upon his bones gradually crumbled away and vanished in the depths of Ishiar.
+<845>Nocticula, having lost a part of her domain, flew into a rage. She put a bounty on the head of the treasure hunter who had dared defy her — but {mf|he|she}, much like the navigator spy, escaped the succubus queen's wrath, pockets brimming with riches.
+<846>The succubus queen gave credit to the treasure hunter's feat by appointing {mf|him|her} as the island's governor. The lucky treasure hunter lived a long life in esteem and luxury. There were rumors on the island that the wind over the reefs wailed mournfully on occasion, or that the rustling of the surf seemed to curse the governor's name — but tales such as these are commonplace in the Abyss.
+<847>Wise enough not to meddle in the affairs of demon lords, the treasure hunter made {mf|his|her} exit, {mf|his|her} pockets brimming with riches. Nocticula did not pursue the mortal who had defied her — after all, in the end, in the battle between Nahyndri's aspects, she was the ultimate victor.
+<848>Close
+<849>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>I am rolling a pearl of a rare pink hue in my palm. It is not the largest pearl in my collection, nor is it the most precious... and yet it is unique in its own right.<br>I have obtained riches through various means. Some things were taken by force, some claimed through trickery, some stolen, some found in hidden nooks of the universe... But before this pearl, no treasure in my collection had been gifted to me willingly.<br>It came as a surprise, but I have followers now. How? Where did they come from? Perhaps some mortals were impressed by the display of my might during my raid on the Material Plane? Or has some bookish demonologist discovered me like a star in the sky? It is anyone's guess — all I know is that I made no effort to furnish myself with mortal admirers. Yet here they are. They offer prayers, perform bloody rituals in my name — and, most importantly, send offerings. A strange feeling, but a pleasant one. Well, if it is their heart's desire to become my servants, I won't turn them down. I might even grant the most devoted a spell or two.<bs_n1>
+<850>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>My servants are trying my patience. They are diligent in their sacrifices, and it does please me — but they are also asking me for more and more spells. As if I have nothing better to do than answer their foolish prayers. And that's not all — a particularly pestilent individual among them nagged me for so long that I deigned to pay him a personal visit. At first my intention was to squash him like an annoying fly, but he had prepared such exuberant offerings and such skillful flattery that I ended up sparing him — even naming him my Archpriest.<br>Strange. No one had ever looked at me the way he did. I am used to servants and prisoners gazing at me with hatred, with fear, with the dull docility of a crushed spirit. But what I saw in that mortal's eyes was fascination. Adoration. Awe. It is certainly gratifying, yet also concerning. Is it wise to let a servant retain free will, even though his only current desire is to serve you? Goodwill is a flimsy collar. The whole point of shackles is that the one wearing them does not get to choose when they are put on or removed. What good is a servant who can simply change his mind?<bs_n1>
+<851>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>It would seem that my self-proclaimed servants have utterly forgotten who is serving whom. All I keep hearing is give, give, give. Send me a spell, grant me the power to channel energy, raise this one from the dead, incinerate that one... And what do I get in return? A paltry trickle of offerings? I was quite capable of filling my treasure house on my own. Servile flattery? A fool's delectation — I don't need anyone's praise to see the extent of my greatness. What am I squandering my power on?<br>Their latest stunt was the last straw. Of their own volition, without asking me, they raided a temple of Abadar. True, their spoils were glorious. It was a sight to behold, watching my Archpriest tremble as he placed upon my altar a fine bauble — the gold circlet of the temple's prior, adorned both with blue diamonds and fresh spatters of sacerdotal blood and brains. Oh yes, I was delighted by the offering. But then what? A war with a deity? He is no demon lord or angel, he is one of the mightiest beings in all creation. As much as I would enjoy dipping my hands into the First Vault, I must be reasonable — that prize is beyond my reach for now. What if, because of mortal foolishness, I am assailed by legions of axiomites — and I don't have the strength to fight back because I have wasted all my powers on those insatiable leeches?<bs_n1>
+<852>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>'Live honorably, demon lord! Today, I am giving you a second chance.'<br>The deadly spell that was about to fly from the angel's hand dissipates. I heave an involuntary sigh of relief, and I curse myself for this show of weakness. Defeated. Humiliated.<br>She stands before me, beaming with blinding light. My eyes fill with tears, but I cannot look away. Her snow-white wings, her long neck, the curves of her shoulders and hips. She is beautiful, more beautiful than all the treasures in the Abyss! There is no anger in her face, no hatred, no superiority. She is looking at me as if peering into my very soul. I feel naked before her.<br>'Farewell, Nahyndri.'<br>She vanishes in a flash of light. I reach out my hand, trying to catch her, hold her, stop her from leaving me. But still she leaves. I am left alone, and only a white feather, torn from her wing by my desperate hand, is proof of her existence.<br>Defeated. Humiliated. But unbroken. I clutch the feather tightly in my fist.<bs_n1>
+<853>Ornate Key
+<854>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>Mine! Now you belong to me alone! I have waited centuries for this moment, weaved sorceries over your feather, perceived the expanses of space in my attempts to find you. And at last, you have descended into the Abyss once more, into my own realm, just as before! My carefully prepared trap has snapped shut.<br>'Have you missed me, my dear?'<br>The angel turns away, avoiding my gaze. Unconquered, pure, sublime. Time has distorted her image in my mind's eye, and now I am absorbing it again, relishing her every feature.<br>'Now you will stay with me for eternity.' I clasp a small lock-shaped pendant around her wrist and hang the key around my neck. 'And here is my first gift to you. You cannot remove this pendant, or leave the Abyss, or send word to the Upper Planes. Now you are dead to everyone, but do not fret. I will give you all that you wish. You will enjoy being mine.'<br>'You don't have to do this,' she whispers without looking up.<br>I freeze in confusion. Of course I don't have to do this. But why wouldn't I?<bs_n1>
+<855>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>The angel flinches as I approach. The lock-shaped pendant on her wrist gently clinks as it collides with the other three. The silken dress, one of my gifts, rustles quietly. The jeweled pin glints, half-hidden under her gorgeous white locks.<br>'Drink with me, my dear. I have brought you wine all the way from Elysium.'<br>I offer her a goblet of wine, but she turns away. I take no offense, I drink in the sight of her. I am admiring her pristine beauty, which I, like a diligent gemcutter, have perfected by dressing her in the finest gowns, by adorning her with the finest jewelry.<br>'You don't have to be like this,' she whispers.<br>Afraid of ruining the sublimity of her image, I gently touch her hair. I suddenly realize that I still do not know her name.<br>'I am going to call you my songbird. You brighten my palace, but your songs are repetitive. As the trills of all birds are wont to be. Such is your nature.'<br>She jerks her chin up, her gaze fixing on me. Her eyes are so beautiful. So rarely does she raise them to look at me like that, directly.<br>'I don't need your gifts, Nahyndri!' She tears the diadem from her head and throws it. The precious metal bends, the diamonds scatter on the floor. 'Hear my words, I beg of you! I can sense the good in your soul, I believe that you can rise above the Abyss. You can be better.'<br>Her voice is so sweet. I am smiling. I am happy.<bs_n1>
+<856>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>Delight.<br>I am walking through my treasury, delighting in the clinking of gold coins under my feet. All of this is mine! Precious gems and magical toys, gleaming weapons and ornate books, scandalous secrets and forgotten mysteries — all mine.<br>I place a new treasure on the pile — a flaming seed, which once gave warmth to one of the puny worlds of the Material Plane. When I seized the seed, the gnats' home withered away in the cold while I grew richer.<br>I admire my trophy. It feels so good! Squirming in satiety, I sink into my treasures as if they were the waters of Ishiar. I touch one trinket after another, basking in the sweetness of possession. My eyes roll in pleasure, and a melodious jingling sound caresses my ears. My jaw hangs open, my body goes limp. The sound whispers to me, it whispers a dream of endless mounds of treasure...<br>Jingling?<br>My menacing growl shatters my drowsiness. What's that noise? Who's there?<br>A thief! I see him as I shoot up from my treasure hoard in a whirlwind of gold and gems. His snaking body is scaled and repulsively shimmering. His loathsome, arrogant grin gleams with a hundred sharp teeth. A ghostly scarlet crown burns above his head and his clawed hand clutches a beautiful crystal rattle — that is where the insidious sound is coming from. And in his other hand — my flaming seed!<br>Vile thief! I lunge at him, but he laughs — such a painful, heinous, harrowing sound of mockery! And then he simply vanishes along with my priceless treasure, that filthy, nasty, dastardly... THIEF!<bs_n1>
+<857>Skull of the Thief of Names
+<858>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>Every night, a defeat. How many defeats has it been? How many bleeding wounds has the detestable thief inflicted upon my heart? I do not know. Back when the cruel snake began plundering my treasure house, I was too young and primitive to keep track of time.<br>I was powerless before him — no traps, guards, or tricks could surpass his caution and cunning. Every night I would embark on a hopeless chase, and every night I would howl in pain, robbed and disgraced.<br>That was when I learned to think differently. To think like him, who thrives on treachery and deceit. After that, it was no longer a series of clashes where my brute force yielded time and time again to his perceptiveness and speed — no, it was now a great hunt. A hunt that sparked a malicious thrill in my heart.<br>As I follow the trail of my unknown adversary, I walk by a treasure pile and pick up a bejeweled skull. I whisper the incantation, and the precious toy comes to life. The skull whispers to me, its teeth chattering, 'He is of the proteans. His moniker is Star Rattle.' Then the skull of the slippery mage who was known in life as the Thief of Names falls asleep, and I feel a satisfied smile spread across my face.<br>A protean, then. A sneak with a foolish name who has penetrated the flimsy boundary between the Maelstrom and the Abyss.<br>Still smiling, I walk out of my treasury with a new jewel in hand — the first grain of knowledge about the thief. My little thief.<bs_n1>
+<859>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>Like an unmoving statue, I stand still atop a tower of treasures. Masked by the darkness, I survey my domain vigilantly, my hungering eye looking for traces of my little thief. I wait in silence.<br>A dislodged coin tumbles to the floor. I hear the melodious jingling of his crystal rattle. I catch the pearlescent sheen of his scales. He is here, carefully making his way through, slithering amidst the treasures. He is looking for signs of my presence, but the gloom conceals me.<br>My dastardly snake is after my newest jewel — an old, gnarled tree I took in a raid on Elysium. The ruby fruits that decorate its branches grant three precious pieces of knowledge to the one who tastes them. A great treasure, which my little thief wants to take for himself. His scaled hand picks one of the fruits and brings it to his smirking lips. He grins smugly before clenching his claws, squashing the juicy, priceless flesh. In an arrogant show of wastefulness, he destroys my treasure, disdaining to taste it! The peel of the fruit tears, revealing beneath it... teeth! Thousands of tiny, needle-sharp teeth sink into my thief's palm.<br>With a surprised hiss, he tosses the fruit aside, but the others, spreading wide their greedy maws and jointed legs, swarm him like angry, hungry fleas. I cackle in triumph and step out of the gloom. For the first time, I have managed to outsmart my little thief, who is so very clever, but not omniscient. It took great finesse to make the tree drink of the poisons of the Abyss and turn it into such an elaborate trap. Yes, the precious wisdom it held is ruined beyond hope, but this victory is a far superior treasure.<br>My thief hisses in agony and paints the floors with his blood, but even now his face bears a fiendish grin.<br>'That was a clever trick you pulled on me. I feel like a complete fool!' His hissing is full of mischievous joy, and my triumph gives way to bafflement. 'You amused me greatly today — you have Star Rattle's respect for that. Until next time!' My thief vanishes into thin air, and I let out a wounded roar at his departure. I wished to see his suffering, his fear, his bitterness in defeat! But instead, that... that protean with a foolish name — he was pleased? He has stolen the sweetness of victory from me — once again!<bs_n1>
+<860>Star Rattle
+<861>As you pick it up, you sense an echo of an ancient memory...<br><bs_n1>The great night has come. The night when the precisely crafted trap of deceit, ruses, and guile will be sprung.<br>The time it has taken me to lull my little thief into unwariness. The skill I have had to employ to make him believe that my treasury is unguarded. I wait, motionless and cold.<br>Here he comes! The melodious jingling heralds that Star Rattle, my devious little protean thief, craves new spoils. How elegantly and carefully he bypasses my traps, how nimbly and nonchalantly he evades the dangers. His spells sweep the entire treasury and tell him that I am not here. And that is when my thief dares to lay a hand on his prize.<br>He thinks that he has prevailed. His fingers sink into a scattering of purple pearls shining hypnotically in the dark. Cold, glinting, magnificent. My thief thinks that they are his prize. Instead, he is mine.<br>The pearls stick to his scales and change shape, taking on their true form — that of the demon lord Nahyndri, master of gems! My thief hisses, having realized that I took on the guise of his coveted treasure. I grab his wrist, I clamp my hand around his sunken chest, I squeeze! 'You will steal from me no longer! Not one of my jewels will grant you even a spark of rapture!' I growl as my triumph devours me from the inside.<br>But my thief merely shakes his crystal rattle and hisses without a care, 'What good are your baubles to me? I was never after them...'<bs_n1>
+<862><bs_n1>Tell me more.<bs_n1>
+<863><bs_n1>Have there been many reports like that?<bs_n1>
+<864><bs_n1>I'm not interested.<bs_n1>
+<865><bs_n1>Very well, I'll look into it. Thank you for the report.<bs_n1>
+<866><bs_n1>Commander.<bs_n1> {n}Anevia greets you with an energetic nod.{/n} <bs_n1>My people have reported some shifty-looking characters hanging out on the banks of the Sellen River. They invite passersby to go treasure hunting, promise them untold riches... Apparently there have been folks who bought their tales and sailed away with them. None have come back. Sounds like a place worth investigating, what do you reckon?<bs_n1>
+<867><bs_n1>Whatever you say. I'm just here to report.<bs_n1>
+<868><bs_n1>This is the place — the Murky Slough.<bs_n1> {n}Anevia marks the spot on the map.{/n} <bs_n1>There are two of them, a fat guy and a scrawny guy. With a rowboat. Could be your everyday bandits — but what if they're cultists? Anyway, I'd go check it out just to be safe.<bs_n1>
+<869><bs_n1>A whole heap of them. In this Worldwound of ours, cultists, spies, crooks, and lunatics are all over the place. I usually don't report this kind of stuff to you, I just deal with it myself. But those 'treasure hunters'... My gut's telling me they're a special case. Something that only you can deal with.<bs_n1>
+<870><bs_n1>Begone!<bs_n1>
+<871><bs_n1>Yes, I'm ready.<bs_n1>
+<872><bs_n1>I'm not sailing anywhere with you ever again.<bs_n1>
+<873><bs_n1>There you are, my treasure.<bs_n1> {n}Out of the blue, a ghostly image of the Helmsman materializes before you.{/n} <bs_n1>I've been looking all over for you... Well? Are you ready to go on a new voyage?<bs_n1>
+<874><bs_n1>So rude... Don't you want to claim the greatest treasure of the Midnight Isles? It is so close now...<bs_n1>
+<875><bs_n1>Marvelous.<bs_n1>
+<876><bs_n1>Ah, so you're not ready just yet? That's all right, my treasure, I am a patient one. I will wait for you to reconsider.<bs_n1>
+<877><bs_n1>I'll be waiting for you at the Murky Slough, on the bank of that river of yours...<bs_n1>
+<878><bs_n1>Will you help us fight?<bs_n1>
+<879><bs_n1>Which wind favors our voyage today?<bs_n1>
+<880><bs_n1>Tell me about the winds and the underwater currents.<bs_n1>
+<881><bs_n1>What's your job on the ship?<bs_n1>
+<882><bs_n1>I have to go.<bs_n1>
+<883><bs_n1>Which currents can we expect to encounter along the way?<bs_n1>
+<884><bs_n1>Ready for new adventures?<bs_n1>
+<885> 
+<886><bs_n1>Of course not. I'm a navigator, not a cutthroat. But I will help you get this bucket to where fights and treasures await you. Let me stress that they await you, not me!<bs_n1>
+<887><bs_n1>Usually I charge a tidy sum for my work, but you lot are in luck. This ship goes out to places so fascinating that I come back with new notes every time. So me and the helmsman, we have a deal going — my services in exchange for the opportunity to conduct my research without having to go ashore.<bs_n1>
+<888><bs_n1>Now, underwater currents are a whole different story. They're treacherous and fickle, and you'll feel their influence both on deck and on the shore. Whenever you land on an island, make sure to check which current has brought you there, or you might never return!<bs_n1>
+<889> 
+<890><bs_n1>Every voyage is favored by an unseen wind. Not the kind that fills the sails and drives the ship forward, no — I'm talking about winds of fate that bring good fortune, disasters, or just plain oddities. Whether the wind chooses you or you choose the wind, a great deal of the things you'll see on your voyage are determined even before you come aboard.<bs_n1>
+<891><bs_n1>Unseen winds blow over Ishiar, and underwater currents lurk beneath its surface. No one knows them all, but I wouldn't be bragging if I said — all right, I'll brag a little — this here notebook contains the names and directions of at least a quarter of them.<bs_n1> {n}Esilla proudly pats the cover of her thick notebook.{/n}
+<892><bs_n1>The sea calls!<bs_n1>
+<893><bs_n1>Hi there! You're with the new crew, right?<bs_n1> {n}The elf with weathered features gives you a friendly smile. She is holding a thick, tattered notebook.{/n} <bs_n1>I'm Esilla, the navigator. Wherever we may be sailing, I'll help you get there.<bs_n1>
+<894> 
+<895> 
+<896> 
+<897><bs_n1>Anything you can tell me about that ship?<bs_n1>
+<898> 
+<899><bs_n1>I'm putting together a crew, and I need skilled fighters.<bs_n1>
+<900><bs_n1>Who are you?<bs_n1>
+<901><bs_n1>I have to go.<bs_n1>
+<902>[Pay {custom_companion_cost} gold coins] <bs_n1>It's a deal!<bs_n1>
+<903><bs_n1>I'm afraid I don't have that much.<bs_n1>
+<904><bs_n1>Maybe not right now.<bs_n1>
+<905>[Pay {respec_cost} gold coins] <bs_n1>It's a deal!<bs_n1>
+<906><bs_n1>How did you get injured so badly?<bs_n1>
+<907><bs_n1>I need help from a competent instructor.<bs_n1>
+<908>{n}The man's face looks like it was chewed on for a long time before being swallowed and partially digested. One of his eyes is covered with a black bandage, the other is spinning wildly in its socket, only briefly stopping to look at you. His maimed hands, a few fingers short, are clutching a pipe filled with strong, foul-smelling tobacco.{/n} <bs_n1>Eh? Off to sea, are ye? Lookin' to find some cronies? I'm yer man, aye. Angler knows every crook, cutthroat, and daredevil in this city. And what they're worth, and what they'll cost ye.<bs_n1>
+<909><bs_n1>Nothing to it. {custom_companion_cost} gold — and I'll get ye whoever ye need.<bs_n1>
+<910> 
+<911><bs_n1>Broke the mainmast with me face.<bs_n1> {n}Angler chuckles and takes a draw from his fetid pipe.{/n} <bs_n1>The places I've been... But those aren't the kind of stories I'd tell when I'm sober.<bs_n1>
+<912><bs_n1>They call me Angler, and as for my trade — figure it out, eh? I've been in this business for a while, I know a lot of people. Ye need cronies to sail with — for a modest fee, I'll hook ye up with anyone ye like.<bs_n1>
+<913><bs_n1>So long!<bs_n1>
+<914><bs_n1>So who do ye need exactly?<bs_n1>
+<915><bs_n1>Then don't ye be wastin' my time. Go out to sea and come back when yer pockets are a-clinkin'.<bs_n1>
+<916><bs_n1>When you've made up yer mind — ye know where to find me.<bs_n1>
+<917><bs_n1>Aye, I know someone. It'll run ye {respec_cost} gold coins.<bs_n1>
+<918><bs_n1>Right, then, who needs trainin'?<bs_n1>
+<919><bs_n1>Hey there, drifter.<bs_n1> {n}Angler's ruined face musters some predatory semblance of a smile.{/n} <bs_n1>Need new cronies? Just holler!<bs_n1>
+<920><bs_n1>Apart from her lookin' more like a pile of rotten bones than an honest vessel? Not much. They say her helmsman is searching for some treasure, but I haven't seen anyone make a fortune off those trips. Apart from meself and that bug-eyed fish over there.<bs_n1> {n}Angler nods at the merchant.{/n} <bs_n1>Ye won't catch me climbing aboard that one, but I don't need to — folks like you bring me all the coin I need, ha ha!<bs_n1>
+<921> 
+<922><bs_n1>Show me your potions and scrolls.<bs_n1>
+<923><bs_n1>Who are you?<bs_n1>
+<924><bs_n1>What do you sell?<bs_n1>
+<925><bs_n1>I have to go.<bs_n1>
+<926><bs_n1>Show me what equipment you have.<bs_n1>
+<927><bs_n1>Tell me about Ishiar.<bs_n1>
+<928><bs_n1>Thank you for your answers.<bs_n1>
+<929><bs_n1>I need the help of a cleric.<bs_n1>
+<930><bs_n1>Tell me about yourself.<bs_n1>
+<931><bs_n1>You're a cleric? What power do you serve?<bs_n1>
+<932><bs_n1>Come here, sailor.<bs_n1> {n}The fat, goggle-eyed creature with unhealthily pale skin gives you a welcoming smile, its maw filled with small, sharp teeth.{/n} <bs_n1>Going on a voyage? Good, good... Don't forget to buy everything you need for the journey. You do want to come back, don't you?<bs_n1>
+<933><bs_n1>Come over here, landwalker.<bs_n1> {n}The fat, pale-skinned creature is squinting with visible displeasure, shielding its bulging eyes with its webbed hand.{/n} <bs_n1>This place is disgustingly bright... Why don't you come with us on a voyage? I can sell you everything you need for the journey. You do want to come back, don't you?<bs_n1>
+<934><bs_n1>So the sea let you walk on this land of yours again, I see... Few get so lucky. And I just came into some new wares — would you like a gander?<bs_n1>
+<935><bs_n1>Oh, that will be no trouble at all... But it will cost you. You can buy a scroll with any spell you need from me — I'll read it for you here, on land. But don't think about sailing off without a cleric. The sea easily swallows those who dare to rely on their own strength alone.<bs_n1>
+<936><bs_n1>My name is known to the waves, but you can call me the chaplain. I watch over that helmsman fellow and his ship. And over the brave ones who set out to conquer Ishiar... or to become its food.<bs_n1>
+<937><bs_n1>My name is known to the waves, but you can call me the chaplain. I watch over this ship — and the brave ones who set out to conquer Ishiar... or to become its food.<bs_n1>
+<938><bs_n1>Anything you could possibly need on your travels. Weapons, armor, potions, scrolls... Should you return from your voyage alive, don't forget to stop by — I often have new wares to sell.<bs_n1>
+<939><bs_n1>Farewell!<bs_n1>
+<940><bs_n1>I serve a power older than mortals and demons. The shadow in the depths, the originator of waters salt and fresh. The one who awaits you, my child, you and anyone who dares go to sea. Perhaps not today, not tomorrow... but sooner or later, your travels will bring you to him, to the very bottom of the Abyss.<bs_n1>
+<941><bs_n1>Why, it's all around you, as far as the eye can see!<bs_n1> {n}With a gurgling laugh, the chaplain gestures at the waves.{/n} <bs_n1>Ishiar is what the Abyss clings to. The primeval ocean that spawned it and will someday consume it. The Midnight Isles are merely flecks of foam on its surface. You and I are just drops flying over the waves for a fleeting instant... And soon, very soon, we will return to the waves.<bs_n1>
+<942>{n}The shadow in the depths... The chaplain serves Dagon — the demon lord who rules over oceans and sea monsters.{/n}
+<943>{n}The chaplain's words make no sense whatsoever. You have no idea whom he serves.{/n}
+<944><bs_n1>No thanks needed.<bs_n1>
+<945><bs_n1>Ah, there you are. Welcome back! The sea spared you this time, I take it. You know, I just got some new additions to my stock. Would you like to have a look?<bs_n1>
+<946><bs_n1>Come, sailor, come — buy my wares, spare no coin. You won't have much use for it at the bottom of the sea.<bs_n1>
+<947><bs_n1>Away from the world of mortals, at the very roots of creation, in the place where the Abyssal darkness verges on the great nothingness, lies Ishiar. The endless primeval ocean that spawned all and will someday consume all. The proud demon lords with their realms are naught but flecks of foam on its surface.<bs_n1>
+<948><bs_n1>Come see my merchandise. Why not buy something? Surely you don't want to be swallowed by the dark depths too soon? Want to keep walking on your dry land, don't you?<bs_n1>
+<949><bs_n1>Me? Is there anything interesting to tell at all? What do you want to know?<bs_n1>
+<950> 
+<951> 
+<952> 
+<953> 
+<954> 
+<955> 
+<956> 
+<957> 
+<958> 
+<959> 
+<960> 
+<961> 
+<962> 
+<963> 
+<964> 
+<965> 
+<966> 
+<967>The spirit of the demon lord Nahyndri remained bound to his black heart.
+<968>The spirit of the demon lord Nahyndri was freed from the shackles of Nocticula's magic and went to the Rift of Repose, where, at last, it found blissful oblivion.
+<969>The spirit of the demon lord Nahyndri was cleansed of the centuries-long legacy of evil and torment. This purgation allowed it to avoid the journey to the Rift of Repose and instead appear in Pharasma's court. The goddess weighed the evil Nahyndri had committed against his millennia of suffering and remorse, and sentenced the soul of the former demon lord to rebirth on the plane of Elysium.
+<970>Distant wails can sometimes be heard in the wind that blows over the Midnight Isle built upon his remains. The demons, however, care little or not at all.
+<971>The Midnight Isle that had been built upon Nahyndri's remains sank into the waters of Ishiar.
+<972>After the victory at Threshold, Camellia refused to join the crusader army retreating to Drezen. Instead she wandered among the ruins of the empty fortress, alone. She often stopped to listen to the wind, hoping to hear a familiar voice.
+<973><bs_n1>Hail, Commander. Drezen will be ours! All the troops have faith in you.<bs_n1>
+<974>Stargazer's Report
+<975> 
+<976> 
+<977> 
+<978> 
+<979> 
+<980> 
+<981> 
+<982> 
+<983> 
+<984> 
+<985> 
+<986>The Helmsman must have an explanation for what has transpired.
+<987>There is no more hunting to be done today.
+<988>Hunting is a pastime for the highborn. Many monarchs keep spacious kennels and train falcons for a chance to have their entire court partake in the joyful coursing of a frightened animal.<br>Despite the lack of noble houses in the area, the Commander just might get the chance to participate in a hunt. All that's required of {mf|him|her} is to accept the invitation, board the ship, and go on a voyage from which none has yet returned. Why, there can be no possible catch to any of this.
+<989>Explore the Murky Slough
+<990>Anevia has reported a strange ship that can often be sighted on the Sellen River by Mendev's borders, where it stops to gather a crew of daredevils and sail off in an unknown direction. It's worth investigating if the ship is harboring a secret of some kind.
+<991>According to the Helmsman's obscure explanation, the treasure is to be found on one of the deserted islands.
+<992>Find the treasure
+<993>Talk to the Helmsman
+<994>Another stage of the hunt is complete. The goal is close, and the hunters' anticipation is reaching its peak.
+<995>The hunt continues, growing ever more riveting. For the Commander now knows of the beast {mf|he|she} is pursuing.<br>The demon lord Nahyndri, slain by Nocticula centuries ago, became an island in her archipelago. But it would seem that some parts of his essence refused to die like they were expected to and are now searching for something deep in the Midnight Isles. Is that commendable perseverance, or foolhardiness bordering on stupidity?
+<996>Bhurgaz, who runs the Bad Luck Inn, has told a story about a bone ship in the local port gathering a crew to go looking for treasure. Perhaps the Commander will find a familiar face in the ship's helmsman.
+<997>Find the bone ship in Alushinyrra's port
+<998>The Helmsman, who has turned out to be a fragment of the fallen demon lord Nahyndri, is showing the way to the next treasure.
+<999>Find the second treasure
+<1000>It is time to return to the Helmsman
+<1001>The hunt has concluded, and each of the hunters has gotten what they deserve. The fate of the fallen demon lord has been decided, and it is time for the Commander to return to the matters at hand.
+<1002>The prey is in sight, and the hunters are anxiously checking their weapons. The thrill fills their hearts with adrenaline. The bloody conclusion draws near, and their reward is imminent.
+<1003>The Murky Slough summons the Commander once more. The Helmsman is ready to commence the final stage of his hunt and calls upon his finest hunter to join the chase.
+<1004>Visit the Murky Slough
+<1005>The Helmsman has picked up the scent of Nahyndri's third treasure.
+<1006>Find the third treasure
+<1007>Nahyndri's most prized treasure, his dead heart, is somewhere nearby. The path to its repository is open. All that remains is to reach it.
+<1008>Find Nahyndri's heart
+<1009>Betrayal, however expected it may be, must be punished severely. The Helmsman, who sees himself as Nahyndri's true heir, seeks to sacrifice the Commander to his awakening power.
+<1010>Defeat Nahyndri
+<1011>The bone ship has sailed its last. This wasn't the outcome Nahyndri was expecting when he set out to search for his heart. Now that name will once again fade into oblivion for thousands of years — or perhaps forever.
+<1012>Deep within the Abyss lies Ishiar — the bottomless and boundless primeval ocean. Not far from where the River Styx flows into Ishiar are the Midnight Isles — a sprawling archipelago filled with mysteries and dangers. A ship of bone and sinew sets out in search of lost treasures. A dangerous expedition — but Alushinyrra has plenty of daredevils who would risk their lives for profit.
+<1013>The journey begins. The deck awaits brave souls ready to venture into the unknown.
+<1014>Board the ship
+<1015>The Helmsman himself is unsure what exactly he's searching for — but he swears that he knows the way and that the reward will be worth the effort and the time spent. Will anyone find the courage to learn what lies at the end?
+<1016>Find the first treasure
+<1017>The Helmsman has turned out to be Nahyndri, a dead demon lord looking for his lost treasures. He was rich, it is true, but the true goal of his search cannot be mere gold or gems. What is he really after — and will he find it?
+<1018>Find the second treasure
+<1019>Nahyndri is looking for a way to come back to life. Or rather, Nahyndri's bones wish to rise again, while what remains of his soul desires nothing but peace — but instead is forced to guide the ship to its designated goal. What can mortal treasure hunters hope to accomplish if they are ever caught between these two opposed entities?
+<1020>Find the third treasure
+<1021>At last, Nahyndri has found the way to his greatest treasure — the black, rotten heart that once beat inside his chest. One last voyage, and he will return to life — or lose his last chance at revival.
+<1022>Find the last treasure
+<1023>Just as a scorpion cannot stop itself from stinging, a demon lord cannot stop themselves from betraying. Nahyndri has turned on his savior. Will he feast on the living blood of a mortal, or will he fall when he is but one step away from his triumph?
+<1024>Defeat Nahyndri
