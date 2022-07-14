@@ -1,0 +1,415 @@
+<4>Prawdziwy dowódca
+<5>Odblokowałeś wszystkie osiągnięcia.
+<6>Ukończ grę na następujących ustawieniach, wykonując następujące zadania: 1) poziom trudności Core lub wyższy; 2) szybkość działania strony zależy od ciężaru, który nosisz; 3) brak automatycznego podnoszenia poziomu dla PC i towarzyszy; 4) brak przekwalifikowania; 5) łącznie nie więcej niż 75 odpoczynków; 6) znajdź i zabij wszystkich opcjonalnych bossów w jak najwcześniejszym rozdziale; 7) pokonaj armię Khorramzadeha w trybie Krucjaty; 8) rozwiń wszystkie cztery statystyki Krucjaty do ich maksymalnego potencjału; 9) ukończ swoją mityczną transformację.
+<7>Podnieś wszystkie 4 statystyki krucjaty do rangi 5 w trzecim rozdziale gry.
+<8>Podnieś wszystkie 4 statystyki Krucjaty do rangi 5 w trzecim rozdziale gry.
+<9>Grając na poziomie trudności podstawowym lub wyższym, pozwól Chorussinie przywołać demona w Drezenie i pokonać go.
+<10>Grając na poziomie trudności Core lub wyższym, pozwól Chorussinie przywołać demona w Dreznie i pokonać go.
+<11>Uratuj lub wypuść kultystę-skrybę, podróżnika i vrocka. Potem dowiedz się, co się z nimi stanie później.
+<12>Uratuj lub wypuść kultystę-skrybę, podróżnika i vrocka. Następnie dowiedz się, co stanie się z nimi później.
+<13>Przez 7 dni Azata i jej towarzysze otrzymują +2 szczęścia {g|Encyclopedia:Bonus}bonus{/g} do wszystkich {g|Encyclopedia:Skills}kontroli umiejętności{/g}.
+<14> 
+<15> 
+<16> 
+<17> 
+<18> 
+<19> 
+<20> 
+<21> 
+<22> 
+<23> 
+<24>Zyskujesz odporność na zaklęcia szkoły Abjuration równą 10 + poziom magiczny sojusznika, który uderzył cię swoim zaklęciem obszarowym tej samej szkoły.
+<25>Odporność na czary - Odrzucanie
+<26>Zyskujesz odporność na zaklęcia szkoły Conjuration, która jest równa 10 + poziom magiczny twojego sojusznika, który uderzył cię swoim zaklęciem obszarowym tej samej szkoły.
+<27>Odporność na zaklęcia - Koniugacja
+<28>Zyskujesz odporność na zaklęcia szkoły Wróżbiarstwa równą 10 + poziom magiczny sojusznika, który uderzył cię swoim zaklęciem obszarowym tej samej szkoły.
+<29>Odporność na zaklęcia - Wróżbiarstwo
+<30>Zyskujesz odporność na zaklęcia szkoły czarowania równą 10 + poziom magiczny sojusznika, który uderzył cię swoim zaklęciem obszarowym tej samej szkoły.
+<31>Odporność na zaklęcia - Zaklinanie
+<32>Zyskujesz odporność na zaklęcia szkoły Evocation, która jest równa 10 + poziom magiczny twojego sojusznika, który uderzył cię swoim zaklęciem obszarowym tej samej szkoły.
+<33>Odporność na zaklęcia - Przywołanie
+<34>Zyskujesz odporność na zaklęcia Szkoły Iluzji, która jest równa 10 + poziom magiczny sojusznika, który uderzył cię swoim zaklęciem obszarowym tej samej szkoły.
+<35>odporność na czary - Iluzje
+<36>Zyskujesz odporność na zaklęcia szkoły Nekromancji, która jest równa 10 + poziom magiczny twojego sojusznika, który uderzył cię swoim zaklęciem obszarowym tej samej szkoły.
+<37>odporność na czary - Nekromancja
+<38>Zyskujesz odporność na zaklęcia szkoły Transmutacji, która jest równa 10 + poziom magiczny twojego sojusznika, który uderzył cię swoim zaklęciem obszarowym tej samej szkoły.
+<39>Odporność na zaklęcia - Transmutacja
+<40>Zyskujesz odporność na zaklęcia, ponieważ zostałeś trafiony przez sojusznika Uniwersalistę.
+<41>Uniwersalista - odporność na zaklęcia
+<42>Podczas walki wszystkie istoty na tej wyspie wpadają w szał podobny do szału barbarzyńcy. Dodatkowo, wszystkie stworzenia na tej wyspie otrzymują stałą premię +2 do ataku i obrażeń oraz wzmocnienie na 3 rundy za każde zabicie.
+<43>Wszystkie stworzenia na tej wyspie otrzymują karę -1 do rzutów na przetrwanie, a za każdym razem, gdy nie uda im się wykonać rzutu na przetrwanie, otrzymują 1k6 obrażeń od magii. Efekt ten można usunąć za pomocą zaklęcia dispel magic (KT 21).
+<44>If any creature on this Island have at least 3 levels at Paladin, Inquisitor, Bloodrager, Cleric, Druid, Hunter, Warpriest, Skald, Shaman or Magus class every time a it casts a spell, it must make a Will save (the save KT is based on the island's challenge rating). On a failed save, the creature becomes confused and goes into a rage similar to a barbarian's rage. After the effect ends, the creature gains a +1 bonus on Will saves for 1 minute.
+<45>Permanent
+<46>This creature can eat corpses to gain rage and RO5/Good
+<47>Zjedz trupa
+<48>Oświecona filozofka poszukuje prawdy poprzez współczucie, umiar i pokorę. Podążając za naukami swojej filozofii, dąży do osiągnięcia oświecenia i stania się jednym z wszechświatem.
+<49>Na 7. poziomie zbroja Czyściciela nabiera złotego lub srebrnego połysku i staje się lekka jak piórko. Jej zbroja waży o połowę mniej, dopóki ją nosi. Zyskuje też trening pancerza jako wojownik o 4 poziomy niższy niż jej poziom Wyroczni. Na 11. poziomie oczyszczacz zyskuje biegłość w ciężkich zbrojach.
+<50>Postać, która wybierze ten talent, zyskuje {g|Encyclopedia:Bonus}bonus{/g} bojowy {g|Encyclopedia:Feat}feat{/g}. Możesz skorzystać z tego talentu wielokrotnie, za każdym razem wybierając inny wyczyn.
+<51>Gdy łotrzyk zdobywa {g|Encyclopedia:XP}doświadczenie{/g}, uczy się wielu talentów, które pomagają mu i wprawiają w zakłopotanie jego wrogów. Od 2. poziomu łotrzyk zyskuje jeden talent łotrzyka. Za każde 2 poziomy Łotrzyka po 2. poziomie otrzymuje dodatkowy talent. Łotrzyk nie może wybrać pojedynczego talentu więcej niż raz, chyba że jego opis mówi inaczej.
+<52>DLC3 [Projekt]
+<53>For most, armor is the simplest way to protect oneself in a world of rampant threats and dangers. Many characters can wear only the simplest of armors, and only some can use shields. To wear heavier armor effectively, a character can select the Armor Proficiency feats, but most classes are automatically proficient with the armors that work best for them.
+<54> 
+<55> 
+<56> 
+<57> 
+<58> 
+<59> 
+<60> 
+<61> 
+<62> 
+<63> 
+<64> 
+<65> 
+<66> 
+<67> 
+<68> 
+<69> 
+<70>Broń jest twoim głównym sposobem na pokonanie wrogów. Wszystkie bronie wymagają rzutu ataku przeciwko Klasie Pancerza (KP) celu, aby skutecznie trafić wroga, a następnie rzutu obrażeń, aby określić, ile punktów trafień atak odejmuje od aktualnych punktów trafień istoty uderzonej przez broń. Wszystkie ataki bronią mają szansę na trafienie krytyczne.<br>Broń jest pogrupowana w kilka powiązanych ze sobą zestawów kategorii. Kategorie te odnoszą się do tego, jaki trening jest potrzebny, aby stać się biegłym w użyciu broni (prosty, wojenny lub egzotyczny), przydatność broni w walce wręcz (walka wręcz) lub na odległość (dystans, który obejmuje zarówno broń rzucaną i pociski), jego względne obciążenie (lekki, jednoręczny lub dwuręczny), a jego rozmiar (mały, średni lub duży).
+<71>Ta szata daje jej użytkownikowi premię +6 do inteligencji i premię +6 do umiejętności w testach woli. Kiedy ta szata jest używana w parze z Okularami Niezaprzeczalnej Prawdy, roztacza wokół użytkownika aurę strachu o sile 10 stóp, która sprawia, że każda istota, która rozpocznie rundę wewnątrz aury, staje się obiektem zaklęcia wywołującego strach (KT tego zaklęcia to 25 + mod Charyzmy).
+<72>Ta szata daje jej użytkownikowi +4 {g|Encyclopedia:Bonus}bonus{/g} do {g|Encyclopedia:Attack}zwojów ataku{/g} z atakami promieniami, +1 {g|Encyclopedia:Damage}obrażenie{/g} na kostkę do ognia, kwasu, siły, zimna, elektryczności {g|Encyclopedia:Spell}zaklęć{/g} i premię +4 do penetracji zaklęć.
+<73>Ambrozjański Strój Unicestwienia Łukami
+<74>Ta pachnąca szata tajemniczo jarzy się o zmierzchu. Blask znika w świetle.
+<75>Ilekroć noszący ją rzuca zaklęcie z deskryptorem ognia, jego test na przetrwanie zwiększa się o 2.
+<76>Płaszcz odporności +5 wzmacnia także umiejętność Mroczne obrzędy Licha, dając dodatkowe +2 {g|Encyclopedia:Bonus}bonusy{/g} do {g|Encyclopedia:DC}KT{/g} i +2 profanacyjne bonusy do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g} Lichowi i jego towarzyszom, gdy umiejętność jest aktywna.
+<77>Noszący okulary Niezaprzeczalnej Prawdy i Szatę Niezaprzeczalnej Prawdy zyskują premię +6 do Mądrości i Aurę Strachu, która sprawia, że każdy wróg, który rozpocznie rundę wewnątrz aury, staje się obiektem zaklęcia wywołującego strach (KT 25 + mod Charyzmy).
+<78>Za każdym razem, gdy noszący ten kapelusz zabije wroga, otrzymuje premię +2 do ataku przez 3 rundy.
+<79>Kapelusz Gorzkiego Końca
+<80>Maska daje użytkownikowi 20 punktów odporności na kwaśną energię, ponieważ został on trafiony kwaśną energią.
+<81>Maska daje użytkownikowi odporność na energię zimna 20, ponieważ została uderzona przez energię zimna.
+<82>Maska daje użytkownikowi odporność na Boską energię 20, ponieważ została uderzona Boską energią
+<83>Maska daje użytkownikowi odporność na energię elektryczną 20, ponieważ została dotknięta energią elektryczną
+<84>The mask grants its wearer Fire energy resistance 20 because it was struck by Fire energy
+<85>The mask grants its wearer Holy energy resistance 20 because it was struck by Holy energy
+<86>The mask grants its wearer Magic energy resistance 20 because it was struck by Magic energy
+<87>The mask grants its wearer Negative energy resistance 20 because it was struck by Negative energy
+<88>The Broken Trickster adaptation — Physical Damage Resistance
+<89>The mask grants its wearer Positive energy resistance 20 because it was struck by Positive energy
+<90>The mask grants its wearer Sonic energy resistance 20 because it was struck by Sonic energy
+<91>The Broken Trickster adaptation — Sonic Damage Resistance
+<92>The mask grants its wearer Unholy energy resistance 20 because it was struck by Unholy energy
+<93>Empower Spell {g|Encyclopedia:Feat}feat{/g}.<br>Empower Spell: All variable, numeric effects of an empowered spell are increased by half including bonuses to those {g|Encyclopedia:Dice}rolls{/g}.<br>{g|Encyclopedia:Saving_Throw}Saving throws{/g} and opposed rolls are not affected, nor are spells without random variables.
+<94>Battle Mage's Headband
+<95>Ta opaska {g|Encyclopedia:Intelligence}Inteligencji{/g} +2 zapewnia także noszącemu {g|Encyclopedia:Bonus}premię{/g} z usprawnienia +2 do wyniku {g|Encyklopedii:Charyzma}Charyzmy{/g}. Ponadto za każdym razem, gdy osoba nosząca tę opaskę zada śmiertelny cios bronią do walki wręcz, jego następne {g|Encyklopedia:Zaklęcie}zaklęcie{/g} zostaje wzmocnione, tak jak przy użyciu {g|Encyklopedia:Wyczyn}atutu{/g} Wzmocnienie Zaklęcia.<br>Wzmocnienie Zaklęcia: Wszystkie zmienne, liczbowe efekty wzmocnionego zaklęcia są zwiększone o połowę, wliczając w to premie do tych {g|Encyklopedia:Rzuty kością}rzutów{/g}.<br>Nie ma to wpływu na {g|Encyklopedia:Saving_Throw}rzuty obronne{/g} i przeciwstawne rzuty, podobnie jak na zaklęcia bez zmiennych losowych.
+<96>These goggles increase the {g|Encyclopedia:Caster_Level}caster level{/g} and {g|Encyclopedia:Saving_Throw}save{/g} {g|Encyclopedia:DC}KT{/g} of all the mind-affecting {g|Encyclopedia:Spell}spells{/g} the wearer casts by 2.
+<97>Te rękawice zapewniają efekt Bluźnierczy Wigor i {g|Encyclopedia:Bonus}premię{/g} +2 do naturalnego pancerza wszystkim złym stworzeniom przywołanym przez użytkownika tych rękawic. Jeśli noszący je przywoła Thanadajmona, dają mu efekt Większego Bluźnierczego Wigoru i premię +4 z naturalnego pancerza do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g}. Jeśli noszący przywoła dowolnego dobrego przybysza, {g|Encyclopedia:Attack}zaatakuje{/g} on noszącego i jego sprzymierzeńców.<br>Bluźniercza Premia: Przywołana istota zyskuje premię bluźnierczą +2 do {g|Encyclopedia:Dice}testów{/g} ataku, {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g} i {g|Encyclopedia:Skills}testów umiejętności{/g}.<br>Większy Bluźnierczy Wigor: Przywołana istota zyskuje premię bluźnierczą +4 do testów ataku, rzutów obronnych i {g|Encyclopedia:Check}testów umiejętności{/g}, niewrażliwość na efekty strachu i liczbę tymczasowych {g|Encyclopedia:HP}punktów wytrzymałości{/g} równą twojemu {g|Encyclopedia:Caster_Level}poziomowi rzucającego{/g} (maksymalnie 20).
+<98>Jeśli noszący te bransolety posiada zdolność spontanicznego rzucania {g|Encyklopedia:Spell}zaklęć{/g}, to przyznaje mu również zdolność rzucania następujących zaklęć: Wstrząsający Omen, Wezwanie Błyskawic, Błyskawica, Łańcuchy Światła, Wezwanie Burzy z Błyskawicami, Wyładowanie Łańcuchowe, Piorunujący Wybuch. Aby rzucić zaklęcie, noszący musi mieć jeszcze slot na zaklęcie odpowiedniego poziomu. Daje on także użytkownikowi elektryczną tarczę, która zadaje ({g|Encyclopedia:Dice}1k6{/g} + poziom użytkownika) elektrycznych {g|Encyclopedia:Damage}obrażeń{/g} za każdym razem, gdy wróg trafi użytkownika, a także odporność na elektryczność 30. Osoba nosząca te szelki może w pełni wykorzystać ich moc, co pozwala jej zamienić wszystkie obrażenia zadawane przez rzucane przez nią zaklęcia w obrażenia elektryczne.
+<99> 
+<100> 
+<101> 
+<102> 
+<103> 
+<104> 
+<105> 
+<106> 
+<107> 
+<108> 
+<109>Żrący śluz
+<110>Płonące Rogi
+<111>Śmiercionośne szczypce
+<112>Wytrzymałe łuski
+<113>Ochronny szlam
+<114>Gnijący pancerz
+<115>Nieśmiertelna pleśń
+<116>Robaki mózgowe
+<117>Przerażający splendor
+<118>Na 3 rundy stajesz się odporny na kwas. Przez ten czas, kiedy wykonujesz atak w walce wręcz, zadaje on 6k6 obrażeń od kwasu każdemu przeciwnikowi w promieniu 30 stóp (rzut na refleks KT 30 zmniejsza obrażenia o połowę).
+<119>Przez 5 rund wszystkie twoje ataki w walce wręcz zadają podwójne obrażenia, ale co rundę otrzymujesz 2k8 obrażeń od ognia.
+<120>Dwa następne ataki zakończą się trafieniami krytycznymi. Do czasu wykonania tych ataków otrzymujesz premię +5 do Klasy Pancerza (KP).
+<121>Plugawy Ichor Wytrzymałych Łusek (Vile Ichor of Rugged Scales)
+<122>Na 3 rundy zyskujesz RO N/-, gdzie N jest równe twojemu poziomowi postaci.
+<123>Zyskujesz premię +3 do Klasy Pancerza (KP), a każdy twój rzut ratunkowy automatycznie kończy się sukcesem. Efekt ten trwa przez 1 minutę lub do momentu, gdy wykonasz 3 rzuty ratunkowe.
+<124>Na 3 rundy stajesz się odporny na wszystkie obrażenia. Po tym czasie otrzymujesz 10k10 obrażeń od negatywnej energii (udany rzut na Fortitude KT 35 zmniejsza te obrażenia o połowę).
+<125>Przez jedną minutę jesteś chronion{mf|y|a} przed śmiercią. Jeśli umrzesz pod wpływem tego efektu, natychmiast wracasz do życia z 50 punktami życia.
+<126>Przez 5 rund zyskujesz 25 tymczasowych punktów trafień, ale w każdej z tych rund otrzymujesz 1k8 obrażeń. Za każdym razem, gdy otrzymujesz obrażenia z dowolnego źródła podczas działania tego efektu, zyskujesz 1 ładunek bomby umysłu. Kiedy kończy się czas trwania tego efektu, tracisz wszystkie ładunki bomby umysłu i wysyłasz falę energii, która zadaje wszystkim stworzeniom w zasięgu 30 stóp 1k8 obrażeń od siły za każdy wydany ładunek.
+<127>Przez 3 rundy otrzymujesz premię +6 do wszystkich punktów umiejętności, premię +5 do Klasy Pancerza (KP) i premię +5 do wszystkich rzutów ataku. Zyskujesz też twardość 10 (działa identycznie jak RO 10/-, z tą różnicą, że nakłada się na inne posiadane RO). Kiedy efekt ten się kończy, musisz wykonać udany rzut ratunkowy na Fortitude (KT 25) albo zostaniesz ogłuszony na 1 rundę.
+<128>Mikstura ta przywraca wszystkie punkty życia, obrażenia od umiejętności i wyczerpanie zdolności. Usuwa także wszystkie efekty magiczne, które dają ci karę do punktów zdolności, neutralizuje wszystkie choroby i trucizny, usuwa zmęczenie i wyczerpanie, a także szaleństwo, zamęt i inne efekty wpływające na umysł.
+<129>Przez 3 rundy wszystkie twoje ataki mają zasięg krytyczny zwiększony o 3.
+<130>Na 1 minutę zyskujesz premię +8 do wszystkich punktów umiejętności i stajesz się odporny na efekty wpływające na umysł.
+<131>Przez 5 rund wszystkie twoje ataki mają mnożnik krytyczny zwiększony o 1.
+<132>Przez 5 rund, za każdym razem, gdy twój atak spudłuje, zyskujesz kumulującą się premię +1 do wszystkich ataków, aż do końca działania tego efektu.
+<133>Plugawy ichor z żylastej ścięgna
+<134>Do końca walki zyskujesz 5 tymczasowych punktów życia na poziom postaci.
+<135>Mroczne Odrodzenie
+<136>Ogromne kości
+<137>Żądlące macki
+<138>Niezliczone oczy
+<139>Żylaste ścięgna
+<140>Plugawy odór płonących rogów
+<141>Plugawy ichor śmiercionośnych szczypiec
+<142>Plugawy ichor ochronnego śluzu
+<143>Plugawy ichor gnijącego pancerza
+<144>Plugawy Ichor Nieśmiertelnej Pleśni
+<145>Plugawy Ichor Robaków Mózgowych
+<146>Plugawy Ichor Przerażającego Splendoru
+<147>Plugawy Ichor Mrocznego Odrodzenia
+<148>Nikczemny Ichor z Brzytwowych Szponów
+<149>Nikczemny Ichor Ogromnych Kości
+<150>Nikczemny Ichor Żądlących Macek
+<151>Vile Ichor of Eyes Innumerable
+<152>Vile Ichor of Caustic Mucus
+<153>The wielder of this greater metamagic rod can cast spells that are Empowered, Hightened, Bolstered and Maximized.<br>Greater metamagic rods can be used with spells of 9th level or lower.<br>The rod has 15 charges. Modifying a spell with a rod expends 1 charge. When all the charges are expended, the rod becomes useless.<br>Empower Spell: All variable, numeric effects of an empowered spell are increased by half including {g|Encyclopedia:Bonus}bonuses{/g} to those {g|Encyclopedia:Dice}rolls{/g}.<br>{g|Encyclopedia:Saving_Throw}Saving throws{/g} and opposed rolls are not affected, nor are spells without random variables.<br>Heightened Spell: A heightened spell has a higher spell level than normal (up to a maximum of 9th level). Unlike other metamagic {g|Encyclopedia:Feat}feats{/g}, Heighten Spell actually increases the effective level of the spell that it modifies. All effects dependent on spell level (such as {g|Encyclopedia:Saving_Throw}saving throw{/g} KTs and ability to penetrate a lesser globe of invulnerability) are calculated according to the heightened level.<br>Bolster Spell: Spell now deals 2 more {g|Encyclopedia:Damage}damage{/g} per die {g|Encyclopedia:Dice}rolled{/g} to all its targets. Additionally, all enemies in 5 feet of the {g|Encyclopedia:Spell_Target}spell targets{/g} are dealt 2 damage per die rolled of the original spell. Zaklęcie nie stosuje już obrażeń precyzyjnych.<br>Maksymalizacja zaklęcia: Wszystkie zmienne, liczbowe efekty zaklęcia zmodyfikowanego tym wyczynem zostają zmaksymalizowane. <Nie ma to wpływu na rzuty ratunkowe i przeciwstawne zwoje, ani na zaklęcia bez zmiennych losowych.
+<154>Żałobne odrzucenie
+<155>Żałobne Wzniesienie
+<156>Żałobna wymiana
+<157>Ten przeklęty zwój zapisany jest krwawymi runami na krasnoludzkiej skórze. Po przeczytaniu go, rzucający nadaje wszystkim sojusznikom w promieniu 30 stóp odporność na wszelkie obrażenia od energii, z wyjątkiem siły, na 3 rundy. Po wygaśnięciu tego efektu rzucający otrzymuje 1k6 obrażeń na poziom postaci (udany rzut na Fortitude KT 35 zmniejsza obrażenia o połowę) i zaczyna odczuwać zmęczenie.
+<158>Jesteś odporny na wszystkie obrażenia od energii z wyjątkiem siły.
+<159>Cena ascendencji została zapłacona.
+<160>Żałobna wymiana
+<161>Żałobna furia
+<162>Bezmyślny szał
+<163>Żałobny zwój potępienia (Mournful Scroll of Repudiation)
+<164>Ten przeklęty zwój jest zapisany krwawymi runami na skórze gnoma. Po przeczytaniu go cała grupa otrzymuje jeden poziom postaci (jeśli zdobyłeś już doświadczenie na kolejny poziom, to zostaje ono przeniesione). Jednak wszyscy w grupie otrzymują 10k6 obrażeń od ognia. Zwój nie działa w przypadku postaci, które osiągnęły już 20 poziom.
+<165>Żałobny zwój ascendencji (Mournful Scroll of Ascendance)
+<166>Ten przeklęty zwój jest zapisany krwawymi runami na ludzkiej skórze. Można go odczytać w ramach darmowej akcji. Po przeczytaniu go, przywracasz punkty życia wszystkim sojusznikom w promieniu 30 stóp. Rządzący otrzymuje jednak 1k6 obrażeń na poziom postaci (udany rzut na Fortitude KT 35 zmniejsza obrażenia o połowę) i staje się zmęczony.
+<167>Żałobny Zwój Wymiany (Mournful Scroll of Exchange)
+<168>Ten przeklęty zwój zapisany jest krwawymi runami na orkowej skórze. Po przeczytaniu go przywołujesz potężnego sprzymierzeńca, który pomaga ci w walce aż do jej zakończenia. Jednak po 4 rundach walki przywołana istota traci rozum i zaczyna atakować losowe cele. Rodzaj przywołanego stworzenia zależy od poziomu postaci rzucającego.
+<169>Żałobny Zwój Furii
+<170>Ten przeklęty zwój jest zapisany krwawymi runami na skórze elfa. Po przeczytaniu go, jedno docelowe stworzenie zostaje ogłuszone na 1 rundę, bez możliwości rzutu ratunkowego, niezależnie od tego, jak potężne ono jest.
+<171>Żałobny Zwój Rozpaczy (Mournful Scroll of Despair)
+<172>Żałobna rozpacz
+<173>Kontrola przez cienie
+<174>This unholy symbol grants its user the ability to summon once per day a shadow of Nahyndrian cultist to control enemy for 3 rounds as per Dominate Monster spell but with ability to dominate even creatures of construct and undead types.<br>Wearer also gains concealment 20%.
+<175>Ta adamantynowa +5 glewia daje premię do ataku +5 i dodatkowe 2d10 obrażeń od cięcia przeciwko złym stworzeniom. Kiedy uderza we wrogie stworzenie, rozbija jego pancerz o -1 do Klasy Pancerza (KP).<br>Noszący otrzymuje karę -6 do Charyzmy, a każde uderzenie tym młotem zadaje d6 obrażeń od cięcia.
+<176>Whenever this +4 Furyborn Warhammer threatens a critical hit against medium sized creature, it is automatically confirmed. Defacer also has doubled threat range. Whenever Defacer scores a hit its target must save vs Fortitude (KT 35) or be staggered for 1 round.
+<177>Whenever this +5 vorpal unholy longsword strikes its taget it must make Fortitude save (KT 15 + wielder level) or be imprisoned into a huge crystal for 1 round. The imprisonment is a paralized condition but can be applied to creatures that are usually immune to paralize.
+<178>Whenever Summon Monster spell is used by wielder of this +4 quaterstaff it grants a +6 Strength , Dexterity and Constitution competence bonus to all summoned creatures.
+<179>Exit Build Mode
+<180>Exit Crusade Management
+<181>Mythic characters gain mythic {g|Encyclopedia:Feat}feats{/g} every even mythic rank. These feats can be selected only as part of mythic advancement, not as part of a character's normal advancement or in place of any other bonus feat.<br>Most mythic feats require a non-mythic feat as a prerequisite. These mythic feats enhance the benefits of their prerequisite feats, making them truly awe-inspiring. If a character doesn't possess any of the necessary prerequisite feats when she gains a mythic feat, she can wait to select a mythic feat until the next time she gains a mythic rank or level.
+<182>Mythic Suppression Xantir Bonus
+<183>Xantir wzmocnił mityczną umiejętność Eona - Mythic Suppression. Teraz, gdy Eon użyje Mitycznej Tłumienności, atakowany mityczny demon otrzymuje również -2 do Klasy Pancerza (KP) i -5 do odporności na czary.<br>Na 7 randze mitycznej, namierzony mityczny demon otrzymuje -4 do Klasy Pancerza (KP) i -10 do odporności na czary.
+<184>Jeden sojusznik popada w bitewne szaleństwo. Do końca walki sojusznik {g|Encyclopedia:Attack}atakuje{/g} wrogów bezkrytycznie, ale zyskuje liczbę tymczasowych {g|Encyclopedia:HP}Punktów Wytrzymałości (PW){/g} równą dziesięciokrotności twojej rangi mitycznej. Dodatkowo, za każdym razem, gdy ten sojusznik zabije cel, zyskuje {g|Encyclopedia:Damage_Reduction}RO{/g} 5/dobry, +2 {g|Encyclopedia:Bonus}bonus{/g} do {g|Encyclopedia:CMD}Obrony przed Manewrami Bojowymi (OMB){/g} i {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g} przeciwko efektom osłabiającym ruch, paraliżującym i ogłuszającym do końca walki. Premia ta kumuluje się do 5 razy.
+<185>Ulubiona Metamagia - Selektywność
+<186>Szybkość obrotu kamery
+<187>Brak sortowania
+<188>{g|Empowered}Wzmocniony{/g}
+<189>{g|Maximized}Zmaksymalizowany{/g}
+<190>{g|Quickened}Przyspieszony{/g}
+<191>{g|Extended}Wydłużony{/g}
+<192>{g|Heightened}Wyniesiony{/g}
+<193>{g|Reach}Zasięg{/g}
+<194>{g|Completely Normal}całkowicie normalny{/g}
+<195>{g|Persistent}Trwały{/g}
+<196>{g|Selective}Selektywny{/g}
+<197>{g|Bolstered}Bolstered{/g}
+<198>Obróć
+<199>Zoom
+<200>Automatyczne wyrównywanie
+<201>Automatyczne podnoszenie poziomu
+<202>Czy chcesz przekwalifikować wybraną postać?
+<203>Zwiń
+<204>Rozwiń
+<205>Naciśnij dowolny klawisz, aby kontynuować
+<206>Przesuń kamerę
+<207>Wybierz pozycję
+<208>Kontynuuj
+<209>Wprowadź obszar
+<210>Połącz jednostki
+<211>Przejdź do innej armii
+<212>Wybierz kierunek
+<213>Wybierz lokalizację
+<214>Wejdź na stronę
+<215>Zatrzymaj
+<216>Następna strona
+<217>Wyświetl stronę
+<218>Poprzednia strona
+<219>Formacja swobodna
+<220>Przytrzymaj, aby odłączyć postać od siatki
+<221>Ustaw miejsce docelowe
+<222>Legenda
+<223>Ukryj ukończone zadania
+<224>Skip cue
+<225>Hide unlearned spells
+<226>Current max level
+<227> 
+<228>Podaj krótki opis błędu, na przykład, <bs_n1>Nie można przejść gry po dialogu z postacią<bs_n1> lub <bs_n1>Nie można wyposażyć przedmiotu w slocie na broń.<bs_n1>
+<229>Wyślemy Ci e-mail z linkiem do formularza online, w którym możesz szczegółowo opisać problem.
+<230>Aby otworzyć to okno, można użyć przycisków
+<231>Przedmioty
+<232>Możesz zwiększyć moc swoich {g|Encyclopedia:Spell}zaklęć{/g}, powodując, że zadają one więcej {g|Encyclopedia:Damage}obrażeń{/g}.<br>Korzyść: Wszystkie zmienne, numeryczne efekty Wzmocnionego Zaklęcia są zwiększone o połowę, w tym {g|Encyclopedia:Bonus}premie{/g} do tych {g|Encyclopedia:Dice}rzutów{/g}.<br>{g|Encyclopedia:Saving_Throw}Rzuty obronne{/g} i rzuty przeciwne nie są objęte tym efektem, podobnie jak zaklęcia nie zawierające zmiennych losowych.<br>Podwyższenie poziomu: +2 (Wzmocnione Zaklęcia zużywają sloty na zaklęcia o dwa poziomy wyższe niż rzeczywisty poziom zaklęcia).
+<233>Wzmocnione Zaklęcie
+<234>Twoje {g|Encyclopedia:Spell}zaklęcia{/g} osiągają maksymalny możliwy efekt.<br>Korzyść: Wszystkie zmienne, liczbowe efekty zaklęcia zmodyfikowanego przez ten {g|Encyclopedia:Feat}atut{/g} są zmaksymalizowane. Na {g|Encyclopedia:Saving_Throw}rzuty obronne{/g} i {g|Encyclopedia:Dice}rzuty{/g} przeciwstawne atut ten nie ma wpływu, podobnie jak na zaklęcia nie zawierające zmiennych losowych.<br>Podwyższenie poziomu: +3 (Zmaksymalizowane Zaklęcia zużywają sloty na zaklęcia o trzy poziomy wyższe niż rzeczywisty poziom zaklęcia.)<br>Wzmocnione, Zmaksymalizowane zaklęcie zyskuje osobne korzyści z każdego z atutów: maksymalny wynik plus połowa normalnie wyrzuconego wyniku.
+<235>Maksymalizacja Zaklęcia
+<236>Możesz rzucać {g|Encyclopedia:Spell}zaklęcia{/g} w ułamku normalnego czasu ich rzucania.<br>Korzyść: Rzucenie Przyspieszonego Zaklęcia jest {g|Encyclopedia:Swift_Action}szybką akcją{/g}. Możesz wykonać inną {g|Encyclopedia:CA_Types}akcję{/g}, nawet rzucając inne zaklęcie, w tej samej {g|Encyclopedia:Combat_Round}rundzie{/g}, w której rzucasz Przyspieszone Zaklęcie. Zaklęcie, którego {g|Encyclopedia:Casting_Time}czas rzucania{/g} wynosi więcej niż 1 rundę lub 1 {g|Encyclopedia:Full_Round_Action}akcję pełnorundową{/g}, nie może zostać przyspieszone.<br>Podwyższenie poziomu: +4 (Przyspieszone Zaklęcia zużywają sloty na zaklęcia o cztery poziomy wyższe niż rzeczywiste poziomy zaklęć.)<br>Rzucenie przyspieszonego zaklęcia nie prowokuje {g|Encyclopedia:Attack_Of_Opportunity}ataku okazyjnego{/g}.<br>Specjalne: Możesz zastosować efekty tego {g|Encyclopedia:Feat}atutu{/g} do zaklęcia rzuconego spontanicznie, o ile jego czas rzucania nie przekracza 1 pełnorundowej akcji, bez zwiększania czasu rzucania zaklęcia.
+<237>Przyspieszenie Zaklęcia
+<238>Możesz sprawić, by twoje {g|Encyclopedia:Spell}zaklęcia{/g} trwały dwa razy dłużej.<br>Korzyść: Przedłużone Zaklęcie trwa dwa razy dłużej niż normalnie. Na zaklęcie o czasie trwania {g|Encyclopedia:Concentration}koncentracji{/g}, natychmiastowym lub trwałym ten {g|Encyclopedia:Feat}atut{/g} nie ma wpływu.<br>Podwyższenie poziomu: +1 (Przedłużone Zaklęcia zużywają sloty na zaklęcia o jeden poziom wyższe niż rzeczywiste poziomy zaklęć.)
+<239>Przedłużenie Zaklęcia
+<240>Możesz rzucać {g|Encyclopedia:Spell}zaklęcia{/g} tak, jakby były wyższego poziomu.<br>Korzyść: Zaklęcie o podwyższonym poziomie ma wyższy poziom zaklęcia niż normalnie (maksymalnie do 9. poziomu). W przeciwieństwie do innych metamagicznych {g|Encyclopedia:Feat}atutów{/g}, Podwyższenie Poziomu Zaklęcia faktycznie zwiększa efektywny jego poziom, modyfikując go. Wszystkie efekty zależne od poziomu zaklęcia (takie jak Klasa Trudności (KT) {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g}, czy zdolność magicznej penetracji mniejszego klosza niewrażliwości) są obliczane zgodnie z podwyższonym poziomem.<br>Podwyższenie poziomu: Zaklęcie o Podwyższonym Poziomie jest tak samo trudne do przygotowania i rzucenia jak zaklęcie o jego efektywnym poziomie.
+<241>Podwyższony Poziom Zaklęcia
+<242>Twoje {g|Encyclopedia:Spell}zaklęcia{/g} sięgają dalej niż normalnie.<br>Korzyść: Możesz zmienić zaklęcie o zasięgu {g|Encyclopedia:TouchAttack}dotykowym{/g}, bliskim lub średnim, aby zwiększyć jego zasięg o jedną kategorię zasięgu, stosując następującą kolejność: dotykowy, bliski, średni i długi.<br>Podwyższenie poziomu: +1 (Zaklęcia o Zwiększonym {g|Encyclopedia:Reach}Zasięgu{/g} zużywają sloty na zaklęcia o jeden poziom wyższe niż rzeczywiste poziomy zaklęć.)<br>Zaklęcia zmodyfikowane przez ten {g|Encyclopedia:Feat}atut{/g}, które wymagają {g|Encyclopedia:Attack}ataków{/g} w walce w zwarciu, zamiast tego wymagają dystansowych ataków dotykowych.<br>Zaklęcia, które nie wykorzystują zasięgu dotykowego, bliskiego lub średniego, nie odnoszą korzyści z tego atutu.
+<243>Zasięgowe Zaklęcie
+<244>Możesz uczynić swoje {g|Encyclopedia:Spell}zaklęcie{/g} nieco mniej magicznym.<br>Zmniejszenie poziomu: 1 (całkowicie normalne zaklęcie zużywa slot na zaklęcie o jeden poziom niższy niż rzeczywisty poziom zaklęcia).
+<245>Całkowicie Normalne Zaklęcie
+<246>Możesz zmodyfikować {g|Encyclopedia:Spell}zaklęcie{/g}, aby stało się bardziej uporczywe, gdy jego cele opierają się jego efektom.<br>Korzyść: Za każdym razem, gdy istota będąca celem Uporczywego Zaklęcia lub znajdująca się na jego obszarze zdoła wykonać {g|Encyclopedia:Saving_Throw}rzut obronny{/g} przeciwko zaklęciu, to musi wykonać kolejny rzut obronny przeciwko jego efektowi. Jeśli istota nie zaliczy drugiego rzutu, będzie odczuwać wszystkie skutki zaklęcia, tak jakby nie udało jej się zaliczyć pierwszego rzutu obronnego.<br>Zwiększenie poziomu: +2 (Uporczywe Zaklęcia zużywają sloty na zaklęcia o dwa poziomy wyższe niż rzeczywiste poziomy zaklęć.)<br>Zaklęcia, które nie wymagają rzutu obronnego, aby odeprzeć lub zmniejszyć efekt zaklęcia, nie będą mieć żadnych korzyści z tego {g|Encyclopedia:Feat}atutu{/g}.
+<247>Uporczywość Zaklęcia
+<248>Twoi sojusznicy nie muszą się obawiać przyjacielskiego ognia.<br>Korzyść: Rzucając Selektywne {g|Encyclopedia:Spell}Zaklęcie{/g} o efekcie obszarowym i czasie trwania natychmiastowym, można wybrać liczbę celów w obszarze równą modyfikatorowi {g|Encyclopedia:Ability_Scores}wartości atrybutu{/g} używanego do określenia premii do zaklęć tego samego typu ({g|Encyclopedia:Charisma}Charyzma{/g} dla Bardów, Wyroczni, Paladynów, Czarowników i Przywoływaczy; {g|Encyclopedia:Intelligence}Inteligencja{/g} dla Wiedźm i Czarodziejów; {g|Encyclopedia:Wisdom}Mądrość{/g} dla Kapłanów, Druidów, Inkwizytorów i Tropicieli). Te cele są wyłączone z efektów twojego zaklęcia.<br>Podniesienie poziomu: +1 (Selektywne Zaklęcie zużywa slot na zaklęcia o jeden poziom wyższy niż rzeczywisty poziom zaklęcia).<br>Zaklęcia, które nie mają obszaru działania lub natychmiastowego czasu trwania nie korzystają z tego {g|Encyclopedia:Feat}atutu{/g}.
+<249>Selektywność Zaklęcia
+<250>Sprawiasz, że twoje {g|Encyclopedia:Spell}zaklęcia{/g} zadają dodatkowe {g|Encyclopedia:Damage}obrażenia{/g} obszarowe, jednocześnie czyniąc je silniejszymi.<br>Korzyść: Zaklęcie zadaje teraz celom 2 punkty obrażeń więcej za każdą {g|Encyclopedia:Dice}rzuconą{/g} kostkę. Dodatkowo, wszyscy wrogowie w odległości 5 stóp od {g|Encyclopedia:Spell_Target}celów zaklęcia{/g} otrzymują 2 obrażenia za każdą {g|Encyclopedia:Dice}rzuconą{/g} kostkę oryginalnego zaklęcia. Zaklęcie nie może już zadawać obrażeń od precyzji.<br>Podwyższenie poziomu: +1 (Naładowane Zaklęcia zużywają sloty na zaklęcia o jeden poziom wyższe niż rzeczywiste poziomy zaklęć).
+<251>Naładowanie Zaklęcia
+<252>To {g|Encyklopedia:Zaklęcie}zaklęcie{/g} działa jak Krok Kameleona, z wyjątkiem tego, że przyznaje {g|Encyklopedia:Bonus}premie{/g} wszystkim sojusznikom w promieniu 3 metrów od ciebie w momencie rzucania zaklęcia. Jeśli istota, na którą ma wpływ, oddali się od ciebie dalej niż na 10 stóp, traci korzyści płynące z zaklęcia. Stworzenia, które wejdą w obszar działania po rzuceniu zaklęcia, nie zyskują korzyści.<br>Krok Kameleona: Stapiasz się z tłem i chociaż nie jesteś naprawdę niewidzialny, trudno cię zlokalizować ze względu na twoją przezroczystość. Będąc pod wpływem tego {g|Encyklopedii:Zaklęcia}zaklęcia{/g}, zyskujesz {g|Encyklopedia:Bonus}premię{/g} +4 do {g|Encyklopedia:Ukrycie}testów Skradania się{/g} i uzyskujesz {g|Encyclopedia:Concealment}ukrycie{/g} przed stworzeniami oddalonymi o więcej niż 5 stóp ({g|Encyclopedia:Attack}ataki{/g} mają 20% ryzyko chybienia).
+<253>W każdej {g|Encyclopedia:Combat_Round}rundzie{/g} możesz obrać za cel jedną żywą istotę i uderzyć w nią falami mocy. Cel musi wykonać udany rzut obronny na Wytrwałość lub  znajdzie pod wpływem szkodliwych efektów zaklęcia. W zależności od KW celu, ten {g|Encyclopedia:Attack}atak{/g} ma aż trzy efekty:<br>Jeśli KW celu wynosi 10 lub więcej, jest on osłabiony przez 10 minut na {g|Encyclopedia:Caster_Level}poziom rzucającego{/g}.<br>Jeśli KW celu wynosi 5-9, jest on przerażony i osłabiony przez 10 minut na poziom rzucającego. <br>Jeśli KW celu wynosi 4 lub mniej, jest sparaliżowany, przerażony i osłabiony<br>Efekty kumulują się i występują jednocześnie przez 10 minut na poziom rzucającego.<br>W każdej rundzie po rundzie pierwszej musisz poświęcić {g|Encyclopedia:Swift_Action}szybką akcję{/g}, aby wziąć na cel nowego przeciwnika.
+<254>This {g|Encyclopedia:Spell}spell{/g} imbues a single creature with great bravery and morale in battle. The target gains a +2 morale {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack rolls{/g}, {g|Encyclopedia:Saving_Throw}saves{/g}, and {g|Encyclopedia:Skills}skill checks{/g} and target gains temporary {g|Encyclopedia:HP}hit points{/g} equal to your {g|Encyclopedia:Caster_Level}caster level{/g} (maximum 20).
+<255>As a swift action, Deskari hurls some deadly insects at the target, dealing 10k8 unholy damage. A successful KT 34 Fortitude saving throw halves the damage. The save KT is constitution-based.
+<256> 
+<257> 
+<258> 
+<259> 
+<260> 
+<261> 
+<262> 
+<263> 
+<264> 
+<265> 
+<266>Iluzoryczna Zatruta Kałuża Błota
+<267> 
+<268> 
+<269> 
+<270> 
+<271> 
+<272> 
+<273> 
+<274> 
+<275> 
+<276> 
+<277> 
+<278>Obrzydliwy Starszy Purpurowy Robak
+<279> 
+<280> 
+<281> 
+<282> 
+<283> 
+<284> 
+<285> 
+<286> 
+<287>Zakrwawiony Wight
+<288>Nieświęty Płonący Długi Miecz +2
+<289>Nieświęty Długi Miecz +1
+<290>Ta broń to święty długi miecz zguby złych przybyszów z zimnego żelaza +2.
+<291>Latarnia Niewinności
+<292>Raz na {g|Encyclopedia:Combat_Round}rundę{/g}, gdy ten +1 żelazny scimitar trafia przeciwnika, cel musi zdać {g|Encyclopedia:Saving_Throw}rzut na wytrzymałość{/g} (KT13) lub zostać ogłuszony na 1 rundę.
+<293>Za każdym razem, gdy posiadacz tego miecza o +5 ostrzach z mrozu trafia po raz pierwszy nowego średniego lub mniejszego przeciwnika, otrzymuje on dodatkowe {g|Encyclopedia:Dice}2k6{/g} {g|Encyclopedia:Energy_Damage}zimne obrażenia{/g}. Za każdym razem, gdy posiadacz miecza trafi po raz pierwszy nowego dużego lub większego wroga, musi on zdać {g|Encyclopedia:Saving_Throw}rzut na wytrzymałość{/g} ({g|Encyclopedia:DC}KT{/g} 30) lub zostać otoczony aurą mrozu, przez co wszyscy inni wrogowie w promieniu 15 stóp stają się podatni na {g|Encyclopedia:Damage}obrażenia od zimna{/g} przez 3 {g|Encyclopedia:Combat_Round}rund{/g}.
+<294>Ten scimitar +5 zadaje dodatkowe {g|Encyclopedia:Dice}2k6{/g} {g|Encyclopedia:Energy_Damage}obrażenia od gradu{/g} przy trafieniu. Za każdym razem, gdy posiadacz potwierdzi {g|Encyclopedia:Critical}krytyczne trafienie{/g}, daje mu to +4 {g|Encyclopedia:Bonus}bonus{/g} do zwojów ataku oraz 1 dodatkowy {g|Encyclopedia:Attack}atak{/g} z maksymalną premią do ataku przez 1 {g|Encyclopedia:Combat_Round}rundę{/g}.
+<295>Za każdym razem, gdy posiadacz tego +5 ultradźwiękowego Łamacza Ziemi zada zabójczy cios, zadaje on dźwiękowe {g|Encyclopedia:Damage}obrażenia{/g} równe liczbie swoich rang w {g|Encyclopedia:Athletics}Atletyce{/g} {g|Encyclopedia:Skills}umiejętności{/g} wszystkim sąsiadującym wrogom. Udany {g|Encyclopedia:Saving_Throw}ratunek kondycyjny{/g} ({g|Encyclopedia:DC}KT{/g} 30) zmniejsza obrażenia o połowę.
+<296>Wezwij ocalałych
+<297>12 {g|Barbarians}[Barbarzyńców]{/g} zostaje zrekrutowanych w siedzibie dowódcy, dodaje 1200 złota.
+<298>Dodaje 1 500 punktów doświadczenia do Dyplomacji, morale krucjaty wzrasta o 30.
+<299>42 {g|Barbarians}[Barbarzyńców]{/g} zostaje zrekrutowanych w Kwaterze Głównej.
+<300><bs_n1>Prawda jest taka, że szybko zdałam sobie sprawę, że byłam głupią i niemądrą dziewczyną. Zdałam sobie z tego sprawę jeszcze przed atakiem na Kenabres. Ale potem poznałam ciebie, Seelah, i to wszystko zmieniło. Wszystko przychodziło ci z taką łatwością, że mogłaś wpaść do jaskiń pod Kenabres, przetrwać straszliwe niebezpieczeństwa, a potem odwrócić się i zamówić kufel piwa w tawernie, jakby to było nic takiego. Zaatakowałeś Szary Garnizon i wróciłeś silniejszy niż kiedykolwiek, a teraz jesteś towarzyszem wybranki Iomedae. No i jeszcze twoje motto: 'Nie ma chwały bez ryzyka!'. Byłaś bohaterką, jaką zawsze sobie wyobrażałam. To dlatego uparłam się, by iść z Tobą po tych demonach - chciałam dotrzymać Ci kroku, udowodnić, że jestem tak dobra jak Ty! I zobacz, dokąd mnie to zaprowadziło...<bs_n1>{n}Jannah wybuchnęła rzewnym szlochaniem.
+<301><bs_n1>Czego ja... chciałabym? W głębinach nikt nie zna tego słowa: 'chcieć'. Nie nauczono mnie go też na powierzchni. Wiem, jak być posłusznym, nurkować, być cicho... Ale nie wiem, jak chcieć. Czego mogę chcieć?<bs_n1>
+<302><bs_n1>To prawda. Podczas zszywania płaszczyzn zabrałem dusze i połączyłem je z esencją Abyssal. To właśnie stało się z tobą, gdy wiele lat temu rozszerzyłem Ranę.<bs_n1>
+<303><bs_n1>Nie prowadzisz dużych sił przeciwko demonom, a to pozwala mi przypuszczać, że nie chcesz przyciągać uwagi. A złoty smok wkraczający do walki to coś, co przyciąga sporą uwagę, uwierz mi. Ponadto...<bs_n1> {n}Halaseliax przygląda ci się uważnie.{/n}<bs_n1>Chcę na własne oczy zobaczyć, co osiągnąłeś od czasu, gdy widzieliśmy się po raz ostatni... Chcę zaobserwować, jak przejawia się w tobie smoczy duch.<bs_n1>
+<304><bs_n1>Co jest nie tak z tym łańcuchem?<bs_n1>
+<305><bs_n1>Brzmi intrygująco!<bs_n1>
+<306><bs_n1>Dziękuję za ostrzeżenie.<bs_n1>
+<307><bs_n1>Czy potwór w łańcuchu na pewno da się jakoś pokonać?
+<308><bs_n1>A teraz posłuchaj. Zanim wypłyniemy...<bs_n1>{n} Sternik wydaje się czymś sfrustrowany.{/n}<bs_n1>Widzisz ten łańcuch, ten który biegnie przez cały pokład? Naprawdę nie powinieneś go dotykać, ani nawet się do niego zbliżać. Nie ma dla ciebie żadnej wartości, w tej kwestii możesz zaufać temu starcowi.<bs_n1>
+<309><bs_n1>Zawiera... pewnego rodzaju istotę, bez której nasza podróż byłaby niemożliwa, niestety. Żałosne to stworzenie, ale potężne, a do tego humorzaste. Moja była załoga uznała, że dobrym pomysłem będzie wyzwanie go do walki. W końcu okazało się, że potrzebuję nowej załogi.<bs_n1>
+<310><bs_n1>Mortale... Wasze życie i tak jest już wystarczająco krótkie. Dlaczego tak bardzo spieszycie się, by stanąć przed Pharasmą?
+<311><bs_n1>Tak, myślę, że to możliwe. Nie przy pierwszej próbie, ani przy drugiej, ale da się to zrobić. Ostrza mojej byłej załogi pozostawiły na jej upiornym ciele kilka trwałych ran. Gdybyś ty i inni poszukiwacze przygód rzucali mu wyzwania zamiast szukać skarbów, jestem pewien, że walka w końcu by go zmęczyła i zmusiła do poddania się. Ale jaki byłby w tym sens?<bs_n1>.
+<312>[Zaatakuj]<bs_n1>Broń się!<bs_n1>
+<313>[Cofnij się od łańcucha]
+<314><bs_n1>Rzucisz mi wyzwanie? Ty, śmiertelna pchło? Och, z rozkoszą zgniótłbym cię między palcami...<bs_n1>{n} Ogromny cień powoli wyciąga ręce w twoją stronę. Zdajesz sobie sprawę, że czeka Cię walka na śmierć i życie.
+<315><bs_n1>Chcesz się ze mną zmierzyć, śmiertelna pchło?<bs_n1> {n} W jego głosie słyszysz nutę strachu. Trudno się dziwić, skoro duch został pokonany i upokorzony już trzykrotnie. Teraz jest silniejszy niż kiedykolwiek, ale ty wiesz, że nie masz sobie równych w walce z tym przeciwnikiem.
+<316><bs_n1>Co się właśnie stało?<bs_n1>
+<317><bs_n1>Czym był ten kryształ?<bs_n1>
+<318><bs_n1>Wyczuwam w sobie dziwną moc.<bs_n1>
+<319><bs_n1>Muszę iść.<bs_n1>
+<320><bs_n1>Zobaczmy teraz... Pokaż mi, co znalazłeś.<bs_n1>{n}Trzęsącym się głosem Sternik bierze dziwny, purpurowy kryształ, który znalazłeś na wyspie i obraca go w suchych palcach.{/n}<bs_n1>Nigdy nie widziałem czegoś takiego... a jednak jakoś wiem, że jest mój. To coś ważnego, tak bardzo ważnego. Coś... Coś...<bs_n1>
+<321>{n}Jak kropla wody spadająca na suchą szmatę, kryształ znika, wchłonięty przez palce Sternika. Czujesz ciepło w dłoni - dokładnie w miejscu, gdzie jego uścisk dłoni pozostawił drzazgę. Ciepło rozchodzi się falami po całym twoim ciele, napełniając cię nową siłą.{/n}
+<322><bs_n1>Nie wiem. Wróciło do mnie coś bardzo cennego. Ale co to jest?<bs_n1> {n} Sternik zastyga w bezruchu, patrząc w głąb siebie.{/n}<bs_n1>Czuję się teraz silniejszy. Ty czujesz to samo, prawda?<bs_n1>.
+<323><bs_n1>Gdybym tylko wiedział... Mogę tylko powiedzieć, że jego wartość jest ogromna. Jeśli znajdziesz ich więcej - przynieś je do mnie, a sowicie cię wynagrodzę.<bs_n1>
+<324><bs_n1>To jest mój prezent dla ciebie. Skoro jesteś na moim statku, szukając mojego skarbu, wypada, żebyś skorzystał z mojej mocy.<bs_n1>
+<325><bs_n1>Tak, tak, idź... i miej oczy otwarte - czuję, że takich kryształów jest znacznie więcej, rozrzuconych po wyspach.<bs_n1>
+<326><bs_n1>Pokaż mi swoje towary.<bs_n1>
+<327><bs_n1>Jak się tu znalazłeś?<bs_n1>.
+<328><bs_n1>Kim pan jest?<bs_n1>
+<329><bs_n1>Muszę iść.<bs_n1>
+<330>{n}Przed tobą stoi szkielet. Nie wstydzi się braku ciała na swoich kościach i nuci wesołą melodię, kiwając przy tym czaszką, co sprawia, że monety w jego głowie rytmicznie brzęczą. Na twój widok szkielet macha ci dramatycznie i serdecznie. {/n}<bs_n1>Dobry wieczór, dobry wieczór! Czy chcielibyście kupić coś przydatnego do podróży? Szkieletowy Sprzedawca, jak zawsze, ma dla was najlepsze oferty.<bs_n1>
+<331><bs_n1>Szkieletowy Sprzedawca, do usług! Zawsze możesz liczyć na to, że mam najlepsze ceny, najlepszy wybór towarów - najlepsze wszystko, naprawdę! Historia mojego nieżycia jest długa i smutna, ale nie chcę cię nią teraz zanudzać, zachowam ją na inny raz.<bs_n1>
+<332><bs_n1>Bezpiecznych podróży i lukratywnych przygód życzę! Otchłań to wielkie miejsce - może się jeszcze spotkamy.<bs_n1>
+<333><bs_n1>Gdzie jest handel, tam jestem i ja, a gdzie jestem ja, tam jest handel - czyli po prostu wszędzie! Niektórzy powiedzieliby, że ta wyspa jest zbyt odludna i oddalona od cywilizacji, aby zarabiać na niej jakiekolwiek pieniądze. Ale ja byłem zdecydowany pójść na całość, popłynąłem tutaj i popatrzcie tylko! Już mam klienta!<bs_n1>.
+<334><bs_n1>Dobry wieczór państwu! Ładną wieczną noc mamy!<bs_n1>{n}Szkielet oddaje ci energiczny salut.{/n}<bs_n1>Czy chciałbyś coś kupić? Albo może sprzedać?<bs_n1>
+<335>[Zakończ przygodę tej postaci]<bs_n1>Więc czas, abyśmy się rozstali.<bs_n1>
+<336><bs_n1>Chyba zobaczę, co jeszcze ta podróż ma dla mnie w zanadrzu.<bs_n1>
+<337>[Koniec przygody tej postaci]<bs_n1>Teraz to już pożegnanie.<bs_n1>
+<338><bs_n1>Skrzynia na pokładzie twierdzi, że to prawdziwa Nahyndri.<bs_n1>
+<339>[<bs_n1>Przyniosłem ci jeszcze jeden z tych fioletowych kryształów.<bs_n1>
+<340><bs_n1>Ta wyspa to dla mnie za dużo. Wróćmy do Alushinyrry.<bs_n1>
+<341><bs_n1>Mam już dość przygód. Zabieram swoje łupy i odchodzę.<bs_n1>
+<342><bs_n1>Postaram się mimo wszystko zdobyć tę wyspę.<bs_n1>
+<343><bs_n1>Wrócić? Jasne, że możemy 'wrócić' - ale jak już to zrobimy, to nigdy więcej nie pokazuj się na moim pokładzie. Nie mam żadnego pożytku z tchórzy i rezygnujących.<bs_n1>
+<344><bs_n1>Tak lepiej. Pomyśl o wspaniałych bogactwach, które czekają na ciebie na końcu twojej podróży - i nic cię nie powstrzyma!<bs_n1>.
+<345><bs_n1>Nie jest to dla mnie wielka strata. Jeśli nie potrzebujesz skarbów, znajdę kogoś, kto nie boi się dostatku.<bs_n1>
+<346><bs_n1>Takie jest twoje prawo. Ale jeśli odejdziesz, nigdy więcej tu nie przychodź. Nie potrzebuję tych, którzy szybko odwracają się od przygód.<bs_n1>
+<347><bs_n1>Tutaj jest dobre {mf|lad|lass}. Nie myśl o hojności, która już jest w twojej kieszeni - pomyśl o niesamowitej fortunie, która czeka na ciebie!<bs_n1>.
+<348><bs_n1>Oczywiście, że tak.<bs_n1>{n}Pomocnik wypuszcza suchy śmiech.{/n}<bs_n1>To najbardziej energiczna część mnie... ale niestety nie najmądrzejsza.<bs_n1>
+<349><bs_n1>Więc daj mi ją. Daj mi ją tutaj, teraz!<bs_n1>.
+<350><bs_n1>Przypomniałem sobie, co to jest, wiesz.<bs_n1>{n}Piekarz podnosi purpurowy kryształ i patrzy na Ciebie przez niego swoimi zapadniętymi oczami.{/n}<bs_n1>To moja krew. Krew władcy demonów, przemieniona w klejnoty, gdy Nocticula mnie zabił. Wysuszona, martwa krew... ale wciąż moja. Wciąż przepełniona moją mocą.<bs_n1>
+<351><bs_n1>Kolejna kropla mojej krwi... Może i jest skamieniała i nie może już płynąć w moich żyłach - ale mimo to, z każdym nowym kryształem, zbliżam się do dawnego siebie.<bs_n1>
+<352>{n}Kryształ zostaje wchłonięty w palce Sternika, a ty czujesz nową moc promieniującą z drzazgi w twojej dłoni.{/n}
+<353><bs_n1>Opowiedz mi o wiatrach i falach podwodnych.<bs_n1>
+<354><bs_n1>Znalazłem na wyspie jakiś dziwny eliksir. Czy wiesz coś o nim?<bs_n1>.
+<355><bs_n1>Znalazłem na wyspie dziwny zwój jakiegoś rodzaju. Czy wiesz coś na ten temat?<bs_n1>
+<356><bs_n1>Widzisz tam tę skrzynię z oczami? Zgarnęliśmy ją podczas jednej z naszych szczególnie owocnych wypraw. Nie wiem jednak, czy można ją uznać za prawdziwy skarb - jedyne, co robi, to nagabuje załogę, by dała jej pieniądze. Ale jeśli dasz mu wystarczająco dużą sumę, może w zamian przynieść jakiś rzadki magiczny sprzęt, więc chyba nie jest całkiem bezużyteczny<bs_n1>.
+<357><bs_n1>Następnie, fale podwodne to zupełnie inna historia. Są zdradliwe i kapryśne, a ich wpływ odczujesz zarówno na pokładzie, jak i na brzegu. Za każdym razem, gdy wylądujesz na wyspie, upewnij się, że sprawdziłeś, jaki prąd cię tam przywiódł, bo inaczej możesz już nigdy nie wrócić!
+<358><bs_n1>A teraz pozwól, że opowiem ci o innym z naszych znalezisk, prawdziwej dumie tego statku. Splądrowaliśmy kiedyś bazę piratów i zgadnijcie, co przywieźliśmy - legendarny relikt pirackiej bogini Besmary, Skrzynię Utopionych! Zaginione skarby z zatopionych statków pojawiają się w niej tak po prostu - chciałbym, żeby to się zdarzało częściej.<bs_n1>
+<359><bs_n1>No cóż, zobaczmy. Widziałem złoto, ładne kamienie, magiczne przedmioty - to, co zwykle. To właśnie takie rzeczy zrabowali twoi poprzednicy. Słyszałem też o tym przerażająco wyglądającym łańcuchu i jego tajemnicach - ale trzymam się od niego z daleka i ty też powinieneś. Nie wygląda mi to na skarb. Wiesz, na co mi wygląda? Kłopoty.<bs_n1>
+<360><bs_n1>Nieznane wiatry wieją nad Ishiar, a pod powierzchnią czają się podwodne fale. Nikt nie zna ich wszystkich, ale nie będę się przechwalać, jeśli powiem - no dobra, trochę się pochwalę - że ten oto notatnik zawiera nazwy i kierunki co najmniej jednej czwartej z nich.<bs_n1>{n}Esilla z dumą poklepuje okładkę swojego grubego notatnika.{/n}
+<361><bs_n1>To znaczy, jeśli masz ochotę się torturować, możesz się napić - ludzie mówią, że ichor zawiera niektóre moce władców demonów... ORAZ niektóre z ich klątw, więc odpowiednio dostosuj swoje oczekiwania. Jedną rzeczą, której na pewno nie będziesz mógł sprzedać, jest ichor. Prości kupcy boją się nawet dotknąć tego towaru, a z tymi mniej prostymi - cóż, ludzie tacy jak ty i ja nie mają jak się z nimi skontaktować. Możesz więc albo zachować go na ciężką bitwę, albo po prostu wyrzucić za burtę.<bs_n1>
+<362><bs_n1>To wszystko, co przychodzi mi do głowy. Ale ostatni i największy skarb starego Nahyndri wciąż leży przed nami.<bs_n1>
+<363><bs_n1>Tak jak myślałem. Są tacy, którzy posłusznie idą tam, dokąd zaprowadzi ich los, ale nie ty. Ty sam kierujesz wiatrem swojego losu. A on tylko przybiera na sile - to już nawet nie jest wiatr, to raczej huragan. Fale, które pozostawiasz za sobą, będą się rozbijać o Golarion i inne planety istnienia jeszcze przez wiele lat... Dla niektórych nasza podróż byłaby najwspanialszym momentem w życiu, ale dla ciebie to raczej krótki, spokojny rejs.<bs_n1>
+<364><bs_n1>Każdej podróży sprzyja niewidzialny wiatr losu. Widziałem w swoim czasie wiele wiatrów - niektóre przynosiły szczęście, inne trudności, a jeszcze inne niewyobrażalne dziwactwa... ale nigdy nie widziałem takiego wiatru jak ten, który ci sprzyja.<bs_n1>{n}Zamarła, jakby słuchając czegoś niedostrzegalnego dla śmiertelnych uszu, potem oblizała palec, podniosła rękę i skinęła z zadowoleniem głową.{/n}
+<365><bs_n1>Do tego dochodzą golemy. Z nimi naprawdę udało nam się trafić na złoto. Za każdym razem, gdy jakiś pirat próbuje się do nas dobrać, te wielkie kamienne pięści ożywają i pomagają załodze wyrzucić łotrów za burtę. Poczucie bezpieczeństwa to skarb, który na Wyspach Północy jest trudniejszy do zdobycia niż złoto czy diamenty!
+<366><bs_n1>Najlepszą rzeczą, jaką udało nam się znaleźć podczas naszych podróży, jest zaczarowany stół. Dzięki niemu wszelkiego rodzaju potrawy powstają same z siebie - wszystko jest świeże, gorące i całkowicie darmowe. Po dobrym posiłku człowiek czuje się ożywiony, odświeżony i gotowy na wszelkie przygody. Co najlepsze, przy tym stole przez lata jadali kultyści Nahyndriego, więc teraz stał się on chyba jego świętą relikwią. Po prostu usiądź przy stole, wznieś kielich za zdrowie starca - a przekonasz się, że całe demoniczne zepsucie, którego nabawiłeś się podczas swoich podróży, zniknie!
+<367><bs_n1>Whoa! To jest ichor, który tam masz!<bs_n1> {n}Esilla bada fiolkę w twoich rękach z szacunkiem, ale nie próbuje jej dotknąć.{/n}<bs_n1>Wiesz, że na tych wyspach, między którymi płyniemy, znajdują się szczątki władców demonów, prawda? Są oni od dawna martwi, ale czasem krwawią. To stąd pochodzi ta substancja<bs_n1>.
+<368><bs_n1>Odłóż to! Schowaj to i nigdy więcej nikomu tego nie pokazuj!<bs_n1> {n}Zdenerwowana Esilla odsuwa się od ciebie i zwoju w twoich rękach.{/n}<bs_n1>Ten zwój jest przeklęty. Oczywiście, możesz go przeczytać - mówi się, że takie zwoje zawierają ogromną moc, ale cena, jaką trzeba za nie zapłacić, jest zupełnie inna. Ale nie próbuj nawet próbować go wyładować. Przy takiej ilości magii wystarczy, że demon zadrży<bs_n1>.
+<369><bs_n1>To by było na tyle, jak sądzę. Myślisz, że sam mógłbyś wyłowić coś wyjątkowego?
+<370><bs_n1>Przedstaw mnie poszukiwaczom skarbów, którzy szukają załogi.<bs_n1>
+<371><bs_n1>W mgnieniu oka.<bs_n1>
+<372><bs_n1>W takim razie macie szczęście! Mam tu kilku takich poszukiwaczy skarbów, którzy szukają odpowiedniego towarzystwa. Zapłacili mi już za znalezienie im załogi, więc nie wezmę za nich żadnej opłaty.<bs_n1>
+<373><bs_n1>Kim jesteś?<bs_n1>
+<374><bs_n1>Jeśli dam ci złoto, co możesz zaoferować w zamian?<bs_n1>
+<375><bs_n1>Muszę iść.<bs_n1>
+<376><bs_n1>Co wiesz o celu tej podróży?<bs_n1>
+<377><bs_n1>Mam złoto. Teraz pokaż mi, co masz.<bs_n1>
+<378><bs_n1>Ty jesteś Nahyndri? Zarówno Sternik, jak i cień w łańcuchu twierdzą, że są Nahyndri.<bs_n1>
+<379><bs_n1>Masz złoto?<bs_n1> {n}Zębata klatka piersiowa wpatruje się w ciebie wygłodniałymi oczami.{/n}<bs_n1>Daj mi złoto. Chcę złota!<bs_n1>
+<380><bs_n1>Czy musisz prosić o coś w zamian? Dobrze, dobrze... Mój skarbiec zawierał wiele magicznych drobiazgów. Nadal są moje, więc mogę je tu przywołać i sprzedać tobie. Zapłacisz każdą cenę, aby tylko zdobyć moje drobiazgi, prawda? Tak, zapłacisz, widzę to w twoich oczach! Gdybym tylko mógł sobie przypomnieć, co tam miałem... Powiem ci coś: badaj dalej wyspy, a ja w międzyczasie może przypomnę sobie coś lub dwa z mojej kolekcji.
+<381><bs_n1>Wróć wkrótce. Ze złotem!<bs_n1>
+<382><bs_n1>Jeden z nich to kupka suchych kości, drugi to zbiór pustych westchnień. Nawet nie zauważyłem ich nieobecności. Nie, to ja, ja jestem jedynym prawdziwym Nahyndri! Jego nieustająca, płonąca pasja do bogactwa!<bs_n1>
+<383><bs_n1>Szukamy złota. Tak wiele złota!<bs_n1>
+<384><bs_n1>Jestem Nahyndri!<bs_n1> {n}Szczęka skrzyni wykrzywia się w wyniosłym grymasie.{/n}<bs_n1>Kiedyś byłem największym, najmądrzejszym i najbogatszym ze wszystkich władców demonów. Od tego czasu wiele się zmieniło, wiele części dawnego Nahyndri uschło lub całkowicie umarło. Ale jego rdzeń pozostał nienaruszony. Jestem klejnotem w koronie jego duszy, źródłem jego mocy, filarem jego cnót... bo jestem jego bezgraniczną chciwością.<bs_n1>
+<385><bs_n1>Kim jesteś?<bs_n1>
+<386>[<bs_n1>Jeśli chcesz się wydostać z tej wyspy, może będę miał dla ciebie miejsce w mojej grupie.<bs_n1>
+<387>[Kontynuuj spacer]
+<388>{n}Pod brudnym strzępem żagla ledwo można dostrzec zarys ciała. Wygląda na to, że ten marynarz przeżył katastrofę statku i dotarł na tę opustoszałą wyspę.{/n}
+<389>{n} Marynarz patrzy na Ciebie - wyraźnie wyczerpany, ale wciąż przytomny, ręką instynktownie sięga po pobliską broń, którą wbrew wszystkiemu udało mu się zachować. Widać, że jest to doświadczony poszukiwacz przygód - taki, który nie byłby ciężarem, gdybyś zaprosił go do swojej grupy.{/n}
+<390> 
+<391> 
+<392> 
+<393> 
+<394> 
+<395> 
+<396> 
+<397> 
+<398> 
+<399> 
+<400> 
+<401> 
+<402> 
+<403> 
+<404> 
+<405> 
+<406> 
+<407>Nieznana zamaskowana postać kazała dowódc{mf|y|zyni} udać się do miejsca zwanego Sercem Tajemnicy, obiecując, że <bs_n1>sekrety Stworzenia<bs_n1> zostaną tam ujawnione. Czy to pułapka? Czyjś głupi żart? A może naprawdę kryje się tam coś wartościowego?
+<408>Porozmawiaj z Wędkarzem, aby zwerbować postacie do swojej drużyny.
+<409>Zbieranie stronnictwa
+<410>Gang piratów został rozbity, ich baza splądrowana, a ich bogactwo trafiło na pokład bezimiennego statku z kości i kości. Nie jest to największy łup na Midnight Isles - ale łupy z tej bitwy z pewnością przydadzą się poszukiwaczom skarbów w przyszłości.
+<411>Gdziekolwiek pojawia się okazja do czerpania zysków z cudzego mienia, piraci z pewnością za nią podążą. Wyspy Północy nie są wyjątkiem od tego schematu - wielu łotrów wszelkiego rodzaju grasuje po ciemnych i bezprawnych wodach Ishiaru. Ich skrzynie pełne są nieuczciwie zdobytych fortun - ale kto znajdzie w sobie odwagę, by ograbić grabieżców?
+<412>Piraci z Otchłani
+<413>Fragment pirackiej mapy daje wskazówkę co do lokalizacji bazy piratów - wyspy, z której wyruszają na swoje wyprawy i gdzie porzucają swoje łupy. Ale odnalezienie jej będzie wymagało więcej niż jednego kawałka.
+<414>Zbierz 5 kawałków mapy
+<415>Mapa do bazy piratów jest kompletna. Ale wiedza o tym, gdzie leży cel, to nie to samo, co dotarcie do niego.
+<416>Dotrzyj do bazy piratów
+<417>Rozpoczął się szturm na bazę piratów. Kto zdobędzie najwięcej punktów? Zadecydują miecze.
+<418>Pokonaj przywódcę piratów

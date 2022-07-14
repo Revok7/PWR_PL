@@ -1,0 +1,624 @@
+<4>Wiatr w ogon Hardy
+<5>Wiatr Ogoniastych Strzał
+<6>Jako boski zaklinacz złego boga dajesz premię do ataku profanum każdemu towarzyszowi, którego dotkniesz swoimi czarami. Bonus jest równy poziomowi zaklęcia. Czas działania tego bomusa wynosi 2 rundy.
+<7>Błogosławieństwo Bluźnierstwa
+<8>Każdy boski czarodziej w twojej grupie otrzymuje błogosławieństwo, które zależy od charakteru jego bóstwa.<br>Wyznawcy neutralnego bóstwa dają premię do szczęścia przy rzutach ratunkowych<br>Wyznawcy dobrego boga dają premię do sakralnej siły przetrwania do Klasy Pancerza (KP).
+<9>Wiatr Ogonowy Pobożnych
+<10>Jako boski zaklinacz dobrego boga przyznajesz świętą premię do Klasy Pancerza (KP) każdemu towarzyszowi, którego dotkniesz swoimi czarami. Bonus jest równy poziomowi zaklęcia. Czas działania tej premii wynosi 2 rundy.
+<11>Błogosławieństwo Świętości
+<12>Jako boski zaklinacz neutralnego boga, dajesz premię do szczęścia przy rzutach ratunkowych każdemu towarzyszowi, którego dotkniesz swoimi czarami. Bonus jest równy poziomowi zaklęcia. Czas trwania tej premii wynosi 2 rundy.
+<13>Błogosławieństwo Wstrzemięźliwości
+<14>Żrący Wiatr w Ogon
+<15>Lodowaty Wiatr w Ogon
+<16>Iskrzący Wiatr Ogonowy
+<17>Rozdzierający Wiatr Ogonowy
+<18>Wyjący wiatr
+<19>Elfia zwinność Wiatr ogonowy
+<20>Kapryśny Wiatr Ogonowy
+<21>Magiczne ataki obszarowe nie zadają obrażeń twoim kolegom z drużyny. Daje im także odporność na magię, której użyłeś, atakując ich swoim atakiem obszarowym.
+<22>Wiatr w Spaloną Ziemię (Scorched Earth Tailwind)
+<23> 
+<24>Wiatr na gnomią fortunę
+<25>Wiatr ogonowy Dobrego Polowania
+<26>Każdy kinetyk zyskuje rykoszet do swoich ataków kinetycznych.
+<27>Odbijający się ogon
+<28>Lisia Zręczność Wiatr Ogonowy
+<29>Święty Wiatr Ogonowy
+<30>Kiedy twoje zaklęcie dotknie cel, na który działa już magia przeciwnej szkoły, wywołuje eksplozję, która zadaje celowi 3 D6 obrażeń od siły na poziom zaklęcia.
+<31>Wiatr Ogonowy Sprzeczności
+<32>Wiatr Ogonowy Soczewek
+<33>Każda postać z archotypami Arcane Enforcer, Armored Battlelemage i Vivisectionist w twojej grupie otrzymuje redukcję obrażeń o +1 na poziom.
+<34>Nieprzepuszczalny Wiatr Ogonowy
+<35>Osłaniający Wiatr Ogonowy
+<36>Wiatr rozbijający ogon
+<37>Tnący Wiatr Ogonowy
+<38>Wiatr ogonowy mieczy zaklęć
+<39>Skrzydła Krwi
+<40>Wiatr ogonowy stada
+<41>Wiatr ogonowy pięści
+<42>Pożeracz Magii
+<43>Pożeracz Magii
+<44> 
+<45>Podmuch magii
+<46>Pożeracz magii
+<47>Ire Piratów
+<48>Ire piratów
+<49>Atak Chaosu
+<50>Czarna Plama
+<51>Besmarytowe podmuchy
+<52>Szalejący podmuch
+<53>Podmuch żywiołu powietrza
+<54>Podmuch żywiołu ziemi
+<55>Undertow żywiołu Igneous
+<56>Undertow Szalejący żywioł
+<57>Undertow żywiołu wodnego
+<58>Gigantyczny Undertow
+<59>Gigantyczne podciśnienie
+<60>Średni wiek
+<61>Stary Wiek
+<62>Czcigodny wiek
+<63>Kołysanie czasu
+<64>Zakłócenie czasu lotu
+<65>Moc iluzji
+<66>Podmuch iluzji
+<67>Iluzja
+<68>Zniewalacz Umysłu
+<69>Zniewolony Umysł
+<70> 
+<71> 
+<72>Wir negatywnej energii
+<73>Potęga Sepulkralna
+<74>Podmuch zwłok
+<75>Podmuch psychotyczny
+<76>Czysty umysł
+<77> 
+<78> 
+<79>Kanibalistyczny szał
+<80>Anemia
+<81>Septyczny dotyk
+<82>Płonące powietrze
+<83>Nienaturalne ciepło
+<84> 
+<85> 
+<86>Podmuch Dzikiej Magii
+<87> 
+<88> 
+<89>Wraz z upływem czasu twoje postacie stają się zmęczone i działają mniej efektywnie. Widać to po ikonach stanu<bs_n1>zmęczenia<bs_n1>i<bs_n1>wyczerpania<bs_n1>na ich portretach. Dlatego właśnie potrzebują regularnego {g|Encyclopedia:Rest}odpoczynku{/g}.<br>Aby uzupełnić swoje siły, rozbij obóz i odpocznij. Rozbij obóz za pomocą funkcji {ui|Restcamp} (klawisz skrótu <b>[{bind|OpenRestCamp}]</b>). Po włączeniu funkcji będziesz musiał wybrać miejsce na obóz.<br>Obozy zajmują dużo miejsca, więc znajdź odpowiednią lokalizację.<br>Podczas odpoczynku wszystkie postacie przywracają część utraconych {g|Encyclopedia:HP}punktów życia{/g}. {g|Encyclopedia:Spell}Czarodzieje{/g} również uzupełniają swoje zaklęcia.<br>Odpoczynek pomaga również pozbyć się niektórych negatywnych warunków. Odpoczynek trwa co najmniej 8 godzin.
+<90>Użytkownik tego amuletu otrzymuje premię z kompetencji +3 w testach na Inicjatywę. Ponadto amulet ten daje użytkownikowi niewrażliwość na Zamęt.
+<91>Amulet świadomości bojowej
+<92>Skórzana zbroja +4 zwiększa prędkość podstawową użytkownika o 20 stóp i daje premię +4 do wyniku Zręczności oraz niewrażliwość na obrażenia od ognia.
+<93>Skóra Demona
+<94>Ta skórzana zbroja wykonana jest z ludzkiej skóry pokrytej demoniczną magią, która chroni ją przed gniciem.
+<95>Jeśli użytkownik tej szaty jest czarującym, to daje ona +3 do poziomu rzucającego, premię z kompetencji +5 do Magicznej Penetracji i premię +6 do Inteligencji, Mądrości, Charyzmy, dodatkowo KT wszystkich zaklęć użytkownika zwiększa się o 1.
+<96>Szata Sinmaga
+<97>Po założeniu tej adamantowej pełnej płyty o odporności na energię +2, jej użytkownik jest odporny na potknięcia i napaści byków.
+<98>Ta pełna płyta adamantowa o odporności energetycznej +2 daje użytkownikowi odporność na potknięcia i napaści.
+<99>Standhard
+<100>Standhard
+<101>Osoba nosząca te buty może ignorować trudny teren. Kiedy trudny teren jest ignorowany w ten sposób, użytkownik zyskuje premię 10 stóp do prędkości ruchu. Buty dają także użytkownikowi premię z zaklinania +4 do zręczności.
+<102>BUTY PODWÓRKA
+<103> 
+<104>Osoba nosząca te buty zyskuje premię z morale +2 do rzutów obronnych na Wolę. Ponadto raz dziennie może rzucić <bs_n1>Większe Bohaterstwo<bs_n1> jak 15-poziomowy rzucający.
+<105>Karwasze Waleczności
+<106>Ta świetnie wykonana szata daje użytkownikowi premię +5 do odporności na rzuty ratunkowe oraz ognistą aurę, która zadaje wrogom 2d8 obrażeń od ognia w rundzie. Zasięg aury immolacji wynosi 10 stóp.
+<107>Płaszcz Blasku
+<108>Osoba nosząca tę pelerynę ma premię do wszystkich rzutów ratunkowych równą premii do charyzmy. Jeśli jest pod wpływem Obiecującego Zwierciadła, zadaje także dodatkowe obrażenia do każdego ataku bronią, równe jego punktowi Charyzmy.
+<109>Płaszcz słodkiej mowy
+<110>Ta peleryna odporności +5 roztacza wokół noszącego aurę o zasięgu 60 stóp, która sprawia, że wszyscy dotknięci nią wrogowie zdadzą {g|Encyclopedia:Saving_Throw}rzut na test woli{/g} ({g|Encyclopedia:DC}KT{/g} 33) lub przestraszą się na 1 minutę. Jeśli rzut ratujący zakończył się sukcesem, przeciwnik jest wstrząśnięty przez 5 {g|Encyclopedia:Combat_Round}rund{/g}. Wrogowie mogą zostać dotknięci tą aurą tylko raz. Ponadto aura ta daje wszystkim nieumarłym sojusznikom +4 okoliczność {g|Encyclopedia:Bonus}bonus{/g} do {g|Encyclopedia:Attack}turniejów ataku{/g} przeciwko wrogom będącym pod wpływem efektów strachu i zadaje dodatkowe {g|Encyclopedia:Dice}2d6{/g} precyzyjne {g|Encyclopedia:Damage}obrażenia{/g} przy udanym trafieniu przeciwko takim celom.
+<111>Chirurgiczna precyzja tej rany zadaje 1d6 obrażeń krwotocznych, dopóki cel nie otrzyma magicznego uzdrowienia. Te obrażenia można kumulować.
+<112>Chirurgiczne cięcie
+<113>Kiedy użytkownik tej rękawicy wykona atak krytyczny, cel musi wykonać Fortitude Save lub otrzyma 1d6 obrażeń od krwawienia, które można kumulować. Efekt krwawienia trwa do czasu, aż cel otrzyma magiczne uzdrowienie. KT rzutu na przetrwanie wynosi 10 + poziom użytkownika + premia do mądrości.
+<114>Rękawice chirurgicznej ekstrakcji
+<115>Za każdym razem, gdy użytkownik tego hełmu zabije wroga, otrzymuje premię +2 do morale do ataku przez 3 rundy.
+<116>Hełm gorzkiego końca
+<117>Maska daje użytkownikowi RO 20 do Kwasu, ponieważ został on przez niego uderzony.
+<118>Adaptacja Złamanego Trickstera - odporność na kwas
+<119>Maska Trickstera ukrywa przynależność jej użytkownika
+<120>Ułożenie Złamanego Psotnika
+<121>Noszący tę maskę zyskuje RO 20 do każdego rodzaju obrażeń od walki wręcz lub energii, które zostały mu zadane na jedną rundę.<br>Maska daje jej użytkownikowi odporność na truciznę i +6 do Mądrości i Charyzmy.<br>Nie można też rozpoznać jego przynależności.
+<122>Zepsuty Trickster
+<123>Maska daje noszącemu ją użytkownikowi dr20 do Zimnej Energii, ponieważ został przez nią uderzony.
+<124>Adaptacja Złamanego Psotnika - Odporność na zimno
+<125>Maska daje jej użytkownikowi dr20 do Boskiej Energii, ponieważ została przez niego uderzona.
+<126>Adaptacja Złamanego Trickstera - odporność na boskość
+<127>Maska daje jej użytkownikowi dr20 do Energii Elektrycznej, ponieważ została przez niego uderzona
+<128>Adaptacja Złamanego Trickstera - odporność na elektryczność
+<129>Maska przyznaje jej użytkownikowi dr20 do Energii Ognia, ponieważ została przez niego uderzona
+<130>Adaptacja Złamanego Trickstera - odporność na ogień
+<131>Maska daje jej użytkownikowi dr20 do Świętej Energii, ponieważ została przez niego uderzona
+<132>Adaptacja Złamanego Trickstera - odporność na Świętą Energię
+<133>Maska daje jej użytkownikowi dr20 do Magii, ponieważ została przez niego uderzona
+<134>Adaptacja Złamanego Trickstera - odporność na magię
+<135>Maska daje jej użytkownikowi dr20 do Negatywnej Energii, ponieważ została przez niego uderzona
+<136>Adaptacja Złamanego Trickstera - odporność na negatywną energię
+<137>Maska daje jej użytkownikowi dr20 do obrażeń fizycznych, ponieważ został przez nią uderzony
+<138>Adaptacja Złamanego Trickstera - odporność na obrażenia fizyczne
+<139>Osoba nosząca maskę Złamanego Psotnika jest odporna na truciznę
+<140>Złamany Trickster - odporność na truciznę
+<141>Maska daje jej użytkownikowi dr20 do Pozytywnej Energii, ponieważ został przez nią uderzony
+<142>Adaptacja Złamanego Trickstera - odporność na pozytywną energię
+<143>Maska daje użytkownikowi dr20 na Nieświęconą Energię, ponieważ został przez nią uderzony
+<144>Adaptacja Złamanego Sztukmistrza - odporność na Nieświęte Energie
+<145>Te okulary pozwalają ich użytkownikowi użyć umiejętności Szalony Wzrok trzy razy dziennie.<br>Szalony Wzrok: Jako akcję {g|Encyclopedia:Swift_Action}zmiana{/g} możesz spojrzeć w określonym kierunku. Wszyscy wrogowie w promieniu 50 stóp muszą zdać {g|Encyclopedia:Saving_Throw}rzut ratujący przed wolą{/g} ({g|Encyclopedia:DC}KT{/g} 32) lub otrzymają {g|Encyclopedia:Dice}2d4{/g} {g|Encyclopedia:AbilityDamage}obrażenia od zdolności{/g} do {g|Encyclopedia:Intelligence}Inteligencji{/g} (nie działa na istoty o Inteligencji niższej niż 3) i staną się zdezorientowani na 1d4 {g|Encyclopedia:Combat_Round}okręgów{/g}.
+<146>Ten pierścień daje użytkownikowi premię +2 do defleksji do Klasy Pancerza (KP). Wszystkie premie do morale, które otrzymujesz, są podwajane.
+<147>Pierścień natychmiastowego triumfu
+<148>Ten pierścień daje noszącemu +12 premii do kompetencji {g|Encyclopedia:Bonus}bonus{/g} do {g|Encyclopedia:Knowledge_Arcana}Wiedzy (arkana){/g} {g|Encyclopedia:Skills}kontroli umiejętności{/g} i +5 premii do {g|Encyclopedia:Check}kontroli{/g} do tworzenia eliksirów lub zwojów.
+<149>Ta ciężka tarcza +2 daje posiadaczowi odporność na stan obolałości. Jeśli jest używana z toporem bojowym strażnika, zapewnia jeden dodatkowy atak szansy na rundę.
+<150>Tarcza Strażnika
+<151>Zjedzenie ulubionego dania daje {g|Encyclopedia:Bonus}premię{/g} +1 do {g|Encyclopedia:Attack}ataku{/g} i premię +2 do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g}.
+<152>Właściciel tego kołczanu może za jego pomocą wystrzelić 20 jednostek amunicji dziennie. Za każdym razem, gdy posiadacz tej amunicji trafi po raz pierwszy nowego wroga, musi on zdać {g|Encyclopedia:Saving_Throw}rzut na test woli{/g} ({g|Encyclopedia:DC}KT{/g} 32) albo otrzyma {g|Encyclopedia:Dice}2d4{/g} {g|Encyclopedia:AbilityDamage}obrażenia od zdolności{/g} do {g|Encyclopedia:Intelligence}Inteligencji{/g} (nie działa na istoty o Inteligencji niższej niż 3) i będzie zdezorientowany przez 3 {g|Encyclopedia:Combat_Round}rund{/g}.
+<153>Ta magiczna różdżka jest większą metamagiczną różdżką i jest wykonana z czystego złota. Może być użyta do przyznania jednego z poniższych efektów metamagicznych bez zwiększania poziomu zaklęcia.<br>Efekty to: Wzmocnienie, Poszerzenie, Naładowanie, Maksymalizacja
+<154>Ta większa laska metamagiczna może być użyta do przyznania jednego z poniższych efektów metamagicznych bez zwiększania poziomu zaklęcia: Wzmocnienie, Zwiększenie, Naładowanie, Maksymalizacja
+<155>Różdżka magicznej więzi
+<156>Różdżka magicznej więzi
+<157>Ta waga pozwala przywrócić życie zmarłemu członkowi grupy. Podniesiona istota posiada liczbę {g|Encyclopedia:HP}punktów obrażeń{/g} równą jej aktualnemu KW. Zdolność ta usuwa również warunek drzwi {g|Encyclopedia:Injury_Death}śmierci{/g}.<br>Powrót z martwych to męka. Podmiot tej umiejętności zyskuje dwa stałe poziomy ujemne, gdy zostaje wskrzeszony, tak jakby został trafiony przez istotę wysysającą energię, choć nie może w ten sposób zyskać liczby poziomów ujemnych równej lub większej niż jego całkowita {g|Encyclopedia:Hit_Dice}Kość Trafienia{/g}.<br>Tworzenie, którego stałe poziomy ujemne są już równe jego Kości Trafienia, nie może zostać przywrócone do życia przez wskrzeszenie.
+<158>Gdy sztandar ten jest przypięty do pasa, daje premię morale +2 do wszystkich ataków i obrażeń zadawanych przez sojuszników nosiciela.<br>Podczas noszenia go przez kleryka Chaosu sztandar ten daje odporność na strach i premię morale +5 do wszystkich efektów wpływających na umysł użytkownika.
+<159>Sztandar Besmary
+<160>Sztandar ten jest zawsze niesiony na bitwę przez kapelanów Besmary.
+<161>Raz dziennie właściciel tego srebrnego lustra może spojrzeć na nie i zyskać premię do ataku i Klasy Pancerza (KP) równą premii z charyzmy właściciela na 1 godzinę. Jeśli właściciel ma na sobie płaszcz słodkiej mowy, lustro uzdrawia użytkownika na 4d8+15pw.
+<162>Obiecujące Zwierciadło
+<163>Niszczyciel Piękna rozbija każdą zbroję, w którą uderzy, za co ponosi się karę -1 do Klasy Pancerza (KP).
+<164>Rozbita zbroja
+<165>Ta glewia z adamantu +2 przyznaje dodatkowe obrażenia przeciwko złym stworzeniom. Za każdym razem, gdy trafi w przeciwnika, rozbija jego zbroję o -1 do Klasy Pancerza (KP) (efekt można łączyć, minimalna wartość Klasy Pancerza (KP) przeciwnika wynosi 10).<br>Nosiciel otrzymuje karę -6 do charyzmy, a każde uderzenie tą glewią zadaje k6 obrażeń przeciwnikowi.
+<166>Łamacz Piękna
+<167>Za każdym razem, gdy ta +5 Szybka Kosa trafia cielesnego przeciwnika, zadaje dodatkowe 2d6 obrażeń precyzyjnych. Jeśli trafi krytycznie, cel musi wykonać test na wytrzymałość (Fortitude save) lub zostanie sparaliżowany na 3 rundy. KT tego testu wynosi 10 + modyfikator mądrości + poziom postaci.
+<168>Bonesnatcher
+<169>Za każdym razem, gdy ten +4 Furyborn Greataxe grozi trafieniem krytycznym przeciwko średniej wielkości stworzeniu, zostaje ono automatycznie potwierdzone.
+<170>Topór Rzeźnika
+<171>Za każdym razem, gdy ta +2 Falcata z Zimnego Żelaza zostanie użyta do uderzenia demona, zyskuje premię +2 do ataku i zadaje dodatkowe 2d6 obrażeń od cięcia.
+<172>Falcata Zguby Demonów
+<173>Ta ciężka kusza +3 wystrzeliwuje dwa bełty naraz i jeśli oba trafią, cel musi wykonać rzut obronny na Wytrwałość albo otrzyma dodatkowe 2d6 obrażeń od zimna i będzie zataczająć się przez 1 rundę.
+<174>Evercold
+<175>Ten adamantynowy topór bojowy ma premię +2 do umiejętności przy atakach z zaskoczenia. Jeśli jest używany z Tarczą Strażnika, zadaje dodatkowo 2d6 obrażeń od cięcia, jeśli zostanie użyty do ataku przy nadarzającej się okazji.
+<176>Topór strażnika
+<177>Kiedy ten sztylet o mocy +3 Ghosttouch Punching zostanie użyty do ataku skradania, zadaje dodatkowe 2d6 obrażeń od przebicia.
+<178>Jabstabber
+<179>Jeśli Mnich użyje tego Nunczako Poszukiwacza Serc +4, daje ono dodatkowe 3 punkty Ki w czasie odpoczynku i premię +5 do Obrony przed Manewrami Bojowymi (OMB).
+<180>Kapao
+<181>Posiadacz tego worpalnego, adamantowego greataxe (+5) może użyć akcji standardowej, aby wykonać atak dystansowy, który zadaje takie same obrażenia, jakby był atakiem w walce wręcz.
+<182>Rozszczepiony
+<183>Ten magiczny topór może tworzyć swoje małe kopie, które można wykorzystać do rzucenia nimi we wroga.
+<184>Za każdym razem, gdy użytkownik tego kostura +2 użyje zaklęcia Przywołanie Bestii, daje on premię +6 do siły, zręczności i kondycji wszystkim przyzywanym stworzeniom.
+<185>Kostur Potężnych Przywołań
+<186>W tym trybie dostępny jest tylko jeden slot zapisu. Gra zapisuje się automatycznie w kluczowych momentach oraz po wyjściu z gry.
+<187>Jeśli włączysz tę opcję, doświadczenie będą zdobywać tylko ci towarzysze, którzy aktualnie znajdują się w twojej drużynie. Jeśli jest ich mniej niż sześciu, każdy z nich otrzyma zwiększoną ilość doświadczenia.<br>Wyłącz tę opcję, aby wszyscy towarzysze zdobywali doświadczenie, nawet jeśli nie są w Twojej aktualnej grupie.
+<188>Określa czas opóźnienia przed wyświetleniem etykietek narzędzi dla wyposażonych przedmiotów po pojawieniu się etykietki przedmiotu.
+<189>Tryb pracy okna gry w systemie operacyjnym.<br>Wyłączny pełny ekran - wyłączny tryb pełnoekranowy. W tym trybie szybkość renderowania jest maksymalna, ale uważaj, tryb ten jest niestabilny, a szczególnie źle działa na dwóch monitorach.<br>Okno pełnoekranowe bez obramowania - klasyczny tryb pełnoekranowy<br>W oknie - tryb okienkowy
+<190>Podwójna głośność
+<191>Zwiększa wszystkie głosy dwukrotnie
+<192>Głośność dialogów
+<193>Przesuń suwak, aby zmienić głośność dialogów.
+<194>Nienauczone
+<195>Waga jednego elementu (w kolejności rosnącej)
+<196>Waga jednego elementu (w kolejności malejącej)
+<197>Wyczyść
+<198>Przesuń
+<199>Użyj automatycznie
+<200>Ranga mityczna
+<201>Przesuń kamerę
+<202>Obracaj kamerę
+<203>Ranga mityczna
+<204>Demon przyjmuje aspekt Vrolikai, zyskując Szybkie {g|Encyclopedia:Healing}Uzdrowienie{/g} równe połowie mitycznej rangi demona plus jeden. <br>Podczas szaleństwa aspekt Vrolikai sprawia, że wszystkie {g|Encyclopedia:MeleeAttack}ataki szkieletowe{/g} i {g|Encyclopedia:Spell}zaklęcia{/g} demona mają jeden ujemny poziom na wrogów, którzy nie zdadzą {g|Encyclopedia:Saving_Throw}rzutu na test woli{/g} ({g|Encyclopedia:DC}KT{/g}=10 + połowa twojego poziomu postaci + twoja ranga mityczna + maksymalny modyfikator umiejętności).
+<205>Uwięzisz cel w litym lodzie. Jeśli stworzenie nie zda swojego {g|Encyclopedia:Saving_Throw}save{/g}, zostaje sparaliżowane, jeśli cel zda swój save, zyskuje stan oplątania, ale poza tym może działać normalnie. Niezależnie od tego, czy cel się uratuje, czy nie, otrzymuje 1 punkt {g|Encyclopedia:Energy_Damage}obrażeń od zimna{/g} na {g|Encyclopedia:Caster_Level}poziom mistrza{/g} za każdą {g|Encyclopedia:Combat_Round}rundę{/g}, w której jest sparaliżowany lub zaplątany w lód. Stworzenie może przełamać lód udanym rzutem na Fortitude przeciwko normalnemu KT zaklęcia w każdej rundzie po otrzymaniu efektu.
+<206>Ta pułapka może leczyć rany.
+<207>Uzdrawiająca pułapka
+<208>Wyposażyłeś {t|SourceItem} w zbroję {t|SourceUnit}. Ogranicza ona ich {g|Encyclopedia:Dexterity}Zręczność{/g} {g|Encyclopedia:Bonus}bonus{/g} do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g} do {t|Value1}. Bez pancerza ta premia wynosiłaby ({t|Value2}).
+<209>{g|Encyclopedia:Cantrips_Orisons}Kantry{/g} i orisony to specjalny rodzaj {g|Encyclopedia:Spell}zaklęć{/g}, które można rzucać nieskończoną ilość razy dziennie. Przykładami takich zaklęć są Rozbryzg Kwasu i Promień Mrozu.<br>Jeśli wybierzesz jedno z tych zaklęć, otwórz menu kontekstowe, wybierz<bs_n1>Użyj Automatycznie<bs_n1>, a zaklęcie przejdzie do Gniazda Aktywnego. Postać automatycznie użyje go zamiast swojej wyposażonej broni, gdy {g|Encyclopedia:Attack}atakuje{/g}.
+<210>{g|Encyclopedia:Cantrips_Orisons}Kantry{/g} i orisony to specjalny rodzaj {g|Encyclopedia:Spell}zaklęć{/g}, które można rzucać nieskończoną ilość razy dziennie. Przykładami takich zaklęć są Rozprysk Kwasu i Promień Mrozu.<br>Jeśli klikniesz RMB na takim zaklęciu, przejdzie ono do Gniazda Aktywnego, a postać automatycznie użyje go zamiast swojej broni, gdy {g|Encyclopedia:Attack}atakuje{/g}.
+<211>W swoim ekwipunku masz przedmiot {t|SolutionItem}, który jest znacznie lepszy niż przedmiot {t|SourceItem} który {t|SourceUnit}, ma na wyposażeniu.
+<212>Aby użyć różdżki, przeciągnij ją z inwentarza do jednego z gniazd na pasie {t|SolutionUnit}. Następnie na pasku {g|Encyclopedia:Spell}zaklęć{/g} otwórz menu kontekstowe, wybierz<bs_n1>Przedmioty możliwe do użycia<bs_n1>, zaznacz różdżkę i użyj jej.
+<213>Aby użyć różdżki, przeciągnij ją z inwentarza do jednego z gniazd na pasku {t|SolutionUnit}. Następnie na pasku {g|Encyclopedia:Spell}zaklęć{/g} otwórz pasek na pasku i użyj różdżki z niego.
+<214>Zdobyłeś różdżkę {t|SourceItem}. {t|SolutionUnit} może jej używać.
+<215>Znalazłeś nową recepturę. Aby się go nauczyć, kliknij go prawym przyciskiem myszy w swoim ekwipunku i wybierz opcję<bs_n1>Zapamiętaj<bs_n1>. Różne przepisy wymagają różnych składników, a ugotowane potrawy dają unikalne {g|Encyclopedia:Bonus}bonusy{/g}.
+<216>Znalazłeś nowy przepis. Aby się go nauczyć, zaznacz go w ekwipunku, otwórz menu kontekstowe i wybierz opcję<bs_n1>Kopiuj przepis<bs_n1>. Różne przepisy wymagają różnych składników, a ugotowane potrawy dają unikalne {g|Encyclopedia:Bonus}bonusy{/g}.
+<217>Masz w swoim posiadaniu zwój {t|SourceItem}, ale nikt z twojej drużyny nie potrafi go przeczytać, aby rzucić {g|Encyclopedia:Spell}zaklęcie{/g}.
+<218>Aby nauczyć się {g|Encyclopedia:Spell}zaklęcia{/g} ze zwoju, otwórz ekran ekwipunku postaci, która będzie się go uczyć, zaznacz zwój, otwórz menu kontekstowe i wybierz<bs_n1>Kopiuj do księgi zaklęć<bs_n1>.
+<219>Zdobyłeś zwój {t|SourceItem}. {t|SolutionUnit} może nauczyć się z niego {g|Encyclopedia:Spell}zaklęcia{/g} i dodać je do swojej księgi zaklęć. Spowoduje to zniszczenie zwoju.
+<220>Aby użyć zwoju, przeciągnij go z inwentarza do jednego z gniazd na pasie {t|SolutionUnit}. Następnie na pasku {g|Encyclopedia:Spell}zaklęć{/g} otwórz menu kontekstowe, wybierz<bs_n1>Przedmioty możliwe do użycia<bs_n1>i użyj zwoju. Po użyciu zwój znika.
+<221>Aby użyć zwoju, przeciągnij go z inwentarza do jednego z gniazd na pasku {t|SolutionUnit}. Następnie na pasku {g|Encyclopedia:Spell}zaklęć{/g} otwórz pasek na pasku i użyj zwoju. Po użyciu zwoju, znika on.
+<222>Masz zwój {t|SourceItem}. {t|SolutionUnit} może go przeczytać, aby {g|Encyclopedia:Healing}uzdrowić{/g} rannego sojusznika {t|SourceUnit}.
+<223>{t|TargetUnit} omijają go pozytywne efekty twoich {g|Encyclopedia:Spell}zaklęć{/g} z powodu jego {g|Encyclopedia:Spell_Resistance}odporności na zaklęcia{/g}.
+<224>{t|TargetUnit} omijają pozytywne efekty twoich {g|Encyclopedia:Spell}zaklęć{/g} z powodu ich {g|Encyclopedia:Spell_Resistance}odporności na zaklęcia{/g}.
+<225>Twój towarzysz {t|SourceUnit} posiada zdolność {t|SolutionAbility}. Aby jej użyć:<br>1. Naciśnij <b>{console_bind|LeftBottom}</b> i wybierz towarzysza {t|SourceUnit}.<br>2. Wybierz {t|SolutionAbility} na pasku akcji i naciśnij <b>{console_bind|Confirm}</b>.<br>3. Najedź kursorem na towarzysza {t|SourceUnit} i naciśnij <b>{console_bind|Confirm}</b>, aby {g|Encyclopedia:Healing}uzdrowić{/g} go.<br>Uzdrowienie przywraca utracone {g|Encyclopedia:HP}punkty obrażeń{/g}.
+<226>Niektóre obiekty interaktywne nie są łatwe do znalezienia. Podczas przechodzenia obok takiego obiektu każda postać automatycznie wykonuje {g|Encyclopedia:Perception}spostrzegawczość{/g} {g|Encyclopedia:Skills}sprawdzenie umiejętności{/g}.<br>Jeśli {g|Encyclopedia:Check}sprawdzenie{/g} się powiedzie, obiekt zostaje znaleziony i podświetlony, aby zwrócić na niego uwagę. Możesz teraz wejść z nim w interakcję.<br>{br}Interaktywne obiekty są podświetlane, gdy Twoja postać znajduje się w pobliżu, po naciśnięciu klawisza <b>{console_bind|LeftStickButton}</b> lub po najechaniu kursorem na obiekt.
+<227>Niektóre obiekty interaktywne nie są łatwe do znalezienia. Podczas przechodzenia obok takiego obiektu każda postać automatycznie wykonuje {g|Encyclopedia:Perception}spostrzegawczość{/g} {g|Encyclopedia:Skills}sprawdzenie umiejętności{/g}.<br>Jeśli {g|Encyclopedia:Check}sprawdzenie{/g} się powiedzie, obiekt zostaje znaleziony i podświetlony, aby zwrócić na niego Twoją uwagę. Możesz teraz wejść z nim w interakcję.<br>{br}Obiekty interaktywne są podświetlane, gdy najedziesz na nie myszą lub naciśniesz klawisz <b>[{bind|HighlightObjects}]</b>.
+<228>Czasami interakcja z obiektem wymaga {g|Encyclopedia:Skills}sprawdzenia umiejętności{/g}.<br>Pomyślne {g|Encyclopedia:Check}sprawdzenie umiejętności{/g} może być konieczne do wykonania różnych zadań, takich jak pokonanie przeszkody, wyważenie zamka w drzwiach lub skrzyni, rozbrojenie pułapki, przeniesienie czegoś ciężkiego, odczytanie napisu w starożytnym języku i wiele innych.<br>{br}Różne zadania wymagają różnych umiejętności. Czynność zostanie wykonana przez postać z najwyższą umiejętnością {g|Encyclopedia:Bonus}bonus{/g}.
+<229>Czasami interakcja z przedmiotem wymaga sprawdzenia {g|Encyclopedia:Skills}umiejętności{/g}.<br>Pomyślne sprawdzenie {g|Encyclopedia:Check}umiejętności{/g} może być konieczne do wykonania różnych zadań: pokonania przeszkody, wyważenia zamka w drzwiach lub skrzyni, rozbrojenia pułapki, przeniesienia czegoś ciężkiego, odczytania napisu w starożytnym języku i wielu innych.<br>{br}Różne zadania wymagają różnych umiejętności. Jeśli masz jednocześnie wybranych kilka postaci, {g|Encyclopedia:CA_Types}akcja{/g} zostanie wykonana przez postać z najwyższą umiejętnością {g|Encyclopedia:Bonus}bonus{/g}, dlatego przed przystąpieniem do sprawdzania powinieneś wybrać całą partię.
+<230>Każde zdarzenie jest dokumentowane w dzienniku walki w prawym dolnym rogu ekranu. Możesz otworzyć dziennik walki, naciskając klawisz <b>{console_bind|DPadRight}</b>.<br>Możesz tam zobaczyć wyniki {g|Encyclopedia:Dice}rolli{/g}wykonywanych przez Twoje postacie i przeciwników, {g|Encyclopedia:Skills}sprawdzania umiejętności{/g}i wielu innych rzeczy.<br>Jeśli nie jesteś zadowolony z przebiegu walki, sprawdź szczegóły dotyczące zwojów - być może znajdziesz tam informacje, które pomogą Ci zoptymalizować taktykę. Aby posortować wydarzenia w dzienniku walki, użyj <b>{console_bind|LeftUp}</b> i <b>{console_bind|RightUp}</b>.
+<231>Każde zdarzenie jest udokumentowane w dzienniku walki w prawym dolnym rogu ekranu.<br>Możesz tam zobaczyć wyniki {g|Encyclopedia:Dice}rolli{/g}wykonywanych przez Twoje postacie i przeciwników, {g|Encyclopedia:Skills}sprawdzania umiejętności{/g}i wielu innych rzeczy.<br>Jeśli nie jesteś zadowolony z przebiegu walki, sprawdź szczegóły dotyczące rolek - być może znajdziesz tam informacje, które pomogą Ci zoptymalizować taktykę.
+<232>{g|Encyclopedia:Armor_Class}Klasa Pancerza (KP){/g} to statystyka, która określa, jak trudno jest {g|Encyclopedia:Damage}zaszkodzić{/g} istocie, czy to z powodu ciężkiej zbroi, zwinnym unikom, magii ochronnej, czy czemuś innemu.<br>Aby pokonać Klasę Pancerza (KP) i zadać obrażenia celowi, musisz wykonać {g|Encyclopedia:Attack}test ataku{/g} i uzyskać wynik równy lub większy niż Klasa Pancerza (KP) celu. {g|Encyclopedia:Dice}Rzut{/g} niższy niż Klasa Pancerza (KP) celu poskutkuje chybieniem.<br>Podstawowa Klasa Pancerza (KP) każdej istoty wynosi 10. Liczba ta jest modyfikowana przez mnóstwo {g|Encyclopedia:Bonus}premii{/g} i {g|Encyclopedia:Penalty}kar{/g} związanych z posiadaną zbroją, premii z atrybutu {g|Encyclopedia:Dexterity}Zręczność{/g}, zdolności, aktywnych {g|Encyclopedia:Spell}zaklęć{/g} i innych czynników.<br>{br}Na przykład, twój wróg {t|TargetUnit} ma Klasę Pancerza (KP) równą {t|SourceRollDC}. Wynik ten jest wynikiem następujących wartości:<br>{t|SourceRollDCDetails}<br>{br}Aby zobaczyć Klasę Pancerza (KP) i premię do ataku swojej postaci, otwórz {ui|Inventory} lub ekran ekwipunku. Ujrzysz te wartości po prawej stronie ekranu. Jeśli twoja postać ma już przedmiot wyposażony w wybranym slocie, możesz nacisnąć <b>{console_bind|RightStickButton}</b>, aby wyświetlić żądane informacje.
+<233>{g|Encyclopedia:Armor_Class}Klasa Pancerza (KP){/g} to statystyka, która określa, jak trudno jest {g|Encyclopedia:Damage}zaszkodzić{/g} istocie, czy to z powodu ciężkiej zbroi, zwinnym unikom, magii ochronnej, czy czemuś innemu. Aby pokonać Klasę Pancerza (KP) i zadać obrażenia celowi, musisz wykonać {g|Encyclopedia:Attack}test ataku{/g} i uzyskać wynik równy lub większy niż Klasa Pancerza (KP) celu. {g|Encyclopedia:Dice}Rzut{/g} niższy niż Klasa Pancerza (KP) celu poskutkuje chybieniem.<br>Podstawowa Klasa Pancerza (KP) każdej istoty wynosi 10. Liczba ta jest modyfikowana przez mnóstwo {g|Encyclopedia:Bonus}premii{/g} i {g|Encyclopedia:Penalty}kar{/g} związanych z posiadaną zbroją, premii z atrybutu {g|Encyclopedia:Dexterity}Zręczność{/g}, zdolności, aktywnych {g|Encyclopedia:Spell}zaklęć{/g} i innych czynników.<br>{br}Na przykład, twój wróg {t|TargetUnit} ma Klasę Pancerza (KP) równą {t|SourceRollDC}. Wynik ten jest wynikiem następujących wartości:<br>{t|SourceRollDCDetails}<br>{br}Aby zobaczyć Klasę Pancerza (KP) i premię do ataku twojej postaci, wybierz tę postać i otwórz {ui|Inventory}. Ujrzysz te wartości po lewej stronie ekranu.
+<234>Aby opuścić lokację, podejdź do ikony wyjścia i naciśnij klawisz <b>{console_bind|Confirm}</b> lub najedź kursorem na tę ikonę.<br>Aby wyjść, cała Twoja grupa musi znajdować się w pobliżu wyjścia.<br>Przed opuszczeniem lokacji będziesz mógł przejrzeć i zebrać wszystkie znalezione, ale jeszcze nie zabrane łupy.
+<235>Zwycięstwa w walce i inne osiągnięcia dają Twojej postaci {g|Encyclopedia:XP}punkty doświadczenia{/g}. Po zgromadzeniu pewnej ilości doświadczenia Twoja postać zdobędzie poziom.<br>To pozwoli Ci wybrać nową klasę lub podnieść poziom w klasie, którą już posiadasz, wraz z innymi korzyściami, takimi jak zwiększona liczba {g|Encyclopedia:HP}punktów obrażeń{/g}.<br>Aby zdobyć nowy poziom, wybierz swoją postać, naciśnij <b>{console_bind|RightBottom}</b> i wybierz<bs_n1>Poziom<bs_n1>. Możesz też zdobyć nowy poziom, naciskając <b>{console_bind|LeftBottom}</b>, wybierając swoją postać i naciskając <b>{console_bind|RightUp}</b>.
+<236>Zwycięstwa w walkach i inne osiągnięcia dają postaci {g|Encyclopedia:XP}punkty doświadczenia{/g}. Po zgromadzeniu pewnej ilości doświadczenia Twoja postać zyskuje nowy poziom.<br>To pozwala wybrać nową klasę lub podnieść poziom w klasie, którą już posiada, wraz z innymi korzyściami, takimi jak zwiększona liczba {g|Encyclopedia:HP}punktów obrażeń{/g}.
+<237>Użyj <b>{console_bind|LeftStickX}</b>, aby się poruszać. Możesz też poruszać się w trybie kursora. Aby przejść do trybu kursora, naciśnij klawisz <b>{console_bind|DPadLeft}</b> i użyj klawisza <b>{console_bind|Confirm}</b>.
+<238>Mikstura {g|Encyclopedia:Healing}leczenia{/g} lekkich ran to dobry sposób na leczenie się w bitwie.<br>{br}Aby jej użyć, najpierw przenieś ją z inwentarza do gniazda na pasie postaci. Można to zrobić, otwierając ekwipunek, zaznaczając miksturę, otwierając menu kontekstowe i wybierając<bs_n1>Equip<bs_n1>.
+<239>Mikstura {g|Encyclopedia:Healing}leczy{/g} lekkie rany to dobry sposób na wyleczenie się w walce.<br>{br}Aby jej użyć, najpierw przeciągnij ją z inwentarza do slotu na pasie postaci.
+<240>Każdy wróg ma własne, unikalne statystyki i umiejętności. Znajomość mocnych i słabych stron wroga może być kluczowa dla zwycięstwa.<br>Aby włączyć podpowiedzi na temat stworzeń, z którymi walczysz, naciśnij przycisk Wgląd na pasku interfejsu lub klawisz <b>[{bind|Inspect}]</b>. Informacje te powinny być przydatne przy podejmowaniu decyzji taktycznych.
+<241>Każdy wróg ma swoje unikalne statystyki i umiejętności. Znajomość mocnych i słabych stron wroga może być kluczowa dla zwycięstwa.<br>Aby zobaczyć podpowiedzi dotyczące stwora, z którym się mierzysz, najedź kursorem na stwora i naciśnij klawisz <b>{console_bind|DPadDown}</b>. Informacje te powinny być przydatne przy podejmowaniu decyzji taktycznych.
+<242>Każdy wróg ma swoje unikalne statystyki i umiejętności. Znajomość mocnych i słabych stron wroga może okazać się kluczowa dla zwycięstwa.<br>Aby włączyć podpowiedzi na temat stworzeń, z którymi walczysz, naciśnij przycisk Inspect na pasku interfejsu lub klawisz <b>[{bind|Inspect}]</b>. Informacje te powinny być przydatne przy podejmowaniu decyzji taktycznych.
+<243>Czekają nas trudne bitwy. Twoi bohaterowie są zmęczeni i być może skończyły im się {g|Encyclopedia:Spell}zaklęcia{/g}.<br>Aby uzupełnić siły, załóż {g|Encyclopedia:Rest}obóz{/g} i odpocznij.<br>Załóż obóz za pomocą funkcji {ui|Restcamp} - naciśnij <b>{console_bind|RightBottom}</b> i wybierz<bs_n1>Odpoczynek<bs_n1>. Po włączeniu funkcji odpoczynku musisz wybrać miejsce na obóz.<br>Obozowiska wymagają dużo miejsca, więc znajdź dobrą lokalizację.
+<244>Czekają Cię trudne bitwy. Twoi bohaterowie są zmęczeni i być może skończyły im się {g|Encyclopedia:Spell}zaklęcia{/g}.<br>Aby uzupełnić siły, załóż {g|Encyclopedia:Rest}obóz{/g} i odpocznij.<br>Załóż obóz, używając funkcji {ui|Restcamp} (klawisz skrótu <b>[{bind|OpenRestCamp}]</b>). Po włączeniu funkcji odpoczynku musisz wybrać miejsce na obóz.<br>Obozowiska wymagają dużo miejsca, więc znajdź dobrą lokalizację.
+<245>Nocna warta daje Twojej drużynie przewagę w przypadku {g|Encyclopedia:Surprise}niespodzianki{/g} {g|Encyclopedia:Attack}ataku{/g} na {g|Encyclopedia:Rest}obóz{/g}. Aby pełnić wartę w nocy, postać musi wykonać udany test umiejętności {g|Encyclopedia:Perception}Percepcja{/g}. Jeśli sprawdzenie {g|Encyclopedia:Skills}umiejętności{/g} zakończy się sukcesem z wystarczającym marginesem, Twoje postacie rozpoczną walkę w pełni wyposażone i przytomne. Jeśli {g|Encyclopedia:Check}sprawdzenie umiejętności{/g} zakończy się sukcesem z niewystarczającym marginesem, do walki przystąpią tylko obudzeni. Jeśli sprawdzenie umiejętności zakończy się porażką, jego wynik wpłynie na liczbę postaci, które śpią na początku walki. Wenduag i Lann najlepiej nadają się do tego zadania, ponieważ ich umiejętność Percepcji jest wyższa niż pozostałych postaci.<br>{br}Role w obozie również wpływają na wyniki na mapie globalnej.
+<246>Aby przesunąć kamerę, włącz tryb ruchu, naciskając <b>{console_bind|RightStickButton}</b> i używając <b>{console_bind|RightStickY}</b>.<br>{br}Aby obrócić kamerę, włącz tryb obrotu. Trybu obracania można również używać do powiększania i pomniejszania obrazu za pomocą przycisków <b>{console_bind|RightStickY}</b>.
+<247>Przypomnienie: aparat można obrócić, przechodząc do trybu obracania. Aby to zrobić, naciśnij przycisk <b>{console_bind|RightStickButton}</b> i użyj przycisku <b>{console_bind|RightStickY}</b>.
+<248>To jest globalna mapa miasta Kenabres.<br>{br}Aby przesunąć widoczną część mapy, użyj <b>{console_bind|RightStickY}</b>. Aby odbyć podróż do odkrytej lokacji, najedź kursorem na tę lokację i naciśnij <b>{console_bind|Confirm}</b>.<br>{br}Niektóre lokacje mogą być niedostępne do podróży z różnych powodów. W miarę eksploracji mapy i postępów w grze będziesz odkrywać nowe lokacje i trasy.<br>Podczas podróży między lokacjami możesz zostać zaatakowany przez wrogów, więc upewnij się, że masz wystarczająco dużo {g|Encyclopedia:Rest}odpoczynku{/g} - i nie daj się im {g|Encyclopedia:Surprise}zaskoczyć{/g}!
+<249>To jest globalna mapa miasta Kenabres.<br>{br}Aby poruszać się po widocznej części mapy, użyj klawiszy <b>[W]</b>, <b>[A]</b>, <b>[S]</b>, <b>[D]</b>. Aby podróżować do odkrytych przez siebie lokacji, najedź kursorem myszy na lokację i kliknij <b>[LMB]</b>.<br>{br}Niektóre lokacje mogą być niedostępne do podróżowania z różnych powodów. W miarę eksploracji mapy i postępów w grze będziesz odkrywać nowe lokacje i trasy.<br>Podczas podróży między lokacjami możesz zostać {g|Encyclopedia:Attack}zaatakowany{/g} przez wrogów, więc upewnij się, że masz wystarczająco {g|Encyclopedia:Rest}odpoczynku{/g} - i nie daj się im {g|Encyclopedia:Surprise}zaskoczyć{/g}!
+<250>Możesz wchodzić w interakcje z różnymi obiektami, takimi jak drzwi i skrzynie, podchodząc do nich lub najeżdżając na nie kursorem i naciskając klawisz <b>{console_bind|Confirm}</b>. Niektóre obiekty specjalne mają nad sobą ikonę. W ten sposób rozmawiasz również z postaciami.<br>{br}Naciśnij <b>{console_bind|LeftStickButton}</b>, aby podświetlić wszystkie interaktywne obiekty i wyświetlić ikony interakcji.
+<251>Gdy zadanie zostanie zaktualizowane, zobaczysz powiadomienie w górnej części ekranu głównego gry.<br>Wszystkie informacje o zadaniach i zadaniach są zapisywane w Dzienniku.<br>{br}Aby otworzyć Dziennik, naciśnij klawisz <b>[{bind|OpenJournal}]</b> lub kliknij klawisz <b>[LMB]</b> na powiadomieniu w górnej części ekranu.
+<252>Gdy zadanie zostanie zaktualizowane, zobaczysz powiadomienie w górnej części ekranu głównego gry.<br>Wszystkie informacje o zadaniach i zadaniach są zapisywane w Dzienniku.<br>{br}Aby otworzyć Dziennik, naciśnij <b>{console_bind|RightBottom}</b> i wybierz<bs_n1>Dziennik<bs_n1>lub naciśnij <b>{console_bind|FuncAdditional}</b>, gdy zobaczysz powiadomienie w górnej części ekranu.
+<253>Gdy zadanie zostanie zaktualizowane, zobaczysz powiadomienie w górnej części ekranu głównego gry.<br>Wszystkie informacje o zadaniach i sprawunkach są zapisywane w Dzienniku.<br>{br}Aby otworzyć Dziennik, naciśnij <b>[{bind|OpenJournal}]</b> lub kliknij <b>[LMB]</b> na powiadomieniu w górnej części ekranu.
+<254>Teraz Twoja grupa ma kilka postaci.<br>Aby wybrać jedną z nich, naciśnij <b>{console_bind|LeftBottom}</b>.<br>{br}Aby połączyć kilka postaci i wydać im wszystkim to samo polecenie, naciśnij <b>{console_bind|LeftBottom}</b>, najedź kursorem na postać, którą chcesz połączyć, i naciśnij <b>{console_bind|Func02}</b>.<br>{br}Aby połączyć wszystkie postacie, przytrzymaj <b>{console_bind|Func02}</b>.
+<255>Zdobyłeś nowy element wyposażenia dla swojego głównego bohatera.<br>Aby go wyposażyć, otwórz ekran wyposażenia, wybierając postać, naciskając <b>{console_bind|RightBottom}</b> i wybierając<bs_n1>Wyposażenie<bs_n1>.
+<256>W ciemnych miejscach, takich jak jaskinie, trudno jest cokolwiek zobaczyć. Istnieją dwa główne sposoby oświetlania sobie drogi. Pierwszy z nich to rzucenie {t|SourceAbility} {g|Encyclopedia:Spell}zaklęcia{/g} na postać idącą przed grupą. Drugim jest danie jednej z postaci {t|SourceItem} do niesienia.
+<257>Aby wyposażyć przedmiot, najedź kursorem na niego i naciśnij <b>{console_bind|Confirm}</b> lub otwórz menu kontekstowe i wybierz<bs_n1>Wyposaż<bs_n1>.<br>Nie zapomnij sprawdzić ekwipunku i ulepszyć wyposażenia postaci - dzięki temu staną się silniejsze.
+<258>Masz teraz wyjątkowego towarzysza - Finneana - gadającą broń.<br>{br}Możesz się do niego dostać poprzez specjalny przycisk w ekwipunku. Kliknij go, aby rozpocząć z nim dialog lub zmienić jego postać. Może on przybrać kształt dowolnej broni, a następnie możesz go podarować jednej z postaci w swojej drużynie.<br>{br}Nie ma żadnych ograniczeń co do zmiany formy Finneana. Finnean będzie stawał się coraz potężniejszy w miarę rozwoju jego osobistej historii.
+<259>Masz teraz wyjątkowego towarzysza - Finneana - gadającą broń.<br>{br}Możesz uzyskać do niego dostęp, naciskając <b>{console_bind|RightBottom}</b> i wybierając<bs_n1>Finnean<bs_n1>. Otwórz to okno, aby rozpocząć z nim dialog lub zmienić jego postać. Może on przybrać postać dowolnej broni, a następnie możesz go podarować jednej z postaci w swojej drużynie.<br>{br}Nie ma żadnych ograniczeń co do zmiany formy Finneana. Finnean będzie stawał się coraz potężniejszy w miarę rozwoju jego osobistej historii.
+<260>Rend
+<261>Infestacja Deskari (предлполагаю что нужно ей менять название, и какое-то краткое описание т.к. получается две разных штуки но с одним названием) - Jako szybka akcja Deskari zaraża cel śmiercionośnymi insektami. Cel wykonuje rzut na przetrwanie dc 34 lub otrzyma 10d8 obrażeń, rzut na przetrwanie przepoławia się, KT zależy od Kondycji.
+<262>Deskari Infestation
+<263>Save: Fortitude (KT 34)<br>Częstotliwość: 1/runda<br>Efekt: 6d8 niecnych obrażeń<br>Usuwa się po udanym zapisie<br>Czas zapisu zależy od Kondycji.
+<264>Descari Infest
+<265>Save: Fortitude (KT 34)<br>Częstotliwość: 1/runda przez 6 rund<br>Efekt: 1d3 obrażeń od Kondycji i oszołomienie<br>Uleczenie: 3 kolejne save'y<br>Comp save'u jest oparty na Kondycji.
+<266>Атака вокруг себя якорной дубиной
+<267> 
+<268> 
+<269> 
+<270>Слэм костяной дубиной на цепи
+<271>Слэм костяной дубиной на цепи
+<272> 
+<273> 
+<274> 
+<275> 
+<276> 
+<277> 
+<278> 
+<279> 
+<280> 
+<281> 
+<282> 
+<283> 
+<284> 
+<285> 
+<286> 
+<287> 
+<288> 
+<289> 
+<290> 
+<291> 
+<292> 
+<293> 
+<294> 
+<295> 
+<296> 
+<297> 
+<298> 
+<299> 
+<300> 
+<301> 
+<302> 
+<303> 
+<304> 
+<305> 
+<306> 
+<307> 
+<308> 
+<309> 
+<310> 
+<311> 
+<312> 
+<313> 
+<314> 
+<315> 
+<316> 
+<317> 
+<318> 
+<319> 
+<320> 
+<321> 
+<322> 
+<323> 
+<324> 
+<325> 
+<326> 
+<327> 
+<328> 
+<329> 
+<330> 
+<331> 
+<332> 
+<333> 
+<334> 
+<335> 
+<336> 
+<337> 
+<338> 
+<339> 
+<340> 
+<341> 
+<342> 
+<343> 
+<344> 
+<345> 
+<346> 
+<347> 
+<348> 
+<349> 
+<350> 
+<351> 
+<352> 
+<353> 
+<354> 
+<355> 
+<356> 
+<357> 
+<358> 
+<359> 
+<360> 
+<361> 
+<362> 
+<363> 
+<364> 
+<365> 
+<366> 
+<367> 
+<368>Ten potwór jest pokryty lepkim śluzem, który może uwięzić każdą broń. Za każdym razem, gdy jakaś istota trafi go bronią do walki wręcz, musi zdać {g|Encyclopedia:Saving_Throw}rzut na refleks{/g} ({g|Encyclopedia:DC}KT{/g} 21), albo ta broń stanie się bezużyteczna do końca walki.
+<369>Ten quarterstaff +3 dodaje +2 do {g|Encyclopedia:DC}KT{/g} dla wszystkich {g|Encyclopedia:Saving_Throw}rzutów ratunkowych{/g} przeciwko {g|Encyclopedia:Spell}zaklęciom{/g} rzucanym przez posiadacza. Daje także posiadaczowi premię +4 {g|Encyclopedia:Bonus}bonus{/g} do {g|Encyclopedia:Caster_Level}poziomu mistrza{/g} {g|Encyclopedia:Check}kontroli{/g} wykonywanych w celu pokonania {g|Encyclopedia:Spell_Resistance}odporności na zaklęcia{/g} oraz premię +5 do {g|Encyclopedia:Use_Magic_Device}użycia magicznego urządzenia{/g} {g|Encyclopedia:Skills}kontroli umiejętności{/g}.
+<370>Wezwanie Oceanu
+<371>Do upadku Sarkoris wiele rodzin szlacheckich z Iz spławiało swoich zmarłych na łodziach w dół rzeki do świątyni Pulury, która znajdowała się w tym miejscu. Kapłani bogini błogosławili i palili ciała, a prochy rozsypywali nad wodospadami. Uważa się, że świątynia została zniszczona wraz z Sarkoris podczas inwazji demonów, ale niektórzy wątpią, czy to prawda.
+<372> 
+<373>(Dobrze) Morale krucjaty wzrastają o 5, a dochód z Punktów Materiałów o 1.
+<374>Po zdobyciu Pustkowia krzyżowcy nawiązali kontakt z siłami Władców Mamutów, którzy walczą z demonami na zachodzie Rana Świata. Plemiona Władców Mamutów są gotowe pomóc Drezenowi i wysłały stada swoich silnych i odważnych koni.
+<375><bs_n1>Zawsze odwracaj się plecami do wroga<bs_n1> brzmi jak doskonałe motto. Jest inspirujące i skłania do myślenia!<bs_n1>
+<376>{g|Trickster5_2}[Efekty wyboru]{/g}<bs_n1>Niewidzialne kucyki mordercy? Wspaniałe!<bs_n1>
+<377><bs_n1>Jakich wojowników chcesz mieć w tym zakonie? Kogo powinni starać się naśladować? Kogoś, kto przez całe życie doskonali się w sztuce władania ostrzem Tian Xia, by potem wymachiwać masywnym fauchardem i wchodzić wszystkim w drogę? A może mistrza iluzji i podstępu, który przekonuje swoich wrogów, że są atakowani przez niewidzialne kucyki-morderców?
+<378><bs_n1>Jakich wojowników chcesz mieć w tym zakonie? Kogo powinni starać się naśladować? Formalistę, który spędził całe życie na opanowaniu sztuki władania ostrzem Tian Xia, ale wybiera długą i nieporęczną furażerkę, która bardziej przeszkadza jego przyjaciołom niż wrogom? Przebiegły iluzjonista, który wykorzystuje luki w prawach stworzenia, by przekonać swoich wrogów, że zostali zadeptani na śmierć przez niewidzialne kucyki-morderców?
+<379>Wyznawcy władcy demonów Baphometa popełniają niezliczone zbrodnie, aby zasłużyć na jego przychylność. Kearius był sługą Desny, który zajmował się świątynnym schronieniem, ale potajemnie czcił Władcę Bestii. Wykorzystując swoją pozycję, zbudował w tajnych podziemiach świątyni podstępny labirynt i wypełnił go zaciekłymi i krwiożerczymi potworami. Każdej nocy Kearius wrzucał do labiryntu zbyt ufnego włóczęgę lub bezdomnego, gdzie spotykał ich straszliwy koniec.<br>Kultysta szerzył herezję i deprawację, deprawując innych kapłanów. Baphomet zauważył podstęp swojego sługi i obdarzył go niezwykłym darem - iskrą płomienia, która zdobiła czoło samego Władcy Potworów. Lampion, w którym znajdowała się ta iskra, mógł przywoływać ogniste istoty z Otchłani, a jego kołysanie mogło hipnotyzować lub wyczarowywać przerażające iluzje. Kearius umieścił płomień swojego pana i władcy w samym sercu swojego labiryntu.<br>Wkrótce jednak wydarzyła się rzecz niesłychana. Samotny żebrak - kruche i bojaźliwe stworzenie - wpadł w szpony Keariusa i został wrzucony do labiryntu. Jakimś cudem udało mu się przeżyć i dotrzeć do samego środka pułapki. Sięgnął swymi zgarbionymi rękami po płomień i zniknął. Przerażony i wściekły Kearius odnalazł pustą kapliczkę i ruszył w pogoń za złodziejem. Obawiał się, że Baphomet może dowiedzieć się o tym niepowodzeniu i ukarać swego niedbałego sługę.<br>Po pewnym czasie dowiedział się o całych wioskach spopielonych przez ogniste stwory, a tych, którzy przeżyli, doprowadzał do szaleństwa niesamowity blask złowrogiego płomienia. Opowiadali o wątłym chłopcu-żebraku z piekielnym ogniem w dłoniach.<br>Kearius wytropił młodzieńca. Strach targał jego sercem i skłaniał go do szaleństwa. Gdy w końcu dotarł do chłopca, żebrak roześmiał się i zmienił w zarozumiałego młodzieńca, ubranego w strój kultysty Baphometa. Uśmiechnięty łotrzyk powiedział, że to sam Pan Potworów zainspirował go do kradzieży nieświętego płomienia, a nawet wymyślił przebranie słabego dziecka. Porażka Keariusa okazała się jego upadkiem, a podstępny złodziej zajął jego miejsce jako najbardziej lojalny sługa Baphometa. Wybuchła walka, w której obaj czciciele demonów starali się zniszczyć siebie nawzajem, ale żaden z nich nie mógł zdobyć przewagi. Kiedy się zmęczyli, płomień Władcy Bestii wyślizgnął się ze spoconych dłoni złodzieja i upadł na stos martwych gałęzi. Z ognia wyłoniły się ogniste stwory, które otoczyły osłabionych kapłanów, a oczy potworów żarzyły się jak żar. Kultyści błagali swego pana o ochronę, ale ich prośby nie spotkały się z odzewem. Pomiot płomienia Baphometa żerował na ciele grzeszników przez całą noc, a gdy ogień się wypalił, wśród szczątków pozostała tylko mała iskierka niecnego płomienia.
+<380>Jednostka nie porusza się ani nie wykonuje działań podczas swojej tury, ale zyskuje premię +4 do Klasy Pancerza (KP) na 1 rundę.
+<381>Ataki jednostki (nawet jeśli są dystansowe) przywracają jej (Moc×k6×liczba jednostek) PW. Jest to efekt śmierci.
+<382>Jeśli dwie twoje armie stoją obok siebie na mapie globalnej, możesz przenieść między nimi jednostki, wybierając armię, naciskając <b>{console_bind|Func02}</b>, a następnie <b>{console_bind|RightStickButton}</b>. Po wymianie wojsk liczba punktów ruchu każdej z armii stanie się równa najniższej wartości między obiema armiami.<br>Naciśnięcie przycisku <b>{console_bind|Func02}</b>, a następnie <b>{console_bind|Func01}</b> spowoduje przejście do ekranu zarządzania armią. Możesz tu ustawić pozycje startowe swoich jednostek na początku walki. Możesz podzielić swoje jednostki, naciskając <b>{console_bind|LeftStickButton}</b> i przenosząc je do innego gniazda. Możesz tu również utworzyć nową armię, przytrzymując <b>{console_bind|Func01}</b>.
+<383>Jeśli dwie z Twoich armii znajdują się obok siebie na mapie globalnej, możesz przenieść między nimi jednostki, klikając przycisk, który pojawia się obok nazwy armii. Po wymianie wojsk liczba punktów ruchu każdej z armii stanie się równa najniższej wartości między obiema armiami.<br>Kliknięcie przycisku<bs_n1>i<bs_n1>obok nazwy armii po lewej stronie przeniesie Cię do ekranu zarządzania armią. Możesz tu ustawić pozycje startowe swoich jednostek na początku walki. Możesz rozdzielić swoje jednostki, przytrzymując Ctrl lub Shift i przenosząc je do innego slotu. Możesz tu również stworzyć nową armię, klikając przycisk po prawej stronie.
+<384>Statystyka morale odzwierciedla ogólny nastrój krzyżowców. Dodatnie morale zwiększa przychody z zasobów i liczbę jednostek dostępnych do rekrutacji, a ujemne morale obniża te liczby.<br>Morale zmieniają się w zależności od Sztandarów Morale. Jeśli spełnione są specjalne warunki, Sztandar pozostaje zielony i zwiększa morale o 1 dziennie. Jeśli warunki specjalne nie zostaną spełnione, Sztandar zmienia kolor na żółty na 3 dni, ale nadal zwiększa morale o 1 dziennie. Następnie Sztandar zmienia kolor na czerwony i obniża morale o 3 dziennie.<br>Twoja armia ma obecnie dwa Sztandary:<br>* Sztandar Zwycięstwa pozostaje zielony, gdy pokonujesz armie demonów. Każde zwycięstwo nad armią demonów dodaje 4 dni do czasu, gdy Sztandar Zwycięstwa pozostaje zielony.<br>* Sztandar Marszu na Drezno pozostaje zielony, gdy pokonujesz armie demonów na drodze do Drezno. Każde zwycięstwo nad armią demonów na drodze do Drezno wydłuża czas, w którym Sztandar Marszu na Drezno pozostaje zielony, o 10 dni.
+<385>Teraz, gdy zdobyłeś Drezno, masz do dyspozycji nowe opcje krucjaty! <br>Możesz teraz wznosić budynki w twierdzach i Dreznie, wydawać dekrety, a także zdobywać i badać nowe regiony. W siedzibie dowódcy w Dreznie pojawią się zarówno jednostki najemników, jak i jednostki szkolone.<br>Armie demonów będą próbowały odebrać Ci Drezno. Zniszcz je, w przeciwnym razie po siedmiu dniach oblężenia Drezno zostanie całkowicie zablokowane przez siły wroga, a Ty nie będziesz już mógł dowodzić krucjatą.<br>Aby uzyskać dostęp do menu zarządzania krucjatą, na mapie globalnej naciśnij <b>{console_bind|RightBottom}</b>i wybierz<bs_n1>Krucjata<bs_n1>.
+<386>Rozwijanie każdej ze statystyk krucjaty otwiera nowe opcje, które wzmocnią twoje armie i gospodarkę.<br>* Wojsko skupia się na wierceniu i szkoleniu jednostek. Rekrutuj zarówno jednostki szkolone, jak i najemne, aby podnieść rangę statystyki Wojsko.<br>* Logistyka skupia się na gospodarce i budownictwie. Buduj budynki, aby podnieść rangę swojej statystyki Logistyki.<br>* Dyplomacja koncentruje się na nawiązywaniu kontaktów z najemnikami i obcymi narodami. Zwiększaj znaczenie krucjaty, zdobywając różnego rodzaju zasoby, aby poprawić rangę swojej statystyki Dyplomacji.<br>* Przywództwo koncentruje się na morale i generałach armii. Wygrywaj bitwy i podnoś poziom swoich generałów, aby podnieść rangę swojej statystyki Przywództwo.<br>Po spełnieniu wymagań dotyczących rangi jednej ze statystyk krzyżowca odblokujesz odpowiedni dekret.
+<387>Na ekranie zarządzania krucjatą możesz:<br>* Podejmować decyzje dotyczące bieżących wydarzeń, które są wyświetlane na dole ekranu po lewej stronie.<br>* Wydawać dekrety, które można wyświetlić, wybierając<bs_n1>Dekrety<bs_n1>. Aby wyświetlić przefiltrowany podzbiór dostępnych dekretów, wybierz jeden z filtrów na pasku po prawej stronie ekranu.<br>* Buduj budynki w fortach i w Drezen. Aby przejść do ekranu budowy, przełącz się na<bs_n1>Miasta<bs_n1>, wybierz Drezno lub fort na mapie i naciśnij <b>{console_bind|Confirm}</b>.
+<388>Na ekranie zarządzania krucjatą możesz:<br>* Podejmować decyzje dotyczące bieżących wydarzeń, które są wyświetlane na dole ekranu po lewej stronie.<br>* Wydawać dekrety, które można wyświetlić, klikając przycisk Dekrety po prawej stronie. Możesz wyświetlić tylko część dostępnych dekretów, wybierając jeden z filtrów.<br>* Buduj budynki w fortach i Drezen. Aby przejść do ekranu budowy, kliknij na Drezno lub fort na mapie.
+<389>Twoje postępy w zarządzaniu krucjatą odblokowują pewne specjalne dekrety:<br>* Dekret zwiększający statystyki staje się dostępny po spełnieniu określonych wymagań dotyczących rangi.<br>* Dekret zwiększający rangę relikwii, który zmienia relikwię w potężny artefakt do wykorzystania przez twoją drużynę, staje się dostępny po zdobyciu odpowiedniej relikwii.
+<390>Możesz teraz kontrolować armie na mapie globalnej. Wygrane bitwy z siłami demonów przynoszą wiele korzyści, takich jak:<br>* Zasoby, które wspomogą twoją gospodarkę.<br>* Relikwie, które możesz zamienić w nowe, potężne przedmioty dla swojej drużyny.<br>* Zdobyte fortyfikacje wroga, które wcześniej blokowały postępy twojej drużyny i twoich armii. Fortyfikacje te można przebudować na twierdze dla własnych wojsk.<br>Armie wroga różnią się siłą, która jest wyświetlana jako liczba obok nazwy armii. Po najechaniu kursorem myszy na wrogą armię można dowiedzieć się więcej o jej składzie i nagrodzie, której strzeże.
+<391>Możesz teraz kontrolować armie na mapie globalnej. Wygrane bitwy z siłami demonów przynoszą wiele korzyści, takich jak:<br>* Surowce, które wspomogą twoją gospodarkę.<br>* Relikwie, które możesz zamienić w nowe, potężne przedmioty dla swojej drużyny.<br>* Zdobyte fortyfikacje wroga, które wcześniej blokowały postępy twojej drużyny i twoich armii. Fortyfikacje te można przebudować na twierdze dla własnych wojsk.<br>Armie wroga różnią się siłą, która jest wyświetlana jako liczba obok nazwy armii. Po najechaniu kursorem myszy na wrogą armię można dowiedzieć się więcej o jej składzie i nagrodzie, której strzeże.
+<392>Po zdobyciu Drezen krzyżowcy umieścili na murach miasta trzy sztandary morale:<br>* Sztandar Zwycięstwa pozostaje zielony, gdy pokonujesz armie demonów. Każde zwycięstwo nad armią demonów w regionach Krainy Yath, Szarej Drogi, Jeziora Utraconego Słońca i Krain Zimowego Słońca wydłuża czas, przez jaki Sztandar Zwycięstwa pozostaje zielony, o 6 dni.<br>* Sztandar Podboju pozostaje zielony, gdy zdobywasz twierdze demonów. Każde zdobycie demonicznego fortu w regionach Krainy Yath, Szarej Drogi, Jeziora Utraconego Słońca i Krain Zimowego Słońca wydłuża czas, w którym Sztandar Podboju pozostaje zielony, o 30 dni. Odzyskanie utraconych wcześniej fortów nie wpływa na Sztandar Podboju.<br>* Sztandar Obrony pozostaje zielony, dopóki żaden z twoich fortów nie jest oblężony. Jeśli któryś z twoich fortów jest oblężony, Sztandar Obrony zmienia kolor na żółty na 3 dni, a następnie na czerwony. Tak długo, jak jakikolwiek fort zostanie zdobyty przez demony, Sztandar ten pozostaje czerwony.<br>Sztandary nadal wpływają na dzienną zmianę morale krucjaty. Czerwony Sztandar obniża morale o 3 dziennie, żółty lub zielony Sztandar podnosi je o 1 dziennie.
+<393>Możesz przełączać się między trybem zarządzania partią a trybem dowodzenia armią, naciskając <b>{console_bind|FuncAdditional}</b>.<br>W trybie dowodzenia armią możesz wybierać armie, naciskając <b>{console_bind|LeftBottom}</b>.<br>Tak jak twoja partia, armie używają dróg do poruszania się po mapie. Aby się poruszyć, armia musi wydać punkty ruchu, które można odzyskać, odpoczywając przez jeden dzień.
+<394>Twoja armia rozpoczęła bitwę! <br>Armia wroga jest wyświetlana po prawej stronie, a armia krzyżowców po lewej.<br>Bitwy są rozgrywane w trybie turowym. Kolejność tur jest wyświetlana po lewej stronie ekranu. Jednostki z wysoką inicjatywą działają jako pierwsze. Gdy wszystkie jednostki wykonają swoją turę, rozpoczyna się nowa runda i kolejność tur jest powtarzana.
+<395>Podczas swojej tury jednostka może wykonać jedną z następujących akcji:<br>* Poruszyć się i/lub użyć ataku w walce wręcz. Zasięg ruchu jednostki zależy od jej szybkości.<br>* Użyj ataku dystansowego, jeśli jednostka ma go do dyspozycji i nie ma w pobliżu wrogów.<br>* Użyj umiejętności, jeśli jednostka ma ją do dyspozycji (umiejętności są wyświetlane na górze ekranu).<br>* Podejmij Całkowitą Obronę, zwiększając swoją Klasę Pancerza (KP) na jedną rundę.<br>* Poczekaj, odkładając akcję do końca rundy.
+<396>Podczas swojej tury jednostka może wykonać jedną z następujących akcji:<br>* Poruszyć się i/lub użyć ataku w walce wręcz. Zasięg ruchu jednostki zależy od jej szybkości.<br>* Użyj ataku dystansowego, jeśli jest on dostępny dla jednostki i nie ma w pobliżu wrogów.<br>* Użyj zdolności, jeśli jest ona dostępna dla jednostki (zdolności są wyświetlane na dole ekranu).<br>* Podejmij Całkowitą Obronę, zwiększając jej Klasę Pancerza (KP) na jedną rundę.<br>* Poczekaj, odkładając swoją akcję do końca rundy.
+<397>Za każdym razem, gdy jednostka wykonuje atak, zadawane obrażenia są obliczane w następujący sposób:<br>* Wszyscy żołnierze atakującej jednostki wykonują rzut na obrażenia, aby określić obrażenia podstawowe.<br>* Mnożnik obrażeń jest określany według wzoru [(Atak jednostki atakującej + 21 - Klasa Pancerza (KP) celu)×0,05]. Mnożnik obrażeń nie może być mniejszy niż 0,05.<br>* Obrażenia podstawowe są mnożone przez mnożnik obrażeń, co daje całkowitą wartość zadanych obrażeń.
+<398>Pokonałeś swoją pierwszą armię wroga i otrzymałeś pewną liczbę Punktów Finansów. Możesz użyć tych punktów, aby zatrudnić generała dla swojej armii. Można to zrobić w oknie armii. Aby otworzyć okno armii, wybierz armię, naciśnij <b>{console_bind|Func02}</b>, a następnie naciśnij <b>{console_bind|Func01}</b>.<br>Generałowie mogą używać w walce różnych zaklęć i umiejętności. Ich możliwości rosną wraz z ich poziomem. Generałowie zdobywają doświadczenie, wygrywając bitwy na czele swojej armii.<br>Każdy generał należy do jednej z trzech klas, o czym informuje ikona obok jego portretu:<br>* Wojownik (miecz i tarcza) koncentruje się na zwiększaniu siły swoich oddziałów.<br>* Strażnik (łuk) osłabia jednostki wroga.<br>* Czarodziej (kula ognia) wykorzystuje w walce szeroką gamę zaklęć.<br>Generałów nie można zabić. Jeśli armia generała zostanie pokonana, po trzech dniach może on zostać przydzielony do nowej armii.
+<399>Pokonałeś swoją pierwszą armię wroga i otrzymałeś pewną liczbę Punktów Finansów. Możesz użyć tych punktów, aby zatrudnić generała dla swojej armii. Można to zrobić w oknie armii w lewym rogu ekranu.<br>Generałowie mogą używać w walce różnych zaklęć i umiejętności. Ich możliwości rosną wraz z ich poziomem. Generałowie zdobywają doświadczenie, wygrywając bitwy na czele swojej armii.<br>Każdy generał należy do jednej z trzech klas, o czym informuje ikona obok jego portretu:<br>* Wojownik (miecz i tarcza) koncentruje się na zwiększaniu siły swoich oddziałów.<br>* Strażnik (łuk) osłabia jednostki wroga.<br>* Czarodziej (kula ognia) wykorzystuje w walce szeroką gamę zaklęć.<br>Generałów nie można zabić. Jeśli armia generała zostanie pokonana, po trzech dniach może on zostać przydzielony do nowej armii.
+<400>To nowe zwycięstwo przyniosło Ci więcej Punktów Finansów, które możesz wykorzystać do wzmocnienia swojej armii.<br>Aby rekrutować nowe jednostki, naciśnij <b>{console_bind|LeftBottom}</b> i wybierz<bs_n1>Rekrutuj<bs_n1>. Zrekrutowane jednostki pojawiają się w Kenabrach. Nowe jednostki będą dostępne do rekrutacji na początku każdego tygodnia.
+<401>To nowe zwycięstwo przyniosło Ci więcej Punktów Finansów, które możesz wykorzystać do wzmocnienia swojej armii.<br>Aby zrekrutować nowe jednostki, kliknij przycisk Rekrutuj na panelu po lewej stronie u dołu ekranu. Zrekrutowane jednostki pojawią się w Kenabres. Nowe jednostki będą dostępne do rekrutacji na początku każdego tygodnia.
+<402><bs_n1>Tak, racja. Chrapanie paladyna posiada magiczną zdolność odpędzania wszystkich diabłów, nie wiedziałeś? Moje chrapanie wyświadcza ci przysługę, kolego!<bs_n1>
+<403>{n} Kowal otwiera skrzynię stojącą nieopodal kowadła i ostrożnie wyjmuje z niej pozłacaną pochwę.{/n}<bs_n1>Szkoda, że nie masz teraz przy sobie Radiance. W przeciwnym razie moglibyśmy zobaczyć, jak lśni mocą, gdy dotknie tej pochwy. To samo stało się z {g|Yaniel}Yaniel{/g}, gdy wykułem dla niej pochwę. Cóż, teraz już nic nie da się zrobić. Weź pochwę i używaj jej dobrze, a o mnie pamiętaj w modlitwach.<bs_n1>
+<404>{n}Sfinks zastanawia się w zakłopotanej ciszy {/n}.
+<405><bs_n1>Trzecie pytanie dotyczy wielkich strażników wiedzy i dawców władzy. Pokażę ci ich symbole, a ty musisz powiedzieć mi ich imiona.<bs_n1>{n} W rękach ducha pojawia się mosiężna tabliczka. Wyryte są na niej dwa symbole. Pierwszy z nich to koło zębate przypominające oko, a drugi przypomina siedmioramienną gwiazdę. Wokół tych symboli rozciąga się sieć przecinających się linii. Skręcają się one i zderzają ze sobą, tak jakby te dwa symbole<bs_n1>walczyły<bs_n1>o zdobycie całej tablicy.{/n}
+<406><bs_n1>Moje ostatnie pytanie będzie dotyczyło uczonego rzemieślnika, który posiadł rzadką wiedzę, ale nie zdołał się nią z nikim podzielić. Pokażę ci wizję, a ty musisz mi odpowiedzieć. Kim jest ta osoba i co stworzyła?<bs_n1> {n}Przed tobą pojawia się wizja elfa. Wygląda całkiem zwyczajnie i nie ma w jego wyglądzie nic szczególnego. Obserwujesz jednak, jak zręcznie rzeźbi blok szarego kamienia, nadając mu kształt pnącej się winorośli.{/n}
+<407>{n} W głosie wampira pobrzmiewa bolesny żal.{/n}<bs_n1>Kiedy miałem osiemnaście lat, wziąłem udział w niebezpiecznym rajdzie na Pustkowia Many. To straszne miejsce, blizna na ciele świata pozostawiona przez wojnę między Gebem a Nexem.<bs_n1>
+<408><bs_n1>Tak, Icy Rill zapewni nam bezpieczeństwo. Nie pozwoli, by spotkała nas jakakolwiek krzywda. Ale jak myślisz, co się dzieje? Z demonami, mam na myśli?
+<409><bs_n1>Tak, Icy Rill zapewni nam bezpieczeństwo. Nie pozwoli, by stała nam się krzywda. Ale jak myślisz, co się dzieje? Z demonami, mam na myśli?
+<410><bs_n1>Tak, rzeka nie dba o modlitwy i ofiary... A jeśli Lodowy Rill chce czegoś w zamian za jej pomoc - po prostu bierze to bez pytania...<bs_n1>{n}Malessa wpatruje się w kawałek dryfującego drewna, który jest unoszony przez nurt...{/n}.
+<411><bs_n1>Ostatnio nie dzieje się dobrze. Wdowa Livona straciła niedawno swojego najstarszego syna - utonął. Mówiła mu, żeby nie zbliżał się zbytnio do rzeki, ale czy dzieci kiedykolwiek słuchały swoich matek? Jeśli Icy Rill czegoś chce, to prędzej czy później to dostanie...<bs_n1>
+<412><bs_n1>Wypełnimy każdy twój rozkaz. Będziemy walczyć z twoimi wrogami w Otchłani i na Golarionie. Będziemy ofiarowywać ci modlitwy, aby one, niczym zbroja utkana z cieni, chroniły cię. Jeśli zechcesz odpocząć, możesz to zrobić bezpiecznie. Zadbamy o to, by nikt nie przeszkadzał ci tutaj, w Mieszkaniu Cieni. Jeśli chcesz, dam ci kroplę krwi cienia, by twoje sny były głębokie i mroczne.
+<413> 
+<414> 
+<415> 
+<416>{n}Anevia lekko się zatacza - prawdę mówiąc, nie widziałeś zupełnie trzeźwej osoby od chwili, gdy bogini i demonica opuściły wesołe miasto Drezen, pozostawiając za sobą rozradowany tłum z królem na czele. Anevia podchodzi do Ciebie i salutuje Ci swoim pełnym kuflem. Zauważasz parę puszystych uszu na jej głowie.{/n}<bs_n1>Za ciebie! I za Drezena! Wiedziałam, że wrócicie i wszystko będzie jak dawniej, ale jeszcze lepiej!<bs_n1>
+<417>{n}{g|Fye}Fye{/g}posyła ci przyjazne machnięcie.{/n}<bs_n1>Dowódc{mf|o|zyni}! Jak dobrze cię widzieć. Świetnie się bawiliśmy na twojej uczcie pogrzebowej, a jeszcze lepiej będziemy się bawić na twoim przyjęciu powitalnym! Później, rzecz jasna. Po tym, jak zwalczymy te szumowiny.<bs_n1>
+<418><bs_n1>Labirynt stał się sercem królestwa, które stworzył w Otchłani po ucieczce. Musiał odczuwać nostalgię za starymi, dobrymi czasami... Jak inaczej można wytłumaczyć fakt, że pieczęć wypaloną na czole przez Asmodeusa uczynił swoim drugim osobistym symbolem? Mały rogaty łeb musi tęsknić za torturami na stojaku Księcia Ciemności.<bs_n1>
+<419><bs_n1>...W ciemności i w ogniu - wszędzie kwitnie życie!<bs_n1>
+<420><bs_n1>Tak, mały ptaszku. Nigdy nie uwierzyłam w twoje kłamstwa. Twoja mała konspiracja była zbyt oczywista. Nie zatarłeś śladów, gdy pozbyłeś się moich wiernych doradców - Willodusa i Ar-Mikhetha. Chcesz wiedzieć, dlaczego cię wtedy nie zabiłem?<bs_n1>
+<421><bs_n1>Kiedyś ta świątynia znów otworzy swe podwoje dla wiernych... Pewnego dnia...<bs_n1>
+<422><bs_n1>Te badania brzmią bardzo użytecznie... mogą stanowić podstawę do bardzo ciekawych eksperymentów! Gdy zamkniemy Rana Świata, zebrane przez nich informacje mogą nam pomóc w otwarciu kilku małych, kontrolowanych ran do celów badawczych. Nie za wiele - około trzech tuzinów, wliczając w to próbki kontrolne. Wyobraź sobie, jak wiele danych moglibyśmy zebrać!<bs_n1>
+<423><bs_n1>Oczywiście nie mogliśmy zostawić Kamienia Strażniczego bez ochrony. Królowa zostawiła więc oddział żołnierzy, którzy mieli go bronić. Ci, którzy chcieliby poczekać na twój powrót...<bs_n1> {n}Ramien uśmiecha się.{/n}<bs_n1>...mogli również pozostać w mieście. Nie mieliśmy obowiązków królowej - obowiązków i powinności korony. Postanowiliśmy więc czekać na Ciebie i bronić Drezen. Włożyliście tyle wysiłku w ratowanie twierdzy... jak mogliśmy ją tak po prostu porzucić? Od tamtego czasu sytuacja jest dość spokojna. Kiedy opuszczałem miasto, demony wciąż trzymały się na uboczu... ale mam przeczucie, że wkrótce się to zmieni.<bs_n1>
+<424><bs_n1>Moja siostra jest mądra, ale lubi mówić zagadkami.<bs_n1>{n}Lodowato niebieskie usta Lavixii zwijają się w uprzejmy uśmiech.{/n}<bs_n1>Jesteśmy trzema pannami rzeki, hojnymi dla tych, którzy pływają po wodzie, i czczonymi przez tych, którzy żyją na lądzie. Wypełniamy sieci rybami, trzymamy brudy Otchłani z dala od naszych ludzi... I prosimy o bardzo niewiele w zamian.<bs_n1>
+<425>{n}Nie trzeba być zbyt uważnym, aby rozpoznać niezgrabną postać Rubbleduma, gnoma stojącego na ramionach swojego brata bliźniaka, Harifanta.{/n}<bs_n1>W końcu nadszedł ten dzień!<bs_n1>{n}Rubbledum krzywi się i mamrocze, nie starając się być dyskretnym:{/n}<bs_n1>...Hari, przestań się ruszać. Zaraz spadnę!<bs_n1>
+<426><bs_n1>Moje serce płonie z mar-ma-lade! Nigdy się nie poddamy! Naprzód, moi wojownicy!<bs_n1> {n}Ogromny cyklop wygłasza swoją mowę z entuzjazmem, warcząc słowo<bs_n1>marmolada<bs_n1>niemal jak okrzyk bojowy.{/n}
+<427><bs_n1>A teraz, niestety, nadszedł czas, by się pożegnać. Byliśmy z wami prawie od pierwszego dnia, ale teraz przedstawienie dobiegło końca, a trupa Next-Door Theater ma inne miejsca i inne sztuki do wystawienia!
+<428>...zapytaj martwego demona, jakich<bs_n1>przyjemności<bs_n1>może dostarczyć to miejsce.
+<429>Dowódca zauważa spróchniałe drewniane filary pokryte wyblakłymi sarkoryjskimi runami. Wierzchołki filarów zostały wyszczerbione w ostrych punktach, przez co wyglądają jak długie drewniane pale. Najwyższy z tych filarów wydaje się być drogowskazem na środku czegoś, co kiedyś było ruchliwym skrzyżowaniem. Upływ czasu spowodował, że na tym drogowskazie wytarte zostały wszystkie słowa z wyjątkiem trzech:<bs_n1>Plac,<bs_n1><bs_n1>Rynek,<bs_n1>i<bs_n1>Gem.<bs_n1>Dowódca postanawia...
+<430>Ulica Gem była niegdyś pełna salonów gier, burdeli i podejrzanych tawern. Teraz pozostały po niej tylko puste budynki i otwarte drzwi, które prowadzą w ciemność. Nie przeszkadza to jednak tutejszym<bs_n1>mieszkańcom.<bs_n1>Pod pozostałymi znakami ulicznymi stoją stworzenia najróżniejszych ras. Kołyszą się z boku na bok i od czasu do czasu wykrzykują coś, jakby chciały zwabić klientów. Wśród nich jest kilka demonów, ale nie wydają się zainteresowane atakiem.
+<431>Różnorodny tłum<bs_n1>klientów<bs_n1>zatacza się na ulicy. Co jakiś czas jeden z nich wchodzi do zrujnowanego budynku, stoi pośród gruzów przez kilka minut, a potem wraca do aktywności na zewnątrz.<br>Do dowódcy podchodzi demon z rozerwaną szczęką. Brzęczący głos wypowiada jedno słowo przez dziurę w jego czaszce:<bs_n1>Przyjemności.<bs_n1>Dowódc{mf|a|zyni} postanawia...
+<432>Niewidzące oczy<bs_n1>mieszkańców miasta<bs_n1>są wpatrzone w Dowódc{mf|ę|zynię}. Kiedy Dowódc{mf|a|zyni} rozgląda się po tych milczących gapiach, {mf|he|she} czuje przemożną chęć...
+<433>Gdy Dowódca przechodzi obok<bs_n1>mieszkańców<bs_n1>miasta, drgają oni i poruszają się jak marionetki na sznurku. {mf|He|She}Słyszy chrzęst kości i chrzęst narządów wewnętrznych, gdy ich ciała układają się w dziwne i nienaturalne pokłony. Dowódc{mf|a|zyni} bez wątpienia zyskał nowego, niezawodnego sojusznika w Rana Świata.
+<434>Ulica Gem nadal działa jak przedstawienie kukiełkowe w teatrze, ale żadna z<bs_n1>kukiełek<bs_n1>nie odważyła się już zbliżyć do Dowódc{mf|ę|zynię}. Pozostaje tylko...
+<435>{n}Greybor wygląda na zadowolonego, wydychając ogromny obłok dymu tytoniowego.{/n}<bs_n1>Czy kiedykolwiek miał pan jakieś wątpliwości co do mnie, Dowódc{mf|o|zyni}?
+<436><bs_n1>Wszyscy wiedzą, że Ember zginęła w Otchłani razem z Dowódc{mf|ą|zynią} i innymi, stając się tym samym męczennicą... No cóż, a przynajmniej tak wszyscy myśleli do dzisiaj.<bs_n1>
+<437>{n}Greybor parsknął drwiąco.{/n}<bs_n1>Myślałem, że twoja gildia ma najlepszych wykonawców. Po wysłuchaniu twojej opowieści, brzmią dla mnie jak amatorzy.<bs_n1>
+<438>{n}<bs_n1>przystojny kufel<bs_n1>chwyta łuk, zręcznie sprawdza cięciwę i kołczan, a następnie nonszalancko odchodzi w kierunku wzgórza.{/n}
+<439>{n}To już koniec. Twoi wrogowie zostali pokonani, a ich plany obróciły się w pył.{/n}
+<440>Czujesz, że ziemia pod Twoimi stopami jest nieco twardsza niż wcześniej, kolory bardziej kontrastowe, a dźwięki ostrzejsze. Twoje działania przyniosły temu miejscu odrobinę stabilności.
+<441>Czujesz, że grunt pod Twoimi stopami jest nieco bardziej chwiejny niż wcześniej. Kolory wokół Ciebie wydają się lekko rozmazane, a dźwięki, które słyszysz, mieszają się ze sobą. Twoje działania naruszyły porządek i stabilność tego miejsca.
+<442><bs_n1>Pozdrowienia, dowódc{mf|o|zyni}.<bs_n1>{n}Wysoki diabeł uśmiecha się do ciebie łukowato. Jego dwie identyczne kopie, flankujące go po obu stronach, grzecznie kiwają głowami.{/n}<bs_n1>Przybyłem, aby wspomóc twoją krucjatę, tak jak poprzednio.<bs_n1>
+<443><bs_n1>Jaki jest twój nastrój?<bs_n1>
+<444>Wewnątrz tobołka uciekinierzy znaleźli mocną linę ze ścięgien, pasmo plemiennych amuletów, ostry krzemienny nóż, osełkę i kilka innych przydatnych przedmiotów. Na skórze, w którą zawinięte były te skarby, znajdowała się prosta mapa pobliskich jaskiń, a na niej dziwny piktogram przedstawiający kocie oko obramowane ośmioma pajęczymi odnóżami.
+<445>Niestety, po powrocie czekała ich zła wiadomość. Zatrzymawszy się na odpoczynek, grupa dała się ponieść emocjom i zupełnie zapomniała o zachowaniu ostrożności. Kiedy do obozu wdarła się przerażająca kolorowa jaszczurka z zębami jak igły, nikt nie był przygotowany do walki z nią. Wściekle sycząc, grasowała po obozie w poszukiwaniu pożywienia, przewracając i niszcząc wszystko, co napotkała na swojej drodze. W końcu bestia wycofała się z powrotem w cuchnącą ciemność, ale pozostawiła po sobie wiele bolesnych śladów ugryzień, które długo się goiły.
+<446><bs_n1>Co się dzieje? Dlaczego... Dlaczego nagle jestem taki głodny... Starrrrrving...<bs_n1>
+<447><bs_n1>Legnij! Nie mamy szans z tym umarlakiem.<bs_n1>
+<448>Ci, którzy przeżyli, z radością przyjęli ofertę Langrata. {flag|LangratState}
+<449>Uciekinierzy przypomnieli Langratowi, że to nie jest dobry czas na muzykę, więc schował skrzypce z powrotem do torby, ukrywając swoje rozczarowanie. {flag|LangratState}
+<450>Kontynuuj.
+<451>W tej historii punkty doświadczenia są przyznawane w inny sposób. Zamiast zdobywać punkty za pokonanie wrogów, zdobywasz je tylko w ważnych momentach fabularnych, takich jak dotarcie do pewnych miejsc, rozwiązanie zagadek i odkrycie sekretów. Nie marnuj zasobów na niepotrzebne walki: unikanie bitwy da ci tyle samo doświadczenia, co jej wygranie.
+<452>Skarb z Wysp Północy
+<453>Brzęk broni, ryk płomieni, zapach świeżej krwi. Mętne bełkotanie śmiertelnika u mych stóp. Co tu się stało? Stało się to, że moi bezrozumni słudzy zbierają to, co zasiali - słudzy Abadara przybyli do ich świątyni z wizytą w naturze. Przynieśli golemy oblężnicze, z łatwością wyrwali bramy z zawiasów, a teraz rzeźnią moich kultystów jak bydło. I wtedy ten głupiec, którego krótkowzrocznie nazwałem moim Arcykapłanem, wykorzystał ten niezasłużony przywilej i wezwał mnie jak chłopca na posyłki w nadziei, że uratuję ich bezużyteczne życie. Całuje moje stopy i patrzy na mnie oczarowanym wzrokiem. Na widok mojej potężnej postaci kultyści podnoszą broń i wykrzykują moje imię - a zwolennicy Abadara cofają się w popłochu.<br><bs_n1>Jesteśmy na zawsze twoi, mój panie,<bs_n1>szepcze mój Arcykapłan. Udziel nam pomocy, a będziemy wychwalać twoje imię w całym Golarionie.<br><bs_n1>Oburzenie, które czuję, jest niemal wystarczające, by zmiażdżyć go pod stopami tu i teraz - jak śmie własność negocjować z jej właścicielem? Waham się jednak, patrząc w oczy moich kultystów. Coś w nich płonie - coś nieznanego, coś większego niż strach czy nudne posłuszeństwo. Przez chwilę mam wrażenie, że obiecują mi coś, czego nigdy wcześniej nie posiadałem - nowy skarb, którego nie można wziąć siłą ani podstępem, a jedynie otrzymać w darze. I właśnie wtedy podejmuję decyzję.
+<454> 
+<455> 
+<456> 
+<457> 
+<458> 
+<459> 
+<460> 
+<461> 
+<462> 
+<463> 
+<464> 
+<465> 
+<466> 
+<467> 
+<468> 
+<469> 
+<470> 
+<471> 
+<472> 
+<473> 
+<474> 
+<475> 
+<476> 
+<477> 
+<478> 
+<479> 
+<480> 
+<481> 
+<482> 
+<483> 
+<484> 
+<485> 
+<486> 
+<487> 
+<488> 
+<489> 
+<490> 
+<491> 
+<492> 
+<493> 
+<494> 
+<495> 
+<496> 
+<497> 
+<498> 
+<499> 
+<500> 
+<501> 
+<502> 
+<503> 
+<504> 
+<505> 
+<506> 
+<507> 
+<508> 
+<509> 
+<510> 
+<511> 
+<512> 
+<513> 
+<514> 
+<515> 
+<516> 
+<517> 
+<518> 
+<519> 
+<520> 
+<521> 
+<522> 
+<523> 
+<524> 
+<525> 
+<526> 
+<527> 
+<528> 
+<529> 
+<530> 
+<531> 
+<532> 
+<533> 
+<534> 
+<535> 
+<536> 
+<537> 
+<538> 
+<539> 
+<540> 
+<541> 
+<542> 
+<543> 
+<544> 
+<545> 
+<546> 
+<547> 
+<548> 
+<549> 
+<550> 
+<551> 
+<552> 
+<553> 
+<554>Gdy ją podnosisz, wyczuwasz echo pradawnego wspomnienia...<br><bs_n1>Taczam w dłoni perłę o rzadkim różowym kolorze. Nie jest to ani największa perła w mojej kolekcji, ani najcenniejsza... A jednak jest jedyna w swoim rodzaju.<br>Różnymi drogami zdobywałem bogactwa. Niektóre rzeczy zdobyłem siłą, inne podstępem, niektóre ukradłem, a jeszcze inne znalazłem w ukrytych zakamarkach wszechświata... Ale przed tą perłą nie było w mojej kolekcji skarbu, który został mi podarowany dobrowolnie. <br>To była niespodzianka, ale teraz mam naśladowców. Jak? Skąd się wzięli? Może jacyś śmiertelnicy byli pod wrażeniem pokazu mojej potęgi podczas najazdu na Płaszczyznę Materialną? A może jakiś książkowy demonolog odkrył mnie jak gwiazdę na niebie? Każdy może zgadywać - wiem tylko, że nie zadałem sobie trudu, by zgromadzić wokół siebie grono śmiertelnych wielbicieli. A jednak są tutaj. Modlą się, odprawiają krwawe rytuały w moim imieniu - i, co najważniejsze, przysyłają ofiary. Dziwne uczucie, ale przyjemne. Cóż, jeśli pragną zostać moimi sługami, nie odmówię im. Najbardziej oddanym mogę nawet udzielić zaklęcia lub dwóch<bs_n1>.
+<555>Gdy ją podnosisz, wyczuwasz echo dawnego wspomnienia...<br><bs_n1>Moi słudzy wystawiają na próbę moją cierpliwość. Są sumienni w swoich ofiarach i to mnie cieszy - ale proszą mnie też o coraz więcej zaklęć. Jakbym nie miał nic lepszego do roboty, niż odpowiadać na ich głupie modlitwy. I to nie wszystko - jest teraz pewien szczególnie szkodliwy osobnik, który dokuczał mi od tak dawna, że zdecydowałem się złożyć mu osobistą wizytę. Początkowo miałem zamiar zgnieść go jak irytującą muchę, ale przygotował tak bogate ofiary i tak zręczne pochlebstwa, że w końcu go oszczędziłem - nawet nazwałem go moim Arcykapłanem.<br>Dziwne. Nikt nigdy nie patrzył na mnie tak jak on. Przywykłem, że słudzy i więźniowie patrzą na mnie z nienawiścią, ze strachem, z tępą uległością zdruzgotanego ducha. Ale w oczach tego śmiertelnika widziałem fascynację. Uwielbienie. Zachwyt. Jest to z pewnością satysfakcjonujące, ale i niepokojące. Czy mądrze jest pozwolić słudze zachować wolną wolę, nawet jeśli chce ci służyć w tej chwili? Dobra wola to cienka obroża. W kajdanach chodzi o to, że ten, kto je nosi, nie może decydować, kiedy je założyć lub zdjąć. Na co komu sługa, który może tak po prostu zmienić zdanie?<bs_n1>
+<556>Gdy go podnosisz, wyczuwasz echo dawnego wspomnienia...<br><bs_n1>Wydaje się, że moi samozwańczy słudzy zupełnie zapomnieli, kto z nas ma komu służyć. Ciągle słyszę tylko: dawaj, dawaj, dawaj. Wyślij mi zaklęcie, daj mi moc przekazywania energii, wskrześ tego z martwych, spal tamtego... I co dostaję w zamian? Mizerną strużkę ofiar? Byłem w stanie sam zapełnić swój skarb. Służebne pochlebstwa? Zabawa głupców - nie potrzebuję niczyjej pochwały, by dostrzec wielkość mej potęgi. Na co marnuję swoją moc? <br>Jego ostatni wybryk był ostatnią kroplą, która przelała czarę. Z własnej woli, nie pytając mnie o zdanie, napadli na świątynię Abadara. Oczywiście, ich łupy były wspaniałe. Aż miło było patrzeć, jak mój Arcykapłan drżał, kładąc na moim ołtarzu wspaniałą bombkę - złoty pierścień przeora świątyni, ozdobiony zarówno błękitnymi diamentami, jak i świeżymi strużkami kapłańskiej krwi i mózgu. O tak, byłem zachwycony tą ofiarą. Ale co potem? Wojna z bóstwem? To nie jest żaden władca demonów ani anioł, to jedna z najpotężniejszych istot w całym stworzeniu. Choć z przyjemnością zanurzyłbym ręce w Pierwszym Skarbcu, muszę być rozsądny - ta nagroda jest na razie poza moim zasięgiem. A co, jeśli z powodu głupoty śmiertelników zaatakują mnie legiony aksjomatów - i nie będę miał siły, by się bronić, bo zmarnowałem całą swoją moc na te nienasycone pijawki?
+<557> 
+<558> 
+<559> 
+<560> 
+<561> 
+<562> 
+<563> 
+<564> 
+<565> 
+<566> 
+<567> 
+<568> 
+<569> 
+<570> 
+<571> 
+<572> 
+<573> 
+<574> 
+<575> 
+<576> 
+<577> 
+<578> 
+<579> 
+<580> 
+<581> 
+<582> 
+<583> 
+<584> 
+<585>Greybor postanowił zostać ze swoją żoną i ich córką Mora, na zawsze wyrzekając się niebezpiecznych przygód z przeszłości, której nie było. Po długim i stabilnym życiu stał się siwowłosym starcem o surowym obliczu i oczach wypełnionych cichym {d|aeon memory}uczeniem{/d}.
+<586>Niedługo po zakończeniu wojny z Raną Świata Lann wyruszył w podróż. Chciał zobaczyć świat - ujrzeć morze na własne oczy, odwiedzić Absalom, przyjrzeć się, jak żyją ludzie w Tian Xia i wiele innych rzeczy. Niestety, czas skundleńca jest krótki, a droga podróżnika najeżona wieloma niebezpieczeństwami, więc jego plany nigdy nie doczekały się realizacji.
+<587> 
+<588> 
+<589> 
+<590> 
+<591> 
+<592>Nowym celem jest przekonanie Daerana i istoty patrzącej jego oczami, że dowódca spiskował z inkwizytorem i doprowadził do egzekucji hrabiego. Tak długo, jak Inny nie będzie podejrzewał pułapki, będzie starał się chronić swoją<bs_n1>bramę.<bs_n1>
+<593>Droga w głąb twierdzy jest teraz otwarta. Nadmiar może się cofnąć i kontynuować poszukiwania wyjścia z Progu.
+<594>Przejdź obok gigantycznego żelatynowego sześcianu.
+<595> 
+<596> 
+<597>Skarb z Wysp Północy: Tropienie
+<598> 
+<599> 
+<600> 
+<601> 
+<602> 
+<603>Skarb z Wysp Północy: Pościg
+<604> 
+<605> 
+<606> 
+<607> 
+<608> 
+<609> 
+<610> 
+<611>Skarb z Wysp Północy: Ofiara
+<612> 
+<613> 
+<614> 
+<615> 
+<616> 
+<617> 
+<618> 
+<619> 
+<620> 
+<621> 
+<622> 
+<623> 
+<624> 
+<625> 
+<626> 
+<627> 
